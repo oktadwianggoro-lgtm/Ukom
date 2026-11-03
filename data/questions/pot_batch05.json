@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "POT-05-001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam teknik/metode penggalian potensi, komponen 'harta kekayaan Wajib Pajak' yang digali meliputi hal-hal berikut, yaitu...",
+    "opsi": {
+      "A": "Jumlah pegawai, lokasi usaha, dan mekanisme penjualan",
+      "B": "Dagang emas perhiasan, simpan pinjam, dan gesek tunai",
+      "C": "Uang tunai, persediaan barang dagangan, tabungan, piutang, deposito, dan aktiva lancar lainnya",
+      "D": "Jumlah hari operasional dan jam operasional usaha"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan harta kekayaan Wajib Pajak yang digali terdiri atas Uang Tunai, Persediaan Barang Dagangan, Tabungan, Piutang, Deposito, dan Aktiva Lancar Lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Harta kekayaan Wajib Pajak Uang Tunai Persediaan Barang Dagangan Tabungan Piutang Deposito Aktiva Lancar Lainnya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Penggalian Potensi",
+      "Harta Kekayaan WP"
+    ]
+  },
+  {
+    "id": "POT-05-002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk unsur 'mekanisme penjualan yang dilakukan' dalam teknik penggalian potensi, KECUALI...",
+    "opsi": {
+      "A": "Penjualan kredit atau cash",
+      "B": "Persediaan barang dagangan",
+      "C": "Penjualan kembali",
+      "D": "Member/keanggotaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Unsur mekanisme penjualan yang digali meliputi penjualan kredit atau cash, penjualan kembali, dan member/keanggotaan. Persediaan barang dagangan termasuk unsur harta kekayaan Wajib Pajak, bukan mekanisme penjualan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Mekanisme penjualan yang dilakukan Penjualan kredit atau cash Penjualan kembali Member/keanggotaan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Harta kekayaan Wajib Pajak Uang Tunai Persediaan Barang Dagangan Tabungan Piutang Deposito Aktiva Lancar Lainnya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Mekanisme Penjualan"
+    ]
+  },
+  {
+    "id": "POT-05-003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tujuan penggalian potensi melalui informasi 'jumlah pegawai yang dipekerjakan' Wajib Pajak adalah untuk...",
+    "opsi": {
+      "A": "Mengetahui jumlah toko dan lokasinya",
+      "B": "Mengetahui pelayanan dan tingkat kepercayaan pelanggan",
+      "C": "Mengetahui jenis usaha yang dijalankan di lokasi",
+      "D": "Menghitung besar biaya yang dikeluarkan dan tingkat perputaran omset"
+    },
+    "kunci": "D",
+    "pembahasan": "Informasi jumlah pegawai digunakan untuk menghitung berapa besar biaya yang dikeluarkan dan tingkat perputaran omset Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Jumlah pegawai yang dipekerjakan Untuk menghitung berapa besar biaya yang dikeluarkan dan tingkat perputaran omset"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Jumlah Pegawai"
+    ]
+  },
+  {
+    "id": "POT-05-004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Teknik penggalian potensi melalui unsur 'lokasi usaha (pusat dan cabang)' dilakukan dengan cara...",
+    "opsi": {
+      "A": "Visit ke lokasi usaha untuk menggali informasi jumlah toko dan lokasinya",
+      "B": "Mewawancarai pegawai mengenai gaji yang diterima",
+      "C": "Memeriksa laporan keuangan Wajib Pajak",
+      "D": "Mencari testimoni pelanggan di media sosial"
+    },
+    "kunci": "A",
+    "pembahasan": "Penggalian potensi pada unsur lokasi usaha dilakukan dengan visit langsung ke lokasi usaha untuk menggali informasi jumlah toko dan lokasinya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Lokasi usaha (pusat dan cabang) Visit ke lokasi usaha untuk menggali informasi berapa jumlah toko dan dimana lokasinya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Lokasi Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksa pajak ingin mengetahui berapa jumlah toko cabang yang dimiliki Wajib Pajak beserta lokasinya. Unsur penggalian potensi yang paling tepat digali adalah...",
+    "opsi": {
+      "A": "Harta kekayaan Wajib Pajak",
+      "B": "Lokasi usaha (pusat dan cabang)",
+      "C": "Durasi waktu operasional usaha",
+      "D": "Mekanisme penjualan yang dilakukan"
+    },
+    "kunci": "B",
+    "pembahasan": "Mengetahui jumlah toko dan lokasinya digali melalui unsur lokasi usaha (pusat dan cabang) dengan cara visit ke lokasi usaha.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Lokasi usaha (pusat dan cabang) Visit ke lokasi usaha untuk menggali informasi berapa jumlah toko dan dimana lokasinya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Lokasi Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "'Dagang emas Batangan' merupakan salah satu contoh dari unsur penggalian potensi berupa...",
+    "opsi": {
+      "A": "Harta kekayaan Wajib Pajak",
+      "B": "Jenis usaha yang dilakukan di lokasi",
+      "C": "Mekanisme penjualan yang dilakukan",
+      "D": "Durasi waktu operasional usaha"
+    },
+    "kunci": "B",
+    "pembahasan": "Dagang emas perhiasan, dagang emas Batangan, simpan pinjam, dan gesek tunai merupakan contoh jenis usaha yang dilakukan di lokasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 66,
+        "kutipan": "Jenis usaha yang dilakukan di lokasi Dagang emas perhiasan Dagang emas Batangan Simpan pinjam Gesek tunai"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Jenis Usaha di Lokasi"
+    ]
+  },
+  {
+    "id": "POT-05-007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk contoh 'jenis usaha yang dilakukan di lokasi' dalam teknik penggalian potensi, KECUALI...",
+    "opsi": {
+      "A": "Dagang emas perhiasan",
+      "B": "Simpan pinjam",
+      "C": "Gesek tunai",
+      "D": "Penjualan kredit atau cash"
+    },
+    "kunci": "D",
+    "pembahasan": "Penjualan kredit atau cash merupakan unsur mekanisme penjualan (halaman 65), bukan contoh jenis usaha yang dilakukan di lokasi (halaman 66) seperti dagang emas perhiasan, simpan pinjam, dan gesek tunai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 66,
+        "kutipan": "Jenis usaha yang dilakukan di lokasi Dagang emas perhiasan Dagang emas Batangan Simpan pinjam Gesek tunai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Mekanisme penjualan yang dilakukan Penjualan kredit atau cash Penjualan kembali Member/keanggotaan"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Jenis Usaha di Lokasi"
+    ]
+  },
+  {
+    "id": "POT-05-008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah komponen harta kekayaan Wajib Pajak yang disebutkan dalam teknik/metode penggalian potensi?",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "6"
+    },
+    "kunci": "D",
+    "pembahasan": "Komponen harta kekayaan Wajib Pajak yang disebutkan berjumlah 6, yaitu Uang Tunai, Persediaan Barang Dagangan, Tabungan, Piutang, Deposito, dan Aktiva Lancar Lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Harta kekayaan Wajib Pajak Uang Tunai Persediaan Barang Dagangan Tabungan Piutang Deposito Aktiva Lancar Lainnya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Harta Kekayaan WP"
+    ]
+  },
+  {
+    "id": "POT-05-009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam materi teknik/metode penggalian potensi, unsur 'mekanisme penjualan yang dilakukan' yang digali berjumlah...",
+    "opsi": {
+      "A": "2",
+      "B": "4",
+      "C": "3",
+      "D": "5"
+    },
+    "kunci": "C",
+    "pembahasan": "Unsur mekanisme penjualan yang digali berjumlah 3, yaitu penjualan kredit atau cash, penjualan kembali, dan member/keanggotaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Mekanisme penjualan yang dilakukan Penjualan kredit atau cash Penjualan kembali Member/keanggotaan"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Mekanisme Penjualan"
+    ]
+  },
+  {
+    "id": "POT-05-010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menggali informasi dari End Customer dalam teknik penggalian potensi bertujuan untuk mengetahui...",
+    "opsi": {
+      "A": "Jumlah toko dan lokasi cabang usaha",
+      "B": "Pelayanan, tingkat kepercayaan, dan mekanisme jual beli",
+      "C": "Besar biaya dan tingkat perputaran omset",
+      "D": "Jumlah hari operasional usaha"
+    },
+    "kunci": "B",
+    "pembahasan": "Menggali informasi dari End Customer bertujuan untuk mengetahui pelayanan, tingkat kepercayaan, dan mekanisme jual beli.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 66,
+        "kutipan": "Menggali informasi dari End Customer Mengetahui pelayanan, tingkat kepercayaan dan mekanisme jual beli"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "End Customer"
+    ]
+  },
+  {
+    "id": "POT-05-011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penggalian potensi melalui media sosial (medsos) Wajib Pajak dilakukan dengan cara...",
+    "opsi": {
+      "A": "Menggali informasi sebanyak-banyaknya terkait usaha Wajib Pajak di medsos",
+      "B": "Mengetahui jumlah pegawai yang dipekerjakan",
+      "C": "Mengetahui lokasi cabang usaha",
+      "D": "Menghitung tingkat perputaran omset"
+    },
+    "kunci": "A",
+    "pembahasan": "Mengenali produk dan usaha WP melalui medsos dilakukan dengan cara menggali informasi sebanyak-banyaknya terkait usaha Wajib Pajak di medsos.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 66,
+        "kutipan": "Kenali produk dan usaha melalui medsos Gali informasi sebanyak-banyaknya terkait usaha Wajib Pajak di medsos"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Media Sosial"
+    ]
+  },
+  {
+    "id": "POT-05-012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksa yang melakukan kunjungan langsung (visit) ke lokasi usaha Wajib Pajak untuk mengetahui jumlah toko dan lokasinya sedang menerapkan teknik penggalian potensi melalui unsur...",
+    "opsi": {
+      "A": "Jumlah pegawai yang dipekerjakan",
+      "B": "Durasi waktu operasional usaha",
+      "C": "Lokasi usaha (pusat dan cabang)",
+      "D": "Jenis usaha yang dilakukan di lokasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Visit ke lokasi usaha untuk menggali informasi jumlah toko dan lokasinya merupakan cara penggalian potensi pada unsur lokasi usaha (pusat dan cabang).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Lokasi usaha (pusat dan cabang) Visit ke lokasi usaha untuk menggali informasi berapa jumlah toko dan dimana lokasinya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Lokasi Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-013",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksa menemukan bahwa gerai usaha Wajib Pajak beroperasi dengan jumlah hari dan jam operasional yang sangat panjang setiap minggunya. Informasi ini tergolong hasil penggalian potensi pada unsur...",
+    "opsi": {
+      "A": "Lokasi usaha (pusat dan cabang)",
+      "B": "Mekanisme penjualan yang dilakukan",
+      "C": "Durasi waktu operasional usaha",
+      "D": "Menggali informasi dari End Customer"
+    },
+    "kunci": "C",
+    "pembahasan": "Jumlah hari operasional usaha dan berapa jam operasional usaha setiap harinya digali melalui unsur durasi waktu operasional usaha.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 66,
+        "kutipan": "Durasi Waktu operasional usaha Jumlah Hari Operasional usaha Tiap hari, berapa jam operasional usaha"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Durasi Operasional Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-014",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk unsur teknik/metode penggalian potensi Wajib Pajak Orang Pribadi sebagaimana materi, KECUALI...",
+    "opsi": {
+      "A": "Harta kekayaan Wajib Pajak",
+      "B": "Mekanisme penjualan yang dilakukan",
+      "C": "Jenis usaha yang dilakukan di lokasi",
+      "D": "Pendekatan penghitungan rasio"
+    },
+    "kunci": "D",
+    "pembahasan": "Pendekatan penghitungan rasio merupakan salah satu dari 8 pendekatan menghitung omzet, bukan unsur teknik/metode penggalian potensi yang dijelaskan pada halaman 65-66 (harta kekayaan, lokasi usaha, jumlah pegawai, mekanisme penjualan, jenis usaha di lokasi, durasi operasional, end customer, dan medsos).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "5. TEKNIK/METODE PENGGALIAN POTENSI"
+      },
+      {
+        "pdf": "A",
+        "halaman": 66,
+        "kutipan": "Jenis usaha yang dilakukan di lokasi Dagang emas perhiasan Dagang emas Batangan Simpan pinjam Gesek tunai"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Penggalian Potensi"
+    ]
+  },
+  {
+    "id": "POT-05-015",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "'Penjualan kembali' dan 'member/keanggotaan' merupakan contoh unsur yang digali melalui...",
+    "opsi": {
+      "A": "Jenis usaha yang dilakukan di lokasi",
+      "B": "Harta kekayaan Wajib Pajak",
+      "C": "Mekanisme penjualan yang dilakukan",
+      "D": "Menggali informasi dari End Customer"
+    },
+    "kunci": "C",
+    "pembahasan": "Penjualan kredit atau cash, penjualan kembali, dan member/keanggotaan merupakan unsur yang digali melalui mekanisme penjualan yang dilakukan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Mekanisme penjualan yang dilakukan Penjualan kredit atau cash Penjualan kembali Member/keanggotaan"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Mekanisme Penjualan"
+    ]
+  },
+  {
+    "id": "POT-05-016",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk Teknik Pencarian Data dalam penggalian potensi Wajib Pajak, KECUALI...",
+    "opsi": {
+      "A": "Wawancara",
+      "B": "Elisitasi",
+      "C": "Pengamatan",
+      "D": "Penghitungan biaya hidup"
+    },
+    "kunci": "D",
+    "pembahasan": "Teknik Pencarian Data meliputi wawancara, elisitasi, pengamatan, berita dan medsos, serta data internal. Penghitungan biaya hidup termasuk salah satu dari 8 Pendekatan Menghitung Omzet, bukan teknik pencarian data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      },
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "3. satuan dan/atau volume 4. penghitungan biaya hidup 5. pertambahan kekayaan bersih"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-017",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa pendekatan menghitung omzet yang disebutkan dalam materi penggalian potensi?",
+    "opsi": {
+      "A": "8",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan 8 pendekatan menghitung omzet, mulai dari transaksi tunai dan nontunai hingga penghitungan rasio.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "1. transaksi tunai dan nontunai 2. sumber dan penggunaan dana 3. satuan dan/atau volume 4. penghitungan biaya hidup 5. pertambahan kekayaan bersih"
+      },
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "6. berdasarkan Surat Pemberitahuan atau hasil pemeriksaan tahun pajak sebelumnya 7. proyeksi nilai ekonomi 8. penghitungan rasio"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-018",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan menghitung omzet pada urutan ke-3 sebagaimana materi adalah...",
+    "opsi": {
+      "A": "Sumber dan penggunaan dana",
+      "B": "Satuan dan/atau volume",
+      "C": "Penghitungan biaya hidup",
+      "D": "Pertambahan kekayaan bersih"
+    },
+    "kunci": "B",
+    "pembahasan": "Urutan pendekatan menghitung omzet adalah: 1. transaksi tunai dan nontunai, 2. sumber dan penggunaan dana, 3. satuan dan/atau volume, 4. penghitungan biaya hidup.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "2. sumber dan penggunaan dana 3. satuan dan/atau volume 4. penghitungan biaya hidup"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-019",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "'Elisitasi' dalam materi penggalian potensi merupakan salah satu...",
+    "opsi": {
+      "A": "Pendekatan Menghitung Omzet",
+      "B": "Jenis usaha di lokasi",
+      "C": "Unsur harta kekayaan Wajib Pajak",
+      "D": "Teknik Pencarian Data"
+    },
+    "kunci": "D",
+    "pembahasan": "Elisitasi merupakan salah satu Teknik Pencarian Data, bersama wawancara, pengamatan, berita dan medsos, serta data internal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-020",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan menghitung omzet 'berdasarkan Surat Pemberitahuan atau hasil pemeriksaan tahun pajak sebelumnya' berada pada urutan ke berapa dalam materi?",
+    "opsi": {
+      "A": "Ke-6",
+      "B": "Ke-5",
+      "C": "Ke-7",
+      "D": "Ke-8"
+    },
+    "kunci": "A",
+    "pembahasan": "Urutannya adalah 5. pertambahan kekayaan bersih, 6. berdasarkan Surat Pemberitahuan atau hasil pemeriksaan tahun pajak sebelumnya, 7. proyeksi nilai ekonomi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "5. pertambahan kekayaan bersih 6. berdasarkan Surat Pemberitahuan atau hasil pemeriksaan tahun pajak sebelumnya 7. proyeksi nilai ekonomi"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-021",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk pendekatan menghitung omzet yang disebutkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Transaksi tunai dan nontunai",
+      "B": "Pertambahan kekayaan bersih",
+      "C": "Wawancara",
+      "D": "Proyeksi nilai ekonomi"
+    },
+    "kunci": "C",
+    "pembahasan": "Wawancara termasuk Teknik Pencarian Data, bukan salah satu dari 8 Pendekatan Menghitung Omzet (transaksi tunai dan nontunai, sumber dan penggunaan dana, satuan dan/atau volume, penghitungan biaya hidup, pertambahan kekayaan bersih, berdasarkan SPT/hasil pemeriksaan sebelumnya, proyeksi nilai ekonomi, penghitungan rasio).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      },
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "1. transaksi tunai dan nontunai 2. sumber dan penggunaan dana 3. satuan dan/atau volume 4. penghitungan biaya hidup 5. pertambahan kekayaan bersih"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-022",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "'Pengamatan' dan 'Berita dan Medsos' dalam materi penggalian potensi termasuk dalam kategori...",
+    "opsi": {
+      "A": "Teknik Pencarian Data",
+      "B": "Pendekatan Menghitung Omzet",
+      "C": "Teknik Penggalian Potensi Harta Kekayaan",
+      "D": "Pendekatan Penghitungan Rasio"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengamatan serta Berita dan Medsos merupakan dua dari lima Teknik Pencarian Data yang disebutkan materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-023",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pemeriksa menelusuri nilai aset Wajib Pajak yang terus bertambah dari tahun ke tahun untuk mengindikasikan adanya omzet yang belum dilaporkan. Pendekatan menghitung omzet yang digunakan adalah...",
+    "opsi": {
+      "A": "Penghitungan biaya hidup",
+      "B": "Proyeksi nilai ekonomi",
+      "C": "Penghitungan rasio",
+      "D": "Pertambahan kekayaan bersih"
+    },
+    "kunci": "D",
+    "pembahasan": "Menelusuri pertambahan nilai aset/kekayaan Wajib Pajak dari waktu ke waktu sesuai dengan pendekatan pertambahan kekayaan bersih.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "4. penghitungan biaya hidup 5. pertambahan kekayaan bersih 6. berdasarkan Surat Pemberitahuan atau hasil"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-024",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa membandingkan besarnya dana yang diterima dengan dana yang digunakan oleh Wajib Pajak selama periode tertentu untuk menghitung omzet. Pendekatan ini disebut...",
+    "opsi": {
+      "A": "Transaksi tunai dan nontunai",
+      "B": "Sumber dan penggunaan dana",
+      "C": "Pertambahan kekayaan bersih",
+      "D": "Penghitungan biaya hidup"
+    },
+    "kunci": "B",
+    "pembahasan": "Membandingkan sumber dana yang diterima dengan penggunaan dana Wajib Pajak sesuai dengan pendekatan sumber dan penggunaan dana.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "1. transaksi tunai dan nontunai 2. sumber dan penggunaan dana 3. satuan dan/atau volume"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-025",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menghitung omzet Wajib Pajak berdasarkan pengeluaran rutin dan pola konsumsi sehari-hari termasuk pendekatan...",
+    "opsi": {
+      "A": "Satuan dan/atau volume",
+      "B": "Proyeksi nilai ekonomi",
+      "C": "Penghitungan biaya hidup",
+      "D": "Penghitungan rasio"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengeluaran rutin dan pola konsumsi Wajib Pajak digunakan dalam pendekatan penghitungan biaya hidup.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "3. satuan dan/atau volume 4. penghitungan biaya hidup 5. pertambahan kekayaan bersih"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-026",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebelum menentukan pendekatan mana yang digunakan untuk menghitung omzet Wajib Pajak, pemeriksa dapat menggali data awal melalui teknik...",
+    "opsi": {
+      "A": "Satuan dan/atau volume usaha",
+      "B": "Wawancara, elisitasi, pengamatan, berita dan medsos, serta data internal",
+      "C": "Pertambahan kekayaan bersih",
+      "D": "Proyeksi nilai ekonomi"
+    },
+    "kunci": "B",
+    "pembahasan": "Teknik Pencarian Data berupa wawancara, elisitasi, pengamatan, berita dan medsos, serta data internal digunakan untuk menggali data sebelum diterapkannya pendekatan menghitung omzet.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-027",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan menghitung omzet pada urutan ke-7 menurut materi adalah...",
+    "opsi": {
+      "A": "Proyeksi nilai ekonomi",
+      "B": "Pertambahan kekayaan bersih",
+      "C": "Penghitungan rasio",
+      "D": "Penghitungan biaya hidup"
+    },
+    "kunci": "A",
+    "pembahasan": "Urutan pendekatan menghitung omzet ke-6 hingga ke-8 adalah berdasarkan SPT/hasil pemeriksaan sebelumnya, proyeksi nilai ekonomi, dan penghitungan rasio.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "6. berdasarkan Surat Pemberitahuan atau hasil pemeriksaan tahun pajak sebelumnya 7. proyeksi nilai ekonomi 8. penghitungan rasio"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Menghitung Omzet"
+    ]
+  },
+  {
+    "id": "POT-05-028",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "negasi",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN termasuk Teknik Pencarian Data yang disebutkan dalam materi adalah...",
+    "opsi": {
+      "A": "Wawancara",
+      "B": "Pertambahan kekayaan bersih",
+      "C": "Elisitasi",
+      "D": "Data internal"
+    },
+    "kunci": "B",
+    "pembahasan": "Pertambahan kekayaan bersih termasuk salah satu dari 8 Pendekatan Menghitung Omzet, bukan Teknik Pencarian Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      },
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "4. penghitungan biaya hidup 5. pertambahan kekayaan bersih 6. berdasarkan Surat Pemberitahuan atau hasil"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-029",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Teknik pencarian data yang memanfaatkan sumber informasi publik seperti pemberitaan dan platform online disebut...",
+    "opsi": {
+      "A": "Elisitasi",
+      "B": "Wawancara",
+      "C": "Data internal",
+      "D": "Berita dan Medsos"
+    },
+    "kunci": "D",
+    "pembahasan": "Teknik pencarian data yang memanfaatkan pemberitaan dan media sosial disebut Berita dan Medsos.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-030",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa jumlah Teknik Pencarian Data yang disebutkan dalam materi penggalian potensi?",
+    "opsi": {
+      "A": "3",
+      "B": "5",
+      "C": "4",
+      "D": "6"
+    },
+    "kunci": "B",
+    "pembahasan": "Teknik Pencarian Data yang disebutkan berjumlah 5, yaitu wawancara, elisitasi, pengamatan, berita dan medsos, serta data internal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 67,
+        "kutipan": "Teknik Pencarian Data Wawancara Elisitasi Pengamatan Berita dan Medsos Data internal"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Teknik Pencarian Data"
+    ]
+  },
+  {
+    "id": "POT-05-031",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan satuan dan/atau volume digunakan untuk menentukan atau menghitung kembali...",
+    "opsi": {
+      "A": "Jumlah utang Wajib Pajak",
+      "B": "Besarnya pajak terutang secara langsung",
+      "C": "Jumlah penghasilan bruto Wajib Pajak atau pos SPT lainnya",
+      "D": "Jumlah pegawai Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pendekatan satuan dan/atau volume adalah cara untuk menentukan atau menghitung kembali jumlah penghasilan bruto Wajib Pajak atau pos SPT lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 68,
+        "kutipan": "Pendekatan satuan dan/atau volume adalah cara untuk menentukan atau menghitung kembali jumlah penghasilan bruto Wajib Pajak atau pos SPT lainnya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Satuan/Volume"
+    ]
+  },
+  {
+    "id": "POT-05-032",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan satuan dan/atau volume menghitung kembali penghasilan bruto Wajib Pajak dengan cara menerapkan...",
+    "opsi": {
+      "A": "Tarif pajak terhadap penghasilan neto",
+      "B": "Persentase margin terhadap biaya produksi",
+      "C": "Harga atau jumlah laba terhadap jumlah satuan dan/atau volume usaha yang direalisasi oleh Wajib Pajak",
+      "D": "Nilai pasar wajar terhadap aktiva tetap"
+    },
+    "kunci": "C",
+    "pembahasan": "Pendekatan ini diterapkan dengan menerapkan harga atau jumlah laba terhadap jumlah satuan dan/atau volume usaha yang direalisasi oleh Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 68,
+        "kutipan": "dengan menerapkan harga atau jumlah laba terhadap jumlah satuan dan/atau volume usaha yang direalisasi oleh Wajib Pajak."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Satuan/Volume"
+    ]
+  },
+  {
+    "id": "POT-05-033",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk contoh satuan dalam pendekatan satuan dan/atau volume, KECUALI...",
+    "opsi": {
+      "A": "Kuantitas barang dagangan terjual",
+      "B": "Jumlah pegawai yang dipekerjakan",
+      "C": "Jumlah kunjungan pasien",
+      "D": "Tingkat okupansi kamar"
+    },
+    "kunci": "B",
+    "pembahasan": "Contoh satuan yang disebutkan meliputi kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, dan tingkat okupansi kamar. Jumlah pegawai yang dipekerjakan termasuk unsur teknik penggalian potensi lain (halaman 65), bukan contoh satuan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 68,
+        "kutipan": "Contoh satuan : kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, tingkat okupansi kamar."
+      },
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Jumlah pegawai yang dipekerjakan Untuk menghitung berapa besar biaya yang dikeluarkan dan tingkat perputaran omset"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Satuan/Volume"
+    ]
+  },
+  {
+    "id": "POT-05-034",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berikut yang termasuk contoh satuan dalam pendekatan satuan dan/atau volume adalah...",
+    "opsi": {
+      "A": "Kuantitas pemakaian bahan baku",
+      "B": "Volume ekspor tahunan",
+      "C": "Jumlah transaksi nontunai",
+      "D": "Jumlah rekening bank Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Contoh satuan meliputi kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, dan tingkat okupansi kamar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 68,
+        "kutipan": "Contoh satuan : kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, tingkat okupansi kamar."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Satuan/Volume"
+    ]
+  },
+  {
+    "id": "POT-05-035",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa jumlah contoh satuan yang disebutkan dalam materi pendekatan satuan dan/atau volume?",
+    "opsi": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "kunci": "C",
+    "pembahasan": "Contoh satuan yang disebutkan berjumlah 5, yaitu kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, dan tingkat okupansi kamar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 68,
+        "kutipan": "Contoh satuan : kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, tingkat okupansi kamar."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Satuan/Volume"
+    ]
+  },
+  {
+    "id": "POT-05-036",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Rumus menghitung peredaran usaha setahun apabila volume usaha dalam setahun dapat diidentifikasi adalah...",
+    "opsi": {
+      "A": "Peredaran Usaha = Harga Jual - Harga Pokok",
+      "B": "Peredaran Usaha = Volume Usaha / Harga Jual",
+      "C": "Peredaran Usaha = Volume Usaha x Harga Jual",
+      "D": "Peredaran Usaha = Harga Jual x Jumlah Hari Operasional"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam hal volume usaha dalam setahun dapat diidentifikasi, peredaran usaha setahun dihitung dengan rumus Peredaran Usaha = Volume Usaha x Harga Jual.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Dalam hal volume usaha dalam setahun dapat diidentifikasi maka peredaran usaha setahun dihitung dengan cara sebagai berikut:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Peredaran Usaha = Volume Usaha x Harga Jual"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-037",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila volume usaha Wajib Pajak hanya dapat diidentifikasi untuk periode tertentu (bukan setahun penuh), maka volume usaha setahun dihitung dengan cara...",
+    "opsi": {
+      "A": "Dikalikan langsung dengan harga jual",
+      "B": "Dibagi dengan jumlah pegawai Wajib Pajak",
+      "C": "Dibandingkan langsung dengan rasio penjualan pesaing",
+      "D": "Diproyeksikan menggunakan rumus Volume pada periode yang diidentifikasi dikalikan Setahun dibagi Periode yang teridentifikasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam hal volume usaha hanya dapat diidentifikasi untuk periode tertentu, volume usaha diproyeksikan dengan rumus Proyeksi Volume Usaha = Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Dalam hal volume usaha yang dapat diidentifikasi hanya untuk periode tertentu, maka volume usaha sebagaimana rumus di atas diproyeksikan dengan cara sebagai berikut:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Proyeksi Volume Usaha = Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-038",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam rumus Proyeksi Volume Usaha, komponen pengali berupa pecahan yang pembilangnya adalah...",
+    "opsi": {
+      "A": "Setahun",
+      "B": "Periode yang teridentifikasi",
+      "C": "Volume pada periode yang diidentifikasi",
+      "D": "Harga Jual"
+    },
+    "kunci": "A",
+    "pembahasan": "Rumusnya adalah Proyeksi Volume Usaha = Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi, sehingga pembilang pada komponen pengali adalah Setahun.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Proyeksi Volume Usaha = Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-039",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila variabel yang dapat diidentifikasikan berupa input atau proses, maka volume pada periode yang diidentifikasikan dihitung dengan cara mengalikan...",
+    "opsi": {
+      "A": "Volume usaha dengan harga jual",
+      "B": "Harga pokok penjualan dengan laba bruto",
+      "C": "Biaya hidup dengan jumlah tanggungan",
+      "D": "Volume input pada periode tertentu dengan persentase untuk menghasilkan output"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam hal variabel yang dapat diidentifikasikan berupa input atau proses, rumusnya adalah Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu X Persentase untuk menghasilkan output.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Dalam hal variabel yang dapat diidentifikasikan berupa input atau proses maka volume pada periode yang diidentifikasikan dapat dihitung dengan cara sebagai berikut:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu X Persentase untuk menghasilkan output"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-040",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah pabrik roti hanya memiliki data kuantitas pemakaian bahan baku tepung terigu pada suatu periode produksi. Pemeriksa yang ingin menghitung volume roti yang dihasilkan pada periode tersebut sebaiknya menggunakan formula...",
+    "opsi": {
+      "A": "Peredaran Usaha = Volume Usaha x Harga Jual",
+      "B": "Proyeksi Volume Usaha = Volume periode teridentifikasi x Setahun / Periode teridentifikasi",
+      "C": "Peredaran Usaha = Harga Pokok x Rasio Laba",
+      "D": "Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu x Persentase untuk menghasilkan output"
+    },
+    "kunci": "D",
+    "pembahasan": "Karena variabel yang teridentifikasi berupa input (pemakaian bahan baku), volume output dihitung dengan rumus Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu X Persentase untuk menghasilkan output.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu X Persentase untuk menghasilkan output"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-041",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa hanya memperoleh data volume penjualan Wajib Pajak selama 3 bulan dari total 12 bulan dalam setahun. Untuk memperoleh volume usaha setahun, pemeriksa menggunakan pendekatan...",
+    "opsi": {
+      "A": "Proyeksi volume usaha",
+      "B": "Peredaran usaha langsung",
+      "C": "Vol. pada periode yang diidentifikasi dari input/proses",
+      "D": "Pendekatan penghitungan rasio"
+    },
+    "kunci": "A",
+    "pembahasan": "Karena volume usaha hanya teridentifikasi untuk periode tertentu (3 bulan), volume usaha setahun diperoleh melalui proyeksi volume usaha sesuai rumus pada materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Dalam hal volume usaha yang dapat diidentifikasi hanya untuk periode tertentu, maka volume usaha sebagaimana rumus di atas diproyeksikan dengan cara sebagai berikut:"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-042",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk formula yang digunakan dalam pendekatan satuan dan/atau volume sebagaimana materi, KECUALI...",
+    "opsi": {
+      "A": "Peredaran Usaha = Volume Usaha x Harga Jual",
+      "B": "Laba Bersih = Penghasilan Neto - PTKP",
+      "C": "Proyeksi Volume Usaha = Volume periode teridentifikasi x Setahun / Periode teridentifikasi",
+      "D": "Vol. periode diidentifikasi = Vol. input periode tertentu x Persentase menghasilkan output"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi hanya menyebutkan tiga formula pendekatan satuan dan/atau volume, yaitu Peredaran Usaha = Volume Usaha x Harga Jual, Proyeksi Volume Usaha, dan Vol. pada periode yang diidentifikasi dari input/proses. Formula Laba Bersih = Penghasilan Neto - PTKP tidak disebutkan dalam materi ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Peredaran Usaha = Volume Usaha x Harga Jual"
+      },
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Proyeksi Volume Usaha = Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu X Persentase untuk menghasilkan output"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-043",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Formula 'Vol. pada periode yang diidentifikasi = Vol. input pada periode tertentu x Persentase untuk menghasilkan output' digunakan dalam kondisi variabel yang dapat diidentifikasikan berupa...",
+    "opsi": {
+      "A": "Output akhir usaha",
+      "B": "Harga jual satuan",
+      "C": "Input atau proses",
+      "D": "Jumlah pegawai"
+    },
+    "kunci": "C",
+    "pembahasan": "Rumus tersebut digunakan dalam hal variabel yang dapat diidentifikasikan berupa input atau proses.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Dalam hal variabel yang dapat diidentifikasikan berupa input atau proses maka volume pada periode yang diidentifikasikan dapat dihitung dengan cara sebagai berikut:"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-044",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada rumus Proyeksi Volume Usaha, volume pada periode yang diidentifikasi dikalikan dengan hasil bagi antara...",
+    "opsi": {
+      "A": "Setahun dengan Periode yang teridentifikasi",
+      "B": "Periode yang teridentifikasi dengan Setahun",
+      "C": "Harga Jual dengan Volume Usaha",
+      "D": "Persentase dengan Volume Input"
+    },
+    "kunci": "A",
+    "pembahasan": "Rumus Proyeksi Volume Usaha adalah Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 69,
+        "kutipan": "Proyeksi Volume Usaha = Volume pada periode yang diidentifikasi X Setahun / Periode yang teridentifikasi"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Formula Peredaran Usaha"
+    ]
+  },
+  {
+    "id": "POT-05-045",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "'Jumlah kunjungan pasien' sebagai salah satu contoh satuan digunakan dalam pendekatan...",
+    "opsi": {
+      "A": "Penghitungan biaya hidup",
+      "B": "Penghitungan rasio",
+      "C": "Satuan dan/atau volume",
+      "D": "Pertambahan kekayaan bersih"
+    },
+    "kunci": "C",
+    "pembahasan": "Jumlah kunjungan pasien termasuk salah satu contoh satuan dalam pendekatan satuan dan/atau volume.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 68,
+        "kutipan": "Contoh satuan : kuantitas barang dagangan terjual, kuantitas barang jadi yang diproduksi, kuantitas pemakaian bahan baku, jumlah kunjungan pasien, tingkat okupansi kamar."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Satuan/Volume"
+    ]
+  },
+  {
+    "id": "POT-05-046",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pendekatan penghitungan rasio sebaiknya digunakan dalam kondisi...",
+    "opsi": {
+      "A": "Tidak tersedia data pembanding sama sekali",
+      "B": "Wajib Pajak tidak memiliki kegiatan usaha",
+      "C": "Data hanya berasal dari pihak internal Wajib Pajak",
+      "D": "Terdapat data yang dapat digunakan sebagai pembanding dan/atau penghitungan rasio baik dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Pendekatan rasio sebaiknya digunakan dalam kondisi terdapat data yang dapat digunakan sebagai pembanding dan/atau penghitungan rasio baik dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "terdapat data yang dapat digunakan sebagai pembanding dan/atau penghitungan rasio baik dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-047",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sumber data pembanding dalam pendekatan penghitungan rasio dapat berasal dari pihak-pihak berikut, KECUALI...",
+    "opsi": {
+      "A": "Organisasi internasional",
+      "B": "Direktorat Jenderal Pajak",
+      "C": "Wajib Pajak",
+      "D": "Pihak lain"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan data pembanding dapat berasal dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain. Organisasi internasional tidak disebutkan dalam materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "terdapat data yang dapat digunakan sebagai pembanding dan/atau penghitungan rasio baik dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-048",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain keberadaan data pembanding, syarat lain yang disebutkan materi agar pendekatan rasio dapat digunakan adalah...",
+    "opsi": {
+      "A": "Kegiatan usaha Wajib Pajak harus dapat dibandingkan dengan rasio yang diperoleh",
+      "B": "Wajib Pajak harus memiliki NPWP cabang",
+      "C": "Wajib Pajak harus berbentuk badan hukum",
+      "D": "Rasio harus berasal dari tahun pajak berjalan"
+    },
+    "kunci": "A",
+    "pembahasan": "Selain keberadaan data, kegiatan usaha Wajib Pajak harus dapat dibandingkan dengan rasio yang diperoleh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "Selain keberadaan data, kegiatan usaha Wajib Pajak harus dapat dibandingkan dengan rasio yang diperoleh"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-049",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "negasi",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pendekatan penghitungan rasio merupakan cara untuk menguji dan menghitung kembali pos-pos berikut, KECUALI...",
+    "opsi": {
+      "A": "Peredaran usaha",
+      "B": "Jumlah pegawai yang dipekerjakan",
+      "C": "Harga pokok penjualan",
+      "D": "Laba bruto"
+    },
+    "kunci": "B",
+    "pembahasan": "Pendekatan rasio digunakan untuk menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, ataupun penghasilan bruto secara keseluruhan. Jumlah pegawai yang dipekerjakan termasuk unsur teknik penggalian potensi lain (halaman 65).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, ataupun penghasilan bruto secara keseluruhan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 65,
+        "kutipan": "Jumlah pegawai yang dipekerjakan Untuk menghitung berapa besar biaya yang dikeluarkan dan tingkat perputaran omset"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-050",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam pendekatan penghitungan rasio, cara menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, maupun penghasilan bruto dilakukan dengan cara...",
+    "opsi": {
+      "A": "Membagi penghasilan neto dengan tarif pajak",
+      "B": "Mengalikan basis data dengan persentase atau rasio-rasio pembanding",
+      "C": "Menjumlahkan seluruh pos SPT secara langsung",
+      "D": "Mengurangkan biaya hidup dari penghasilan bruto"
+    },
+    "kunci": "B",
+    "pembahasan": "Pendekatan ini menguji dan menghitung kembali pos-pos tersebut dengan cara mengalikan basis data dengan persentase atau rasio-rasio pembanding.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "dengan cara mengalikan basis data dengan persentase atau rasio-rasio pembanding."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-051",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebelum menerapkan pendekatan rasio untuk menguji peredaran usaha Wajib Pajak, hal yang perlu dipastikan pemeriksa terlebih dahulu adalah...",
+    "opsi": {
+      "A": "Jumlah pegawai yang dipekerjakan Wajib Pajak",
+      "B": "Ketersediaan data pembanding dan keterbandingan kegiatan usaha Wajib Pajak dengan rasio yang diperoleh",
+      "C": "Lokasi cabang usaha Wajib Pajak",
+      "D": "Metode pembayaran yang digunakan pelanggan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pendekatan rasio sebaiknya digunakan jika terdapat data pembanding dan kegiatan usaha Wajib Pajak dapat dibandingkan dengan rasio yang diperoleh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "terdapat data yang dapat digunakan sebagai pembanding dan/atau penghitungan rasio baik dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain."
+      },
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "Selain keberadaan data, kegiatan usaha Wajib Pajak harus dapat dibandingkan dengan rasio yang diperoleh"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-052",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang pemeriksa memiliki data rasio laba bruto dari Wajib Pajak sejenis yang diperoleh dari Direktorat Jenderal Pajak, dan kegiatan usaha Wajib Pajak yang diperiksa dapat dibandingkan dengan data tersebut. Pemeriksa kemudian mengalikan basis data penjualan Wajib Pajak dengan rasio tersebut untuk menguji laba bruto. Pendekatan yang digunakan adalah...",
+    "opsi": {
+      "A": "Pendekatan satuan dan/atau volume",
+      "B": "Pendekatan pertambahan kekayaan bersih",
+      "C": "Pendekatan proyeksi nilai ekonomi",
+      "D": "Pendekatan penghitungan rasio"
+    },
+    "kunci": "D",
+    "pembahasan": "Mengalikan basis data dengan rasio pembanding dari DJP untuk menguji laba bruto sesuai dengan pendekatan penghitungan rasio.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "Pendekatan Penghitungan Rasio"
+      },
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "dengan cara mengalikan basis data dengan persentase atau rasio-rasio pembanding."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-053",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak bergerak di bidang usaha yang tidak memiliki data pembanding apa pun, baik dari Direktorat Jenderal Pajak, Wajib Pajak sendiri, maupun pihak lain, dan kegiatan usahanya tidak dapat dibandingkan dengan rasio mana pun. Berdasarkan materi, kondisi ini menunjukkan bahwa...",
+    "opsi": {
+      "A": "Pendekatan penghitungan rasio tidak sebaiknya digunakan",
+      "B": "Pendekatan penghitungan rasio tetap wajib digunakan",
+      "C": "Pendekatan satuan dan/atau volume otomatis tidak dapat digunakan",
+      "D": "Pemeriksa harus menghentikan pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Karena syarat ketersediaan data pembanding dan keterbandingan kegiatan usaha tidak terpenuhi, pendekatan penghitungan rasio tidak sebaiknya digunakan pada kondisi tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "terdapat data yang dapat digunakan sebagai pembanding dan/atau penghitungan rasio baik dari Direktorat Jenderal Pajak, Wajib Pajak, maupun dari pihak lain."
+      },
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "Selain keberadaan data, kegiatan usaha Wajib Pajak harus dapat dibandingkan dengan rasio yang diperoleh"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-054",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Objek-objek atau pos-pos SPT lainnya selain peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, dan penghasilan bruto, menurut materi juga diuji dan dihitung kembali dengan pendekatan rasio menggunakan cara yang...",
+    "opsi": {
+      "A": "Sama, yaitu dengan mengalikan basis data dengan persentase atau rasio pembanding",
+      "B": "Berbeda, menggunakan rumus satuan dan volume",
+      "C": "Berbeda, menggunakan proyeksi nilai ekonomi",
+      "D": "Tidak dapat dihitung dengan pendekatan rasio"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan 'demikian pula dengan objek-objek atau pos-pos SPT lainnya', artinya pos-pos SPT lainnya diuji dengan cara yang sama yaitu mengalikan basis data dengan persentase atau rasio pembanding.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "Demikian pula dengan objek-objek atau pos-pos SPT lainnya"
+      },
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "dengan cara mengalikan basis data dengan persentase atau rasio-rasio pembanding."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "POT-05-055",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Pendekatan Penghitungan Rasio",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pendekatan penghitungan rasio pada dasarnya merupakan cara untuk...",
+    "opsi": {
+      "A": "Mengidentifikasi lokasi cabang usaha Wajib Pajak",
+      "B": "Menghitung jumlah pegawai yang dipekerjakan Wajib Pajak",
+      "C": "Menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, ataupun penghasilan bruto",
+      "D": "Menggali informasi dari media sosial Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pendekatan ini merupakan cara untuk menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, ataupun penghasilan bruto secara keseluruhan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 70,
+        "kutipan": "menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, ataupun penghasilan bruto secara keseluruhan"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  }
+]

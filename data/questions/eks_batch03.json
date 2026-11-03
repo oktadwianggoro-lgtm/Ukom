@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "EKS-03-001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan ketentuan, Wajib Pajak memberikan tanggapan atas SP2DK dengan berapa cara pokok?",
+    "opsi": {
+      "A": "2 cara",
+      "B": "1 cara",
+      "C": "3 cara",
+      "D": "4 cara"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan menyebutkan WP memberikan tanggapan dengan: a) memenuhi kewajiban perpajakan; dan/atau b) menyampaikan penjelasan atas kewajiban perpajakan sebagaimana tercantum dalam SP2DK — yaitu 2 cara pokok.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "Wajib Pajak memberikan tanggapan dengan: a. memenuhi kewajiban perpajakan; dan/atau b. menyampaikan penjelasan atas kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Tanggapan SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-03-002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Agar Wajib Pajak dapat menyampaikan penjelasan melalui Akun WP, berapa syarat yang harus terpenuhi sekaligus?",
+    "opsi": {
+      "B": "2 syarat",
+      "A": "1 syarat",
+      "C": "3 syarat",
+      "D": "4 syarat"
+    },
+    "kunci": "B",
+    "pembahasan": "Penyampaian melalui Akun WP mensyaratkan dua hal sekaligus: WP telah melakukan aktivasi Akun WP, dan SP2DK telah tersedia saluran penyampaian melalui Akun WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "melalui Akun WP, dalam hal WP telah melakukan aktivasi Akun WP dan SP2DK telah tersedia saluran penyampaian melalui Akun WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Akun WP"
+    ]
+  },
+  {
+    "id": "EKS-03-003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian penjelasan melalui pos, jasa ekspedisi, atau jasa kurir harus disertai bukti pengiriman surat yang ditujukan ke mana?",
+    "opsi": {
+      "C": "KPP yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan",
+      "A": "KPP domisili tempat tinggal Wajib Pajak",
+      "B": "Kantor Wilayah DJP setempat",
+      "D": "Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan terdekat"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan menyebutkan penyampaian melalui pos/jasa ekspedisi/jasa kurir disertai bukti pengiriman surat ke KPP yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat ke KPP yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Jasa Kurir"
+    ]
+  },
+  {
+    "id": "EKS-03-004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak dapat menyampaikan penjelasan secara langsung ke Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan (KP2KP), dengan syarat KP2KP tersebut berada di bawah kantor mana?",
+    "opsi": {
+      "D": "Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan",
+      "A": "Kantor Wilayah DJP yang membawahi wilayah WP",
+      "B": "Kantor Pusat Direktorat Jenderal Pajak",
+      "C": "Kantor Pelayanan Pajak domisili terdaftarnya WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan mensyaratkan KP2KP yang dituju berada di bawah Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan (penerbit SP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "ke Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan yang berada di bawah Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "KP2KP"
+    ]
+  },
+  {
+    "id": "EKS-03-005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian penjelasan secara langsung melalui media daring dilakukan dengan cara apa?",
+    "opsi": {
+      "A": "Video conference",
+      "B": "Panggilan telepon resmi",
+      "C": "Pesan singkat melalui Akun WP",
+      "D": "Surat elektronik berlampiran dokumen"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan menyebutkan penyampaian secara langsung dapat dilakukan melalui media daring dengan video conference.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "melalui media daring dengan video conference"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Video Conference"
+    ]
+  },
+  {
+    "id": "EKS-03-006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP tidak menyetujui sebagian data dalam SP2DK yang diterimanya. Apa yang WAJIB disertakan WP tersebut dalam penjelasannya?",
+    "opsi": {
+      "B": "Bukti dan/atau dokumen pendukung",
+      "A": "Surat pernyataan keberatan",
+      "C": "Laporan keuangan teraudit",
+      "D": "Surat kuasa dari konsultan pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam hal WP tidak menyetujui sebagian atau seluruh data/keterangan dalam SP2DK, penjelasan disertai dengan bukti dan/atau dokumen pendukung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 91,
+        "kutipan": "Dalam hal Wajib Pajak tidak menyetujui sebagian atau seluruh data dan/atau keterangan dalam SP2DK, penjelasan disertai dengan bukti dan/atau dokumen pendukung"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Bukti Pendukung"
+    ]
+  },
+  {
+    "id": "EKS-03-007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berapa kali Wajib Pajak dapat menyampaikan tanggapan atas SP2DK, dengan memperhatikan jangka waktu penyampaian tanggapan?",
+    "opsi": {
+      "C": "Lebih dari 1 kali",
+      "A": "Hanya 1 kali",
+      "B": "Maksimal 2 kali",
+      "D": "Tanpa batasan jangka waktu"
+    },
+    "kunci": "C",
+    "pembahasan": "WP dapat menyampaikan tanggapan lebih dari 1 (satu) kali, dengan tetap memperhatikan jangka waktu penyampaian tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 92,
+        "kutipan": "WP dapat menyampaikan tanggapan sebagaimana dimaksud pada ayat (1) lebih dari 1 (satu) kali, dengan memperhatikan jangka waktu"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Jangka Waktu Tanggapan"
+    ]
+  },
+  {
+    "id": "EKS-03-008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain memberikan tanggapan atas SP2DK, tindakan apa yang masih dapat dilakukan Wajib Pajak menurut ketentuan?",
+    "opsi": {
+      "D": "Menyampaikan data/keterangan selain yang disebutkan SP2DK dan/atau memenuhi kewajiban perpajakan",
+      "A": "Mengajukan permohonan penundaan pemeriksaan",
+      "B": "Meminta pembatalan SP2DK yang diterima",
+      "C": "Mengajukan keberatan atas SP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Selain memberikan tanggapan, WP dapat menyampaikan data dan/atau keterangan selain yang disebutkan dalam SP2DK, dan/atau memenuhi kewajiban perpajakan sesuai ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 92,
+        "kutipan": "menyampaikan data dan/atau keterangan selain yang disebutkan dalam SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 92,
+        "kutipan": "memenuhi kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Kewajiban Perpajakan"
+    ]
+  },
+  {
+    "id": "EKS-03-009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan cara penyampaian penjelasan Wajib Pajak atas SP2DK, KECUALI...",
+    "opsi": {
+      "A": "Melalui akun media sosial resmi KPP",
+      "B": "Melalui Akun WP",
+      "C": "Secara langsung pada saat dilakukan Kunjungan",
+      "D": "Melalui pos elektronik yang tertera dalam SP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Cara penyampaian penjelasan meliputi Akun WP, pos elektronik yang tertera dalam SP2DK, pos/jasa ekspedisi/jasa kurir, langsung saat Kunjungan, dan langsung ke KPP/KP2KP/video conference. Media sosial resmi KPP tidak disebutkan sebagai saluran penyampaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "melalui pos elektronik yang tertera dalam SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "secara langsung pada saat dilakukan Kunjungan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Saluran Penyampaian"
+    ]
+  },
+  {
+    "id": "EKS-03-010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian penjelasan melalui pos elektronik (email) harus menggunakan alamat pos elektronik yang bagaimana?",
+    "opsi": {
+      "B": "Alamat email yang tertera dalam SP2DK yang diterima WP",
+      "A": "Alamat email pribadi yang didaftarkan saat pembuatan NPWP",
+      "C": "Alamat email domain resmi perusahaan WP",
+      "D": "Alamat email yang disepakati saat Kunjungan"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan menyebutkan penyampaian penjelasan dapat dilakukan melalui pos elektronik yang tertera dalam SP2DK, bukan alamat email lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 90,
+        "kutipan": "melalui pos elektronik yang tertera dalam SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Tanggapan WP",
+      "Pengawasan WP Belum Terdaftar",
+      "Pos Elektronik"
+    ]
+  },
+  {
+    "id": "EKS-03-011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Monitoring tanggapan yang telah disampaikan oleh Wajib Pajak dilakukan melalui berapa saluran utama (Portal WP, Visit, Email, Surat Pos, Langsung ke KPP)?",
+    "opsi": {
+      "C": "5 saluran",
+      "A": "3 saluran",
+      "B": "4 saluran",
+      "D": "6 saluran"
+    },
+    "kunci": "C",
+    "pembahasan": "Monitoring tanggapan dilakukan melalui 5 saluran: Portal Wajib Pajak, Visit di Lokasi WP, Email, Surat Pos, atau Langsung ke KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Monitoring tanggapan yang telah disampaikan oleh Wajib Pajak melalui: 1. Portal Wajib Pajak; 2. Visit di Lokasi Wajib Pajak; 3. Email; 4. Surat Pos; atau 5. Langsung ke KPP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Portal WP"
+    ]
+  },
+  {
+    "id": "EKS-03-012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Selain lima saluran monitoring tanggapan, monitoring juga mencakup laporan dari pihak mana terkait penyampaian SP2DK risiko tinggi?",
+    "opsi": {
+      "D": "Fungsional Penyuluh",
+      "A": "Fungsional Pemeriksa Pajak",
+      "B": "Account Representative Pengampu",
+      "C": "Kepala Seksi Pengawasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Monitoring tanggapan juga mencakup laporan dari Fungsional Penyuluh atas penyampaian SP2DK risiko tinggi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Serta laporan dari Fungsional Penyuluh atas penyampaian SP2DK risiko tinggi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Fungsional Penyuluh",
+      "Segmentasi Risiko"
+    ]
+  },
+  {
+    "id": "EKS-03-013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk saluran monitoring tanggapan Wajib Pajak sebagaimana diatur, KECUALI...",
+    "opsi": {
+      "A": "Akun media sosial resmi Direktorat Jenderal Pajak",
+      "B": "Email",
+      "C": "Surat Pos",
+      "D": "Visit di Lokasi Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Saluran monitoring tanggapan meliputi Portal WP, Visit di Lokasi WP, Email, Surat Pos, dan Langsung ke KPP; media sosial resmi DJP tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Visit di Lokasi Wajib Pajak; 3. Email; 4. Surat Pos; atau 5. Langsung ke KPP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Saluran Monitoring"
+    ]
+  },
+  {
+    "id": "EKS-03-014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tanggapan Wajib Pajak yang dimonitor mencakup klarifikasi atas data dan informasi, data dan informasi tambahan, serta kategori ketiga yaitu...?",
+    "opsi": {
+      "B": "Pelaksanaan kewajiban mendaftar/membayar/melapor",
+      "A": "Permohonan keberatan atas SP2DK",
+      "C": "Permintaan pembatalan NPWP jabatan",
+      "D": "Pengajuan pengurangan sanksi administrasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Tanggapan WP yang dimonitor meliputi klarifikasi atas data dan informasi, data dan informasi tambahan, dan pelaksanaan kewajiban mendaftar/membayar/melapor.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Pelaksanaan kewajiban mendaftar/membayar/melapor"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-03-015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tanggapan Wajib Pajak yang dimonitor Tim Ekstensifikasi dikelompokkan menjadi berapa kategori?",
+    "opsi": {
+      "C": "3 kategori",
+      "A": "2 kategori",
+      "B": "4 kategori",
+      "D": "5 kategori"
+    },
+    "kunci": "C",
+    "pembahasan": "Tanggapan WP dikelompokkan menjadi 3 kategori: klarifikasi atas data dan informasi, data dan informasi tambahan, dan pelaksanaan kewajiban mendaftar/membayar/melapor.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Tanggapan Wajib Pajak: 1. Klarifikasi atas data dan informasi 2. Data dan Informasi Tambahan 3. Pelaksanaan kewajiban"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Kategori Tanggapan"
+    ]
+  },
+  {
+    "id": "EKS-03-016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Tim Ekstensifikasi menerima Laporan Hasil Penilaian dari fungsi lain terkait objek pajak WP yang sedang dimonitor. Dokumen tersebut termasuk dalam kategori apa pada tahap monitoring?",
+    "opsi": {
+      "D": "Data dan Informasi lainnya",
+      "A": "Tanggapan Wajib Pajak",
+      "B": "Laporan Hasil Klarifikasi SP2DK",
+      "C": "Working Paper EWS"
+    },
+    "kunci": "D",
+    "pembahasan": "Laporan Hasil Penilaian termasuk dalam kategori Data dan Informasi lainnya yang digunakan dalam monitoring, bersama data ILAP, data IBK, dan data dari pihak terkait.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Data dan Informasi lainnya: 1. Laporan Hasil Penilaian 2. Data dan Informasi Data Pihak Ketiga (ILAP)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Data dan Informasi Lainnya"
+    ]
+  },
+  {
+    "id": "EKS-03-017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk kategori 'Data dan Informasi lainnya' pada tahap monitoring, KECUALI...",
+    "opsi": {
+      "A": "Laporan Hasil Pemeriksaan Pajak",
+      "B": "Data dan Informasi Data Pihak Ketiga (ILAP)",
+      "C": "Data dan Informasi (IBK)",
+      "D": "Data dan Informasi dari Pihak Terkait"
+    },
+    "kunci": "A",
+    "pembahasan": "Data dan Informasi lainnya mencakup Laporan Hasil Penilaian, data ILAP, data IBK, data dari Pihak Terkait, dan data lainnya; Laporan Hasil Pemeriksaan Pajak tidak disebutkan dalam kategori ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Data dan Informasi Data Pihak Ketiga (ILAP) 3. Data dan Informasi (IBK) 4. Data dan Informasi dari Pihak Terkait 5. Data lainnya"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "ILAP",
+      "IBK"
+    ]
+  },
+  {
+    "id": "EKS-03-018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "ILAP yang disebutkan dalam kategori Data dan Informasi lainnya merujuk pada data dan informasi apa?",
+    "opsi": {
+      "B": "Data dan Informasi Data Pihak Ketiga",
+      "A": "Data dan Informasi Keuangan Perbankan",
+      "C": "Data dan Informasi Lintas Instansi Pajak",
+      "D": "Data dan Informasi Laporan Audit Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam materi, ILAP disebutkan sebagai singkatan dari Data dan Informasi Data Pihak Ketiga.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Data dan Informasi Data Pihak Ketiga (ILAP)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "ILAP"
+    ]
+  },
+  {
+    "id": "EKS-03-019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah seluruh tanggapan dan data/informasi WP dimonitor, apa dokumen akhir yang disusun pada tahap ini?",
+    "opsi": {
+      "C": "Laporan Hasil Klarifikasi Surat Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK)",
+      "A": "Berita Acara Penyampaian SP2DK",
+      "B": "Laporan Hasil Pemeriksaan Potensi Pajak",
+      "D": "Nota Penghitungan Pajak Terutang"
+    },
+    "kunci": "C",
+    "pembahasan": "Tahap monitoring diakhiri dengan menyusun Laporan Hasil Klarifikasi Surat Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Menyusun Laporan Hasil Klarifikasi Surat Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "Laporan Hasil Klarifikasi"
+    ]
+  },
+  {
+    "id": "EKS-03-020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "SP2DK yang disebut dalam tahap monitoring dan penyusunan laporan hasil klarifikasi merupakan singkatan dari dokumen apa?",
+    "opsi": {
+      "D": "Surat Permintaan Penjelasan atas Data dan/atau Keterangan",
+      "A": "Surat Pemberitahuan Hasil Pengujian/Pengawasan",
+      "B": "Surat Pernyataan Data dan Keterangan",
+      "C": "Surat Penetapan dan/atau Keputusan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada tahap ini disebutkan 'Laporan Hasil Klarifikasi Surat Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK)', sehingga SP2DK adalah singkatan dari Surat Permintaan Penjelasan atas Data dan/atau Keterangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Surat Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Monitoring Tanggapan",
+      "Pengawasan WP Belum Terdaftar",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-03-021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Penelitian atas potensi Wajib Pajak oleh Tim Ekstensifikasi dilakukan berdasarkan data dan informasi hasil klarifikasi dari Wajib Pajak dan dari apa?",
+    "opsi": {
+      "A": "Proses Bisnis Relevan lainnya",
+      "B": "Laporan Hasil Pemeriksaan tahun sebelumnya",
+      "C": "Data perbankan Wajib Pajak",
+      "D": "Surat Pemberitahuan Tahunan Wajib Pajak lain"
+    },
+    "kunci": "A",
+    "pembahasan": "Penelitian potensi WP dilakukan berdasarkan data dan informasi hasil klarifikasi dari WP dan dari Proses Bisnis Relevan lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Berdasarkan Data dan Informasi hasil klarifikasi dari Wajib Pajak dan dari Proses Bisnis Relevan lainnya"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Penelitian Potensi Pajak"
+    ]
+  },
+  {
+    "id": "EKS-03-022",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penelitian Potensi Pajak dilakukan menggunakan working paper yang disebut apa?",
+    "opsi": {
+      "B": "Examination Working Sheet (EWS)",
+      "A": "Risk Based Analysis Sheet",
+      "C": "Compliance Working Paper",
+      "D": "Tax Potential Assessment Form"
+    },
+    "kunci": "B",
+    "pembahasan": "Penelitian Potensi Pajak dilakukan menggunakan Examination Working Sheet (EWS) Working Paper.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Penelitian Potensi Pajak dilakukan menggunakan Examination Working Sheet (EWS) Working Paper"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "EWS"
+    ]
+  },
+  {
+    "id": "EKS-03-023",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "EWS Working Paper mencakup penelitian untuk masa pajak maksimal berapa tahun sebelum tahun berjalan pelaksanaan ekstensifikasi?",
+    "opsi": {
+      "C": "5 tahun",
+      "A": "3 tahun",
+      "B": "4 tahun",
+      "D": "10 tahun"
+    },
+    "kunci": "C",
+    "pembahasan": "EWS Working Paper digunakan atas seluruh jenis pajak dengan masa pajak maksimal 5 tahun sebelum tahun berjalan pelaksanaan ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Masa pajak maksimal 5 tahun sebelum tahun berjalan pelaksanaan ekstensifikasi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Masa Pajak"
+    ]
+  },
+  {
+    "id": "EKS-03-024",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penelitian Potensi Pajak menggunakan EWS Working Paper mencakup ruang lingkup pajak apa?",
+    "opsi": {
+      "D": "Seluruh jenis pajak",
+      "A": "Hanya Pajak Penghasilan Badan",
+      "B": "Hanya Pajak Pertambahan Nilai",
+      "C": "Pajak yang disebutkan dalam SP2DK saja"
+    },
+    "kunci": "D",
+    "pembahasan": "EWS Working Paper digunakan atas seluruh jenis pajak, bukan hanya jenis pajak tertentu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Seluruh jenis pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Jenis Pajak"
+    ]
+  },
+  {
+    "id": "EKS-03-025",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Working Paper EWS memuat berapa komponen utama (Akun Pajak, Penghitungan menurut WP, Penghitungan menurut Petugas, dan Selisih)?",
+    "opsi": {
+      "A": "4 komponen",
+      "B": "2 komponen",
+      "C": "3 komponen",
+      "D": "5 komponen"
+    },
+    "kunci": "A",
+    "pembahasan": "Working Paper EWS memuat 4 komponen: Akun Pajak sesuai format SPT, Penghitungan menurut Wajib Pajak, Penghitungan menurut Petugas, dan Selisih penghitungan (Nilai Potensi Pajak).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Working Paper EWS memuat: 1. Akun Pajak sesuai format SPT, 2. Penghitungan menurut Wajib Pajak, 3. Penghitungan menurut Petugas, dan 4. Selisih penghitungan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Working Paper EWS"
+    ]
+  },
+  {
+    "id": "EKS-03-026",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selisih antara penghitungan menurut Wajib Pajak dan penghitungan menurut Petugas dalam Working Paper EWS disebut sebagai apa?",
+    "opsi": {
+      "B": "Nilai Potensi Pajak",
+      "A": "Pajak Kurang Bayar",
+      "C": "Koreksi Fiskal",
+      "D": "Indikasi Kewajiban Perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Selisih penghitungan antara WP dan Petugas dalam Working Paper EWS disebut Nilai Potensi Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Selisih penghitungan (Nilai Potensi Pajak)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Nilai Potensi Pajak"
+    ]
+  },
+  {
+    "id": "EKS-03-027",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk komponen yang dimuat dalam Working Paper EWS, KECUALI...",
+    "opsi": {
+      "C": "Rekomendasi sanksi administrasi perpajakan",
+      "A": "Akun Pajak sesuai format SPT",
+      "B": "Penghitungan menurut Petugas",
+      "D": "Selisih penghitungan (Nilai Potensi Pajak)"
+    },
+    "kunci": "C",
+    "pembahasan": "Working Paper EWS memuat Akun Pajak sesuai format SPT, Penghitungan menurut WP, Penghitungan menurut Petugas, dan Selisih penghitungan; rekomendasi sanksi administrasi tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Akun Pajak sesuai format SPT, 2. Penghitungan menurut Wajib Pajak, 3. Penghitungan menurut Petugas"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Working Paper EWS"
+    ]
+  },
+  {
+    "id": "EKS-03-028",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah penelitian potensi pajak menggunakan EWS selesai dan Tim Ekstensifikasi menyusun hasilnya, dokumen apa yang disusun berisikan klarifikasi data, data tambahan, dan nilai potensi pajak?",
+    "opsi": {
+      "D": "Surat Pemberitahuan Hasil Pengujian/Pengawasan",
+      "A": "Berita Acara Pemeriksaan",
+      "B": "Laporan Hasil Penilaian",
+      "C": "Nota Dinas Penugasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Tim Ekstensifikasi menyusun Surat Pemberitahuan Hasil Pengujian/Pengawasan yang berisikan klarifikasi atas data dan informasi, data dan informasi tambahan, serta nilai potensi pajak yang masih harus dipenuhi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Tim Ekstensifikasi Menyusun Surat Pemberitahuan Hasil Pengujian/Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-029",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Hasil penelitian EWS menunjukkan Wajib Pajak masih memiliki potensi pajak. Dokumen apa yang turut disampaikan bersama SPHP/SPHPP kepada WP tersebut?",
+    "opsi": {
+      "A": "Surat Undangan Pembahasan Akhir",
+      "B": "Surat Teguran",
+      "C": "Surat Perintah Pemeriksaan",
+      "D": "Surat Paksa"
+    },
+    "kunci": "A",
+    "pembahasan": "Atas WP yang masih memiliki potensi pajak, akan disampaikan juga Surat Undangan Pembahasan Akhir bersama SPHP/SPHPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "Atas Wajib Pajak yang masih memiliki potensi pajak, maka akan disampaikan juga Surat Undangan Pembahasan Akhir"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Surat Undangan Pembahasan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-03-030",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SPHP dan Undangan Pembahasan Akhir disampaikan kepada Wajib Pajak melalui berapa saluran (Portal WP, Pos, dan/atau visit ke lokasi WP)?",
+    "opsi": {
+      "B": "3 saluran",
+      "A": "2 saluran",
+      "C": "4 saluran",
+      "D": "5 saluran"
+    },
+    "kunci": "B",
+    "pembahasan": "SPHP dan Undangan Pembahasan Akhir disampaikan melalui Portal WP, Pos, dan/atau visit ke lokasi WP — yaitu 3 saluran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 93,
+        "kutipan": "SPHP dan Undangan Pembahasan Akhir disampaikan melalui Portal WP, Pos, dan/atau visit ke lokasi WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "EWS",
+      "Penelitian Potensi Pajak",
+      "Pengawasan WP Belum Terdaftar",
+      "Saluran Penyampaian SPHP"
+    ]
+  },
+  {
+    "id": "EKS-03-031",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam alur Penerbitan SPHPP, apa yang dapat dilakukan apabila Wajib Pajak TIDAK menyampaikan tanggapan atas SP2DK?",
+    "opsi": {
+      "C": "Dapat dilakukan Kunjungan",
+      "A": "Langsung diterbitkan SPHPP tanpa penelitian",
+      "B": "Proses pengawasan dihentikan",
+      "D": "Diterbitkan Surat Teguran"
+    },
+    "kunci": "C",
+    "pembahasan": "Apabila WP tidak menyampaikan tanggapan, dapat dilakukan Kunjungan sebagai tindak lanjut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tidak menyampaikan tanggapan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Kunjungan Dapat dilakukan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Kunjungan"
+    ]
+  },
+  {
+    "id": "EKS-03-032",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Wajib Pajak memberikan tanggapan atas SP2DK, langkah apa yang dilakukan terhadap tanggapan tersebut dalam alur Penerbitan SPHPP?",
+    "opsi": {
+      "D": "Dilakukan Penelitian atas tanggapan",
+      "A": "Langsung diterbitkan BAP2DK",
+      "B": "Tanggapan diarsipkan tanpa tindak lanjut",
+      "C": "Diteruskan ke fungsi pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Tanggapan yang diberikan WP selanjutnya dilakukan Penelitian atas tanggapan tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Wajib Pajak memberikan tanggapan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "dilakukan Penelitian atas tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Penelitian Tanggapan"
+    ]
+  },
+  {
+    "id": "EKS-03-033",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil penelitian menunjukkan tanggapan Wajib Pajak TIDAK SESUAI. Tindakan apa yang dapat dilakukan selanjutnya menurut alur Penerbitan SPHPP?",
+    "opsi": {
+      "A": "Dapat dilakukan Kunjungan",
+      "B": "Tanggapan dianggap batal",
+      "C": "SP2DK diterbitkan ulang",
+      "D": "Langsung dilakukan pembahasan akhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam hal tanggapan WP tidak sesuai, dapat dilakukan Kunjungan sebagaimana halnya jika WP tidak menyampaikan tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tanggapan WP tidak sesuai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Kunjungan Dapat dilakukan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Tanggapan Tidak Sesuai"
+    ]
+  },
+  {
+    "id": "EKS-03-034",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada akhir alur Penerbitan SPHPP, dokumen apa yang diterbitkan kepada Wajib Pajak?",
+    "opsi": {
+      "B": "Surat Pemberitahuan Hasil Pengujian/Pengawasan (SPHPP)",
+      "A": "Berita Acara Pemeriksaan",
+      "C": "Laporan Hasil Klarifikasi SP2DK",
+      "D": "Nota Penghitungan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Alur Penerbitan SPHPP berujung pada diterbitkannya Surat Pemberitahuan Hasil Pengujian/Pengawasan (SPHPP).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Diterbitkan surat pemberitahuan hasil pengujian/Pengawasan (SPHPP)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-035",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Selain Tanggapan, Kunjungan, dan Data dan Informasi yang dimiliki DJP, dokumen awal apa yang juga menjadi unsur penyusunan SPHPP (Step 2)?",
+    "opsi": {
+      "C": "SP2DK",
+      "A": "SPT Tahunan Wajib Pajak",
+      "B": "Berita Acara Pemeriksaan (BAP2DK)",
+      "D": "Laporan Hasil Pemeriksaan (LHP2DK)"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyusunan SPHPP (Step 2) menggunakan unsur Tanggapan, Kunjungan, SP2DK, dan Data dan Informasi yang dimiliki DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 95,
+        "kutipan": "Tanggapan Kunjungan SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-03-036",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk unsur yang digunakan dalam penyusunan SPHPP (Step 2), KECUALI...",
+    "opsi": {
+      "D": "Laporan Keuangan Teraudit Wajib Pajak",
+      "A": "SP2DK",
+      "B": "Tanggapan",
+      "C": "Kunjungan"
+    },
+    "kunci": "D",
+    "pembahasan": "Unsur penyusunan SPHPP (Step 2) meliputi SP2DK, Tanggapan, Kunjungan, dan Data dan Informasi yang dimiliki DJP; Laporan Keuangan Teraudit WP tidak disebutkan sebagai unsur.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 95,
+        "kutipan": "Tanggapan Kunjungan SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 95,
+        "kutipan": "Data dan Informasi yang dimiliki DJP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Unsur SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-037",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Data dan Informasi yang dimiliki DJP dalam penyusunan SPHPP mencakup berapa jenis keterangan utama (data selain SP2DK; dan/atau pemenuhan kewajiban perpajakan)?",
+    "opsi": {
+      "A": "2 jenis",
+      "B": "1 jenis",
+      "C": "3 jenis",
+      "D": "4 jenis"
+    },
+    "kunci": "A",
+    "pembahasan": "Data dan Informasi yang dimiliki DJP mencakup 2 hal: (a) data dan/atau keterangan selain yang disebutkan dalam SP2DK; dan/atau (b) pemenuhan kewajiban perpajakan sesuai ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 95,
+        "kutipan": "a. data dan/atau keterangan selain yang disebutkan dalam SP2DK; dan/atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 95,
+        "kutipan": "b. pemenuhan kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Data dan Informasi DJP"
+    ]
+  },
+  {
+    "id": "EKS-03-038",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Unsur SP2DK, Tanggapan, Kunjungan, dan Data dan Informasi yang dimiliki DJP pada tahap berikutnya digunakan untuk melakukan apa?",
+    "opsi": {
+      "B": "Penghitungan indikasi kewajiban perpajakan",
+      "A": "Penyusunan Laporan Hasil Pemeriksaan",
+      "C": "Penerbitan Surat Teguran",
+      "D": "Penyusunan Nota Penghitungan Sanksi"
+    },
+    "kunci": "B",
+    "pembahasan": "Keempat unsur tersebut digunakan untuk Penghitungan indikasi kewajiban perpajakan, yang menentukan hasil akhir SPHPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 96,
+        "kutipan": "Penghitungan indikasi kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Indikasi Kewajiban Perpajakan"
+    ]
+  },
+  {
+    "id": "EKS-03-039",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Hasil penghitungan menunjukkan ADA indikasi kewajiban perpajakan yang masih harus dipenuhi dan terdapat jumlah pajaknya. Dokumen apa yang diterbitkan kepada WP?",
+    "opsi": {
+      "C": "SPHPP beserta Surat Undangan Pembahasan",
+      "A": "SPHPP saja",
+      "B": "Surat Undangan Pembahasan saja",
+      "D": "BAP2DK beserta LHP2DK"
+    },
+    "kunci": "C",
+    "pembahasan": "Apabila ada indikasi kewajiban perpajakan yang masih harus dipenuhi dengan jumlah pajak tertentu, diterbitkan SPHPP beserta Surat Undangan Pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 96,
+        "kutipan": "Ada indikasi kewajiban perpajakan yang masih harus dipenuhi yang ada jumlah pajak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 96,
+        "kutipan": "SPHPP Surat Undangan Pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Surat Undangan Pembahasan"
+    ]
+  },
+  {
+    "id": "EKS-03-040",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil penghitungan menunjukkan TIDAK ADA indikasi kewajiban perpajakan yang masih harus dipenuhi oleh WP. Dokumen apa yang tetap diterbitkan?",
+    "opsi": {
+      "D": "SPHPP saja, tanpa Surat Undangan Pembahasan",
+      "A": "Tidak ada dokumen yang diterbitkan",
+      "B": "SPHPP beserta Surat Undangan Pembahasan",
+      "C": "Surat Pemberitahuan Penghentian Pengawasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Apabila tidak ada indikasi kewajiban perpajakan yang masih harus dipenuhi, tetap diterbitkan SPHPP tanpa disertai Surat Undangan Pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 96,
+        "kutipan": "Tidak ada indikasi kewajiban perpajakan yang masih harus dipenuhi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 96,
+        "kutipan": "SPHPP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-041",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dari tiga kemungkinan hasil atas tanggapan WP (tanggapan sesuai, tanggapan tidak sesuai, tidak menyampaikan tanggapan), manakah yang digambarkan bermuara langsung pada diterbitkannya SPHPP dalam alur Step 1?",
+    "opsi": {
+      "A": "Tanggapan WP sesuai",
+      "B": "Tanggapan WP tidak sesuai",
+      "C": "Tidak menyampaikan tanggapan",
+      "D": "Ketiganya sama-sama bermuara langsung pada penerbitan SPHPP"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam alur, hanya hasil 'Tanggapan WP sesuai' yang digambarkan bermuara langsung pada diterbitkannya SPHPP; dua hasil lainnya mengarah pada Kunjungan terlebih dahulu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tanggapan WP sesuai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Diterbitkan surat pemberitahuan hasil pengujian/Pengawasan (SPHPP)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Alur SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-042",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SPHPP yang diterbitkan dalam proses pengawasan WP Belum Terdaftar merupakan singkatan dari apa?",
+    "opsi": {
+      "B": "Surat Pemberitahuan Hasil Pengujian/Pengawasan",
+      "A": "Surat Penetapan Hasil Pemeriksaan dan Pengawasan",
+      "C": "Surat Perintah Hasil Penelitian Potensi Pajak",
+      "D": "Surat Pengantar Hasil Pengawasan Perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "SPHPP merupakan singkatan dari Surat Pemberitahuan Hasil Pengujian/Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Diterbitkan surat pemberitahuan hasil pengujian/Pengawasan (SPHPP)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-043",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Baik dalam kondisi WP tidak menyampaikan tanggapan maupun tanggapan WP tidak sesuai, tindak lanjut yang SAMA-SAMA dapat dilakukan menurut alur Penerbitan SPHPP adalah?",
+    "opsi": {
+      "C": "Kunjungan",
+      "A": "Pemeriksaan Bukti Permulaan",
+      "B": "Penyitaan aset Wajib Pajak",
+      "D": "Pencabutan NPWP jabatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Baik pada kondisi tidak menyampaikan tanggapan maupun tanggapan tidak sesuai, keduanya digambarkan dapat ditindaklanjuti dengan Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tidak menyampaikan tanggapan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tanggapan WP tidak sesuai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Kunjungan Dapat dilakukan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Kunjungan"
+    ]
+  },
+  {
+    "id": "EKS-03-044",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Manakah urutan tahapan yang tepat dalam alur Penerbitan SPHPP hingga penentuan hasil akhir?",
+    "opsi": {
+      "D": "Wajib Pajak memberikan tanggapan → Penghitungan indikasi kewajiban perpajakan → Penerbitan SPHPP",
+      "A": "Penghitungan indikasi kewajiban perpajakan → Wajib Pajak memberikan tanggapan → Penerbitan SPHPP",
+      "B": "Penerbitan SPHPP → Wajib Pajak memberikan tanggapan → Penghitungan indikasi kewajiban perpajakan",
+      "C": "Wajib Pajak memberikan tanggapan → Penerbitan SPHPP → Penghitungan indikasi kewajiban perpajakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Urutan yang tepat: WP memberikan tanggapan atas SP2DK, kemudian dilakukan Penghitungan indikasi kewajiban perpajakan berdasarkan unsur SP2DK/Tanggapan/Kunjungan/Data Informasi DJP, dan hasilnya menentukan Penerbitan SPHPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Wajib Pajak memberikan tanggapan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 96,
+        "kutipan": "Penghitungan indikasi kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SPHPP",
+      "Penerbitan SPHPP",
+      "Pengawasan WP Belum Terdaftar",
+      "Alur Proses SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-03-045",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Pembahasan dengan WP: Luring/Daring, WP Tidak Hadir Dianggap Dilaksanakan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pembahasan dengan Wajib Pajak atas SPHPP dan Surat Undangan Pembahasan dilakukan secara apa?",
+    "opsi": {
+      "A": "Secara luring atau daring dengan video conference, sesuai undangan pembahasan",
+      "B": "Hanya secara luring di kantor pajak",
+      "C": "Hanya melalui korespondensi surat-menyurat",
+      "D": "Hanya secara daring tanpa video conference"
+    },
+    "kunci": "A",
+    "pembahasan": "Pembahasan dilakukan secara luring atau daring dengan video conference, sesuai undangan pembahasan yang disampaikan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Dilakukan secara luring atau daring dengan video conference, sesuai undangan pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "BAP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Luring Daring"
+    ]
+  },
+  {
+    "id": "EKS-03-046",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Pembahasan dengan WP: Luring/Daring, WP Tidak Hadir Dianggap Dilaksanakan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak tidak hadir dalam pembahasan yang telah diundang. Bagaimana status pembahasan tersebut menurut ketentuan?",
+    "opsi": {
+      "B": "Pembahasan dianggap telah dilaksanakan dan kewajiban perpajakan yang masih harus dipenuhi dihitung oleh DJP",
+      "A": "Pembahasan batal dan harus dijadwalkan ulang",
+      "C": "Proses pengawasan dihentikan tanpa tindak lanjut",
+      "D": "WP otomatis dikenakan sanksi pidana perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam hal WP tidak hadir, pembahasan dianggap telah dilaksanakan, dan kewajiban perpajakan yang masih harus dipenuhi oleh WP dihitung oleh DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "WP tidak hadir pembahasan dianggap telah dilaksanakan dan kewajiban perpajakan yang masih harus dipenuhi oleh WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "BAP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "WP Tidak Hadir"
+    ]
+  },
+  {
+    "id": "EKS-03-047",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Pembahasan dengan WP: Luring/Daring, WP Tidak Hadir Dianggap Dilaksanakan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Hasil pembahasan dengan Wajib Pajak dituangkan dalam dokumen apa?",
+    "opsi": {
+      "C": "BAP2DK",
+      "A": "LHP2DK",
+      "B": "SPHPP",
+      "D": "Risalah Pembahasan Akhir"
+    },
+    "kunci": "C",
+    "pembahasan": "Hasil pembahasan dengan WP dibuatkan dalam bentuk BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Hasil pembahasan dibuatkan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "BAP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "BAP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-03-048",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Pembahasan dengan WP: Luring/Daring, WP Tidak Hadir Dianggap Dilaksanakan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila diperlukan pembahasan berikutnya setelah pembahasan pertama, bagaimana hal tersebut dapat dilakukan?",
+    "opsi": {
+      "D": "Dengan surat undangan baru, atau sesuai kesepakatan dalam Berita Acara",
+      "A": "Hanya dengan surat undangan baru",
+      "B": "Secara otomatis tanpa pemberitahuan",
+      "C": "Hanya atas permintaan tertulis dari WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pembahasan berikutnya dapat dilakukan dengan surat undangan baru, atau sesuai kesepakatan dalam Berita Acara (BA).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Dalam hal diperlukan, dapat dilakukan pembahasan berikutnya"
+      },
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Dengan surat undangan baru; atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Sesuai kesepakatan dalam BA"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "BAP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Pembahasan Berikutnya"
+    ]
+  },
+  {
+    "id": "EKS-03-049",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+    "subtopik": "Pembahasan dengan WP: Luring/Daring, WP Tidak Hadir Dianggap Dilaksanakan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut adalah ketentuan yang berlaku dalam proses pembahasan dengan WP, KECUALI...",
+    "opsi": {
+      "A": "Wajib dihadiri langsung oleh WP tanpa dapat dilakukan secara daring",
+      "B": "Dapat dilakukan secara luring atau daring dengan video conference",
+      "C": "WP dapat memberikan tanggapan disertai bukti dan/atau dokumen pendukung",
+      "D": "Hasil pembahasan dibuatkan BAP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Pembahasan dapat dilakukan luring/daring, WP dapat memberi tanggapan disertai bukti pendukung, dan hasilnya dibuatkan BAP2DK; tidak ada ketentuan yang mewajibkan kehadiran langsung tanpa opsi daring.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Dilakukan secara luring atau daring dengan video conference, sesuai undangan pembahasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "WP dapat memberikan tanggapan atas penghitungan jumlah pajak yang terutang dan informasi lain disertai dengan bukti dan/atau dokumen pendukung"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "BAP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Pembahasan Akhir"
+    ]
+  }
+]

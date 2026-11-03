@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "KEP-06-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan tabel Penyusunan DPP pada masa transisi Coretax, Penyusunan DPP Kolaboratif untuk Pengawasan Kepatuhan Wajib Pajak sampai dengan Tahun Pajak 2024 (proses PKM) dilakukan melalui sistem...",
+    "opsi": {
+      "A": "Approweb",
+      "B": "Coretax",
+      "C": "SIDJP",
+      "D": "e-Faktur Web"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada baris 'Penyusunan DPP Kolaboratif untuk Pengawasan Kepatuhan WP s.d. Tahun Pajak 2024 → PKM', tanda centang tabel berada pada kolom Approweb, bukan kolom Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP Kolaboratif untuk Pengawasan Kepatuhan WP s.d. Tahun Pajak 2024 PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025", "Coretax"]
+  },
+  {
+    "id": "KEP-06-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Proses penyusunan DPP untuk Pengawasan Kepatuhan Wajib Pajak Tahun Pajak 2025 dan seterusnya, sebagaimana tabel transisi Coretax, menggunakan kombinasi proses...",
+    "opsi": {
+      "A": "PKM saja",
+      "B": "PPM dan PKM",
+      "C": "WRA dan PKM",
+      "D": "PPM saja"
+    },
+    "kunci": "B",
+    "pembahasan": "Baris 'Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst' menyebutkan proses PPM dan PKM, berbeda dari baris s.d. Tahun Pajak 2024 yang hanya PKM.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst PPM dan PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sistem yang digunakan untuk penyusunan DPP Pengawasan Kepatuhan WP Tahun Pajak 2025 dst (proses PPM dan PKM) berdasarkan tabel transisi Coretax adalah...",
+    "opsi": {
+      "A": "Approweb",
+      "B": "SIDJP",
+      "C": "Coretax",
+      "D": "Approweb dan SIDJP"
+    },
+    "kunci": "C",
+    "pembahasan": "Tanda centang pada baris DPP Tahun Pajak 2025 dst berada di kolom Coretax, bukan Approweb.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst PPM dan PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025", "Coretax"]
+  },
+  {
+    "id": "KEP-06-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tabel Penyusunan DPP (perbandingan Approweb vs Coretax) pada masa transisi penerapan Coretax memuat berapa kondisi/kategori penyusunan DPP?",
+    "opsi": {
+      "A": "2 kondisi",
+      "B": "3 kondisi",
+      "C": "5 kondisi",
+      "D": "4 kondisi"
+    },
+    "kunci": "D",
+    "pembahasan": "Tabel memuat 4 baris kondisi: DPP Kolaboratif s.d. TP2024, DPP TP2025 dst, DPP bersumber RBP s.d. TP2024, dan DPP bersumber RBP TP2025 dst.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Kondisi Approweb Coretax"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Account Representative memproses penyusunan DPP yang bersumber dari data Intelijen dan Penegakan Hukum (RBP) untuk seluruh Wajib Pajak terkait kepatuhan Tahun Pajak 2023. Sistem yang seharusnya digunakan adalah...",
+    "opsi": {
+      "A": "Approweb",
+      "B": "Coretax",
+      "C": "SIDJP",
+      "D": "Approweb dan Coretax"
+    },
+    "kunci": "A",
+    "pembahasan": "DPP bersumber KPD/Intelijen/Penegakan Hukum (RBP) untuk pengawasan kepatuhan WP s.d. Tahun Pajak 2024 (termasuk TP2023) diproses dengan PKM melalui Approweb.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP yang bersumber dari KPD, Intelijen, dan Penegakan Hukum (RBP) untuk pengawasan kepatuhan WP s.d. Tahun Pajak 2024 untuk seluruh WP PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025", "Approweb"]
+  },
+  {
+    "id": "KEP-06-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tim pengawasan akan menyusun DPP Kolaboratif untuk Pengawasan Kepatuhan WP Tahun Pajak 2025. Proses dan sistem yang tepat digunakan secara berurutan adalah...",
+    "opsi": {
+      "A": "PKM; Approweb",
+      "B": "PPM dan PKM; Coretax",
+      "C": "WRA; Legacy",
+      "D": "PPM; Approweb"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk Tahun Pajak 2025 dst, penyusunan DPP menggunakan proses PPM dan PKM yang dilakukan di Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst PPM dan PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025", "Coretax"]
+  },
+  {
+    "id": "KEP-06-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pernyataan berikut tentang tabel Penyusunan DPP (Approweb vs Coretax) pada masa transisi Coretax BENAR, KECUALI...",
+    "opsi": {
+      "A": "DPP Kolaboratif s.d. Tahun Pajak 2024 diproses di Approweb",
+      "B": "DPP Tahun Pajak 2025 dst diproses di Coretax",
+      "C": "DPP bersumber RBP s.d. Tahun Pajak 2024 diproses di Coretax",
+      "D": "DPP bersumber RBP Tahun Pajak 2025 dst diproses di Coretax"
+    },
+    "kunci": "C",
+    "pembahasan": "DPP yang bersumber dari RBP untuk pengawasan kepatuhan WP s.d. Tahun Pajak 2024 ditandai centang pada kolom Approweb, bukan Coretax; pernyataan C keliru.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP yang bersumber dari KPD, Intelijen, dan Penegakan Hukum (RBP) untuk pengawasan kepatuhan WP s.d. Tahun Pajak 2024 untuk seluruh WP PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Perubahan petunjuk tindak lanjut untuk mempercepat penyelesaian kegiatan pengawasan yang bersumber dari kegiatan RBP diatur dalam...",
+    "opsi": {
+      "A": "SE-05/PJ/2022",
+      "B": "PMK-111/2025",
+      "C": "ND-925/PJ.06/2025",
+      "D": "ND-927/PJ.06/2025"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan bahwa untuk percepatan penyelesaian tindak lanjut kegiatan pengawasan bersumber RBP, dilakukan perubahan petunjuk tindak lanjut dalam ND-927/PJ.06/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "dilakukan perubahan petunjuk tindak lanjut dalam ND-927/PJ.06/2025"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Perubahan petunjuk tindak lanjut dalam ND-927/PJ.06/2025 terkait data RBP dilatarbelakangi oleh tujuan untuk...",
+    "opsi": {
+      "A": "mempercepat penyelesaian tindak lanjut kegiatan pengawasan yang bersumber dari RBP",
+      "B": "mengganti seluruh proses pengawasan di Approweb dengan Coretax secara menyeluruh",
+      "C": "menghapus kewajiban penyusunan DPP Kolaboratif bagi seluruh Wajib Pajak terdaftar",
+      "D": "memindahkan seluruh data Wajib Pajak Nontunggal dari Coretax kembali ke sistem Legacy"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan tujuan perubahan adalah percepatan penyelesaian tindak lanjut kegiatan pengawasan yang bersumber dari kegiatan RBP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Untuk percepatan penyelesaian tindak lanjut kegiatan pengawasan yang bersumber dari kegiatan RBP"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Cakupan Wajib Pajak untuk baris 'Penyusunan DPP yang bersumber dari KPD, Intelijen, dan Penegakan Hukum (RBP) ... s.d. Tahun Pajak 2024' pada tabel adalah...",
+    "opsi": {
+      "A": "WP Tunggal saja",
+      "B": "seluruh WP",
+      "C": "WP Badan saja",
+      "D": "WP yang telah dikukuhkan PKP saja"
+    },
+    "kunci": "B",
+    "pembahasan": "Baris tersebut secara eksplisit menyebutkan cakupan 'untuk seluruh WP', berbeda dari baris DPP Kolaboratif yang tidak menyebutkan pembatasan serupa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "untuk pengawasan kepatuhan WP s.d. Tahun Pajak 2024 untuk seluruh WP PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dari 4 kondisi penyusunan DPP pada tabel transisi Coretax, berapa kondisi yang pemrosesannya melibatkan proses PPM?",
+    "opsi": {
+      "A": "1 kondisi",
+      "B": "3 kondisi",
+      "C": "2 kondisi",
+      "D": "4 kondisi"
+    },
+    "kunci": "C",
+    "pembahasan": "Proses PPM hanya muncul pada dua baris, yaitu DPP Tahun Pajak 2025 dst (kolaboratif) dan DPP bersumber RBP Tahun Pajak 2025 dst, keduanya berlabel 'PPM dan PKM'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst PPM dan PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Perbedaan utama antara baris 'DPP Kolaboratif s.d. Tahun Pajak 2024' dan baris 'DPP bersumber RBP s.d. Tahun Pajak 2024' pada tabel Penyusunan DPP adalah...",
+    "opsi": {
+      "A": "baris RBP diproses sepenuhnya di Coretax, sedangkan baris Kolaboratif diproses sepenuhnya di Approweb",
+      "B": "baris RBP menggunakan proses PPM dan PKM, sedangkan baris Kolaboratif hanya menggunakan proses PKM saja",
+      "C": "baris RBP hanya berlaku untuk Tahun Pajak 2025 dst, tidak mencakup periode s.d. Tahun Pajak 2024",
+      "D": "baris RBP menyebutkan sumber data KPD, Intelijen, dan Penegakan Hukum serta cakupan seluruh WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Baris RBP eksplisit menyebut sumber data dari KPD, Intelijen, dan Penegakan Hukum serta cakupan seluruh WP, sementara baris Kolaboratif tidak menyebutkan rincian tersebut; keduanya sama-sama diproses PKM di Approweb untuk periode s.d. Tahun Pajak 2024.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP yang bersumber dari KPD, Intelijen, dan Penegakan Hukum (RBP) untuk pengawasan kepatuhan WP s.d. Tahun Pajak 2024 untuk seluruh WP PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-013",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Untuk Tahun Pajak s.d. 2024, hasil Penelitian Kepatuhan Material atas data RBP Wajib Pajak Tunggal yang disetujui akan...",
+    "opsi": {
+      "A": "Setujui di Coretax dan menjadi DPP di Coretax",
+      "B": "Tolak di Coretax, kemudian usul DPP di Legacy",
+      "C": "Tolak di Coretax, lanjutkan WRA di Legacy",
+      "D": "Tidak dilanjutkan pada kegiatan pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada kolom WP Tunggal, baris Penelitian Kepatuhan Material S.D. 2024 menyatakan 'Setujui di Coretax dan menjadi DPP di Coretax'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Setujui di Coretax dan menjadi DPP di Coretax"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025", "Coretax"]
+  },
+  {
+    "id": "KEP-06-014",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Untuk Tahun Pajak s.d. 2024, data RBP Wajib Pajak Nontunggal hasil Penelitian Kepatuhan Material yang ditolak di Coretax, menurut ketentuan dalam ND-927/PJ.06/2025, akan...",
+    "opsi": {
+      "A": "menjadi DPP langsung di Coretax",
+      "B": "diusulkan sebagai DPP di Legacy",
+      "C": "dilanjutkan sebagai WRA di Legacy",
+      "D": "tidak dilanjutkan karena tidak men-generate potensi"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada kolom WP Nontunggal, baris Penelitian Kepatuhan Material S.D. 2024 menyatakan 'Tolak di Coretax, kemudian usul DPP di Legacy'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Tolak di Coretax, kemudian usul DPP di Legacy"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-015",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Alasan penolakan di Coretax yang dipilih ketika data RBP WP Nontunggal (Penelitian Kepatuhan Material, S.D. 2024) dilanjutkan sebagai usul DPP di Legacy adalah...",
+    "opsi": {
+      "A": "Potensi Perpajakan",
+      "B": "Data Tidak Valid",
+      "C": "Ditindaklanjuti di Legacy",
+      "D": "Wider Revenue Activity"
+    },
+    "kunci": "C",
+    "pembahasan": "Pilihan alasan penolakan untuk skenario tersebut adalah 'Ditindaklanjuti di Legacy', sebagaimana tercantum dalam tabel.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "(Pilihan alasan penolakan \"Ditindaklanjuti di Legacy\")"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-016",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada Tahun Pajak 2023, ditemukan data RBP kategori Wider Revenue Activity (WRA) untuk WP Tunggal. Berdasarkan tabel ND-927/PJ.06/2025, tindak lanjut yang tepat adalah...",
+    "opsi": {
+      "A": "Setujui di Coretax dan menjadi DPP di Coretax",
+      "B": "Tolak di Coretax dengan alasan Potensi Perpajakan",
+      "C": "Tidak dilanjutkan pada kegiatan pengawasan",
+      "D": "Tolak di Coretax, lanjutkan WRA di Legacy"
+    },
+    "kunci": "D",
+    "pembahasan": "Untuk kategori WRA pada Tahun Pajak s.d. 2024, baik WP Tunggal maupun Nontunggal, tindak lanjutnya adalah menolak di Coretax lalu melanjutkan WRA di Legacy.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Tolak di Coretax, lanjutkan WRA di Legacy"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-017",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pernyataan berikut tentang perlakuan data RBP kategori Wider Revenue Activity (WRA) untuk Tahun Pajak S.D. 2024 BENAR, KECUALI...",
+    "opsi": {
+      "A": "WRA langsung disetujui dan menjadi DPP di Coretax",
+      "B": "WRA WP Tunggal ditolak di Coretax lalu dilanjutkan di Legacy",
+      "C": "WRA WP Nontunggal ditolak di Coretax lalu dilanjutkan di Legacy",
+      "D": "alasan penolakan WRA di Coretax adalah 'Ditindaklanjuti di Legacy'"
+    },
+    "kunci": "A",
+    "pembahasan": "WRA tidak pernah langsung disetujui/menjadi DPP di Coretax; baik WP Tunggal maupun Nontunggal, WRA ditolak di Coretax dan dilanjutkan di Legacy.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Tolak di Coretax, lanjutkan WRA di Legacy"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-018",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data RBP yang tidak men-generate potensi (Tahun Pajak S.D. 2024) akan ditolak di Coretax dengan alasan penolakan...",
+    "opsi": {
+      "A": "Ditindaklanjuti di Legacy",
+      "B": "Potensi Perpajakan",
+      "C": "Wider Revenue Activity",
+      "D": "Data Tidak Lengkap"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk kategori 'Tidak Dilanjutkan pada Kegiatan Pengawasan (data tidak men-generate potensi)', alasan penolakan di Coretax adalah 'Potensi Perpajakan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "(Pilihan alasan penolakan \"Potensi Perpajakan\")"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-019",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sejak Tahun Pajak 2025, hasil Penelitian Kepatuhan Material atas data RBP untuk WP Tunggal maupun WP Nontunggal yang disetujui, sama-sama akan...",
+    "opsi": {
+      "A": "diusulkan sebagai DPP di Legacy",
+      "B": "dilanjutkan sebagai WRA di Legacy",
+      "C": "disetujui di Coretax dan menjadi DPP di Coretax",
+      "D": "ditolak dengan alasan Potensi Perpajakan"
+    },
+    "kunci": "C",
+    "pembahasan": "Sejak Tahun Pajak 2025, baik WP Tunggal maupun Nontunggal yang disetujui pada Penelitian Kepatuhan Material sama-sama langsung menjadi DPP di Coretax, tanpa perbedaan segmentasi seperti pada periode S.D. 2024.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "SEJAK 2025 Penelitian Kepatuhan Material Setujui di Coretax dan menjadi DPP di Coretax"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-020",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dibandingkan dengan data RBP WP Nontunggal hasil Penelitian Kepatuhan Material Tahun Pajak 2023 (S.D. 2024) yang disetujui, perbedaan perlakuan untuk data sejenis pada Tahun Pajak 2025 adalah...",
+    "opsi": {
+      "A": "TP2025 tetap diusulkan sebagai DPP di Legacy sebagaimana perlakuan WP Nontunggal pada TP2023",
+      "B": "TP2025 dialihkan ke kategori Wider Revenue Activity (WRA) dan diproses lebih lanjut di Legacy",
+      "C": "TP2025 ditolak di Coretax dengan alasan penolakan Potensi Perpajakan dan tidak dilanjutkan",
+      "D": "TP2025 langsung disetujui dan menjadi DPP di Coretax, tanpa usul DPP di Legacy"
+    },
+    "kunci": "D",
+    "pembahasan": "Untuk TP2023 (S.D. 2024), WP Nontunggal yang disetujui pada Penelitian Kepatuhan Material tetap ditolak di Coretax dan diusulkan DPP di Legacy; sedangkan sejak TP2025, WP Nontunggal yang disetujui langsung menjadi DPP di Coretax tanpa proses usul ke Legacy.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "SEJAK 2025 Penelitian Kepatuhan Material Setujui di Coretax dan menjadi DPP di Coretax"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-021",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa pilihan tindak lanjut (kategori) yang tersedia untuk data RBP Tahun Pajak S.D. 2024 pada tabel ND-927/PJ.06/2025?",
+    "opsi": {
+      "A": "3 pilihan",
+      "B": "2 pilihan",
+      "C": "4 pilihan",
+      "D": "5 pilihan"
+    },
+    "kunci": "A",
+    "pembahasan": "Untuk Tahun Pajak S.D. 2024 tersedia 3 pilihan tindak lanjut: Penelitian Kepatuhan Material, Wider Revenue Activity (WRA), dan Tidak Dilanjutkan pada Kegiatan Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Penelitian Kepatuhan Material Wider Revenue Activity (WRA) Tidak Dilanjutkan pada Kegiatan Pengawasan"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-022",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa pilihan tindak lanjut yang tersedia untuk data RBP sejak Tahun Pajak 2025 pada tabel ND-927/PJ.06/2025?",
+    "opsi": {
+      "A": "3 pilihan",
+      "B": "2 pilihan",
+      "C": "1 pilihan",
+      "D": "4 pilihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Sejak Tahun Pajak 2025 hanya tersedia 2 pilihan tindak lanjut, yaitu Penelitian Kepatuhan Material dan Tidak Dilanjutkan pada Kegiatan Pengawasan; kategori WRA tidak lagi muncul.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "SEJAK 2025 Penelitian Kepatuhan Material Tidak Dilanjutkan pada Kegiatan Pengawasan"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-023",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Alasan penolakan di Coretax untuk kategori 'Tidak Dilanjutkan pada Kegiatan Pengawasan' baik pada periode S.D. 2024 maupun sejak 2025 adalah sama, yaitu...",
+    "opsi": {
+      "A": "Ditindaklanjuti di Legacy",
+      "B": "Data Belum Lengkap",
+      "C": "Potensi Perpajakan",
+      "D": "Wider Revenue Activity"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada kedua periode, alasan penolakan untuk kategori data yang tidak men-generate potensi konsisten menggunakan 'Potensi Perpajakan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "(Pilihan alasan penolakan \"Potensi Perpajakan\")"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-024",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tabel perubahan tindak lanjut data RBP berdasarkan segmentasi WP Tunggal/Nontunggal dan Tahun Pajak merupakan bagian dari ketentuan...",
+    "opsi": {
+      "A": "PMK-111/2025",
+      "B": "SE-05/PJ/2022",
+      "C": "PMK-81/2024",
+      "D": "ND-927/PJ.06/2025"
+    },
+    "kunci": "D",
+    "pembahasan": "Tabel tersebut berjudul 'Perubahan Tindak Lanjut Data RBP dalam ND-927/PJ.06/2025'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Perubahan Tindak Lanjut Data RBP dalam ND-927/PJ.06/2025"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-025",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Ciri yang membedakan perlakuan kategori Penelitian Kepatuhan Material antara periode S.D. 2024 dan SEJAK 2025 adalah...",
+    "opsi": {
+      "A": "Pada S.D. 2024, WP Nontunggal ditolak dan diusulkan DPP di Legacy; sejak 2025, WP Nontunggal langsung disetujui dan menjadi DPP di Coretax",
+      "B": "Pada S.D. 2024, WP Tunggal ditolak di Coretax dan dialihkan sebagai WRA di Legacy, sedangkan sejak 2025 WP Tunggal otomatis ditolak",
+      "C": "Kategori Penelitian Kepatuhan Material pada kedua periode hanya berlaku untuk WP Tunggal, tidak pernah mencakup WP Nontunggal",
+      "D": "Pada SEJAK 2025, seluruh data RBP baik WP Tunggal maupun Nontunggal otomatis ditolak dengan alasan Potensi Perpajakan tanpa pengecualian"
+    },
+    "kunci": "A",
+    "pembahasan": "Perbedaan utama terletak pada perlakuan WP Nontunggal: pada S.D. 2024 ditolak di Coretax dan diusulkan DPP di Legacy, sedangkan sejak 2025 langsung disetujui dan menjadi DPP di Coretax, sama seperti WP Tunggal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "Tolak di Coretax, kemudian usul DPP di Legacy"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-026",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Jika dihitung dari kombinasi Tahun Pajak x Pilihan Tindak Lanjut x Segmentasi WP pada tabel ND-927/PJ.06/2025 (S.D. 2024: 3 pilihan tindak lanjut, SEJAK 2025: 2 pilihan tindak lanjut, masing-masing x 2 segmentasi), berapa total sel keterangan tindak lanjut yang ditampilkan?",
+    "opsi": {
+      "A": "8 sel",
+      "B": "10 sel",
+      "C": "12 sel",
+      "D": "6 sel"
+    },
+    "kunci": "B",
+    "pembahasan": "S.D. 2024 memiliki 3 pilihan tindak lanjut x 2 segmentasi = 6 sel, dan SEJAK 2025 memiliki 2 pilihan tindak lanjut x 2 segmentasi = 4 sel, sehingga totalnya 6 + 4 = 10 sel keterangan tindak lanjut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 36,
+        "kutipan": "TAHUN PAJAK PILIHAN TINDAK LANJUT SEGMENTASI WP TUNGGAL WP NONTUNGGAL"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-027",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penelitian Kepatuhan Formal untuk seluruh WP atas kewajiban s.d. Tahun Pajak 2024 serta Masa Desember s.d. 2024 dilakukan melalui proses...",
+    "opsi": {
+      "A": "PPM",
+      "B": "WRA",
+      "C": "PKM",
+      "D": "PnKF"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan 'Seluruh WP atas kewajiban s.d. Tahun Pajak 2024 serta Masa Des s.d. 2024 → PKM'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 37,
+        "kutipan": "Seluruh WP atas kewajiban s.d. Tahun Pajak 2024 serta Masa Des s.d. 2024 PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-028",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penelitian Kepatuhan Formal dengan proses PKM (untuk kewajiban s.d. Tahun Pajak 2024) pada dasarnya dilakukan di sistem...",
+    "opsi": {
+      "A": "hanya Coretax",
+      "B": "hanya SIDJP",
+      "C": "Approweb dan Coretax",
+      "D": "Approweb dan SIDJP"
+    },
+    "kunci": "D",
+    "pembahasan": "Panah dari kotak PKM menuju logo Approweb dan keterangan 'SIDJP, kecuali:' menunjukkan proses ini dilakukan di Approweb dan SIDJP, kecuali kriteria STP tertentu yang tetap ke Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 37,
+        "kutipan": "APPROWEB & SIDJP, kecuali:"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-029",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penelitian Kepatuhan Formal untuk kewajiban perpajakan Tahun Pajak 2025 dst serta Masa Januari 2025 dst menggunakan proses...",
+    "opsi": {
+      "A": "PPM",
+      "B": "PKM",
+      "C": "WRA",
+      "D": "PnKM"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan 'Kewajiban perpajakan Tahun Pajak 2025 dst. serta Masa Januari 2025 dst → PPM', yang kemudian diproses di Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 37,
+        "kutipan": "Kewajiban perpajakan Tahun Pajak 2025 dst. serta Masa Januari 2025 dst PPM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-030",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Terlepas dari Tahun Pajaknya, penerbitan STP untuk kriteria Bea Meterai dan PBB tetap diproses melalui sistem...",
+    "opsi": {
+      "A": "Approweb",
+      "B": "Coretax",
+      "C": "SIDJP",
+      "D": "Legacy"
+    },
+    "kunci": "B",
+    "pembahasan": "Kriteria STP Bea Meterai dan PBB termasuk dalam pengecualian yang 'Untuk seluruh Tahun Pajak' tetap diarahkan ke Coretax, sebagaimana digambarkan pada diagram.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 37,
+        "kutipan": "Kriteria STP: Bea Meterai dan PBB; Untuk seluruh Tahun Pajak"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-031",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk kriteria STP yang tetap diproses melalui Coretax untuk seluruh Tahun Pajak pada Penelitian Kepatuhan Formal, KECUALI...",
+    "opsi": {
+      "A": "Bea Meterai dan PBB",
+      "B": "Imbalan bunga yang Seharusnya Tidak Diberikan",
+      "C": "STP atas keterlambatan pelaporan SPT Masa PPN",
+      "D": "Denda Penagihan Pasal 25 ayat (9) yang keberatannya disampaikan menggunakan Coretax"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria STP yang disebutkan pada diagram hanya mencakup Bea Meterai dan PBB; Imbalan bunga yang Seharusnya Tidak Diberikan; serta Denda Penagihan Pasal 25 ayat (9), Pasal 27 ayat (5d) dan (5f) yang keberatannya disampaikan menggunakan Coretax. STP keterlambatan pelaporan SPT Masa PPN tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 37,
+        "kutipan": "Bea Meterai dan PBB; Imbalan bunga yang Seharusnya Tidak Diberikan; Denda Penagihan Pasal 25 ayat (9)"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-032",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Permohonan keberatan WP diajukan melalui Legacy, namun Putusan Upaya Hukum Terakhir serta Aplikasi Penerbitan STP menggunakan Coretax. Berdasarkan tabel Perubahan Penerbitan STP Denda Penagihan (skenario No.2), penerbitan STP dilakukan dengan cara...",
+    "opsi": {
+      "A": "sepenuhnya mengikuti prosedur legacy tanpa keterlibatan sistem Coretax sama sekali untuk seluruh tahapan penerbitan",
+      "B": "ditangguhkan terlebih dahulu sampai seluruh data keberatan tersedia kembali di sistem Legacy secara lengkap",
+      "C": "dialihkan kembali sepenuhnya ke Legacy karena permohonan keberatan semula diajukan melalui sistem Legacy",
+      "D": "melalui Coretax menggunakan daftar nominatif yang tersedia, atau manual case bila dafnom STP belum tersedia"
+    },
+    "kunci": "D",
+    "pembahasan": "Skenario No.2 (Keberatan=Legacy, Putusan=Coretax, Aplikasi=Coretax) menerbitkan STP melalui Coretax dengan daftar nominatif yang tersedia, atau melalui pembangkitan manual case di Coretax apabila dafnom STP belum tersedia.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 38,
+        "kutipan": "Penerbitan STP dilakukan melalui Coretax dengan daftar nominatif yang tersedia"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-033",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Permohonan Keberatan, Putusan Upaya Hukum Terakhir, dan Aplikasi Penerbitan STP seluruhnya menggunakan Legacy (skenario No.1), maka penerbitan STP dilakukan...",
+    "opsi": {
+      "A": "sesuai prosedur legacy",
+      "B": "melalui Coretax dengan daftar nominatif",
+      "C": "melalui pembangkitan manual case di Coretax",
+      "D": "ditangguhkan sampai Coretax siap"
+    },
+    "kunci": "A",
+    "pembahasan": "Skenario No.1 pada tabel menyatakan 'Penerbitan STP dilakukan sesuai prosedur legacy' karena ketiga aspek (keberatan, putusan, aplikasi) seluruhnya di Legacy.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 38,
+        "kutipan": "Penerbitan STP dilakukan sesuai prosedur legacy"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-034",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tabel Perubahan Penerbitan STP Denda Penagihan dalam ND-927/PJ.06/2025 memuat berapa skenario kombinasi Permohonan Keberatan - Putusan Upaya Hukum Terakhir - Aplikasi Penerbitan STP?",
+    "opsi": {
+      "A": "2 skenario",
+      "B": "3 skenario",
+      "C": "4 skenario",
+      "D": "5 skenario"
+    },
+    "kunci": "B",
+    "pembahasan": "Tabel memuat 3 skenario bernomor 1 sampai 3.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 38,
+        "kutipan": "No. Permohonan Keberatan Putusan Upaya Hukum Terakhir Aplikasi Penerbitan STP"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-035",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Permohonan keberatan dan Putusan Upaya Hukum Terakhir suatu WP sama-sama diajukan/diputus melalui Coretax, dengan Aplikasi Penerbitan STP juga di Coretax (skenario No.3). Teknis pelaksanaan penerbitan STP-nya adalah...",
+    "opsi": {
+      "A": "sepenuhnya mengikuti prosedur legacy karena seluruh prosesnya dianggap setara dengan skenario No.1",
+      "B": "ditolak di Coretax dan dialihkan sepenuhnya ke Legacy sebagaimana skenario WP Nontunggal pada data RBP",
+      "C": "melalui Coretax menggunakan daftar nominatif yang tersedia, atau manual case apabila dafnom STP belum tersedia",
+      "D": "menunggu penerbitan dafnom STP secara manual di Legacy sebelum STP dapat diterbitkan melalui Coretax"
+    },
+    "kunci": "C",
+    "pembahasan": "Skenario No.3 (Keberatan=Coretax, Putusan=Coretax, Aplikasi=Coretax) memiliki teknis pelaksanaan yang sama dengan skenario No.2, yaitu melalui Coretax dengan daftar nominatif, atau pembangkitan manual case di Coretax jika dafnom STP belum tersedia.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 38,
+        "kutipan": "Penerbitan STP dilakukan melalui Coretax dengan daftar nominatif yang tersedia"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-036",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Perubahan penerbitan STP Denda Penagihan serta penyesuaian petunjuk tindak lanjut terkait Keputusan Keberatan, SP2B, dan SP2PK pasca implementasi Coretax tanggal 1 Januari 2025 diatur melalui...",
+    "opsi": {
+      "A": "SE-05/PJ/2022",
+      "B": "PMK-111/2025",
+      "C": "PMK-81/2024",
+      "D": "ND-927/PJ.06/2025"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan bahwa mengingat kondisi terkini terkait penerbitan Keputusan Keberatan, SP2B, atau SP2PK setelah implementasi Coretax tanggal 1 Januari 2025, dilakukan perubahan petunjuk tindak lanjut dalam ND-927/PJ.06/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 37,
+        "kutipan": "setelah implementasi Coretax tanggal 1 Januari 2025, maka dilakukan perubahan petunjuk tindak lanjut dalam ND-927/PJ.06/2025"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-037",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Pengaturan Pola Kerja WP Cabang & Skema Penugasan Tim Pengawasan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pengawasan atas Wajib Pajak Cabang hingga Tahun Pajak 2024 serta Masa Pajak s.d. Desember 2024 dilakukan oleh petugas yang memiliki tugas dan fungsi...",
+    "opsi": {
+      "A": "yang sama dengan petugas yang melakukan pengawasan kepada Wajib Pajak Pusat",
+      "B": "khusus pengawasan Wajib Pajak Cabang di KPP Lokasi",
+      "C": "pemeriksaan pajak di KPP Pusat",
+      "D": "penagihan pajak di KPP Lokasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan pengawasan WP Cabang pada periode tersebut dilakukan oleh petugas yang memiliki tugas dan fungsi yang sama dengan petugas yang melakukan pengawasan kepada Wajib Pajak Pusat.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 39,
+        "kutipan": "Dilakukan oleh petugas yang memiliki tugas dan fungsi yang sama dengan petugas yang melakukan pengawasan kepada Wajib Pajak Pusat"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-038",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Pengaturan Pola Kerja WP Cabang & Skema Penugasan Tim Pengawasan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Tindak lanjut pengawasan atas Wajib Pajak Cabang di KPP Lokasi dilakukan oleh petugas yang memiliki tugas dan fungsi pengawasan di...",
+    "opsi": {
+      "A": "KPP Lokasi sesuai administrasi WP Cabang",
+      "B": "KPP Pusat sesuai dengan administrasi Wajib Pajak Pusat",
+      "C": "Kantor Wilayah sesuai wilayah kerja",
+      "D": "Kantor Pusat DJP sesuai kebijakan nasional"
+    },
+    "kunci": "B",
+    "pembahasan": "Tindak lanjut pengawasan WP Cabang di KPP Lokasi dilakukan oleh petugas yang memiliki tugas dan fungsi pengawasan di KPP Pusat sesuai dengan administrasi Wajib Pajak Pusat.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 39,
+        "kutipan": "Dilakukan oleh petugas yang memiliki tugas dan fungsi pengawasan di KPP Pusat sesuai dengan administrasi Wajib Pajak Pusat"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-039",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Pengaturan Pola Kerja WP Cabang & Skema Penugasan Tim Pengawasan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Pengaturan pola kerja pengawasan WP Cabang hingga Tahun Pajak 2024, baik dari sisi pengawasan maupun tindak lanjutnya di KPP Lokasi, bermuara pada sistem...",
+    "opsi": {
+      "A": "Coretax",
+      "B": "SIDJP",
+      "C": "Approweb",
+      "D": "Legacy"
+    },
+    "kunci": "C",
+    "pembahasan": "Kedua jalur (pengawasan WP Cabang dan tindak lanjutnya di KPP Lokasi) pada diagram sama-sama diarahkan ke Approweb.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 39,
+        "kutipan": "APPROWEB"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-040",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Pengaturan Pola Kerja WP Cabang & Skema Penugasan Tim Pengawasan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan Skema Penugasan, Format Penugasan Tim untuk Penelitian Kepatuhan Material di Coretax terdiri dari berapa unsur?",
+    "opsi": {
+      "A": "1 unsur",
+      "B": "2 unsur",
+      "C": "4 unsur",
+      "D": "3 unsur"
+    },
+    "kunci": "D",
+    "pembahasan": "Format Penugasan Tim Penelitian Kepatuhan Material terdiri dari 3 unsur: Kepala Seksi (Supervisor), 1 Ketua (AR), dan Anggota (AR).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 40,
+        "kutipan": "Format Penugasan Tim: 1. Kepala Seksi (Supervisor), 2. 1 Ketua (AR), 3. Anggota (AR)."
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-041",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Pengaturan Pola Kerja WP Cabang & Skema Penugasan Tim Pengawasan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Dalam Format Penugasan Tim Penelitian Kepatuhan Material di Coretax, berikut termasuk unsur penugasan, KECUALI...",
+    "opsi": {
+      "A": "Kepala Kantor Wilayah",
+      "B": "Kepala Seksi (Supervisor)",
+      "C": "1 Ketua (AR)",
+      "D": "Anggota (AR)"
+    },
+    "kunci": "A",
+    "pembahasan": "Format Penugasan Tim Penelitian Kepatuhan Material hanya terdiri dari Kepala Seksi (Supervisor), 1 Ketua (AR), dan Anggota (AR); Kepala Kantor Wilayah tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 40,
+        "kutipan": "Format Penugasan Tim: 1. Kepala Seksi (Supervisor), 2. 1 Ketua (AR), 3. Anggota (AR)."
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-042",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Proses Bisnis Pengawasan cfm PMK-111/2025, Pengawasan terbagi menjadi berapa jalur utama berdasarkan status pendaftaran dan cakupan wilayah Wajib Pajak?",
+    "opsi": {
+      "A": "2 jalur",
+      "B": "3 jalur",
+      "C": "4 jalur",
+      "D": "5 jalur"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan 3 jalur utama Pengawasan: WP Terdaftar, WP Belum Terdaftar, dan Pengawasan Wilayah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Pengawasan WP Terdaftar WP Belum Terdaftar Pengawasan Wilayah"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-043",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Terhadap WP Terdaftar, Proses Bisnis Pengawasan cfm PMK-111/2025 menyediakan tiga produk tindak lanjut, yaitu...",
+    "opsi": {
+      "A": "Surat Teguran, Surat Paksa, dan SPMP",
+      "B": "SP2DK, SKPKB, dan STP",
+      "C": "SP2DK, Surat Imbauan, dan Surat Teguran",
+      "D": "Surat Imbauan, SPHP, dan LHP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada cabang WP Terdaftar, diagram menampilkan tiga kotak: SP2DK, Surat Imbauan, dan Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "WP Terdaftar SP2DK Surat Imbauan Surat Teguran"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-044",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pengawasan terhadap WP yang Belum Terdaftar pada Proses Bisnis Pengawasan cfm PMK-111/2025 dilakukan melalui...",
+    "opsi": {
+      "A": "Surat Teguran",
+      "B": "Surat Imbauan",
+      "C": "SP2DK saja",
+      "D": "SP2DK - SPHPP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada cabang WP Belum Terdaftar, diagram menampilkan alur SP2DK - SPHPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "WP Belum Terdaftar SP2DK - SPHPP"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-045",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu aspek kewajiban yang mendasari penerbitan Surat Imbauan menurut Proses Bisnis Pengawasan cfm PMK-111/2025 adalah...",
+    "opsi": {
+      "A": "pengukuhan sebagai Pengusaha Kena Pajak",
+      "B": "pembetulan Surat Pemberitahuan",
+      "C": "keberatan atas ketetapan pajak",
+      "D": "permohonan pengurangan sanksi administrasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Salah satu dari enam kotak aspek kewajiban di bawah Surat Imbauan adalah 'pengukuhan sebagai Pengusaha Kena Pajak'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "pengukuhan sebagai Pengusaha Kena Pajak"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-046",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk aspek kewajiban yang mendasari penerbitan Surat Imbauan menurut Proses Bisnis Pengawasan cfm PMK-111/2025, KECUALI...",
+    "opsi": {
+      "A": "pembayaran dan/atau penyetoran pajak",
+      "B": "pengenaan sanksi pidana di bidang perpajakan",
+      "C": "pelaporan pajak",
+      "D": "layanan dan/atau fasilitas perpajakan yang diterima dan/atau dimiliki oleh Wajib Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Keenam aspek kewajiban dasar Surat Imbauan adalah pengukuhan PKP, pembayaran/penyetoran pajak, pelaporan pajak, angsuran pajak tahun berjalan, layanan/fasilitas perpajakan, dan kewajiban/ketentuan formal perpajakan; pengenaan sanksi pidana tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "pembayaran dan/atau penyetoran pajak pelaporan pajak"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-047",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP Terdaftar diketahui tidak menyampaikan SPT sesuai batas waktu. Berdasarkan Proses Bisnis Pengawasan cfm PMK-111/2025, tindak lanjut yang sesuai adalah penerbitan...",
+    "opsi": {
+      "A": "SP2DK",
+      "B": "Surat Imbauan",
+      "C": "Surat Teguran",
+      "D": "SPHPP"
+    },
+    "kunci": "C",
+    "pembahasan": "Dasar penerbitan Surat Teguran pada diagram mencakup 'SPT tidak disampaikan sesuai batas waktu'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "SPT tidak disampaikan sesuai batas waktu"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-048",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dasar penerbitan Surat Teguran menurut Proses Bisnis Pengawasan cfm PMK-111/2025, selain SPT yang tidak disampaikan sesuai batas waktu, adalah...",
+    "opsi": {
+      "A": "permohonan restitusi kelebihan pembayaran pajak yang diajukan Wajib Pajak",
+      "B": "keberatan atas ketetapan pajak yang belum diputus oleh Direktorat Jenderal Pajak",
+      "C": "pengukuhan sebagai Pengusaha Kena Pajak yang belum diajukan oleh Wajib Pajak",
+      "D": "pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Dasar kedua penerbitan Surat Teguran pada diagram adalah 'pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-049",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa dasar/kriteria penerbitan Surat Teguran pada Proses Bisnis Pengawasan cfm PMK-111/2025?",
+    "opsi": {
+      "A": "2 dasar",
+      "B": "3 dasar",
+      "C": "4 dasar",
+      "D": "1 dasar"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada diagram, cabang Surat Teguran memiliki 2 dasar: SPT tidak disampaikan sesuai batas waktu, dan pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Surat Teguran SPT tidak disampaikan sesuai batas waktu pelaksanaan ketentuan peraturan perundang-undangan"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-050",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa aspek kewajiban yang menjadi dasar penerbitan Surat Imbauan pada Proses Bisnis Pengawasan cfm PMK-111/2025?",
+    "opsi": {
+      "A": "5 aspek",
+      "B": "6 aspek",
+      "C": "4 aspek",
+      "D": "7 aspek"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menampilkan 6 kotak aspek kewajiban di bawah Surat Imbauan: pengukuhan PKP, pembayaran/penyetoran pajak, pelaporan pajak, angsuran pajak tahun berjalan, layanan/fasilitas perpajakan, dan kewajiban/ketentuan formal perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Surat Imbauan pengukuhan sebagai Pengusaha Kena Pajak pembayaran dan/atau penyetoran pajak pelaporan pajak"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-051",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kegiatan Pengumpulan Data dalam Pengawasan Wilayah menurut Proses Bisnis Pengawasan cfm PMK-111/2025 dilakukan antara lain melalui...",
+    "opsi": {
+      "A": "penerbitan STP dan SKPKB sebagai produk akhir kegiatan pengumpulan data di wilayah",
+      "B": "wawancara dan pemeriksaan bukti permulaan terhadap Wajib Pajak yang disasar secara khusus",
+      "C": "pengamatan kegiatan ekonomi, wawancara, geotagging, dan pengambilan gambar",
+      "D": "penyegelan tempat usaha dan penyitaan barang bergerak maupun tidak bergerak milik Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Kegiatan Pengumpulan Data pada jalur Pengawasan Wilayah dijelaskan melalui pengamatan kegiatan ekonomi, wawancara, geotagging, dan pengambilan gambar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Pengamatan kegiatan ekonomi, Wawancara, geotagging, pengambilan gambar"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-052",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk metode Kegiatan Pengumpulan Data dalam jalur Pengawasan Wilayah menurut Proses Bisnis Pengawasan cfm PMK-111/2025, KECUALI...",
+    "opsi": {
+      "A": "pengamatan kegiatan ekonomi",
+      "B": "wawancara",
+      "C": "geotagging",
+      "D": "pemeriksaan bukti permulaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Metode Kegiatan Pengumpulan Data yang disebutkan hanya pengamatan kegiatan ekonomi, wawancara, geotagging, dan pengambilan gambar; pemeriksaan bukti permulaan bukan bagian dari Pengawasan Wilayah pada diagram ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Pengamatan kegiatan ekonomi, Wawancara, geotagging, pengambilan gambar"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-053",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Petugas pajak melakukan kunjungan ke suatu wilayah untuk mengamati kegiatan ekonomi dan melakukan geotagging tanpa menyasar WP tertentu yang telah terdaftar. Berdasarkan Proses Bisnis Pengawasan cfm PMK-111/2025, kegiatan ini termasuk dalam jalur...",
+    "opsi": {
+      "A": "Pengawasan Wilayah (Kegiatan Pengumpulan Data)",
+      "B": "Pengawasan WP Terdaftar (Surat Imbauan)",
+      "C": "Pengawasan WP Belum Terdaftar (SP2DK-SPHPP)",
+      "D": "Pengawasan WP Terdaftar (Surat Teguran)"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengamatan kegiatan ekonomi dan geotagging merupakan metode Kegiatan Pengumpulan Data pada jalur Pengawasan Wilayah, bukan jalur WP Terdaftar atau WP Belum Terdaftar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Pengawasan Wilayah Kegiatan Pengumpulan Data"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-054",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Proses Bisnis Pengawasan yang membedakan penanganan WP Terdaftar, WP Belum Terdaftar, dan Pengawasan Wilayah ini mengacu pada ketentuan...",
+    "opsi": {
+      "A": "ND-927/PJ.06/2025",
+      "B": "PMK-111/2025",
+      "C": "SE-05/PJ/2022",
+      "D": "PMK-81/2024"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul diagram secara eksplisit menyatakan 'Proses Bisnis Pengawasan cfm PMK-111/2025'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Proses Bisnis Pengawasan cfm PMK-111/2025"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-055",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Aspek kewajiban 'angsuran pajak dalam tahun pajak berjalan' yang menjadi dasar penerbitan Surat Imbauan menurut Proses Bisnis Pengawasan cfm PMK-111/2025 secara spesifik merujuk pada angsuran yang...",
+    "opsi": {
+      "A": "dipungut oleh pihak ketiga",
+      "B": "ditangguhkan oleh Kantor Pelayanan Pajak",
+      "C": "harus dibayar sendiri oleh Wajib Pajak",
+      "D": "dikompensasikan ke tahun pajak berikutnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram merinci aspek tersebut sebagai 'angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak"
+      }
+    ],
+    "tags": ["PMK-111/2025"]
+  },
+  {
+    "id": "KEP-06-056",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa kolom sistem yang diperbandingkan pada tabel Penyusunan DPP (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst) masa transisi Coretax?",
+    "opsi": {
+      "A": "1 kolom",
+      "B": "3 kolom",
+      "C": "4 kolom",
+      "D": "2 kolom"
+    },
+    "kunci": "D",
+    "pembahasan": "Tabel Penyusunan DPP membandingkan dua sistem, yaitu Approweb dan Coretax, sebagaimana tercermin pada dua kolom terakhir tabel di samping kolom Kondisi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Kondisi Approweb Coretax"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-057",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dibandingkan dengan baris 'Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst', baris 'Penyusunan DPP yang bersumber dari KPD, Intelijen, dan Penegakan Hukum (RBP) ... Tahun Pajak 2025 dst' memiliki persamaan dalam hal...",
+    "opsi": {
+      "A": "proses (PPM dan PKM) dan sistem (Coretax) yang digunakan",
+      "B": "cakupan WP yang dibatasi hanya WP Tunggal",
+      "C": "sumber data yang sama-sama berasal dari RBP",
+      "D": "keduanya tetap diproses di Approweb"
+    },
+    "kunci": "A",
+    "pembahasan": "Baik DPP Kolaboratif maupun DPP bersumber RBP untuk Tahun Pajak 2025 dst sama-sama menggunakan proses PPM dan PKM yang dilakukan di Coretax; perbedaannya hanya pada sumber datanya (RBP berasal dari KPD, Intelijen, dan Penegakan Hukum).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst PPM dan PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  },
+  {
+    "id": "KEP-06-058",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Secara keseluruhan, pada periode s.d. Tahun Pajak 2024, seluruh proses penyusunan DPP (baik Kolaboratif maupun bersumber RBP) pada tabel transisi Coretax dilakukan melalui sistem...",
+    "opsi": {
+      "A": "Coretax",
+      "B": "Approweb",
+      "C": "SIDJP",
+      "D": "Legacy"
+    },
+    "kunci": "B",
+    "pembahasan": "Baik baris DPP Kolaboratif maupun DPP bersumber RBP untuk periode s.d. Tahun Pajak 2024 sama-sama ditandai centang pada kolom Approweb, bukan Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 35,
+        "kutipan": "Penyusunan DPP Kolaboratif untuk Pengawasan Kepatuhan WP s.d. Tahun Pajak 2024 PKM"
+      }
+    ],
+    "tags": ["ND-927/PJ.06/2025"]
+  }
+]

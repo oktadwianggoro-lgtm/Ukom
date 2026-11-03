@@ -1,0 +1,1971 @@
+[
+  {
+    "id": "ADV-0001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Kewajiban vs Pilihan Pengukuhan PKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut diagram alur pengukuhan PKP, kategori pengusaha manakah yang 'dapat memilih' untuk dikukuhkan sebagai PKP, bukan diwajibkan?",
+    "opsi": {
+      "A": "Pengusaha yang terdaftar di KPP lokasi",
+      "B": "Pengusaha yang melakukan penyerahan dan/atau ekspor sesuai UU PPN",
+      "C": "Pengusaha yang telah memiliki NPWP",
+      "D": "Pengusaha kecil sesuai batasan penetapan Menteri Keuangan"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam diagram, 'Pengusaha kecil sesuai batasan penetapan Menkeu' dan 'Pengusaha sejak semula bermaksud melakukan penyerahan dan/atau ekspor' dihubungkan ke jalur 'dapat memilih'. Sementara pengusaha yang melakukan penyerahan dan/atau ekspor sesuai UU PPN berada pada jalur 'wajib'. Pilihan lain (kepemilikan NPWP, tempat terdaftar) tidak disebutkan dalam materi sebagai dasar pembeda wajib/dapat memilih.",
+    "sumber": [
+      {
+        "kutipan": "Pengusaha kecil sesuai batasan penetapan Menkeu",
+        "pdf": "B",
+        "halaman": 12
+      },
+      {
+        "kutipan": "dapat memilih",
+        "pdf": "B",
+        "halaman": 12
+      }
+    ],
+    "tags": [
+      "UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-0002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Jangka Waktu Pelaporan Usaha PKP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu kewajiban pelaporan usaha untuk dikukuhkan sebagai PKP sebagaimana ditampilkan dalam materi mengacu pada ketentuan...?",
+    "opsi": {
+      "A": "PMK-197/2013",
+      "B": "PMK 164/2023",
+      "C": "PMK 79/PMK.02/2012",
+      "D": "PMK 18/PMK.03/2021"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan 'Jangka waktu kewajiban pelaporan usaha sesuai PMK 164/2023'. PMK-197/2013 adalah dasar hukum batasan pengusaha kecil (Rp4,8 miliar), sedangkan PMK 79/PMK.02/2012 dan PMK 18/PMK.03/2021 mengatur topik lain yang berbeda.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 12,
+        "kutipan": "Jangka waktu kewajiban pelaporan usaha sesuai PMK 164/2023"
+      }
+    ],
+    "tags": [
+      "PMK-164/2023"
+    ]
+  },
+  {
+    "id": "ADV-0003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Kanal Pelaporan Usaha PKP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TERMASUK kanal elektronik untuk pelaporan usaha pengukuhan PKP sesuai materi, KECUALI...?",
+    "opsi": {
+      "A": "Portal WP",
+      "B": "Laman terintegrasi",
+      "C": "Aplikasi M-Pajak",
+      "D": "Contact Center"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan kanal elektronik berupa Portal WP, Laman terintegrasi, dan Contact Center. Aplikasi M-Pajak tidak disebutkan dalam materi ini sebagai kanal pelaporan usaha pengukuhan PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 12,
+        "kutipan": "elektronik Portal WP Laman terintegrasi Contact Center"
+      }
+    ],
+    "tags": [
+      "PMK-164/2023"
+    ]
+  },
+  {
+    "id": "ADV-0004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Tempat Kegiatan Usaha (TKU) dan Kantor Virtual",
+    "subtopik": "Alamat Utama PKP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apa yang dimaksud dengan alamat utama PKP menurut materi terkait Tempat Kegiatan Usaha (TKU)?",
+    "opsi": {
+      "A": "TKU dengan ruang fisik terluas",
+      "B": "TKU tempat penyimpanan dokumen",
+      "C": "TKU yang pertama kali didaftarkan",
+      "D": "TKU yang ditentukan pengusaha sebagai tempat pelaporan usaha"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan 'PENGUSAHA harus menentukan salah satu TKU sebagai tempat pelaporan usaha = ALAMAT UTAMA PKP'. Kriteria ruang terluas, tempat penyimpanan dokumen, atau TKU yang pertama didaftarkan tidak disebutkan dalam materi sebagai dasar penentuan alamat utama PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 13,
+        "kutipan": "PENGUSAHA harus menentukan salah satu TKU sebagai tempat pelaporan usaha = ALAMAT UTAMA PKP"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-0005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Tempat Kegiatan Usaha (TKU) dan Kantor Virtual",
+    "subtopik": "Syarat Penyedia Jasa Kantor Virtual",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan syarat yang harus dipenuhi Pengusaha penyedia jasa Kantor Virtual sesuai materi, KECUALI...?",
+    "opsi": {
+      "A": "Secara nyata melakukan kegiatan layanan pendukung kantor",
+      "B": "Sudah dikukuhkan sebagai PKP",
+      "C": "Memiliki ruangan fisik untuk kegiatan usaha",
+      "D": "Memiliki minimal 5 karyawan tetap"
+    },
+    "kunci": "D",
+    "pembahasan": "Syarat Pengusaha penyedia jasa Kantor Virtual menurut materi adalah: sudah PKP, memiliki ruangan fisik untuk kegiatan usaha, dan secara nyata melakukan kegiatan layanan pendukung kantor. Syarat 'minimal 5 karyawan tetap' tidak disebutkan dalam materi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 13,
+        "kutipan": "Sudah PKP b. Ada ruangan fisik untuk kegiatan usaha c. Secara nyata melakukan kegiatan layanan pendukung kantor"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-0006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Tempat Kegiatan Usaha (TKU) dan Kantor Virtual",
+    "subtopik": "Dokumen Kantor Virtual saat Penelitian Lapangan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen kontrak/perjanjian sejenis dan dokumen pemberian izin usaha (NIB/sejenis) dari penyedia jasa kantor virtual, menurut materi, diserahkan oleh pengusaha pada saat...?",
+    "opsi": {
+      "A": "pendaftaran NPWP online",
+      "B": "penelitian lapangan",
+      "C": "permohonan pengukuhan PKP diajukan",
+      "D": "penerbitan SPPKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menandai dengan jelas bahwa dokumen tersebut 'Diserahkan saat penelitian lapangan', bukan pada saat pendaftaran NPWP, pengajuan permohonan, maupun penerbitan SPPKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 13,
+        "kutipan": "Diserahkan saat penelitian lapangan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-0007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Proses Pengukuhan PKP",
+    "subtopik": "Jangka Waktu Keputusan Pengukuhan PKP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa lama jangka waktu penerbitan Keputusan (Surat Pengukuhan PKP) setelah permohonan pengukuhan PKP diterima lengkap?",
+    "opsi": {
+      "A": "1 hari kerja",
+      "B": "5 hari kerja",
+      "C": "10 hari kerja",
+      "D": "12 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan 'Keputusan : 10 hk setelah permohonan diterima lengkap'. Angka 1 hari kerja adalah jangka waktu Surat Keterangan Permohonan PKP Langsung, sedangkan 12 bulan adalah jangka waktu keputusan penghapusan WP Badan pada materi halaman lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Keputusan : 10 hk setelah permohonan diterima lengkap"
+      }
+    ],
+    "tags": [
+      "Pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "ADV-0008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Proses Pengukuhan PKP",
+    "subtopik": "Surat Keterangan Permohonan PKP Langsung",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Surat Keterangan Permohonan PKP Langsung diterbitkan paling lama berapa hari kerja setelah permohonan diterima lengkap?",
+    "opsi": {
+      "A": "3 hari kerja",
+      "B": "7 hari kerja",
+      "C": "10 hari kerja",
+      "D": "1 hari kerja"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan 'Surat Keterangan Permohonan PKP Langsung (1 hk setelah permohonan diterima lengkap)'. Angka 10 hari kerja adalah jangka waktu Keputusan/Surat Pengukuhan PKP, bukan Surat Keterangan Permohonan PKP Langsung.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Surat Keterangan Permohonan PKP Langsung (1 hk setelah permohonan diterima lengkap)"
+      }
+    ],
+    "tags": [
+      "Pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "ADV-0009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Proses Pengukuhan PKP",
+    "subtopik": "Kelengkapan Dokumen saat Penelitian Lapangan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika dokumen identitas pengurus atau data pendirian badan usaha pemohon PKP tidak tersedia dalam sistem administrasi DJP, maka menurut materi tindakan yang dilakukan adalah...?",
+    "opsi": {
+      "A": "permohonan otomatis ditolak",
+      "B": "dokumen tersebut dapat diminta pada saat penelitian lapangan",
+      "C": "pengusaha wajib mengajukan permohonan ulang",
+      "D": "KPP menerbitkan Pengukuhan PKP secara jabatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menegaskan 'Jika tidak tersedia di sistem DJP, dokumen tersebut dapat diminta pada saat penelitian lapangan', bukan langsung ditolak, diajukan ulang, maupun diproses secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Jika tidak tersedia di sistem DJP, dokumen tersebut dapat diminta pada saat penelitian lapangan"
+      }
+    ],
+    "tags": [
+      "Pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "ADV-0010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penghapusan Wajib Pajak Badan",
+    "subtopik": "Jangka Waktu Keputusan Penghapusan WP Badan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan penghapusan Wajib Pajak Badan oleh Kepala KPP ditetapkan paling lama berapa lama setelah permohonan diterima lengkap?",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "12 bulan",
+      "C": "6 bulan",
+      "D": "10 hari kerja"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan keputusan penghapusan WP Badan ditetapkan '12 bulan setelah permohonan diterima lengkap'. Angka 1 bulan adalah batas penerbitan surat keputusan setelah jangka waktu berakhir, bukan jangka waktu keputusan itu sendiri.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 272,
+        "kutipan": "12 bulan setelah permohonan diterima lengkap"
+      }
+    ],
+    "tags": [
+      "PMK-147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-0011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penghapusan Wajib Pajak Badan",
+    "subtopik": "Akibat Lewat Jangka Waktu Penghapusan WP Badan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila jangka waktu 12 bulan tersebut terlampaui tanpa diterbitkan keputusan, maka akibat hukumnya menurut materi adalah...?",
+    "opsi": {
+      "A": "permohonan dianggap ditolak",
+      "B": "permohonan harus diajukan ulang",
+      "C": "permohonan dianggap dikabulkan",
+      "D": "permohonan diproses sebagai pengukuhan PKP jabatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan 'apabila terlampaui maka permohonan penghapusan Wajib Pajak dianggap dikabulkan', bukan ditolak, diajukan ulang, maupun diproses sebagai pengukuhan PKP jabatan (topik berbeda).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 272,
+        "kutipan": "apabila terlampaui maka permohonan penghapusan Wajib Pajakdianggap dikabulkan"
+      }
+    ],
+    "tags": [
+      "PMK-147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-0012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penghapusan Wajib Pajak Badan",
+    "subtopik": "Dasar Penghapusan WP Badan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk kondisi yang menjadi dasar penghapusan Wajib Pajak Badan sesuai materi, KECUALI...?",
+    "opsi": {
+      "A": "WP Badan dilikuidasi atau dibubarkan",
+      "B": "BUT menghentikan kegiatan usahanya di Indonesia",
+      "C": "memiliki lebih dari 1 NPWP",
+      "D": "WP Badan pindah alamat ke wilayah kerja KPP lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan tiga kondisi dasar penghapusan WP Badan: dilikuidasi/dibubarkan, BUT menghentikan kegiatan usaha di Indonesia, dan memiliki lebih dari 1 NPWP. Perpindahan alamat ke wilayah kerja KPP lain tidak disebutkan sebagai dasar penghapusan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 272,
+        "kutipan": "WP Badan dilikuidasi atau dibubarkan BUT menghentikan kegiatan usahanya di Indonesia memilikilebih dari 1 NPWP"
+      }
+    ],
+    "tags": [
+      "PMK-147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-0013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Peralihan PPh Pengalihan Hak atas Tanah/Bangunan",
+    "subtopik": "Tanggal Cutoff Ketentuan Peralihan PP 34/2016",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tanggal berapa yang menjadi cutoff ketentuan peralihan PPh atas pengalihan hak atas tanah dan/atau bangunan berdasarkan PP 34/2016 (PMK 261/PMK.03/2016)?",
+    "opsi": {
+      "A": "31 Desember 2016",
+      "B": "17 Oktober 2016",
+      "C": "7 September 2016",
+      "D": "1 Januari 2017"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menampilkan tanggal '7 September 2016' sebagai cutoff ketentuan peralihan PP 34/2016. Tanggal 17 Oktober 2016 adalah cutoff untuk ketentuan peralihan PP 40/2016 (pengalihan Real Estat ke SPC/KIK) pada materi halaman lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 404,
+        "kutipan": "7 September 2016"
+      }
+    ],
+    "tags": [
+      "PP-34/2016",
+      "PMK-261/PMK.03/2016"
+    ]
+  },
+  {
+    "id": "ADV-0014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Peralihan PPh Pengalihan Hak atas Tanah/Bangunan",
+    "subtopik": "Perlakuan PPh Pengalihan Sebelum Cutoff yang Belum Dilaporkan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak melakukan pengalihan hak atas tanah sebelum 7 September 2016, belum dibuat akta, dan penghasilan dari pengalihan tersebut BELUM dilaporkan dalam SPT Tahunan. Bagaimana perlakuan PPh-nya menurut ketentuan peralihan PP 34/2016?",
+    "opsi": {
+      "A": "dikecualikan dari PPh dengan penerbitan SKB",
+      "B": "dikenakan PPh berdasarkan PP 34/2016 dengan DPP sebesar nilai transaksi saat pembuatan akta",
+      "C": "dikenakan PPh berdasarkan Pasal 17 UU PPh",
+      "D": "dikecualikan dengan menyetor kekurangan PPh sesuai ketentuan periode pengalihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan bahwa jika pengalihan sebelum 7 September 2016 belum dibuat akta dan penghasilannya belum dilaporkan dalam SPT Tahunan, maka 'dikenakan PPh berdasarkan PP 34/2016, dengan DPP sebesar nilai transaksi saat dilakukan pembuatan akta'. Skenario pengecualian dengan SKB berlaku untuk kondisi yang berbeda (penghasilan sudah dilaporkan).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 404,
+        "kutipan": "dikenakan PPh berdasarkan PP 34/2016, dengan DPP sebesar nilai transaksi saat dilakukan pembuatan akta"
+      }
+    ],
+    "tags": [
+      "PP-34/2016",
+      "PMK-261/PMK.03/2016"
+    ]
+  },
+  {
+    "id": "ADV-0015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Peralihan PPh Pengalihan Hak atas Tanah/Bangunan",
+    "subtopik": "Perlakuan PPh Adendum PPJB",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penghasilan dari perubahan/adendum Perjanjian Pengikatan Jual Beli (PPJB) yang terjadi PADA tanggal 7 September 2016 dan setelahnya dikenai...?",
+    "opsi": {
+      "A": "PPh berdasarkan Pasal 17 UU PPh",
+      "B": "PPh final berdasarkan PP 34/2016",
+      "C": "PPh final berdasarkan PP 40/2016",
+      "D": "dikecualikan dari pengenaan PPh"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan penghasilan dari perubahan/adendum PPJB pada 7 September 2016 dan setelahnya 'Dikenai PPh final berdasarkan PP 34/2016', sedangkan sebelum tanggal tersebut dikenai PPh berdasarkan Pasal 17 UU PPh. PP 40/2016 adalah dasar hukum untuk objek Real Estat ke SPC/KIK (materi halaman lain).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 404,
+        "kutipan": "Dikenai PPh final berdasarkan PP 34/2016"
+      }
+    ],
+    "tags": [
+      "PP-34/2016",
+      "PMK-261/PMK.03/2016"
+    ]
+  },
+  {
+    "id": "ADV-0016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Peralihan PPh Pengalihan Real Estat ke SPC/KIK",
+    "subtopik": "Tanggal Cutoff Ketentuan Peralihan PP 40/2016",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tanggal berapa yang menjadi cutoff ketentuan peralihan PPh atas pengalihan Real Estat kepada Special Purpose Company (SPC) atau Kontrak Investasi Kolektif dalam skema KIK Tertentu berdasarkan PP 40/2016?",
+    "opsi": {
+      "A": "7 September 2016",
+      "B": "17 September 2016",
+      "C": "7 Oktober 2016",
+      "D": "17 Oktober 2016"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menampilkan tanggal '17 Oktober 2016' sebagai cutoff ketentuan peralihan PP 40/2016. Tanggal 7 September 2016 adalah cutoff untuk ketentuan peralihan PP 34/2016 (pengalihan hak atas tanah/bangunan) pada materi halaman lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 414,
+        "kutipan": "17 Oktober 2016"
+      }
+    ],
+    "tags": [
+      "PP-40/2016",
+      "PMK-37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-0017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Peralihan PPh Pengalihan Real Estat ke SPC/KIK",
+    "subtopik": "Dasar Hukum Pengenaan PPh Pengalihan Real Estat",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pengalihan Real Estat kepada SPC atau KIK dalam skema KIK Tertentu yang dilakukan sebelum 17 Oktober 2016 dan belum dilaporkan dalam SPT Tahunan dikenakan PPh berdasarkan...?",
+    "opsi": {
+      "A": "PP 40/2016",
+      "B": "PP 34/2016",
+      "C": "PP 45/2019",
+      "D": "PP 78/2019"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan ketentuan tersebut 'dikenakan PPh berdasarkan PP 40/2016, dengan DPP sebesar nilai transaksi'. PP 34/2016 merupakan dasar hukum untuk objek pengalihan hak atas tanah/bangunan (materi halaman lain), sedangkan PP 45/2019 dan PP 78/2019 mengatur fasilitas tax allowance/litbang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 414,
+        "kutipan": "dikenakan PPh berdasarkan PP 40/2016, dengan DPP sebesar nilai transaksi"
+      }
+    ],
+    "tags": [
+      "PP-40/2016",
+      "PMK-37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-0018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Peralihan PPh Pengalihan Real Estat ke SPC/KIK",
+    "subtopik": "Perlakuan PPh Pelunasan Sebagian Sebelum Cutoff",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pembayaran atas pengalihan Real Estat ke SPC/KIK dilunasi sebagian sebelum 17 Oktober 2016 (belum dibuat akta), dan penghasilan telah dilaporkan di SPT Tahunan dengan PPh dilunasi sesuai ketentuan pada periode pengalihan. Bagaimana perlakuannya?",
+    "opsi": {
+      "A": "dikecualikan dengan SKB dan menyetor PPh bagian pelunasan sejak 17 Oktober 2016",
+      "B": "dikenakan PPh final PP 40/2016 atas seluruh nilai transaksi pengalihan",
+      "C": "dikenakan PPh berdasarkan Pasal 17 UU PPh atas seluruh penghasilan",
+      "D": "dikecualikan dari PPh tanpa kewajiban penyetoran tambahan apa pun"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan kondisi ini 'dikecualikan atas pengenaan PPh berdasarkan PP 40/2016 dengan penerbitan SKB, dengan melakukan penyetoran PPh atas bagian pelunasan pembayaran pengalihan sejak tanggal 17 Oktober 2016'. Opsi lain tidak sesuai dengan skenario pelunasan sebagian ini.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 414,
+        "kutipan": "dikecualikan atas pengenaan PPh berdasarkan PP 40/2016 dengan penerbitan SKB, dengan melakukan penyetoran PPh atas bagian pelunasan pembayaran pengalihan sejak tanggal 17 Oktober 2016"
+      }
+    ],
+    "tags": [
+      "PP-40/2016",
+      "PMK-37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-0019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengalihan Participating Interest (PI) Migas",
+    "subtopik": "Jangka Waktu Pemberitahuan Pengalihan PI",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kontraktor wajib menyampaikan pemberitahuan data dan/atau informasi terkait pengalihan Participating Interest (PI) kepada DJP paling lambat berapa lama setelah akhir tahun pajak pengalihan?",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "3 bulan",
+      "C": "4 bulan",
+      "D": "6 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan 'Kontraktor harus menyampaikan pemberitahuan data dan/atau informasi kepada DJP paling lambat 4 bulan setelah akhir tahun pajak pengalihan'.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 419,
+        "kutipan": "Kontraktor harus menyampaikan pemberitahuan data dan/atau informasi kepada DJP paling lambat 4 bulan setelah akhir tahun pajak pengalihan"
+      }
+    ],
+    "tags": [
+      "PMK-257/PMK.011/2011"
+    ]
+  },
+  {
+    "id": "ADV-0020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengalihan Participating Interest (PI) Migas",
+    "subtopik": "Akibat Keterlambatan/Ketidaklengkapan Data Pengalihan PI",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apa akibatnya jika data dan/atau informasi terkait pengalihan PI yang disampaikan Kontraktor TIDAK lengkap dan/atau tidak sesuai jangka waktu?",
+    "opsi": {
+      "A": "permohonan pengalihan PI dibatalkan",
+      "B": "Kontraktor dikenai sanksi administrasi berupa bunga saja",
+      "C": "DJP menerbitkan SKB secara otomatis",
+      "D": "Kontraktor dikenai Pajak Penghasilan yang bersifat final"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi secara tegas menyatakan 'Dalam hal data dan/atau informasi yang disampaikan tidak lengkap dan/atau tidak sesuai jangka waktu, Kontraktor dikenai Pajak Penghasilan yang bersifat final', bukan pembatalan, sanksi bunga saja, atau penerbitan SKB otomatis.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 419,
+        "kutipan": "Dalam hal data dan/atau informasi yang disampaikan tidak lengkap dan/atau tidak sesuai jangka waktu, Kontraktor dikenai Pajak Penghasilan yang bersifat final"
+      }
+    ],
+    "tags": [
+      "PMK-257/PMK.011/2011"
+    ]
+  },
+  {
+    "id": "ADV-0021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengalihan Participating Interest (PI) Migas",
+    "subtopik": "Syarat Restrukturisasi untuk Pengecualian PPh Final",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu syarat pengalihan kepemilikan saham (PI) agar dikecualikan dari PPh final adalah dilakukan dalam rangka restrukturisasi yang...?",
+    "opsi": {
+      "A": "bertujuan tidak untuk mencari keuntungan dan tidak mengubah kantor pusat Kontraktor",
+      "B": "bertujuan menambah nilai investasi dan mengubah kantor pusat Kontraktor",
+      "C": "dilakukan oleh BUT yang baru terdaftar di Indonesia",
+      "D": "mendapat persetujuan menggunakan nilai pasar wajar"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan syarat tersebut sebagai restrukturisasi 'yang bertujuan tidak untuk mencari keuntungan dan tidak mengubah kantor pusat Kontraktor (ultimate parent entity)'. Syarat lain dalam materi justru menyebut persetujuan menggunakan nilai buku, bukan nilai pasar wajar.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 419,
+        "kutipan": "dilakukan dalam rangka restrukturisasi yang bertujuan tidak untuk mencari keuntungan dan tidak mengubah kantor pusat Kontraktor (ultimate parent entity)"
+      }
+    ],
+    "tags": [
+      "PMK-257/PMK.011/2011"
+    ]
+  },
+  {
+    "id": "ADV-0022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bagian Negara dari Hasil Migas",
+    "subtopik": "Representasi Hak Negara atas Migas",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut materi, SKK Migas atau BP Migas Aceh berkedudukan sebagai representasi/pelaksana dari...?",
+    "opsi": {
+      "A": "Hak/Bagian Kontraktor",
+      "B": "Hak Negara",
+      "C": "Pihak Lain pemungut PPN",
+      "D": "Badan Usaha Milik Negara"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram materi menghubungkan kotak 'SKK MIGAS atau BP Migas Aceh' dengan tanda '=' ke kotak 'Hak Negara', menandakan SKK Migas/BP Migas Aceh merupakan representasi Hak Negara, bukan Hak/Bagian Kontraktor.",
+    "sumber": [
+      {
+        "kutipan": "SKK MIGAS atau BP Migas Aceh",
+        "pdf": "B",
+        "halaman": 450
+      },
+      {
+        "kutipan": "Hak Negara",
+        "pdf": "B",
+        "halaman": 450
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bagian Negara dari Hasil Migas",
+    "subtopik": "Definisi Total Lifting",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apa yang dimaksud dengan 'Total Lifting' menurut materi?",
+    "opsi": {
+      "A": "Jumlah Migas yang dijual oleh Kontraktor saja",
+      "B": "Jumlah Migas yang menjadi Hak Negara saja",
+      "C": "Jumlah keseluruhan Migas yang terdiri dari jumlah Lifting dari suatu Wilayah Kerja",
+      "D": "Jumlah Migas hasil ekspor ke luar negeri"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi mendefinisikan Total Lifting sebagai 'Jumlah keseluruhan Migas yang terdiri dari jumlah Lifting dari suatu Wilayah Kerja', bukan hanya bagian Kontraktor, bagian Negara saja, atau Migas yang diekspor.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 450,
+        "kutipan": "Jumlah keseluruhan Migas yang terdiri dari jumlah Lifting dari suatu Wilayah Kerja"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bagian Negara dari Hasil Migas",
+    "subtopik": "Dasar Hukum Bagian Negara",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai Bagian Negara dari hasil kegiatan usaha hulu Migas ini merupakan penyesuaian dari peraturan...?",
+    "opsi": {
+      "A": "PMK 18/PMK.03/2021",
+      "B": "PMK 261/PMK.03/2016",
+      "C": "PMK 60/PMK.03/2022",
+      "D": "PMK 79/PMK.02/2012"
+    },
+    "kunci": "D",
+    "pembahasan": "Judul materi menunjukkan 'PENYESUAIAN KETENTUAN PMK 79/PMK.02/2012', bukan PMK 18/PMK.03/2021 (Faktur Pajak), PMK 261/PMK.03/2016 (pengalihan tanah/bangunan), atau PMK 60/PMK.03/2022 (PMSE).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 450,
+        "kutipan": "PENYESUAIAN KETENTUAN PMK 79/PMK.02/2012"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pajak Penghasilan Kontraktor Migas",
+    "subtopik": "Pembayaran PPh dalam Bentuk Volume Migas",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Pemerintah membutuhkan Minyak dan Gas Bumi, pembayaran PPh oleh Kontraktor migas dapat dilakukan dalam bentuk...?",
+    "opsi": {
+      "A": "volume minyak bumi dan/atau gas bumi dari bagian Kontraktor",
+      "B": "valuta asing sesuai kurs tengah BI",
+      "C": "saham perusahaan migas",
+      "D": "kredit pajak yang dapat dipindahbukukan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan 'Pembayaran PPh dapat berupa volume minyak bumi dan/atau gas bumi dari bagian Kontraktor, dalam hal Pemerintah membutuhkan Migas', bukan valuta asing, saham, maupun kredit pajak yang dipindahbukukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 452,
+        "kutipan": "Pembayaran PPh dapat berupa volume minyak bumi dan/atau gas bumi dari bagian Kontraktor, dalam hal Pemerintah membutuhkan Migas"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pajak Penghasilan Kontraktor Migas",
+    "subtopik": "Dasar Hukum Sanksi Kontraktor Migas",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kontraktor migas yang tidak memenuhi ketentuan wajib bayar dan lapor PPh dikenai sanksi berdasarkan...?",
+    "opsi": {
+      "A": "UU PPh",
+      "B": "UU KUP",
+      "C": "UU PPN",
+      "D": "UU Cipta Kerja"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menegaskan 'Kontraktor yang tidak memenuhi ketentuan wajib dan lapor PPh tsb, dikenai sanksi sesuai UU KUP', bukan UU PPh, UU PPN, maupun UU Cipta Kerja secara langsung.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 452,
+        "kutipan": "Kontraktor yang tidak memenuhi ketentuan wajib dan lapor PPh tsb, dikenai sanksi sesuai UU KUP"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012",
+      "UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-0027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pajak Penghasilan Kontraktor Migas",
+    "subtopik": "Komponen PPh Kontraktor Migas",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TERMASUK komponen Pajak Penghasilan yang wajib dibayar dan dilaporkan oleh Kontraktor Migas, KECUALI...?",
+    "opsi": {
+      "A": "Angsuran pajak dalam tahun berjalan",
+      "B": "PPh badan yang terutang pada akhir tahun",
+      "C": "PPh final atas pengalihan Participating Interest",
+      "D": "PPh atas penghasilan kena pajak setelah dikurangi PPh badan yang dibayar secara bulanan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan komponen PPh Kontraktor berupa angsuran pajak tahun berjalan, PPh badan terutang akhir tahun, dan PPh atas penghasilan kena pajak setelah dikurangi PPh badan bulanan/tahunan. PPh final atas pengalihan PI merupakan topik terpisah (PMK 257/PMK.011/2011).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 452,
+        "kutipan": "Angsuran pajak dalam tahun berjalan; b. PPh badan yang terutang pada akhir tahun; c. PPh atas Penghasilan kena pajak setelah dikurangi PPh badan yang dibayar secara bulanan"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran Bagian Negara Migas",
+    "subtopik": "Ketentuan Penyetoran Tanpa Pengurangan Biaya",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil penjualan dan/atau pengiriman Lifting yang disetor kepada Negara dilakukan dengan ketentuan...?",
+    "opsi": {
+      "A": "Setelah dikurangi biaya operasional kontraktor",
+      "B": "Setelah dikurangi PPN keluaran",
+      "C": "Setelah dikurangi biaya eksplorasi",
+      "D": "Tanpa pengurangan biaya-biaya administrasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menegaskan hasil penjualan/pengiriman Lifting disetor kepada Negara 'Tanpa pengurangan biaya-biaya administrasi', bukan dikurangi biaya operasional, PPN keluaran, atau biaya eksplorasi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 457,
+        "kutipan": "Tanpa pengurangan biaya-biaya administrasi"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran Bagian Negara Migas",
+    "subtopik": "Jangka Waktu Laporan per Wilayah Kerja",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Laporan per Wilayah Kerja (WK) dari SKK Migas/BP Migas Aceh kepada Ditjen Pajak dan Ditjen Anggaran disampaikan setiap bulan, paling lambat...?",
+    "opsi": {
+      "A": "tanggal 15 bulan berikutnya",
+      "B": "tanggal 20 bulan berikutnya",
+      "C": "akhir bulan berikutnya",
+      "D": "akhir bulan berjalan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan laporan disampaikan 'paling lambat pada akhir bulan berikutnya', bukan tanggal 15, tanggal 20, maupun akhir bulan berjalan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 457,
+        "kutipan": "paling lambat pada akhir bulan berikutnya"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran Bagian Negara Migas",
+    "subtopik": "Dasar Penyusunan Laporan per Wilayah Kerja",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Laporan per Wilayah Kerja (WK) oleh SKK Migas/BP Migas Aceh kepada Ditjen Pajak dan Ditjen Anggaran disusun berdasarkan...?",
+    "opsi": {
+      "A": "nilai realisasi lifting tahunan",
+      "B": "nilai tagihan atau dokumen",
+      "C": "nilai taksiran produksi migas",
+      "D": "nilai kurs tengah Bank Indonesia"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan laporan tersebut disusun '(setiap bulan berdasarkan nilai tagihan atau dokumen)', bukan nilai realisasi lifting tahunan, taksiran produksi, atau kurs tengah BI.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 457,
+        "kutipan": "Laporan per WK (setiap bulan berdasarkan nilai tagihan atau dokumen"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran PPh dalam Bentuk Volume Migas",
+    "subtopik": "Jangka Waktu Pembayaran PPh Volume Migas",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pembayaran PPh dalam bentuk volume minyak bumi dan/atau gas bumi wajib dilakukan paling lama pada...?",
+    "opsi": {
+      "A": "tanggal 10 bulan berikutnya setelah masa pajak berakhir",
+      "B": "tanggal 20 bulan berikutnya setelah masa pajak berakhir",
+      "C": "tanggal 15 bulan berikutnya setelah masa pajak berakhir",
+      "D": "akhir bulan berikutnya setelah masa pajak berakhir"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan 'Pembayaran PPh ini wajib dilakukan paling lama pada tanggal 15 (lima belas) bulan berikutnya setelah masa pajak berakhir', bukan tanggal 10, tanggal 20, maupun akhir bulan berikutnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 460,
+        "kutipan": "Pembayaran PPh ini wajib dilakukan paling lama pada tanggal 15 (lima belas) bulan berikutnya setelah masa pajak berakhir"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran PPh dalam Bentuk Volume Migas",
+    "subtopik": "Jangka Waktu Penyampaian BAST",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SKK Migas wajib menyampaikan Berita Acara Serah Terima (BAST) penyerahan volume Migas kepada Kementerian Keuangan cq DJP dan DJA paling lama...?",
+    "opsi": {
+      "A": "3 hari kerja",
+      "B": "10 hari kerja",
+      "C": "15 hari kerja",
+      "D": "5 hari kerja"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan BAST 'harus disampaikan oleh SKK Migas kepada Kementerian Keuangan... paling lama (lima) hari kerja setelah ditandatanganinya berita acara serah terima', bukan 3, 10, atau 15 hari kerja.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 460,
+        "kutipan": "paling lama (lima) hari kerja setelah ditandatanganinya berita acara serah terima"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran PPh dalam Bentuk Volume Migas",
+    "subtopik": "Bukti Tanggal Pembayaran PPh",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apa yang menjadi bukti tanggal pembayaran PPh dalam bentuk volume Migas menurut materi?",
+    "opsi": {
+      "A": "Tanggal BAST yang ditandatangani Kontraktor dan Pemerintah",
+      "B": "Tanggal penerbitan Surat Setoran Pajak (SSP)",
+      "C": "Tanggal penandatanganan Kontrak Kerja Sama",
+      "D": "Tanggal pelaporan SPT Masa PPh ke KPP terdaftar"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan 'Tanggal BAST sbg bukti tanggal pembayaran PPh dan bentuk Migas', bukan tanggal penerbitan SSP, penandatanganan KKS, maupun pelaporan SPT Masa PPh.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 460,
+        "kutipan": "Tanggal BAST sbg bukti tanggal pembayaran PPh dan bentuk Migas"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Tata Cara Pelaporan Penerimaan Negara Hulu Migas",
+    "subtopik": "Persamaan Laporan Bulanan dengan SPT Masa PPh",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam Laporan Penerimaan Negara dari kegiatan usaha hulu Migas, Laporan Bulanan dipersamakan dengan...?",
+    "opsi": {
+      "A": "SPT Tahunan PPh Badan",
+      "B": "SPT Masa PPh",
+      "C": "Surat Setoran Pajak (SSP)",
+      "D": "Berita Acara Serah Terima (BAST)"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menampilkan Laporan Bulanan yang dipersamakan (=) dengan SPT Masa PPh sebagai ketentuan baru, bukan dengan SPT Tahunan, SSP, maupun BAST.",
+    "sumber": [
+      {
+        "kutipan": "Laporan Bulanan",
+        "pdf": "B",
+        "halaman": 465
+      },
+      {
+        "kutipan": "SPT Masa PPh",
+        "pdf": "B",
+        "halaman": 465
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Tata Cara Pelaporan Penerimaan Negara Hulu Migas",
+    "subtopik": "Jangka Waktu Laporan Penerimaan Negara",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Laporan Penerimaan Negara (laporan bulanan) dari kegiatan usaha hulu Migas disampaikan paling lambat...?",
+    "opsi": {
+      "A": "tanggal 15 bulan berikutnya",
+      "B": "akhir bulan berikutnya",
+      "C": "tanggal 20 bulan berikutnya",
+      "D": "tanggal 10 bulan berikutnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan 'paling lambat tgl 20 bulan berikutnya (lap bulanan)', bukan tanggal 15, akhir bulan berikutnya, maupun tanggal 10.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 465,
+        "kutipan": "paling lambat tgl 20 bulan berikutnya (lap bulanan)"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Tata Cara Pelaporan Penerimaan Negara Hulu Migas",
+    "subtopik": "Ketentuan Jatuh Tempo pada Hari Libur",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jika batas waktu penyampaian Laporan Penerimaan Negara bertepatan dengan hari libur, maka menurut materi...?",
+    "opsi": {
+      "A": "LPN disampaikan pada hari libur tersebut",
+      "B": "batas waktu diperpanjang 7 hari kerja",
+      "C": "kewajiban pelaporan ditiadakan untuk bulan tersebut",
+      "D": "LPN disampaikan hari kerja berikutnya"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan 'Bertepatan hari libur, LPN disampaikan hari kerja berikutnya', bukan tetap pada hari libur, diperpanjang 7 hari kerja, atau ditiadakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 465,
+        "kutipan": "Bertepatan hari libur, LPN disampaikan hari kerja berikutnya"
+      }
+    ],
+    "tags": [
+      "PMK-79/PMK.02/2012"
+    ]
+  },
+  {
+    "id": "ADV-0037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Syarat Ekspor Jasa Kena Pajak Tarif PPN 0%",
+    "subtopik": "Unsur Perikatan Ekspor JKP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu syarat agar Ekspor Jasa Kena Pajak (JKP) dikenai PPN dengan tarif 0% adalah perikatan atau perjanjian tertulis antara PKP dengan Penerima Ekspor JKP yang mencantumkan dengan jelas...?",
+    "opsi": {
+      "A": "jenis, rincian kegiatan, dan nilai penyerahan",
+      "B": "jenis, lokasi usaha, dan tarif pajak",
+      "C": "nama direktur, alamat kantor, dan NPWP",
+      "D": "jenis, masa manfaat, dan nilai investasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan perikatan/perjanjian tertulis harus mencantumkan 'jenis; rincian kegiatan; dan nilai penyerahan', bukan lokasi usaha/tarif pajak, identitas direktur/NPWP, maupun masa manfaat/nilai investasi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 483,
+        "kutipan": "jenis; rincian kegiatan; dan nilai penyerahan"
+      }
+    ],
+    "tags": [
+      "PMK-32/PMK.010/2019"
+    ]
+  },
+  {
+    "id": "ADV-0038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Syarat Ekspor Jasa Kena Pajak Tarif PPN 0%",
+    "subtopik": "Akibat Tidak Memenuhi Syarat Ekspor JKP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika kegiatan pelayanan ekspor JKP TIDAK memenuhi ketentuan syarat ekspor JKP, maka perlakuan PPN-nya menurut materi adalah...?",
+    "opsi": {
+      "A": "dianggap ekspor JKP dan tetap dikenai tarif 0%",
+      "B": "dianggap sebagai penyerahan JKP di dalam Daerah Pabean yang dikenai PPN",
+      "C": "tidak dikenai PPN sama sekali",
+      "D": "dikenai PPN dengan mekanisme pemungutan Pihak Lain"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan kegiatan pelayanan yang tidak memenuhi ketentuan 'dianggap sebagai penyerahan Jasa Kena Pajak di dalam Daerah Pabean yang dikenai PPN', bukan tetap dianggap ekspor tarif 0%, bebas PPN, atau mekanisme Pihak Lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 483,
+        "kutipan": "Kegiatan pelayanan yang tidak memenuhi ketentuan dianggap sebagai penyerahan Jasa Kena Pajak di dalam Daerah Pabean yang dikenai PPN"
+      }
+    ],
+    "tags": [
+      "PMK-32/PMK.010/2019"
+    ]
+  },
+  {
+    "id": "ADV-0039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Syarat Ekspor Jasa Kena Pajak Tarif PPN 0%",
+    "subtopik": "Perlakuan PPN JKP yang Dimanfaatkan di Luar Daerah Pabean",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jasa Kena Pajak yang dihasilkan dan dimanfaatkan di luar Daerah Pabean, menurut materi, diperlakukan sebagai...?",
+    "opsi": {
+      "A": "dikenai PPN tarif 0%",
+      "B": "dikenai PPN tarif umum 11%",
+      "C": "tidak dikenai PPN",
+      "D": "dikenai PPN dengan mekanisme pemungutan Pihak Lain"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan 'Jasa Kena Pajak yang dihasilkan dan dimanfaatkan di luar Daerah Pabean tidak dikenai PPN', bukan dikenai tarif 0%, tarif umum, maupun mekanisme Pihak Lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 483,
+        "kutipan": "Jasa Kena Pajak yang dihasilkan dan dimanfaatkan di luar Daerah Pabean tidak dikenai PPN"
+      }
+    ],
+    "tags": [
+      "PMK-32/PMK.010/2019"
+    ]
+  },
+  {
+    "id": "ADV-0040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "subtopik": "Definisi Kegiatan Membangun Sendiri",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apa yang dimaksud dengan Kegiatan Membangun Sendiri (KMS) menurut PMK 61/PMK.03/2022?",
+    "opsi": {
+      "A": "kegiatan membangun bangunan yang dilakukan dalam rangka kegiatan usaha kontraktor",
+      "B": "kegiatan renovasi kecil yang tidak mengubah luas bangunan",
+      "C": "kegiatan membangun bangunan yang seluruhnya dikerjakan oleh kontraktor PKP",
+      "D": "kegiatan membangun bangunan baru atau perluasan bangunan lama yang dilakukan tidak dalam kegiatan usaha atau pekerjaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi mendefinisikan KMS sebagai 'kegiatan membangun bangunan, baik bangunan baru maupun perluasan bangunan lama, yang dilakukan tidak dalam kegiatan usaha atau pekerjaan', bukan dalam rangka usaha kontraktor, renovasi kecil, atau sepenuhnya dikerjakan kontraktor PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "kegiatan membangun bangunan, baik bangunan baru maupun perluasan bangunan lama, yang dilakukan tidak dalam kegiatan usaha atau pekerjaan"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "subtopik": "Kriteria Luas Bangunan Terutang PPN KMS",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu kriteria bangunan yang terutang PPN atas Kegiatan Membangun Sendiri (KMS) adalah luas keseluruhan bangunan paling sedikit...?",
+    "opsi": {
+      "A": "200 m2",
+      "B": "100 m2",
+      "C": "150 m2",
+      "D": "300 m2"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan kriteria 'luas keseluruhan paling sedikit 200m2', bukan 100 m2, 150 m2, maupun 300 m2.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "luas keseluruhan paling sedikit 200m2"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "subtopik": "Kriteria Konstruksi Utama Bangunan KMS",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Menurut ketentuan baru PMK 61/PMK.03/2022, konstruksi utama bangunan KMS dapat berupa bahan-bahan berikut, KECUALI...?",
+    "opsi": {
+      "A": "kayu",
+      "B": "seng",
+      "C": "beton",
+      "D": "baja"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan konstruksi utama 'dapat berupa kayu, beton, pasangan batu bata atau bahan sejenis, dan/atau baja'. Seng tidak disebutkan dalam materi sebagai bahan konstruksi utama KMS.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "konstruksi utamanya *dapat berupa kayu, beton, pasangan batu bata atau bahan sejenis, dan/atau baja"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Alur Transaksi PMSE",
+    "subtopik": "Istilah Baru Pemanfaat Barang/Jasa",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Istilah baru apa yang diperkenalkan dalam alur transaksi PMSE untuk menyebut pihak akhir yang memanfaatkan barang/jasa dari luar Daerah Pabean?",
+    "opsi": {
+      "A": "Konsumen Akhir dan Penerima Jasa",
+      "B": "Pembeli BKP dan Penerima JKP",
+      "C": "Pemanfaat Barang dan Pemanfaat Jasa",
+      "D": "Wajib Pungut dan Wajib Setor"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menandai dengan label baru (badge NEW) istilah 'Pemanfaat Barang' dan 'Pemanfaat Jasa' sebagai pihak akhir dalam alur transaksi PMSE, bukan istilah Konsumen Akhir, Pembeli BKP/Penerima JKP, maupun Wajib Pungut/Setor.",
+    "sumber": [
+      {
+        "kutipan": "Pemanfaat Jasa",
+        "pdf": "B",
+        "halaman": 541
+      },
+      {
+        "kutipan": "Pemanfaat Barang",
+        "pdf": "B",
+        "halaman": 541
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Alur Transaksi PMSE",
+    "subtopik": "Kelompok Pelaku Usaha PMSE",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk kelompok Pelaku Usaha PMSE menurut materi, KECUALI...?",
+    "opsi": {
+      "A": "Pemanfaat Jasa Dalam Negeri",
+      "B": "Pedagang LN",
+      "C": "Penyedia Jasa LN",
+      "D": "Penyelenggara PMSE DN"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mendaftar Pelaku Usaha PMSE sebagai: Pedagang LN, Penyedia Jasa LN, Penyelenggara PMSE LN, dan Penyelenggara PMSE DN. 'Pemanfaat Jasa Dalam Negeri' bukan termasuk kelompok Pelaku Usaha PMSE, melainkan pihak yang memanfaatkan jasa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 541,
+        "kutipan": "Pedagang LN Penyedia Jasa LN Penyelenggara PMSE LN Penyelenggara PMSE DN"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Alur Transaksi PMSE",
+    "subtopik": "Dasar Hukum Penunjukan Pihak Lain PMSE",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai penunjukan Pihak Lain untuk memungut, menyetor, dan melaporkan PPN PMSE dalam alur transaksi ini merujuk pada...?",
+    "opsi": {
+      "A": "Pasal 332 ayat (2), (3), (4)",
+      "B": "Pasal 3A ayat (3) UU PPN",
+      "C": "Pasal 13 ayat (5a) UU PPN",
+      "D": "Pasal 386 PMK 18/PMK.03/2021"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mencantumkan dasar hukum 'Pasal 332 (2), (3), (4)' untuk penunjukan Pihak Lain pada alur transaksi PMSE. Pasal 3A ayat (3) UU PPN digunakan pada skema penyetoran sendiri PPN PMSE (materi halaman lain).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 541,
+        "kutipan": "Pasal 332 (2), (3), (4)"
+      }
+    ],
+    "tags": [
+      "Pasal 332",
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Skema Pemungutan PPN PMSE",
+    "subtopik": "Penyetoran Sendiri PPN PMSE",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika pemanfaatan BKPTB/JKP dari luar Daerah Pabean TIDAK melalui Penyelenggara PMSE dan Pedagang LN/Penyedia Jasa LN TIDAK ditunjuk sebagai Pihak Lain, maka PPN...?",
+    "opsi": {
+      "A": "dipungut dan disetor oleh Penyelenggara PMSE",
+      "B": "disetor sendiri oleh Pemanfaat Barang/Pemanfaat Jasa",
+      "C": "dibebaskan dari pengenaan PPN",
+      "D": "dipungut oleh Ditjen Pajak secara jabatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menunjukkan bahwa pada jalur 'No-No' tersebut, 'Pemanfaat Barang/Pemanfaat Jasa menyetor sendiri PPN (Pasal 3A (3) UU PPN)', bukan dipungut Penyelenggara PMSE, dibebaskan, atau dipungut DJP secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 542,
+        "kutipan": "Pemanfaat Barang/ Pemanfaat Jasa menyetor sendiri PPN (Pasal 3A (3) UU PPN)"
+      }
+    ],
+    "tags": [
+      "Pasal 3A",
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Skema Pemungutan PPN PMSE",
+    "subtopik": "Syarat Pemungutan PPN oleh Pihak Lain PMSE",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PPN dipungut dan disetor oleh Pedagang LN/Penyedia Jasa LN/Penyelenggara PMSE apabila memenuhi dua kondisi, yaitu ditunjuk sebagai Pihak Lain dan...?",
+    "opsi": {
+      "A": "menerbitkan commercial invoice, billing, order receipt, atau dokumen sejenis",
+      "B": "telah dikukuhkan sebagai PKP di Indonesia",
+      "C": "memiliki NPWP cabang di Indonesia",
+      "D": "menyampaikan laporan tahunan ke DJP"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan dua kondisi: ditunjuk sebagai Pihak Lain, dan 'menerbitkan commercial invoice, billing, order receipt, atau dokumen lain yang sejenis', bukan syarat PKP, NPWP cabang, atau laporan tahunan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 542,
+        "kutipan": "menerbitkan commercial invoice, billing, order receipt, atau dokumen lain yang sejenis"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Skema Pemungutan PPN PMSE",
+    "subtopik": "Dasar Hukum Skema Pemungutan PPN PMSE",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Skema pemungutan PPN PMSE dalam materi ini merujuk pada dasar hukum...?",
+    "opsi": {
+      "A": "Pasal 332 ayat (2), (3), (4)",
+      "B": "Pasal 3A ayat (1) UU PPN",
+      "C": "Pasal 13 ayat (6) UU PPN",
+      "D": "Pasal 332 ayat (3), (4), (5)"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi mencantumkan dasar hukum 'Pasal 332 (3), (4), (5)' pada skema pemungutan PPN PMSE ini, berbeda dengan Pasal 332 ayat (2),(3),(4) yang menjadi dasar hukum pada diagram alur transaksi PMSE (materi halaman lain).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 542,
+        "kutipan": "Pasal 332 (3), (4), (5)"
+      }
+    ],
+    "tags": [
+      "Pasal 332",
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-0049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan Sebelum PKP",
+    "subtopik": "Pedoman Pengkreditan Pajak Masukan 80%",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa persen pedoman pengkreditan Pajak Masukan yang dapat digunakan PKP, dihitung dari Pajak Keluaran (PPN) yang seharusnya dipungut atas penyerahan BKP/JKP sebelum dikukuhkan PKP?",
+    "opsi": {
+      "A": "80%",
+      "B": "50%",
+      "C": "60%",
+      "D": "100%"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan 'PKP dapat mengkreditkan Pajak Masukan dengan menggunakan pedoman pengkreditan Pajak Masukan sebesar 80% dari Pajak Keluaran (PPN) yang seharusnya dipungut', bukan 50%, 60%, atau 100%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 562,
+        "kutipan": "PKP dapat mengkreditkan Pajak Masukan dengan menggunakan pedoman pengkreditan Pajak Masukan sebesar 80% dari Pajak Keluaran (PPN) yang seharusnya dipungut"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-0050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan Sebelum PKP",
+    "subtopik": "Dasar Hukum Batasan Pengusaha Kecil Rp4,8 Miliar",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batasan penyerahan BKP/JKP sebesar Rp4,8 miliar yang menjadi acuan kewajiban PKP dalam ilustrasi materi ini diatur dalam...?",
+    "opsi": {
+      "A": "PMK-164/2023",
+      "B": "PMK-197/2013",
+      "C": "PMK-18/PMK.03/2021",
+      "D": "PMK-79/PMK.02/2012"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi mencantumkan 'Penyerahan BKP/JKP > Rp4,8 miliar (PMK-197/2013)', sedangkan PMK-164/2023 adalah dasar hukum jangka waktu wajib lapor dan wajib pungut/setor/lapor PPN/PPnBM pada ilustrasi yang sama.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 562,
+        "kutipan": "Penyerahan BKP/JKP > Rp4,8 miliar (PMK-197/2013)"
+      }
+    ],
+    "tags": [
+      "PMK-197/2013",
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-0051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan Sebelum PKP",
+    "subtopik": "Perlakuan Pajak Masukan Sebelum Pengukuhan PKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PPN yang tercantum dalam Faktur Pajak atas perolehan BKP/JKP sebelum pengusaha dikukuhkan sebagai PKP diperlakukan sebagai...?",
+    "opsi": {
+      "A": "Pajak Masukan yang dapat dikreditkan sepenuhnya",
+      "B": "Pajak Masukan yang dapat dikreditkan sebesar 80%",
+      "C": "Pajak Masukan yang tidak dapat dikreditkan dan tidak dapat dibebankan sebagai biaya/dikapitalisasi",
+      "D": "Pajak Keluaran yang harus disetor PKP"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan PPN tersebut 'merupakan Pajak Masukan yang tidak dapat dikreditkan, dan tidak dapat dibebankan sebagai biaya atau ditambahkan (dikapitalisasi) dalam harga perolehan BKP/JKP', berbeda dengan pedoman kredit 80% yang berlaku untuk Pajak Keluaran yang seharusnya dipungut PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 562,
+        "kutipan": "merupakan Pajak Masukan yang tidak dapat dikreditkan, dan tidak dapat dibebankan sebagai biaya atau ditambahkan (dikapitalisasi) dalam harga perolehan BKP/JKP"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-0052",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bentuk dan Kewajiban Unggah Faktur Pajak Ekspor (1/2)",
+    "subtopik": "Syarat Faktur Pajak Elektronik Ekspor",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak dan dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak atas ekspor BKP tidak berwujud dan/atau ekspor JKP wajib memenuhi ketentuan berikut, KECUALI...?",
+    "opsi": {
+      "A": "dibuat dalam bentuk elektronik",
+      "B": "dibuat dengan modul Portal WP atau laman terintegrasi DJP",
+      "C": "dicantumkan tanda tangan elektronik yang sah",
+      "D": "mendapat legalisasi notaris setempat"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan tiga syarat: berbentuk elektronik, dibuat dengan modul Portal WP/laman terintegrasi DJP, dan dicantumkan tanda tangan elektronik. Legalisasi notaris tidak disebutkan sebagai syarat dalam materi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 569,
+        "kutipan": "berbentuk elektronik ; dibuat dengan menggunakan modul dalam Portal Wajib Pajak atau laman lain yang terintegrasi dengan sistem administrasi DJP; dan dicantumkan tanda tangan elektronik"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 386"
+    ]
+  },
+  {
+    "id": "ADV-0053",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bentuk dan Kewajiban Unggah Faktur Pajak Ekspor (1/2)",
+    "subtopik": "Pengecualian Faktur Pajak Konsumen Akhir",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak atas penyerahan BKP/JKP kepada pembeli dengan karakteristik konsumen akhir termasuk dalam pengecualian kewajiban elektronik/unggah, dan dibuat sesuai ketentuan...?",
+    "opsi": {
+      "A": "Pasal 13 ayat (5a) UU PPN",
+      "B": "Pasal 13 ayat (6) UU PPN",
+      "C": "Pasal 3A ayat (3) UU PPN",
+      "D": "Pasal 9A UU PPN"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan Faktur Pajak konsumen akhir 'dibuat sesuai dengan ketentuan Pasal 13 ayat (5a) UU PPN'. Pasal 13 ayat (6) UU PPN berlaku untuk pengecualian lain yaitu penyerahan dengan bukti pemungutan berupa dokumen tertentu.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 569,
+        "kutipan": "penyerahan BKP dan/atau JKP kepada pembeli BKP/penerima JKP dengan karakteristik konsumen akhir, dibuat sesuai dengan ketentuan Pasal 13 ayat (5a) UU PPN"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 13"
+    ]
+  },
+  {
+    "id": "ADV-0054",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bentuk dan Kewajiban Unggah Faktur Pajak Ekspor (1/2)",
+    "subtopik": "Dasar Hukum Kewajiban Unggah Faktur Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan bentuk dan kewajiban mengunggah Faktur Pajak atas ekspor BKP tidak berwujud dan/atau ekspor JKP ini diatur dalam...?",
+    "opsi": {
+      "A": "Pasal 378",
+      "B": "Pasal 386",
+      "C": "Pasal 387-388",
+      "D": "Pasal 332"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi mencantumkan dasar hukum 'Pasal 386' pada bagian ini. Pasal 387-388 mengatur kewajiban unggah untuk memperoleh persetujuan DJP (materi halaman berikutnya), sedangkan Pasal 378 mengatur pengkreditan Pajak Masukan dan Pasal 332 mengatur PMSE.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 569,
+        "kutipan": "Pasal 386"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 386"
+    ]
+  },
+  {
+    "id": "ADV-0055",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bentuk dan Kewajiban Unggah Faktur Pajak Ekspor (2/2)",
+    "subtopik": "Status Faktur Pajak Tanpa Persetujuan DJP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apa status Faktur Pajak dan dokumen tertentu atas ekspor BKP tidak berwujud/ekspor JKP yang TIDAK mendapatkan persetujuan DJP setelah diunggah?",
+    "opsi": {
+      "A": "tetap sah sebagai Faktur Pajak sepanjang diunggah",
+      "B": "dianggap Faktur Pajak sementara menunggu klarifikasi",
+      "C": "dinyatakan sebagai bukan Faktur Pajak",
+      "D": "menjadi dokumen tertentu yang dipersamakan dengan Faktur Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menegaskan 'Faktur Pajak yang tidak mendapatkan persetujuan DJP: bukan Faktur Pajak', bukan tetap sah, dianggap sementara, atau menjadi dokumen yang dipersamakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 570,
+        "kutipan": "Faktur Pajak yang tidak mendapatkan persetujuan DJP: bukan Faktur Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 387-388"
+    ]
+  },
+  {
+    "id": "ADV-0056",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bentuk dan Kewajiban Unggah Faktur Pajak Ekspor (2/2)",
+    "subtopik": "Pengertian Faktur Pajak Setelah Persetujuan DJP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur penjualan yang mencantumkan keterangan lengkap, diunggah melalui modul Portal Wajib Pajak, dan memperoleh persetujuan DJP, menurut materi termasuk dalam...?",
+    "opsi": {
+      "A": "dokumen tertentu yang dipersamakan dengan Faktur Pajak",
+      "B": "bukti pemungutan PPN yang bersifat sementara",
+      "C": "nota retur atas pembatalan transaksi",
+      "D": "pengertian Faktur Pajak sebagaimana dimaksud materi"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan faktur penjualan yang memenuhi ketentuan tersebut 'termasuk dalam pengertian Faktur Pajak', bukan dokumen yang dipersamakan, bukti sementara, atau nota retur.",
+    "sumber": [
+      {
+        "kutipan": "Faktur penjualan yang mencantumkan keterangan lengkap dan diunggah menggunakan modul dalam Portal Wajib Pajak",
+        "pdf": "B",
+        "halaman": 570
+      },
+      {
+        "kutipan": "termasuk dalam pengertian Faktur Pajak",
+        "pdf": "B",
+        "halaman": 570
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-0057",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Bentuk dan Kewajiban Unggah Faktur Pajak Ekspor (2/2)",
+    "subtopik": "Dasar Hukum Persetujuan Faktur Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban mengunggah Faktur Pajak dan dokumen tertentu atas ekspor BKP tidak berwujud/ekspor JKP untuk mendapat persetujuan DJP diatur dalam...?",
+    "opsi": {
+      "A": "Pasal 387-388",
+      "B": "Pasal 386",
+      "C": "Pasal 378",
+      "D": "Pasal 379"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mencantumkan dasar hukum 'Pasal 387-388' pada bagian ini, berbeda dengan Pasal 386 yang mengatur bentuk Faktur Pajak elektronik (materi halaman sebelumnya).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 570,
+        "kutipan": "Pasal 387-388"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 387-388"
+    ]
+  },
+  {
+    "id": "ADV-0058",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Fasilitas Tax Allowance",
+    "subtopik": "Pembebanan Pengurangan Penghasilan Neto",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Fasilitas Pengurangan Penghasilan Neto dalam tax allowance PMK 11/PMK.010/2020 diberikan sebesar 30% dari jumlah nilai penanaman modal, yang dibebankan sebesar...?",
+    "opsi": {
+      "A": "5% per tahun selama 6 tahun",
+      "B": "6% per tahun selama 5 tahun",
+      "C": "10% per tahun selama 3 tahun",
+      "D": "3% per tahun selama 10 tahun"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan pengurangan penghasilan neto 30% 'dibebankan 5% per tahun selama 6 tahun', bukan kombinasi persentase/jangka waktu lainnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 593,
+        "kutipan": "Pengurangan Penghasilan Neto 30% dari Jumlah Nilai Penanaman Modal yang dibebankan 5% per tahun selama 6 tahun"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0059",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Fasilitas Tax Allowance",
+    "subtopik": "Tarif PPh atas Dividen WP Luar Negeri",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tarif PPh atas dividen yang dibayarkan kepada Wajib Pajak luar negeri selain Bentuk Usaha Tetap di Indonesia dalam fasilitas tax allowance ini adalah...?",
+    "opsi": {
+      "A": "15% tanpa pengecualian apa pun",
+      "B": "20% atau tarif lebih rendah berdasarkan P3B",
+      "C": "10% atau tarif lebih rendah berdasarkan P3B",
+      "D": "5% tetap tanpa memperhatikan P3B"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan 'Tarif PPh 10% atas Dividen yang Dibayarkan kepada Wajib Pajak Luar Negeri selain Bentuk Usaha Tetap di Indonesia atau tarif yang lebih rendah berdasarkan P3B', bukan 15%, 20%, maupun 5% tetap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 593,
+        "kutipan": "Tarif PPh 10% atas Dividen yang Dibayarkan kepada Wajib Pajak Luar Negeri selain Bentuk Usaha Tetap di Indonesia atau tarif yang lebih rendah berdasarkan P3B"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0060",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Fasilitas Tax Allowance",
+    "subtopik": "Pengecualian Perluasan Usaha dalam Fasilitas",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak Badan Dalam Negeri berhak atas fasilitas tax allowance ini apabila melakukan investasi baru atau perluasan usaha, namun perluasan usaha yang dimaksud TIDAK termasuk...?",
+    "opsi": {
+      "A": "penggantian atau penambahan mesin pada lini produksi yang telah berproduksi komersial",
+      "B": "pembangunan pabrik baru di lokasi berbeda",
+      "C": "penambahan kapasitas produksi dengan lini baru",
+      "D": "investasi pada bidang usaha baru dalam KBLI Lampiran I"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan perluasan usaha yang dimaksud 'Tidak termasuk perluasan usaha yaitu atas penggantian atau penambahan mesin pada lini produksi yang telah berproduksi komersial'. Opsi lain tidak disebutkan sebagai pengecualian.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 593,
+        "kutipan": "Melakukan investasi baru atau perluasan, (Tidak termasuk perluasan usaha yaitu atas penggantian atau penambahan mesin pada lini produksi yang telah berproduksi komersial)"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020",
+      "PP-78/2019"
+    ]
+  },
+  {
+    "id": "ADV-0061",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Larangan Aktiva Fasilitas Tax Allowance (PMK 11/PMK.010/2020)",
+    "subtopik": "Pengecualian Larangan Pengalihan Aktiva",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Aktiva tetap berwujud yang mendapatkan fasilitas tax allowance dilarang digunakan selain untuk tujuan pemberian fasilitas atau dialihkan, kecuali...?",
+    "opsi": {
+      "A": "diganti dengan yang baru",
+      "B": "disewakan kepada pihak ketiga",
+      "C": "dijadikan jaminan utang",
+      "D": "digunakan untuk ekspor"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan larangan tersebut berlaku untuk pengalihan aktiva 'kecuali diganti dengan yang baru', bukan disewakan, dijadikan jaminan utang, atau digunakan untuk ekspor.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 603,
+        "kutipan": "dialihkan kecuali diganti dengan yang baru"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0062",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Larangan Aktiva Fasilitas Tax Allowance (PMK 11/PMK.010/2020)",
+    "subtopik": "Jangka Waktu Larangan Aktiva Tetap Berwujud",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Larangan penggunaan/pengalihan aktiva tetap berwujud penerima fasilitas tax allowance berlaku sebelum berakhirnya jangka waktu yang lebih lama antara masa manfaat aktiva tersebut dengan...?",
+    "opsi": {
+      "A": "3 tahun sejak SMB",
+      "B": "6 tahun sejak SMB",
+      "C": "10 tahun sejak SMB",
+      "D": "6 tahun sejak pengukuhan PKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan larangan berlaku 'sebelum berakhirnya jangka waktu yang lebih lama antara 6 tahun sejak SMB atau masa manfaat aktiva tetap berwujud', bukan 3 tahun, 10 tahun, maupun dikaitkan dengan pengukuhan PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 603,
+        "kutipan": "sebelum berakhirnya jangka waktu yang lebih lama antara 6 tahun sejak SMB atau masa manfaat aktiva tetap berwujud"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0063",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Larangan Aktiva Fasilitas Tax Allowance (PMK 11/PMK.010/2020)",
+    "subtopik": "Dasar Hukum Ketentuan Larangan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan larangan terkait aktiva tetap/tak berwujud penerima fasilitas tax allowance ini merupakan penyesuaian dari peraturan...?",
+    "opsi": {
+      "A": "PMK 16/PMK.010/2020",
+      "B": "PMK 153/PMK.010/2020",
+      "C": "PMK 11/PMK.010/2020",
+      "D": "PMK 79/PMK.02/2012"
+    },
+    "kunci": "C",
+    "pembahasan": "Judul materi menunjukkan 'PENYESUAIAN KETENTUAN PMK 11/PMK.010/2020'. PMK 16/PMK.010/2020 mengatur larangan serupa untuk fasilitas lain (materi halaman lain), sedangkan PMK 153/PMK.010/2020 mengatur fasilitas litbang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 603,
+        "kutipan": "PENYESUAIAN KETENTUAN PMK 11/PMK.010/2020"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0064",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Larangan Aktiva Fasilitas (PMK 16/PMK.010/2020)",
+    "subtopik": "Jangka Waktu Larangan Aktiva Tetap Berwujud",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Larangan penggunaan/pengalihan aktiva tetap berwujud penerima fasilitas menurut PMK 16/PMK.010/2020 berlaku sebelum berakhirnya jangka waktu...?",
+    "opsi": {
+      "A": "3 tahun sejak dimulainya pemanfaatan fasilitas",
+      "B": "5 tahun sejak dimulainya pemanfaatan fasilitas",
+      "C": "10 tahun sejak dimulainya pemanfaatan fasilitas",
+      "D": "6 tahun sejak dimulainya pemanfaatan fasilitas"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan larangan berlaku 'sebelum berakhirnya jangka waktu 6 tahun sejak dimulainya pemanfaatan fasilitas Pajak Penghasilan', bukan 3, 5, atau 10 tahun.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 616,
+        "kutipan": "sebelum berakhirnya jangka waktu 6 tahun sejak dimulainya pemanfaatan fasilitas Pajak Penghasilan"
+      }
+    ],
+    "tags": [
+      "PMK-16/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0065",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Larangan Aktiva Fasilitas (PMK 16/PMK.010/2020)",
+    "subtopik": "Pengecualian Larangan Pengalihan Aktiva",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Aktiva tetap berwujud yang mendapatkan fasilitas berdasarkan PMK 16/PMK.010/2020 dilarang digunakan selain untuk tujuan pemberian fasilitas atau dialihkan, kecuali...?",
+    "opsi": {
+      "A": "diganti yang baru",
+      "B": "dijual kepada afiliasi",
+      "C": "disewakan dengan opsi beli",
+      "D": "dihibahkan kepada yayasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan larangan tersebut berlaku untuk pengalihan aktiva 'kecuali diganti yang baru', bukan dijual kepada afiliasi, disewakan dengan opsi beli, atau dihibahkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 616,
+        "kutipan": "digunakan selain untuk tujuan pemberian fasilitas atau dialihkan kecuali diganti yang baru"
+      }
+    ],
+    "tags": [
+      "PMK-16/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0066",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Larangan Aktiva Fasilitas (PMK 16/PMK.010/2020)",
+    "subtopik": "Dasar Hukum Ketentuan Larangan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan larangan terkait aktiva tetap berwujud penerima fasilitas ini merupakan penyesuaian dari peraturan...?",
+    "opsi": {
+      "A": "PMK 11/PMK.010/2020",
+      "B": "PMK 16/PMK.010/2020",
+      "C": "PMK 153/PMK.010/2020",
+      "D": "PMK 37/PMK.03/2017"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul materi menunjukkan 'PENYESUAIAN KETENTUAN PMK 16/PMK.010/2020'. PMK 11/PMK.010/2020 mengatur ketentuan larangan serupa untuk fasilitas tax allowance yang berbeda (materi halaman lain).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 616,
+        "kutipan": "PENYESUAIAN KETENTUAN PMK 16/PMK.010/2020"
+      }
+    ],
+    "tags": [
+      "PMK-16/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0067",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Subjek Pajak Fasilitas Litbang (Super Deduction)",
+    "subtopik": "Pengecualian Subjek Penerima Fasilitas Litbang",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Fasilitas litbang (super deduction) dalam PMK 153/PMK.010/2020 berlaku bagi Wajib Pajak Badan Dalam Negeri, KECUALI yang menjalankan usaha berdasarkan...?",
+    "opsi": {
+      "A": "kontrak kerja sama migas dan kontrak karya pertambangan batubara",
+      "B": "perjanjian waralaba dan perjanjian lisensi",
+      "C": "kontrak bagi hasil, kontrak karya, atau perjanjian kerjasama pengusahaan pertambangan",
+      "D": "kontrak konstruksi dan perjanjian sewa guna usaha"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan fasilitas ini berlaku 'Selain Wajib Pajak badan dalam negeri yang menjalankan usaha berdasarkan kontrak bagi hasil, kontrak karya, atau perjanjian kerjasama pengusahaan pertambangan', sehingga WP dengan kontrak tersebut dikecualikan dari fasilitas litbang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 624,
+        "kutipan": "Selain Wajib Pajak badan dalam negeri yang menjalankan usaha berdasarkan kontrak bagi hasil, kontrak karya, atau perjanjian kerjasama pengusahaan pertambangan"
+      }
+    ],
+    "tags": [
+      "PMK-153/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-0068",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Subjek Pajak Fasilitas Litbang (Super Deduction)",
+    "subtopik": "Syarat Kegiatan Litbang di Indonesia",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu syarat agar WP Badan DN dapat memperoleh fasilitas litbang (super deduction) adalah melakukan kegiatan penelitian dan pengembangan tertentu di Indonesia, paling lama sejak berlakunya...?",
+    "opsi": {
+      "A": "PP 34/2016",
+      "B": "PP 40/2016",
+      "C": "PP 78/2019",
+      "D": "PP 45/2019"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan 'Melakukan kegiatan penelitian dan pengembangan tertentu di Indonesia paling lama sejak berlakunya PP 45/2019'. PP 34/2016 dan PP 40/2016 mengatur objek pengalihan tanah/bangunan dan Real Estat (materi halaman lain), sedangkan PP 78/2019 mengatur fasilitas tax allowance.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 624,
+        "kutipan": "Melakukan kegiatan penelitian dan pengembangan tertentu di Indonesia paling lama sejak berlakunya PP 45/2019"
+      }
+    ],
+    "tags": [
+      "PMK-153/PMK.010/2020",
+      "PP-45/2019"
+    ]
+  },
+  {
+    "id": "ADV-0069",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Subjek Pajak Fasilitas Litbang (Super Deduction)",
+    "subtopik": "Dasar Hukum Pasal Subjek Pajak Litbang",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai Subjek Pajak penerima fasilitas litbang ini diatur dalam Pasal berapa pada PMK 153/PMK.010/2020?",
+    "opsi": {
+      "A": "Pasal 434 dan 437",
+      "B": "Pasal 421",
+      "C": "Pasal 429",
+      "D": "Pasal 386 dan 388"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mencantumkan nomor '434& 437' sebagai dasar pasal bagian Subjek Pajak ini. Pasal 421 dan 429 merupakan dasar hukum ketentuan larangan pada PMK 11/2020 dan PMK 16/2020 (materi halaman lain), sedangkan Pasal 386/388 mengatur Faktur Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 624,
+        "kutipan": "434& 437"
+      }
+    ],
+    "tags": [
+      "PMK-153/PMK.010/2020"
+    ]
+  }
+]

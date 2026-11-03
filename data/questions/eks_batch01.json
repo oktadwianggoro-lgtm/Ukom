@@ -1,0 +1,1855 @@
+[
+  {
+    "id": "EKS-01-001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema Ruang Lingkup Kegiatan Ekstensifikasi 2026, kategori manakah yang berada pada tingkat teratas dan membawahi ruang lingkup WP Baru maupun WP NA?",
+    "opsi": {
+      "A": "DPE",
+      "B": "KPD",
+      "C": "Aktivasi WP",
+      "D": "NA TD"
+    },
+    "kunci": "C",
+    "pembahasan": "Skema Ruang Lingkup Kegiatan Ekstensifikasi 2026 menempatkan 'Aktivasi WP' sebagai kategori puncak yang membawahi dua cabang, yaitu WP Baru dan WP NA.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "Aktivasi WP"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "Ruang Lingkup Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pada ruang lingkup 'WP Baru' dalam skema Ekstensifikasi 2026, kegiatan ekstensifikasi terbagi menjadi DPE dan …",
+    "opsi": {
+      "A": "KPD",
+      "B": "NA TD",
+      "C": "Aktivasi WP",
+      "D": "WP NA"
+    },
+    "kunci": "A",
+    "pembahasan": "Cabang 'WP Baru' pada skema Ekstensifikasi 2026 memiliki dua turunan kegiatan, yaitu DPE dan KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "WP Baru"
+      },
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "KPD"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "DPE",
+      "KPD"
+    ]
+  },
+  {
+    "id": "EKS-01-003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pada ruang lingkup 'WP NA' dalam skema Ekstensifikasi 2026, kegiatan ekstensifikasi terbagi menjadi KPD dan …",
+    "opsi": {
+      "A": "DPE",
+      "B": "Aktivasi WP",
+      "C": "WP Baru",
+      "D": "NA TD"
+    },
+    "kunci": "D",
+    "pembahasan": "Cabang 'WP NA' pada skema Ekstensifikasi 2026 memiliki dua turunan kegiatan, yaitu NA TD dan KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "NA TD"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "WP NA"
+    ]
+  },
+  {
+    "id": "EKS-01-004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Istilah-istilah berikut tercantum dalam skema Ruang Lingkup Kegiatan Ekstensifikasi 2026, KECUALI …",
+    "opsi": {
+      "A": "WP Baru",
+      "B": "SPHPP",
+      "C": "NA TD",
+      "D": "KPD"
+    },
+    "kunci": "B",
+    "pembahasan": "Skema Ruang Lingkup Kegiatan Ekstensifikasi 2026 hanya memuat istilah Aktivasi WP, WP Baru, WP NA, DPE, KPD, dan NA TD. Istilah SPHPP tidak muncul pada skema ini, melainkan pada tahapan Tata Cara Pengawasan WP Belum Terdaftar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 Aktivasi WP WP Baru DPE KPD WP NA NA TD KPD"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "Ruang Lingkup Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang calon Wajib Pajak belum pernah memiliki NPWP sama sekali dan akan diaktivasi sebagai Wajib Pajak untuk pertama kalinya. Kegiatan ini termasuk ruang lingkup …",
+    "opsi": {
+      "A": "WP NA",
+      "B": "WP Baru",
+      "C": "NA TD",
+      "D": "KPD"
+    },
+    "kunci": "B",
+    "pembahasan": "Aktivasi WP yang belum pernah terdaftar/ber-NPWP sama sekali termasuk ruang lingkup 'WP Baru', bukan 'WP NA' yang diperuntukkan bagi WP yang sudah pernah terdaftar namun belum/tidak aktif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "WP Baru"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "WP Baru"
+    ]
+  },
+  {
+    "id": "EKS-01-006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada kotak hijau di bawah ruang lingkup 'WP Baru', istilah yang ditampilkan dengan garis bawah (penekanan visual) adalah …",
+    "opsi": {
+      "A": "KPD",
+      "B": "NA TD",
+      "C": "Aktivasi WP",
+      "D": "DPE"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada diagram, di bawah 'WP Baru' terdapat dua kotak yaitu 'DPE' dan 'KPD'; istilah 'DPE' ditampilkan dengan garis bawah sebagai penekanan visual.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "DPE"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "DPE"
+    ]
+  },
+  {
+    "id": "EKS-01-007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada kotak hijau di bawah ruang lingkup 'WP NA', istilah yang ditampilkan dengan garis bawah (penekanan visual) adalah …",
+    "opsi": {
+      "A": "NA TD",
+      "B": "KPD",
+      "C": "DPE",
+      "D": "Aktivasi WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada diagram, di bawah 'WP NA' terdapat dua kotak yaitu 'NA TD' dan 'KPD'; istilah 'NA TD' ditampilkan dengan garis bawah sebagai penekanan visual.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "NA TD"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "NA TD"
+    ]
+  },
+  {
+    "id": "EKS-01-008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pada skema Ruang Lingkup Kegiatan Ekstensifikasi 2026, berapa jumlah kotak hijau (turunan tingkat ketiga) yang ditampilkan secara keseluruhan?",
+    "opsi": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat empat kotak hijau pada tingkat ketiga, yaitu DPE dan KPD (di bawah WP Baru), serta NA TD dan KPD (di bawah WP NA).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "DPE KPD NA TD KPD"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "Ruang Lingkup Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Urutan hierarki yang benar pada skema Ruang Lingkup Kegiatan Ekstensifikasi 2026, dari tingkat tertinggi ke terendah, adalah …",
+    "opsi": {
+      "A": "Aktivasi WP -> WP Baru/WP NA -> DPE/KPD/NA TD",
+      "B": "WP Baru -> Aktivasi WP -> DPE/KPD",
+      "C": "DPE -> WP Baru -> Aktivasi WP",
+      "D": "WP NA -> NA TD -> Aktivasi WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Hierarki skema dimulai dari 'Aktivasi WP' di puncak, bercabang menjadi 'WP Baru' dan 'WP NA', yang masing-masing bercabang lagi menjadi DPE/KPD dan NA TD/KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "Aktivasi WP WP Baru WP NA DPE KPD NA TD"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "Ruang Lingkup Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dua ruang lingkup yang berada langsung di bawah 'Aktivasi WP' pada skema Ekstensifikasi 2026 adalah …",
+    "opsi": {
+      "A": "DPE dan KPD",
+      "B": "NA TD dan KPD",
+      "C": "WP Baru dan WP NA",
+      "D": "DPE dan NA TD"
+    },
+    "kunci": "C",
+    "pembahasan": "Di bawah 'Aktivasi WP' terdapat dua ruang lingkup turunan langsung, yaitu 'WP Baru' dan 'WP NA'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "WP Baru"
+      },
+      {
+        "pdf": "A",
+        "halaman": 78,
+        "kutipan": "WP NA"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi 2026",
+      "Aktivasi WP"
+    ]
+  },
+  {
+    "id": "EKS-01-011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Gambaran Umum Proses Bisnis Pengawasan atas Wajib Pajak belum ber-NPWP atau belum aktivasi NIK sebagai NPWP terdiri dari berapa fase utama?",
+    "opsi": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "kunci": "B",
+    "pembahasan": "Probis ini terdiri dari empat fase: I. Perencanaan Ekstensifikasi, II. Pelaksanaan Ekstensifikasi, III. Tindak Lanjut Ekstensifikasi, dan IV. Monitoring dan Evaluasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "I. Perencanaan Ekstensifikasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "IV. Monitoring dan Evaluasi"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Probis Pengawasan WP Belum Terdaftar"
+    ]
+  },
+  {
+    "id": "EKS-01-012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tiga sumber data yang menjadi input bagi Komite Kepatuhan pada tahap Perencanaan Ekstensifikasi adalah …",
+    "opsi": {
+      "A": "SP2DK, SPHPP, dan BAP2DK",
+      "B": "DPE, KPD, dan NA TD",
+      "C": "CRM, DSE, dan HRIS",
+      "D": "KM, CRM, dan BI"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada tahap Perencanaan, Komite Kepatuhan menggunakan tiga sumber data yaitu KM, CRM, dan BI sebelum menghasilkan DPE melalui Perencanaan DSE.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "KM"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "CRM"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "BI"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Komite Kepatuhan"
+    ]
+  },
+  {
+    "id": "EKS-01-013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Setelah DPE ditetapkan dalam probis pengawasan WP belum terdaftar, Wajib Pajak dikelompokkan berdasarkan tingkat risiko menjadi …",
+    "opsi": {
+      "A": "Risiko Tinggi dan Risiko Rendah",
+      "B": "Risiko Kolaboratif dan Nonkolaboratif",
+      "C": "Risiko Internal dan Eksternal",
+      "D": "High & Medium Risk dan Low Risk"
+    },
+    "kunci": "D",
+    "pembahasan": "DPE yang telah ditetapkan dipilah berdasarkan tingkat risiko menjadi dua kelompok, yaitu High & Medium Risk dan Low Risk, dengan perlakuan tindak lanjut yang berbeda.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "High & Medium Risk"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Low Risk"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Probis Pengawasan WP Belum Terdaftar"
+    ]
+  },
+  {
+    "id": "EKS-01-014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada jalur Wajib Pajak risiko High & Medium, setelah dilakukan 'Analisis/Penelitian Potensi Pajak', dokumen yang diterbitkan kepada WP adalah …",
+    "opsi": {
+      "A": "BAP2DK",
+      "B": "SP2DK",
+      "C": "SPHPP",
+      "D": "LHP2DK"
+    },
+    "kunci": "B",
+    "pembahasan": "Setelah tahap Analisis/Penelitian Potensi Pajak, dokumen yang diterbitkan dan disampaikan kepada WP adalah SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Analisis/Penelitian Potensi Pajak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "SP2DK"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SP2DK dalam probis ini dapat disampaikan kepada WP melalui kanal-kanal berikut, KECUALI …",
+    "opsi": {
+      "A": "Taxpayer Portal",
+      "B": "Post",
+      "C": "Media Sosial",
+      "D": "Visit"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyampaian SP2DK ke WP digambarkan melalui kanal Taxpayer Portal, Phone, E-mail, Post, dan Visit. Media Sosial tidak termasuk kanal yang digambarkan dalam probis ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Taxpayer Portal Phone E-mail Post Visit"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "SP2DK",
+      "Penyampaian SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP hasil DPE dikategorikan sebagai Low Risk. Langkah tindak lanjut yang akan ditempuh terhadap WP tersebut dalam probis ini adalah …",
+    "opsi": {
+      "A": "Edukasi",
+      "B": "SP2DK",
+      "C": "Kunjungan",
+      "D": "Pembahasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Jalur Low Risk pada probis ini ditindaklanjuti melalui kegiatan Edukasi, berbeda dengan jalur High & Medium Risk yang ditindaklanjuti dengan SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Low Risk"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Edukasi"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Low Risk",
+      "Edukasi"
+    ]
+  },
+  {
+    "id": "EKS-01-017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Setelah tahap 'Monitor Tanggapan WP' dan diterbitkan SPHP, apabila hasil pengujian menunjukkan 'Masih Terdapat potensi?' dengan jawaban 'Y', langkah selanjutnya adalah …",
+    "opsi": {
+      "A": "BAP2DK",
+      "B": "LHP2DK",
+      "C": "Undangan Pembahasan Akhir",
+      "D": "Kunjungan"
+    },
+    "kunci": "C",
+    "pembahasan": "Jika hasil pengujian masih menunjukkan terdapat potensi (jawaban Y pada diamond keputusan), langkah selanjutnya adalah penerbitan Undangan Pembahasan Akhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Masih Terdapat potensi? Y Undangan Pembahasan Akhir"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Probis Pengawasan WP Belum Terdaftar"
+    ]
+  },
+  {
+    "id": "EKS-01-018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Baik WP yang 'Setuju' maupun yang 'tidak Setuju' terhadap hasil Undangan Pembahasan Akhir, kedua jalur tersebut sama-sama bermuara pada penerbitan …",
+    "opsi": {
+      "A": "SPHP",
+      "B": "SP2DK",
+      "C": "LHP2DK",
+      "D": "BAP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Baik jalur WP Setuju maupun WP tidak Setuju atas hasil pembahasan akhir, keduanya diarahkan menuju penerbitan BAP2DK sebelum berlanjut ke LHP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "WP Setuju"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "WP tidak Setuju"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "BAP2DK"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada tahap III (Tindak Lanjut Ekstensifikasi), 'Relevant Business Process' mencakup Probis Registrasi, Probis Pemeriksaan, dan …",
+    "opsi": {
+      "A": "Probis Intelijen Perpajakan",
+      "B": "Probis Keberatan",
+      "C": "Probis Penagihan",
+      "D": "Probis Ekstensifikasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Relevant Business Process pada tahap Tindak Lanjut Ekstensifikasi mencakup tiga probis, yaitu Probis Registrasi, Probis Pemeriksaan, dan Probis Intelijen Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Probis Registrasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Probis Pemeriksaan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Probis Intelijen Perpajakan"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Relevant Business Process"
+    ]
+  },
+  {
+    "id": "EKS-01-020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk output tindak lanjut dari LHP2DK pada probis pengawasan WP belum terdaftar, KECUALI …",
+    "opsi": {
+      "A": "Pengukuhan PKP secara Jabatan",
+      "B": "Aktivasi NIK secara Jabatan",
+      "C": "Usul Pemeriksaan Komprehensif",
+      "D": "Usul IDLP"
+    },
+    "kunci": "B",
+    "pembahasan": "Output tindak lanjut dari LHP2DK meliputi Pengukuhan PKP secara Jabatan, Pendaftaran Objek PBB secara jabatan, Usul Pemeriksaan Sederhana, Usul Pemeriksaan Komprehensif, Usul IDLP, dan Input Form KPD. 'Aktivasi NIK secara Jabatan' merupakan output dari BAP2DK, bukan LHP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Pengukuhan Pengusaha Kena Pajak secara Jabatan Pendaftaran Objek PBB secara jabatan Usul Pemeriksaan Sederhana Usul Pemeriksaan Komprehensif Usul IDLP Input Form KPD"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Aktivasi NIK secara Jabatan"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "LHP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam probis pengawasan WP belum terdaftar, WP hasil DPE dibedakan menjadi berapa jalur berdasarkan tingkat risiko?",
+    "opsi": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "kunci": "B",
+    "pembahasan": "Terdapat dua jalur berdasarkan tingkat risiko, yaitu jalur High & Medium Risk dan jalur Low Risk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "High & Medium Risk"
+      },
+      {
+        "pdf": "A",
+        "halaman": 80,
+        "kutipan": "Low Risk"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Probis Pengawasan WP Belum Terdaftar"
+    ]
+  },
+  {
+    "id": "EKS-01-022",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada tahap Perencanaan dalam skema Jangka Waktu Probis Pengawasan WP Belum Terdaftar, DPE dibedakan menjadi DPE Kolaboratif dan …",
+    "opsi": {
+      "A": "DPE Nonkolaboratif",
+      "B": "DPE Prioritas",
+      "C": "DPE Risiko Tinggi",
+      "D": "DPE Terintegrasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Skema menunjukkan dua jenis DPE pada tahap Perencanaan, yaitu DPE Kolaboratif dan DPE Nonkolaboratif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "DPE Kolaboratif"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "DPE Nonkolaboratif"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "DPE Kolaboratif/Nonkolaboratif"
+    ]
+  },
+  {
+    "id": "EKS-01-023",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sumber Daftar Sasaran Ekstensifikasi yang menjadi dasar penetapan DPE Kolaboratif pada tahap Perencanaan adalah …",
+    "opsi": {
+      "A": "KPD",
+      "B": "HRIS",
+      "C": "SPP",
+      "D": "CRM"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menunjukkan 'Daftar Sasaran Ekstensifikasi (CRM)' sebagai sumber yang mengalir menuju DPE Kolaboratif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Daftar Sasaran Ekstensifikasi (CRM)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "DPE Kolaboratif"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "DPE Kolaboratif/Nonkolaboratif",
+      "CRM"
+    ]
+  },
+  {
+    "id": "EKS-01-024",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "DPE Nonkolaboratif pada tahap Perencanaan dalam skema Jangka Waktu Probis Pengawasan WP Belum Terdaftar bersumber dari …",
+    "opsi": {
+      "A": "CRM",
+      "B": "HRIS",
+      "C": "KPD",
+      "D": "SPP"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan alur dari KPD menuju DPE Nonkolaboratif pada tahap Perencanaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "DPE Nonkolaboratif"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "KPD"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "DPE Kolaboratif/Nonkolaboratif",
+      "KPD"
+    ]
+  },
+  {
+    "id": "EKS-01-025",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan skema Jangka Waktu Probis Pengawasan WP Belum Terdaftar, berapa lama jangka waktu dari Penetapan DPE hingga penerbitan SPrint?",
+    "opsi": {
+      "A": "5 Hari Kerja",
+      "B": "1 Bulan",
+      "C": "14 Hari",
+      "D": "21 Hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Jangka waktu dari Penetapan DPE hingga penerbitan SPrint adalah 1 Bulan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Penetapan DPE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "1 Bulan"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "SPrint"
+    ]
+  },
+  {
+    "id": "EKS-01-026",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Setelah SPrint diterbitkan, berapa lama jangka waktu untuk penerbitan SP2DK?",
+    "opsi": {
+      "A": "5 Hari Kerja",
+      "B": "1 Bulan",
+      "C": "14 Hari",
+      "D": "2 Hari Kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Jangka waktu dari penerbitan SPrint hingga penerbitan SP2DK adalah 5 Hari Kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "SPrint"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "5 Hari Kerja"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-027",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "WP diberikan jangka waktu berapa hari untuk menyampaikan Tanggapan WP atas SP2DK yang diterima?",
+    "opsi": {
+      "A": "5 Hari Kerja",
+      "B": "7 Hari",
+      "C": "21 Hari",
+      "D": "14 Hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Setelah SP2DK terbit, WP diberikan jangka waktu 14 Hari untuk menyampaikan Tanggapan WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "14 Hari"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-01-028",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu penyampaian Tanggapan WP atas SP2DK, sebagaimana digambarkan dalam skema, dapat diperpanjang paling lama …",
+    "opsi": {
+      "A": "14 hari",
+      "B": "7 hari",
+      "C": "21 hari",
+      "D": "30 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Jangka waktu Tanggapan WP dapat diperpanjang maksimal 7 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Dapat diperpanjang Maks. 7 hari"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-01-029",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah Tanggapan WP diterima, berapa lama jangka waktu penyusunan Laporan Hasil Klarifikasi?",
+    "opsi": {
+      "A": "5 Hari Kerja",
+      "B": "14 Hari",
+      "C": "2 Hari Kerja",
+      "D": "21 Hari"
+    },
+    "kunci": "C",
+    "pembahasan": "Jangka waktu dari Tanggapan WP hingga tersusunnya Laporan Hasil Klarifikasi adalah 2 Hari Kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Tanggapan WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "2 Hari kerja"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Laporan Hasil Klarifikasi"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "Laporan Hasil Klarifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-030",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah Laporan Hasil Klarifikasi disusun, berapa lama jangka waktu penerbitan SPHPP?",
+    "opsi": {
+      "A": "2 Hari Kerja",
+      "B": "7 Hari",
+      "C": "14 Hari",
+      "D": "5 Hari Kerja"
+    },
+    "kunci": "D",
+    "pembahasan": "Jangka waktu dari Laporan Hasil Klarifikasi hingga penerbitan SPHPP adalah 5 Hari Kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Laporan Hasil Klarifikasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "5 Hari Kerja"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "SPHPP"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-01-031",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila SPHPP diterbitkan tanpa melalui Undangan Pembahasan, dokumen yang diterbitkan setelahnya adalah …",
+    "opsi": {
+      "A": "BAP2DK",
+      "B": "LHP2DK",
+      "C": "Pembahasan",
+      "D": "Laporan Hasil Klarifikasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Jalur 'Tanpa Undangan Pembahasan' pada skema langsung mengarah ke penerbitan BAP2DK dalam waktu 2 Hari kerja, tanpa melalui tahap Pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Tanpa Undangan Pembahasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "BAP2DK"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-032",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila SPHPP ditindaklanjuti melalui Undangan Pembahasan, jangka waktu yang digambarkan dalam skema adalah …",
+    "opsi": {
+      "A": "14 Hari",
+      "B": "21 Hari",
+      "C": "7 hari",
+      "D": "5 Hari Kerja"
+    },
+    "kunci": "B",
+    "pembahasan": "Jalur Undangan Pembahasan pada skema diberi jangka waktu 21 Hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "21 Hari"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Undangan Pembahasan"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "EKS-01-033",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pembahasan atas SPHPP dalam skema Jangka Waktu Probis Pengawasan WP Belum Terdaftar dapat dilaksanakan melalui dua cara, yaitu …",
+    "opsi": {
+      "A": "Formal dan Informal",
+      "B": "Internal dan Eksternal",
+      "C": "Luring dan Daring",
+      "D": "Langsung dan Tidak Langsung"
+    },
+    "kunci": "C",
+    "pembahasan": "Skema menunjukkan Pembahasan dapat dilaksanakan secara Luring maupun Daring.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Luring"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Daring"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "EKS-01-034",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Catatan kaki pada skema Jangka Waktu Probis Pengawasan WP Belum Terdaftar menyebutkan dasar penetapan titik awal perhitungan jangka waktu 14 hari SP2DK merujuk pada nomor dokumen …",
+    "opsi": {
+      "A": "Coretax",
+      "B": "PMK (umum) & RSE (detil)",
+      "C": "CRM",
+      "D": "ND-498/PJ.06/2025"
+    },
+    "kunci": "D",
+    "pembahasan": "Catatan kaki pada skema mencantumkan rujukan '*ND-498/PJ.06/2025' sebagai dasar penetapan 'sejak mana yang lebih dahulu' dalam menghitung jangka waktu 14 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "*ND-498/PJ.06/2025"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "ND-498/PJ.06/2025"
+    ]
+  },
+  {
+    "id": "EKS-01-035",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada tahap Tindak Lanjut (Registrasi, Pemeriksaan, Pengembangan dan Analisis IDLP, serta Pembatasan/Pemblokiran Layanan Publik Tertentu), sistem dan ketentuan yang digambarkan sebagai basis pelaksanaannya adalah …",
+    "opsi": {
+      "A": "Coretax serta PMK (umum) & RSE (detil)",
+      "B": "SIDJP serta Peraturan Dirjen Pajak",
+      "C": "e-SPT serta Surat Edaran",
+      "D": "CRM serta KSWP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada kolom Tindak Lanjut, skema mencantumkan 'Coretax' dan 'PMK (umum) & RSE (detil)' sebagai sistem dan ketentuan yang menjadi basis pelaksanaan tahap tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "Coretax"
+      },
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "PMK (umum) & RSE (detil)"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "Coretax"
+    ]
+  },
+  {
+    "id": "EKS-01-036",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut adalah titik waktu yang digunakan sebagai acuan 'mana yang lebih dahulu' dalam menghitung jangka waktu 14 hari SP2DK pada skema Jangka Waktu Probis Pengawasan WP Belum Terdaftar, KECUALI …",
+    "opsi": {
+      "A": "tanggal penerbitan SP2DK dalam hal Akun WP telah aktif",
+      "B": "tanggal aktivasi Akun WP dalam hal Akun WP belum aktif",
+      "C": "tanggal penerbitan SPHPP",
+      "D": "tanggal bukti pengiriman SP2DK melalui pos, jasa ekspedisi, atau jasa kurir"
+    },
+    "kunci": "C",
+    "pembahasan": "Empat acuan 'mana yang lebih dahulu' adalah tanggal penerbitan SP2DK saat akun aktif, tanggal aktivasi akun saat akun belum aktif, tanggal bukti pengiriman SP2DK, dan tanggal penyampaian SP2DK secara langsung. 'Tanggal penerbitan SPHPP' tidak termasuk dalam keempat acuan tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 81,
+        "kutipan": "tanggal penerbitan SP2DK dalam hal Akun Wajib Pajak telah aktif; tanggal aktivasi Akun Wajib Pajak dalam hal Akun Wajib Pajak belum aktif"
+      }
+    ],
+    "tags": [
+      "Jangka Waktu Probis",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-037",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang AR ditugaskan melaksanakan pengawasan terhadap Wajib Pajak belum terdaftar sesuai Tata Cara Pengawasan WP Belum Terdaftar. Dasar formal yang menjadi landasan tindakan AR tersebut adalah …",
+    "opsi": {
+      "A": "SP2DK",
+      "B": "Surat Perintah Pengawasan",
+      "C": "SPHPP",
+      "D": "BAP2DK"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menyebutkan bahwa Account Representative/Pegawai DJP bertindak 'Berdasarkan surat perintah Pengawasan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "Berdasarkan surat perintah Pengawasan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Surat Perintah Pengawasan"
+    ]
+  },
+  {
+    "id": "EKS-01-038",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SP2DK pada Tata Cara Pengawasan WP Belum Terdaftar dapat disampaikan kepada WP melalui cara-cara berikut, KECUALI …",
+    "opsi": {
+      "A": "Media Sosial",
+      "B": "melalui Akun WP",
+      "C": "melalui pos",
+      "D": "langsung (dengan BA)"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram mencantumkan tiga cara penyampaian SP2DK, yaitu melalui Akun WP, melalui pos, dan langsung (dengan BA). Penyampaian melalui Media Sosial tidak digambarkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "melalui Akun WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "melalui pos"
+      },
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "langsung (dengan BA)"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-039",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Total jangka waktu maksimal (termasuk perpanjangan) yang digambarkan dalam Tata Cara Pengawasan WP Belum Terdaftar sejak SP2DK disampaikan hingga batas akhir WP merespons adalah …",
+    "opsi": {
+      "A": "7 hari",
+      "B": "14 hari",
+      "C": "30 hari",
+      "D": "21 hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram mencantumkan jangka waktu 'maks.14 hari + 7 hari', sehingga total maksimal adalah 21 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "maks.14 hari + 7 hari"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-040",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila WP tidak menyampaikan penjelasan atau penjelasan yang disampaikan belum sesuai atas SP2DK, tindakan yang akan dilakukan adalah …",
+    "opsi": {
+      "A": "Penerbitan BAP2DK",
+      "B": "Pembahasan",
+      "C": "Kunjungan",
+      "D": "Penerbitan SPHPP langsung"
+    },
+    "kunci": "C",
+    "pembahasan": "Jalur 'WP tidak menyampaikan penjelasan/belum sesuai' pada diagram ditindaklanjuti dengan Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "WP tidak menyampaikan penjelasan/belum sesuai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "Kunjungan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Kunjungan"
+    ]
+  },
+  {
+    "id": "EKS-01-041",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Baik hasil 'Memenuhi kewajiban dan/atau Penjelasan' maupun hasil 'Kunjungan', keduanya akan ditindaklanjuti dengan …",
+    "opsi": {
+      "A": "Penerbitan BAP2DK langsung",
+      "B": "Penghitungan indikasi kewajiban perpajakan",
+      "C": "Penerbitan Surat undangan pembahasan",
+      "D": "Usulan huruf b-f"
+    },
+    "kunci": "B",
+    "pembahasan": "Kedua jalur tersebut pada diagram sama-sama bermuara pada tahap Penghitungan indikasi kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "Penghitungan indikasi kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Penghitungan Indikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-042",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Hasil penghitungan menunjukkan terdapat indikasi kewajiban perpajakan yang masih harus dipenuhi dan terdapat jumlah pajak tertentu. Selain SPHPP, dokumen lain yang turut diterbitkan adalah …",
+    "opsi": {
+      "A": "Surat undangan pembahasan",
+      "B": "BAP2DK",
+      "C": "LHP2DK",
+      "D": "SP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Apabila ada indikasi kewajiban perpajakan yang masih harus dipenuhi dengan jumlah pajak, diterbitkan SPHPP beserta Surat undangan pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "Ada indikasi kewajiban perpajakan yang masih harus dipenuhi yang ada jumlah pajak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "Surat undangan pembahasan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-01-043",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Hasil penghitungan menunjukkan tidak ada indikasi kewajiban perpajakan yang masih harus dipenuhi. Setelah SPHPP terbit, dokumen selanjutnya yang diterbitkan adalah …",
+    "opsi": {
+      "A": "Surat undangan pembahasan",
+      "B": "Pembahasan",
+      "C": "LHP2DK",
+      "D": "BAP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Apabila tidak ada indikasi kewajiban perpajakan yang masih harus dipenuhi, setelah SPHPP terbit langsung diikuti penerbitan BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "Tidak ada indikasi kewajiban perpajakan yang masih harus dipenuhi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "BAP2DK"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-01-044",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam diagram Tata Cara Pengawasan WP Belum Terdaftar, penerbitan NPWP/NITKU secara jabatan didasarkan pada terpenuhinya …",
+    "opsi": {
+      "A": "syarat formal dan material",
+      "B": "syarat administratif dan teknis",
+      "C": "syarat objektif dan subjektif",
+      "D": "syarat pendaftaran dan pelaporan"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menyebutkan bahwa NPWP/NITKU jabatan diterbitkan karena 'WP memenuhi syarat objektif dan subjektif'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "WP memenuhi syarat objektif dan subjektif"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Syarat Objektif Subjektif"
+    ]
+  },
+  {
+    "id": "EKS-01-045",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk kondisi yang menyebabkan kegiatan permintaan penjelasan TIDAK ditindaklanjuti (huruf a) dalam Tata Cara Pengawasan WP Belum Terdaftar, KECUALI …",
+    "opsi": {
+      "A": "memiliki indikasi tindak pidana di bidang perpajakan",
+      "B": "tidak dapat ditemukan",
+      "C": "menjadi subjek pajak luar negeri",
+      "D": "telah memenuhi kewajiban perpajakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kondisi huruf a mencakup antara lain: tidak dapat ditemukan, telah meninggal dunia tanpa warisan terbagi, menjadi subjek pajak luar negeri, tidak memenuhi syarat subjektif-objektif, tidak memiliki indikasi kewajiban perpajakan, atau telah memenuhi kewajiban perpajakan. 'Memiliki indikasi tindak pidana di bidang perpajakan' merupakan kriteria usulan huruf f, bukan huruf a.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "tidak dapat ditemukan; telah meninggal dunia dan tidak meninggalkan warisan yang belum terbagi; menjadi subjek pajak luar negeri"
+      },
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "indikasi tindak pidana di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Case Closed"
+    ]
+  },
+  {
+    "id": "EKS-01-046",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu kegiatan pendukung pengawasan WP belum terdaftar adalah permintaan data kepada …",
+    "opsi": {
+      "A": "Komite Kepatuhan",
+      "B": "pihak internal DJP",
+      "C": "instansi pemerintah lain",
+      "D": "pihak ketiga"
+    },
+    "kunci": "D",
+    "pembahasan": "Kegiatan pendukung pengawasan mencakup pengusulan penilaian, pembahasan dengan pihak internal, permintaan data kepada pihak ketiga, dan kegiatan pendukung lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "permintaan data kepada pihak ketiga"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Kegiatan Pendukung Pengawasan"
+    ]
+  },
+  {
+    "id": "EKS-01-047",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan salah satu usulan tindak lanjut (huruf b-f) dalam Tata Cara Pengawasan WP Belum Terdaftar, yaitu …",
+    "opsi": {
+      "A": "Aktivasi NIK secara Jabatan",
+      "B": "Pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "C": "Usul Pemeriksaan Sederhana",
+      "D": "Pendaftaran Wajib Pajak secara jabatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Usulan huruf b pada diagram adalah pengukuhan Pengusaha Kena Pajak secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 83,
+        "kutipan": "pengukuhan Pengusaha Kena Pajak secara jabatan;"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pengawasan WP Belum Terdaftar",
+      "Usulan Huruf b-f"
+    ]
+  },
+  {
+    "id": "EKS-01-048",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Siapa yang melakukan assign case kepada Petugas Ekstensifikasi dalam proses Penugasan Ekstensifikasi?",
+    "opsi": {
+      "A": "Kepala KPP",
+      "B": "Account Representative",
+      "C": "Kepala Seksi Pengawasan",
+      "D": "Kepala KP2KP"
+    },
+    "kunci": "C",
+    "pembahasan": "Penugasan Ekstensifikasi diawali dengan Kepala Seksi Pengawasan yang melakukan assign case kepada Petugas Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Kepala Seksi Pengawasan melakukan assign case"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "Kasi Pengawasan"
+    ]
+  },
+  {
+    "id": "EKS-01-049",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Petugas Ekstensifikasi yang menerima assign case dari Kepala Seksi Pengawasan terdiri dari berapa orang?",
+    "opsi": {
+      "A": "1 orang",
+      "B": "3 orang",
+      "C": "4 orang",
+      "D": "2 orang"
+    },
+    "kunci": "D",
+    "pembahasan": "Petugas Ekstensifikasi yang di-assign case terdiri dari 2 orang.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "yang terdiri dari 2 orang"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-050",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tim Ekstensifikasi yang ditugaskan untuk menindaklanjuti DPE terdiri atas unsur-unsur berikut, KECUALI …",
+    "opsi": {
+      "A": "Kepala Seksi Pengawasan sebagai Supervisor",
+      "B": "Kepala KPP sebagai Penanggung Jawab",
+      "C": "1 AR pengampu atau Kepala KP2KP sebagai Ketua Tim",
+      "D": "1 AR lainnya dalam satu seksi pengawasan sebagai Anggota Tim"
+    },
+    "kunci": "B",
+    "pembahasan": "Tim Ekstensifikasi terdiri dari Kepala Seksi Pengawasan sebagai Supervisor, 1 AR pengampu/Kepala KP2KP sebagai Ketua Tim, dan 1 AR lainnya sebagai Anggota Tim. Kepala KPP tidak menjadi bagian dari tim; perannya adalah menerbitkan SPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Kepala Seksi Pengawasan sebagai sebagai Supervisor"
+      },
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "1 AR lainnya dlm satu seksi pengawasan sebagai Anggota Tim"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "Tim Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-051",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penugasan case kepada Petugas Ekstensifikasi dilakukan berdasarkan rekomendasi …",
+    "opsi": {
+      "A": "HRIS sesuai Kompleksitas Kasus",
+      "B": "CRM sesuai tingkat risiko",
+      "C": "Komite Kepatuhan",
+      "D": "SIDJP sesuai beban kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Penugasan case dilakukan berdasarkan rekomendasi HRIS sesuai Kompleksitas Kasus.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Penugasan Case dilakukan berdasarkan rekomendasi HRIS sesuai Kompleksitas Kasus."
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "HRIS"
+    ]
+  },
+  {
+    "id": "EKS-01-052",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebuah DPE telah ditetapkan dan siap ditindaklanjuti oleh tim ekstensifikasi. Pejabat yang berwenang menerbitkan Surat Perintah Pengawasan (SPP) atas DPE tersebut adalah …",
+    "opsi": {
+      "A": "Kepala Seksi Pengawasan",
+      "B": "Account Representative pengampu",
+      "C": "Kepala KPP",
+      "D": "Kepala Kantor Wilayah DJP"
+    },
+    "kunci": "C",
+    "pembahasan": "Kepala KPP menerbitkan Surat Perintah Pengawasan (SPP) atas DPE yang akan ditindaklanjuti sesuai penugasan pada case.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Kepala KPP menerbitkan Surat Perintah Pengawasan (SPP)"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "SPP"
+    ]
+  },
+  {
+    "id": "EKS-01-053",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam struktur Tim Ekstensifikasi, Kepala Seksi Pengawasan berperan sebagai …",
+    "opsi": {
+      "A": "Ketua Tim",
+      "B": "Anggota Tim",
+      "C": "Penanggung Jawab",
+      "D": "Supervisor"
+    },
+    "kunci": "D",
+    "pembahasan": "Kepala Seksi Pengawasan berperan sebagai Supervisor dalam Tim Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Kepala Seksi Pengawasan sebagai sebagai Supervisor"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "Tim Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-054",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Posisi Ketua Tim dalam Tim Ekstensifikasi dapat dijabat oleh 1 AR pengampu atau …",
+    "opsi": {
+      "A": "Kepala KP2KP",
+      "B": "Kepala Seksi Pengawasan",
+      "C": "AR lainnya dalam seksi pengawasan",
+      "D": "Pelaksana Seksi Pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Posisi Ketua Tim dijabat oleh 1 AR pengampu atau Kepala KP2KP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "1 AR pengampu atau Kepala KP2KP sebagai Ketua Tim"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "Tim Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-055",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam 1 tim ekstensifikasi yang menangani sebuah DPE, posisi Anggota Tim diisi oleh …",
+    "opsi": {
+      "A": "1 Pelaksana Seksi Pengawasan",
+      "B": "1 AR lainnya dalam satu seksi pengawasan",
+      "C": "2 AR dari seksi berbeda",
+      "D": "Kepala KP2KP"
+    },
+    "kunci": "B",
+    "pembahasan": "Posisi Anggota Tim diisi oleh 1 AR lainnya dalam satu seksi pengawasan yang sama.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "1 AR lainnya dlm satu seksi pengawasan sebagai Anggota Tim"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "Tim Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-01-056",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada tampilan modul Case Management Coretax yang digunakan untuk penugasan ekstensifikasi, kolom 'Case Role Type' menampilkan peran …",
+    "opsi": {
+      "A": "Supervisor dan Staff",
+      "B": "Ketua dan Anggota",
+      "C": "Team Leader dan Team Member",
+      "D": "Pengampu dan Pelaksana"
+    },
+    "kunci": "C",
+    "pembahasan": "Tangkapan layar aplikasi Coretax pada halaman Penugasan Ekstensifikasi menampilkan kolom 'Case Role Type' dengan nilai 'Team Leader' dan 'Team Member'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Case Role Type"
+      },
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Team Leader"
+      },
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Team Member"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "Coretax"
+    ]
+  },
+  {
+    "id": "EKS-01-057",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Urutan tahapan Penugasan Ekstensifikasi yang benar adalah …",
+    "opsi": {
+      "A": "Penerbitan SPP -> assign case -> rekomendasi HRIS -> pembentukan tim",
+      "B": "Pembentukan tim -> assign case -> rekomendasi HRIS -> penerbitan SPP",
+      "C": "Rekomendasi HRIS -> penerbitan SPP -> assign case -> pembentukan tim",
+      "D": "Assign case oleh Kasi Pengawasan -> penugasan berdasarkan rekomendasi HRIS -> penerbitan SPP oleh Kepala KPP -> DPE ditugaskan ke tim ekstensifikasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Urutan yang benar: Kepala Seksi Pengawasan melakukan assign case, penugasan case berdasarkan rekomendasi HRIS, Kepala KPP menerbitkan SPP, kemudian DPE ditugaskan ke dalam 1 tim ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Kepala Seksi Pengawasan melakukan assign case"
+      },
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "Kepala KPP menerbitkan Surat Perintah Pengawasan (SPP)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 84,
+        "kutipan": "DPE ditugaskan ke dalam 1 tim ekstensifikasi"
+      }
+    ],
+    "tags": [
+      "Penugasan Ekstensifikasi",
+      "SPP"
+    ]
+  }
+]

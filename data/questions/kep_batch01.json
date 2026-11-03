@@ -1,0 +1,1558 @@
+[
+  {
+    "id": "KEP-01-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apa kepanjangan dari PPM dalam ruang lingkup kegiatan intensifikasi sesuai SE-05/PJ/2022?",
+    "opsi": {
+      "A": "Pengawasan Pembayaran Masa",
+      "B": "Penelitian Pembayaran Material",
+      "C": "Pengawasan Potensi Masa",
+      "D": "Pemeriksaan Pembayaran Masa"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram ruang lingkup kegiatan intensifikasi membagi Pengawasan WP yang Telah Memiliki NPWP menjadi Pengawasan Pembayaran Masa (PPM) dan Pengawasan Kepatuhan Material (PKM).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Pengawasan Pembayaran Masa (PPM)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ruang lingkup kegiatan intensifikasi yang membagi pengawasan menjadi PPM dan PKM sebagaimana digunakan dalam materi pengawasan diatur dalam...",
+    "opsi": {
+      "A": "PMK-111/2025",
+      "B": "SE-05/PJ/2022",
+      "C": "UU KUP Pasal 29",
+      "D": "PMK-17/PMK.03/2013"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul diagram menyebutkan secara eksplisit 'Ruang Lingkup Kegiatan Intensifikasi dalam SE-05/PJ/2022' sebagai dasar pembagian PPM/PKM dan PnKF/PnKM.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Ruang Lingkup Kegiatan Intensifikasi dalam SE-05/PJ/2022"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Suatu kewajiban perpajakan Wajib Pajak memiliki jatuh tempo di Tahun Pajak berjalan. Kewajiban tersebut termasuk ruang lingkup pengawasan jenis...",
+    "opsi": {
+      "A": "Pengawasan Kepatuhan Material (PKM)",
+      "B": "Penelitian Kepatuhan Formal (PnKF)",
+      "C": "Pengawasan Pembayaran Masa (PPM)",
+      "D": "Penelitian Kepatuhan Material (PnKM)"
+    },
+    "kunci": "C",
+    "pembahasan": "PPM mencakup kewajiban dengan jatuh tempo di Tahun Pajak berjalan, sedangkan PKM mencakup kewajiban dengan jatuh tempo sebelum Tahun Pajak berjalan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Jatuh tempo di Tahun Pajak berjalan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Suatu kewajiban perpajakan Wajib Pajak memiliki jatuh tempo sebelum Tahun Pajak berjalan. Kewajiban tersebut termasuk ruang lingkup pengawasan jenis...",
+    "opsi": {
+      "A": "Pengawasan Pembayaran Masa (PPM)",
+      "B": "Kunjungan",
+      "C": "Daftar Nominatif",
+      "D": "Pengawasan Kepatuhan Material (PKM)"
+    },
+    "kunci": "D",
+    "pembahasan": "Pengawasan Kepatuhan Material (PKM) adalah pengawasan atas kewajiban dengan jatuh tempo sebelum Tahun Pajak berjalan, berbeda dengan PPM yang jatuh tempo di Tahun Pajak berjalan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Jatuh tempo sebelum Tahun Pajak berjalan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa jumlah kriteria yang diteliti dalam Penelitian Kepatuhan Formal (PnKF) sesuai ruang lingkup kegiatan intensifikasi SE-05/PJ/2022?",
+    "opsi": {
+      "A": "5 kriteria",
+      "B": "3 kriteria",
+      "C": "4 kriteria",
+      "D": "6 kriteria"
+    },
+    "kunci": "A",
+    "pembahasan": "PnKF meneliti 5 kriteria: ketepatan waktu dikukuhkan sebagai PKP, ketepatan waktu pembayaran/penyetoran pajak, ketepatan waktu dan/atau kelengkapan Laporan Pajak, angsuran pajak, serta layanan dan/atau fasilitas.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "1. Ketepatan waktu dikukuhkan sebagai PKP 2. Ketepatan waktu pembayaran/ penyetoran pajak 3. Ketepatan waktu dan/atau kelengkapan Laporan Pajak 4. Angsuran pajak 5. Layanan dan/ atau fasilitas"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk kriteria yang diteliti dalam Penelitian Kepatuhan Formal (PnKF), KECUALI...",
+    "opsi": {
+      "A": "Ketepatan waktu dikukuhkan sebagai PKP",
+      "B": "Estimasi potensi pajak yang belum dipenuhi",
+      "C": "Ketepatan waktu dan/atau kelengkapan Laporan Pajak",
+      "D": "Angsuran pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Estimasi potensi pajak yang belum dipenuhi merupakan bagian dari hasil KKPt/LHPt pada proses PnKM, bukan kriteria yang diteliti dalam PnKF.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Ditemukan indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam alur Penelitian Kepatuhan Material (PnKM), simpul yang menghubungkan PnKM dengan proses Validasi dan/atau Analisis atas data dan/atau Keterangan disebut...",
+    "opsi": {
+      "A": "KKPt/LHPt",
+      "B": "Daftar Nominatif",
+      "C": "DPP",
+      "D": "Berita Acara"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan PnKM terhubung ke simpul DPP sebelum masuk ke proses Validasi dan/atau Analisis atas data dan/atau Keterangan yang menghasilkan KKPt/LHPt.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "DPP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila hasil KKPt/LHPt menunjukkan ditemukan indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi, tindak lanjut yang dihasilkan berupa...",
+    "opsi": {
+      "A": "Tidak di TL",
+      "B": "Daftar Nominatif",
+      "C": "Penerusan Data dan/atau Keterangan",
+      "D": "P2DK, Usul Rik, Buper"
+    },
+    "kunci": "D",
+    "pembahasan": "Hasil KKPt/LHPt berupa ditemukannya indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi ditindaklanjuti dengan P2DK, Usul Rik, atau Buper.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Ditemukan indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila hasil KKPt/LHPt menunjukkan tidak ditemukan indikasi ketidakpatuhan, maka status tindak lanjutnya adalah...",
+    "opsi": {
+      "A": "Tidak di TL",
+      "B": "P2DK, Usul Rik, Buper",
+      "C": "Penerusan Data dan/atau Keterangan",
+      "D": "Daftar Nominatif"
+    },
+    "kunci": "A",
+    "pembahasan": "Jika tidak ditemukan indikasi ketidakpatuhan pada KKPt/LHPt, kasus tersebut berstatus Tidak di TL (tidak ditindaklanjuti).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Tidak ditemukan indikasi ketidakpatuhan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila dari hasil validasi dan/atau analisis diketahui WP sedang dilakukan pemeriksaan, telah dilakukan pemeriksaan, sedang dilakukan pemeriksaan Bukper, atau sedang dilakukan penyidikan, maka tindak lanjut KKPt/LHPt adalah...",
+    "opsi": {
+      "A": "Tidak di TL",
+      "B": "Penerusan Data dan/atau Keterangan",
+      "C": "P2DK, Usul Rik, Buper",
+      "D": "Daftar Nominatif"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk WP yang sedang/telah diperiksa atau sedang dilakukan Bukper/penyidikan, tindak lanjutnya berupa Penerusan Data dan/atau Keterangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "WP sedang dilakukan pemeriksaan, telah dilakukan pemeriksaan, sedang dilakukan pemeriksaan Bukper / sedang dilakukan penyidikan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-01-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai kewenangan dan tujuan Pengawasan dalam PMK 111/2025 diatur dalam...",
+    "opsi": {
+      "A": "Pasal 4",
+      "B": "Pasal 3",
+      "C": "Pasal 2",
+      "D": "Pasal 5"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan secara eksplisit judul 'Kewenangan dan Tujuan Pengawasan' disertai keterangan Pasal 2.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Kewenangan dan Tujuan Pengawasan Pasal 2"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 2 PMK 111/2025, pihak yang berwenang melakukan Pengawasan adalah...",
+    "opsi": {
+      "A": "Kepala Kantor Wilayah DJP",
+      "B": "Account Representative",
+      "C": "Kepala Kantor Pelayanan Pajak",
+      "D": "Direktur Jenderal Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 2 PMK 111/2025 menyatakan Direktur Jenderal Pajak berwenang melakukan Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Direktur Jenderal Pajak Berwenang melakukan Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-013",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tujuan Pengawasan sebagaimana diatur dalam Pasal 2 PMK 111/2025 adalah...",
+    "opsi": {
+      "A": "Mewujudkan kepatuhan Wajib Pajak",
+      "B": "Menyusun profil risiko kepatuhan Wajib Pajak",
+      "C": "Melakukan pemeriksaan bukti permulaan",
+      "D": "Meningkatkan penerimaan negara"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 2 PMK 111/2025 menegaskan bahwa Pengawasan oleh Direktur Jenderal Pajak bertujuan mewujudkan kepatuhan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Berwenang melakukan Pengawasan yang bertujuan mewujudkan kepatuhan Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-014",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kewenangan Pengawasan yang dimiliki Direktur Jenderal Pajak berdasarkan Pasal 2 PMK 111/2025 didelegasikan kepada...",
+    "opsi": {
+      "A": "Direktur Pemeriksaan dan Penagihan",
+      "B": "Kepala Kantor Pelayanan Pajak",
+      "C": "Kepala Kantor Wilayah DJP",
+      "D": "Account Representative"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan adanya delegasi kewenangan dari Direktur Jenderal Pajak kepada Kepala KPP untuk melaksanakan Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Delegasi Kewenangan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-015",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Kepala KPP melaksanakan kegiatan Pengawasan terhadap Wajib Pajak di wilayah kerjanya. Pelaksanaan kegiatan tersebut didasarkan pada...",
+    "opsi": {
+      "A": "Permohonan resmi yang diajukan oleh Wajib Pajak bersangkutan",
+      "B": "Putusan yang dijatuhkan oleh pengadilan pajak",
+      "C": "Kewenangan yang didelegasikan oleh Direktur Jenderal Pajak",
+      "D": "Instruksi lisan yang disampaikan langsung oleh Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Kepala KPP melaksanakan Pengawasan atas dasar delegasi kewenangan dari Direktur Jenderal Pajak sebagaimana digambarkan dalam Pasal 2 PMK 111/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Delegasi Kewenangan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-016",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut adalah pihak yang digambarkan dalam alur kewenangan dan tujuan Pengawasan Pasal 2 PMK 111/2025, KECUALI...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Kepala KPP",
+      "C": "Wajib Pajak",
+      "D": "Pengadilan Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Alur Pasal 2 PMK 111/2025 hanya menggambarkan Direktur Jenderal Pajak, Kepala KPP, dan Wajib Pajak; Pengadilan Pajak tidak digambarkan dalam alur tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Direktur Jenderal Pajak ... Kepala KPP ... Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-017",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah menerima delegasi kewenangan dari Direktur Jenderal Pajak, Kepala KPP melaksanakan Pengawasan. Pihak yang menjadi sasaran pelaksanaan Pengawasan tersebut adalah...",
+    "opsi": {
+      "A": "Wajib Pajak",
+      "B": "Kantor Wilayah DJP",
+      "C": "Direktur Jenderal Pajak",
+      "D": "Komite Kepatuhan"
+    },
+    "kunci": "A",
+    "pembahasan": "Alur Pasal 2 PMK 111/2025 menunjukkan Kepala KPP melaksanakan Pengawasan yang sasarannya adalah Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 6,
+        "kutipan": "Pengawasan ... Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 2 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-018",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ruang lingkup Pengawasan yang membedakan WP Terdaftar, WP Belum Terdaftar, dan Pengawasan Wilayah diatur dalam PMK 111/2025 pada...",
+    "opsi": {
+      "A": "Pasal 2",
+      "B": "Pasal 3",
+      "C": "Pasal 4",
+      "D": "Pasal 5"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul materi menyebutkan 'Ruang Lingkup Pengawasan dalam PMK 111/2025' dengan keterangan Pasal 3.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Ruang Lingkup Pengawasan dalam PMK 111/2025 Pasal 3"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-019",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ruang lingkup Pengawasan sebagaimana diatur dalam Pasal 3 PMK 111/2025 dikelompokkan menjadi berapa kategori?",
+    "opsi": {
+      "A": "2 kategori",
+      "B": "4 kategori",
+      "C": "3 kategori",
+      "D": "5 kategori"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 3 PMK 111/2025 mengelompokkan ruang lingkup Pengawasan menjadi 3 kategori: WP Terdaftar, WP Belum Terdaftar, dan Pengawasan Wilayah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "WP Terdaftar | WP Belum Terdaftar | Pengawasan Wilayah"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-020",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk ruang lingkup Pengawasan bagi WP Terdaftar sesuai Pasal 3 PMK 111/2025, KECUALI...",
+    "opsi": {
+      "A": "Pembukuan atau pencatatan",
+      "B": "Pelaporan SPOP PBB",
+      "C": "Pelaporan tempat kegiatan usaha untuk memperoleh NITKU",
+      "D": "Pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP merupakan ruang lingkup Pengawasan bagi WP Belum Terdaftar, bukan WP Terdaftar yang sudah memiliki NPWP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Pendaftaran untuk memperoleh NPWP / melakukan aktivasi NIK sebagai NPWP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-021",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ruang lingkup Pengawasan yang secara khusus berlaku bagi WP Belum Terdaftar dan tidak termasuk ruang lingkup bagi WP Terdaftar adalah...",
+    "opsi": {
+      "A": "Pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP",
+      "B": "Pendaftaran objek pajak PBB atas perkebunan, perhutanan, pertambangan, minyak dan gas bumi, dan sektor lainnya",
+      "C": "Pemotongan dan/atau pemungutan pajak",
+      "D": "Pembayaran dan/atau penyetoran pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Ruang lingkup WP Belum Terdaftar mencakup pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP, yang secara logis tidak berlaku bagi WP Terdaftar yang sudah memiliki NPWP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Pendaftaran untuk memperoleh NPWP / melakukan aktivasi NIK sebagai NPWP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-022",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Cakupan Pengawasan Wilayah berdasarkan Pasal 3 PMK 111/2025 meliputi pengawasan atas kegiatan ekonomi Wajib Pajak serta...",
+    "opsi": {
+      "A": "Penilaian aset Wajib Pajak",
+      "B": "Identifikasi Wajib Pajak di setiap wilayah kerja",
+      "C": "Penyusunan profil risiko kepatuhan",
+      "D": "Pemeriksaan bukti permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengawasan Wilayah mencakup pengawasan atas kegiatan ekonomi yang dilakukan oleh Wajib Pajak serta identifikasi Wajib Pajak di setiap wilayah kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Pengawasan atas kegiatan ekonomi yang dilakukan oleh Wajib Pajak serta identifikasi Wajib Pajak di setiap wilayah kerja"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-023",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Direktorat Jenderal Pajak melakukan pengawasan atas kewajiban Pajak Minimum Global suatu grup usaha multinasional. Berdasarkan pengecualian dalam Pasal 3 PMK 111/2025, pelaksanaan pengawasan tersebut mengacu pada...",
+    "opsi": {
+      "A": "SE-05/PJ/2022",
+      "B": "PMK mengenai sistem inti administrasi perpajakan",
+      "C": "PMK Pajak Minimum Global berdasarkan Kesepakatan",
+      "D": "PMK 111/2025 secara umum"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengecualian pada Pasal 3 PMK 111/2025 menyatakan Pengawasan terkait Pajak Minimum Global dilaksanakan sesuai PMK Pajak Minimum Global berdasarkan Kesepakatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Pengawasan terkait Pajak Minimum Global dilaksanakan sesuai PMK Pajak Minimum Global berdasarkan Kesepakatan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-024",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pengawasan WP terkait kewajiban pelaporan surat pemberitahuan objek pajak Pajak Bumi dan Bangunan, berdasarkan pengecualian dalam Pasal 3 PMK 111/2025, dilaksanakan sesuai dengan...",
+    "opsi": {
+      "A": "Undang-Undang KUP",
+      "B": "SE-05/PJ/2022",
+      "C": "PMK Pajak Minimum Global berdasarkan Kesepakatan",
+      "D": "PMK mengenai sistem inti administrasi perpajakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pengecualian pada Pasal 3 PMK 111/2025 menyatakan Pengawasan WP terkait kewajiban pelaporan SPOP PBB dilaksanakan sesuai PMK mengenai ketentuan perpajakan dalam rangka pelaksanaan sistem inti administrasi perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Pengawasan WP terkait kewajiban pelaporan surat pemberitahuan objek pajak PBB dilaksanakan sesuai PMK mengenai ketentuan perpajakan dalam rangka pelaksanaan sistem inti administrasi perpajakan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 3 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-025",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan yang terdiri atas huruf a sampai dengan huruf j diatur dalam PMK 111/2025 pada...",
+    "opsi": {
+      "A": "Pasal 4",
+      "B": "Pasal 2",
+      "C": "Pasal 3",
+      "D": "Pasal 5"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi berjudul 'Bentuk Kegiatan Pengawasan dalam PMK 111/2025' dengan keterangan Pasal 4, memuat huruf a sampai dengan j.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "Pasal 4 Bentuk Kegiatan Pengawasan dalam PMK 111/2025"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-026",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan huruf a Pasal 4 PMK 111/2025 adalah...",
+    "opsi": {
+      "A": "Mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak secara luring atau melalui media daring",
+      "B": "Meminta penjelasan atas data dan/atau keterangan dari Wajib Pajak",
+      "C": "Melaksanakan kegiatan pendukung Pengawasan sesuai ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "D": "Melakukan pembahasan dengan Wajib Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 4 huruf a PMK 111/2025 menyatakan Direktur Jenderal Pajak meminta penjelasan atas data dan/atau keterangan dari Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "meminta penjelasan atas data dan/atau keterangan dari Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-027",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan huruf d Pasal 4 PMK 111/2025 adalah...",
+    "opsi": {
+      "A": "Memberikan teguran",
+      "B": "Mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak",
+      "C": "Melakukan Kunjungan",
+      "D": "Meminta dokumen penentuan harga transfer"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 4 huruf d PMK 111/2025 menyebutkan bentuk kegiatan Pengawasan berupa melakukan Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "melakukan Kunjungan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-028",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan berupa mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak sebagaimana Pasal 4 huruf c PMK 111/2025 dapat dilakukan melalui...",
+    "opsi": {
+      "A": "Hanya secara luring",
+      "B": "Hanya melalui Account Representative",
+      "C": "Hanya melalui media daring",
+      "D": "Secara luring atau melalui media daring"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 4 huruf c menyatakan Wajib Pajak diundang untuk hadir ke kantor Direktorat Jenderal Pajak secara luring atau melalui media daring.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak secara luring atau melalui media daring"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-029",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk bentuk kegiatan Pengawasan sebagaimana Pasal 4 PMK 111/2025, KECUALI...",
+    "opsi": {
+      "A": "Melakukan penyidikan tindak pidana perpajakan",
+      "B": "Mengumpulkan data ekonomi di wilayah kerja",
+      "C": "Meminta dokumen penentuan harga transfer",
+      "D": "Memberikan teguran"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyidikan tindak pidana perpajakan bukan merupakan bentuk kegiatan Pengawasan pada Pasal 4 huruf a-j PMK 111/2025, melainkan proses hukum tersendiri di luar ruang lingkup pasal ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "a. meminta penjelasan ... j. melaksanakan kegiatan pendukung Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-030",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Permintaan dokumen penentuan harga transfer sebagai salah satu bentuk kegiatan Pengawasan dilaksanakan sesuai dengan Peraturan Menteri Keuangan yang mengatur mengenai...",
+    "opsi": {
+      "A": "Tata cara pemeriksaan pajak sesuai ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "B": "Penerapan prinsip kewajaran dan kelaziman usaha dalam transaksi yang dipengaruhi hubungan istimewa",
+      "C": "Pajak Minimum Global berdasarkan Kesepakatan",
+      "D": "Sistem inti administrasi perpajakan sesuai ketentuan peraturan perundang-undangan di bidang perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Catatan pada Pasal 4 menegaskan bahwa permintaan dokumen penentuan harga transfer dilaksanakan sesuai PMK yang mengatur penerapan prinsip kewajaran dan kelaziman usaha dalam transaksi yang dipengaruhi hubungan istimewa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "dilaksanakan sesuai dengan Peraturan Menteri Keuangan yang mengatur mengenai penerapan prinsip kewajaran dan kelaziman usaha dalam transaksi yang dipengaruhi hubungan istimewa."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-031",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan pendukung Pengawasan sebagaimana dimaksud Pasal 4 huruf j PMK 111/2025 di antaranya berupa pengusulan penilaian untuk tujuan...",
+    "opsi": {
+      "A": "Pemeriksaan",
+      "B": "Penagihan",
+      "C": "Perpajakan",
+      "D": "Keberatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Salah satu kegiatan pendukung Pengawasan huruf j adalah pengusulan penilaian untuk tujuan perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "pengusulan penilaian untuk tujuan perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-032",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk kegiatan pendukung Pengawasan sebagaimana dimaksud huruf j Pasal 4 PMK 111/2025, KECUALI...",
+    "opsi": {
+      "A": "Permintaan data dan/atau keterangan kepada pihak ketiga",
+      "B": "Pengusulan penilaian untuk tujuan perpajakan",
+      "C": "Pembahasan dengan pihak internal Direktorat Jenderal Pajak bersama Wajib Pajak",
+      "D": "Penerbitan Surat Perintah Pemeriksaan Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Kegiatan pendukung Pengawasan huruf j hanya mencakup empat hal: pengusulan penilaian, pembahasan internal DJP bersama WP, permintaan data/keterangan ke pihak ketiga, dan kegiatan lain sesuai penugasan; penerbitan Surat Perintah Pemeriksaan Pajak bukan bagian dari kegiatan pendukung Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "a. pengusulan penilaian untuk tujuan perpajakan; b. pembahasan dengan pihak internal DJP; c. permintaan data dan/atau keterangan kepada pihak ketiga; d. melakukan kegiatan lainnya"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-033",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan huruf f Pasal 4 PMK 111/2025 adalah...",
+    "opsi": {
+      "A": "Memberikan teguran",
+      "B": "Menyampaikan imbauan",
+      "C": "Melakukan pembahasan dengan Wajib Pajak",
+      "D": "Melakukan Kunjungan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 4 huruf f PMK 111/2025 menyatakan bentuk kegiatan Pengawasan berupa memberikan teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "memberikan teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-034",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan huruf i Pasal 4 PMK 111/2025 menyatakan bahwa Direktur Jenderal Pajak...",
+    "opsi": {
+      "A": "Mengumpulkan data ekonomi di wilayah kerja",
+      "B": "Menerbitkan surat dalam rangka Pengawasan",
+      "C": "Meminta dokumen penentuan harga transfer",
+      "D": "Melaksanakan kegiatan pendukung Pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 4 huruf i PMK 111/2025 menyatakan bentuk kegiatan Pengawasan berupa menerbitkan surat dalam rangka Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "menerbitkan surat dalam rangka Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-035",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan mengumpulkan data ekonomi di wilayah kerja sebagai salah satu bentuk kegiatan Pengawasan diatur dalam Pasal 4 huruf...",
+    "opsi": {
+      "A": "g",
+      "B": "i",
+      "C": "h",
+      "D": "j"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 4 huruf h PMK 111/2025 mengatur bentuk kegiatan Pengawasan berupa mengumpulkan data ekonomi di wilayah kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "mengumpulkan data ekonomi di wilayah kerja"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-036",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pasal 4 PMK 111/2025 mengatur bentuk kegiatan Pengawasan yang terdiri dari...",
+    "opsi": {
+      "A": "8 huruf (a-h)",
+      "B": "9 huruf (a-i)",
+      "C": "12 huruf (a-l)",
+      "D": "10 huruf (a-j)"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 4 PMK 111/2025 memuat bentuk kegiatan Pengawasan dari huruf a sampai dengan huruf j, yaitu 10 bentuk kegiatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "a. ... j. melaksanakan kegiatan pendukung Pengawasan sesuai ketentuan peraturan perundang-undangan di bidang perpajakan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-037",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan pendukung Pengawasan sebagaimana dimaksud huruf j Pasal 4 PMK 111/2025 terdiri dari...",
+    "opsi": {
+      "A": "4 huruf (a-d)",
+      "B": "2 huruf (a-b)",
+      "C": "5 huruf (a-e)",
+      "D": "3 huruf (a-c)"
+    },
+    "kunci": "A",
+    "pembahasan": "Kegiatan pendukung Pengawasan huruf j dirinci menjadi 4 huruf (a-d): pengusulan penilaian, pembahasan internal DJP bersama WP, permintaan data/keterangan pihak ketiga, dan kegiatan lain sesuai penugasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "a. pengusulan penilaian ...; b. pembahasan dengan pihak internal ...; c. permintaan data dan/atau keterangan kepada pihak ketiga; dan d. melakukan kegiatan lainnya"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-038",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Account Representative hendak memperoleh data dan/atau keterangan dari rekan bisnis Wajib Pajak yang sedang diawasi, dalam rangka kegiatan pendukung Pengawasan. Kegiatan tersebut termasuk...",
+    "opsi": {
+      "A": "Pengusulan penilaian untuk tujuan perpajakan",
+      "B": "Permintaan data dan/atau keterangan kepada pihak ketiga",
+      "C": "Pembahasan dengan pihak internal Direktorat Jenderal Pajak",
+      "D": "Melakukan kegiatan lainnya sesuai penugasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Permintaan data dan/atau keterangan kepada pihak ketiga (seperti rekan bisnis WP) merupakan kegiatan pendukung Pengawasan huruf c pada Pasal 4 huruf j PMK 111/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "permintaan data dan/atau keterangan kepada pihak ketiga"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-039",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+    "subtopik": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk kegiatan Pengawasan huruf c Pasal 4 PMK 111/2025 adalah...",
+    "opsi": {
+      "A": "Melaksanakan kegiatan pendukung Pengawasan sesuai ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "B": "Menerbitkan surat dalam rangka Pengawasan",
+      "C": "Mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak secara luring atau melalui media daring",
+      "D": "Mengumpulkan data ekonomi di wilayah kerja"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 4 huruf c PMK 111/2025 menyatakan bentuk kegiatan Pengawasan berupa mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak secara luring atau melalui media daring.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 8,
+        "kutipan": "mengundang Wajib Pajak untuk hadir ke kantor Direktorat Jenderal Pajak secara luring atau melalui media daring"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pasal 4 PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-01-040",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Probis Pengawasan WP Terdaftar dalam PMK 111/2025 terdiri atas tiga kegiatan utama, yaitu Permintaan Penjelasan atas Data dan/atau Keterangan, Pemberian Teguran, dan...",
+    "opsi": {
+      "A": "Pelaksanaan Pemeriksaan",
+      "B": "Penerbitan Surat Ketetapan Pajak",
+      "C": "Pengusulan Penyidikan",
+      "D": "Penyampaian Imbauan"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram Probis Pengawasan WP Terdaftar menunjukkan tiga kegiatan: Permintaan Penjelasan atas Data dan/atau Keterangan, Penyampaian Imbauan, dan Pemberian Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 9,
+        "kutipan": "Permintaan Penjelasan atas Data dan/atau Keterangan ... Penyampaian Imbauan ... Pemberian Teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-041",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu ruang lingkup yang dicakup baik oleh kegiatan Permintaan Penjelasan maupun Penyampaian Imbauan dalam Probis Pengawasan WP Terdaftar adalah...",
+    "opsi": {
+      "A": "Angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak",
+      "B": "Pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP",
+      "C": "SPT tidak disampaikan sesuai batas waktu",
+      "D": "Pendaftaran objek pajak PBB atas perkebunan, perhutanan, pertambangan, minyak dan gas bumi, dan sektor lainnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Ruang lingkup materi Permintaan Penjelasan dan Penyampaian Imbauan mencakup angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak, selain pengukuhan PKP, pembayaran/penyetoran, pelaporan pajak, layanan/fasilitas, dan kewajiban formal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 9,
+        "kutipan": "angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-042",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk ruang lingkup kegiatan Permintaan Penjelasan dan Penyampaian Imbauan dalam Probis Pengawasan WP Terdaftar, KECUALI...",
+    "opsi": {
+      "A": "Pengukuhan sebagai Pengusaha Kena Pajak",
+      "B": "SPT tidak disampaikan sesuai batas waktu",
+      "C": "Pembayaran dan/atau penyetoran pajak",
+      "D": "Layanan dan/atau fasilitas perpajakan yang diterima dan/atau dimiliki oleh Wajib Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "SPT tidak disampaikan sesuai batas waktu merupakan ruang lingkup kegiatan Pemberian Teguran, bukan Permintaan Penjelasan atau Penyampaian Imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 9,
+        "kutipan": "SPT tidak disampaikan sesuai batas waktu"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-043",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ruang lingkup kegiatan Pemberian Teguran dalam Probis Pengawasan WP Terdaftar mencakup SPT tidak disampaikan sesuai batas waktu dan...",
+    "opsi": {
+      "A": "Angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak",
+      "B": "Layanan dan/atau fasilitas perpajakan yang diterima dan/atau dimiliki oleh Wajib Pajak",
+      "C": "Pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "D": "Pengukuhan sebagai Pengusaha Kena Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Ruang lingkup Pemberian Teguran mencakup dua hal: SPT tidak disampaikan sesuai batas waktu, dan pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 9,
+        "kutipan": "pelaksanaan ketentuan peraturan undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-044",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Kegiatan Permintaan Penjelasan atas Data dan/atau Keterangan dalam Tata Cara Pengawasan WP Terdaftar dituangkan dalam bentuk surat berupa...",
+    "opsi": {
+      "A": "Surat Teguran",
+      "B": "Surat Imbauan",
+      "C": "SP3-P2DK",
+      "D": "SP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram Tata Cara Pengawasan WP Terdaftar menunjukkan bahwa Permintaan Penjelasan atas Data dan/atau Keterangan dituangkan dalam SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-045",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jangka waktu maksimal yang diberikan kepada Wajib Pajak untuk menyampaikan penjelasan atas SP2DK, berdasarkan Tata Cara Pengawasan WP Terdaftar, adalah...",
+    "opsi": {
+      "A": "14 hari + 7 hari",
+      "B": "7 hari",
+      "C": "14 hari",
+      "D": "30 hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram menunjukkan jangka waktu penyampaian penjelasan atas SP2DK maksimal 14 hari ditambah 7 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "Max 14 hari + 7 hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-046",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jangka waktu maksimal yang diberikan kepada Wajib Pajak untuk menanggapi surat imbauan, berdasarkan Tata Cara Pengawasan WP Terdaftar, adalah...",
+    "opsi": {
+      "A": "14 hari + 7 hari",
+      "B": "14 hari",
+      "C": "7 hari",
+      "D": "21 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan jangka waktu tanggapan atas surat imbauan maksimal 14 hari, berbeda dengan SP2DK yang ditambah 7 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "surat imbauan Max 14 hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-047",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak tidak menyampaikan penjelasan atas SP2DK dalam jangka waktu yang ditentukan. Berdasarkan Tata Cara Pengawasan WP Terdaftar, tindak lanjut yang dilakukan adalah...",
+    "opsi": {
+      "A": "Langsung menerbitkan SP3-P2DK tanpa proses lebih lanjut",
+      "B": "Langsung mengusulkan pemeriksaan bukti permulaan",
+      "C": "Undangan pembahasan/Kunjungan",
+      "D": "Menerbitkan Surat Ketetapan Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Apabila WP tidak menyampaikan penjelasan/belum sesuai atas SP2DK, tindak lanjutnya berupa Undangan pembahasan/Kunjungan sebelum berujung pada berita acara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "WP tidak menyampaikan penjelasan/ belum sesuai ... Undangan pembahasan/ Kunjungan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-048",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila berdasarkan tindak lanjut SP2DK Wajib Pajak dinyatakan case closed, produk hukum yang diterbitkan adalah...",
+    "opsi": {
+      "A": "Surat Imbauan",
+      "B": "Surat Teguran",
+      "C": "Berita Acara Pemeriksaan",
+      "D": "SP3-P2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menunjukkan alur SP2DK yang case closed berujung pada penerbitan SP3-P2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "case closed (huruf a) ... SP3-P2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-049",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam Tata Cara Pengawasan WP Terdaftar, kegiatan Pengawasan dilaksanakan oleh Account Representative/pegawai DJP berdasarkan surat perintah Pengawasan maupun...",
+    "opsi": {
+      "A": "Otomatis melalui Sistem",
+      "B": "Berdasarkan laporan masyarakat",
+      "C": "Secara manual oleh Kepala Kantor Wilayah",
+      "D": "Berdasarkan putusan pengadilan pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram menyebutkan pelaksana Tata Cara Pengawasan WP Terdaftar adalah Account Representative/Pegawai DJP berdasarkan surat perintah Pengawasan, maupun secara otomatis melalui Sistem.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "Account Representative / Pegawai DJP Berdasarkan surat perintah Pengawasan Otomatis melalui Sistem"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-050",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk media penyampaian SP2DK, surat imbauan, atau surat teguran kepada Wajib Pajak sebagaimana Tata Cara Pengawasan WP Terdaftar, KECUALI...",
+    "opsi": {
+      "A": "Melalui Akun Wajib Pajak",
+      "B": "Melalui media sosial resmi DJP",
+      "C": "Melalui faksimile",
+      "D": "Langsung dengan Berita Acara"
+    },
+    "kunci": "B",
+    "pembahasan": "Media penyampaian yang diatur meliputi melalui Akun WP, pos elektronik, pos, faksimile, dan langsung dengan Berita Acara; media sosial resmi DJP tidak disebutkan sebagai media penyampaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "melalui Akun WP - melalui pos elektronik - melalui pos - melalui faksimile - Langsung (dengan BA)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-051",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Selain melalui Akun WP, pos elektronik, pos, dan langsung dengan Berita Acara, SP2DK/surat imbauan/surat teguran juga dapat disampaikan melalui...",
+    "opsi": {
+      "A": "Telepon",
+      "B": "Pesan singkat (SMS)",
+      "C": "Faksimile",
+      "D": "Media sosial"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram Tata Cara Pengawasan WP Terdaftar menyebutkan faksimile sebagai salah satu media penyampaian SP2DK/surat imbauan/surat teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "melalui faksimile"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-052",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Jika Wajib Pajak memenuhi kewajiban/penjelasannya sudah sesuai atas surat imbauan yang disampaikan, status kasus yang tercatat dalam Tata Cara Pengawasan WP Terdaftar adalah...",
+    "opsi": {
+      "A": "Usulan lain (huruf b-l)",
+      "B": "Diteruskan ke pemeriksaan",
+      "C": "SP3-P2DK",
+      "D": "Case closed (huruf a)"
+    },
+    "kunci": "D",
+    "pembahasan": "Apabila WP memenuhi kewajiban/penjelasan sudah sesuai atas surat imbauan, status kasusnya langsung case closed (huruf a) tanpa melalui tahap pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "Memenuhi kewajiban/ Penjelasan WP sudah sesuai ... case closed (huruf a)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-053",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tindak lanjut atas Surat Teguran yang disampaikan kepada Wajib Pajak, berdasarkan Tata Cara Pengawasan WP Terdaftar, dapat berupa Kunjungan, Surat Undangan Pembahasan, atau...",
+    "opsi": {
+      "A": "Kegiatan lain",
+      "B": "Pengusulan penyidikan",
+      "C": "Pemeriksaan bukti permulaan",
+      "D": "Penerbitan SP3-P2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram menyebutkan Surat Teguran dapat ditindaklanjuti dengan Kunjungan, Surat Undangan Pembahasan, atau kegiatan lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "dapat ditindaklanjuti: Kunjungan, Surat Undangan Pembahasan, kegiatan lain"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-01-054",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Probis Pengawasan WP Terdaftar",
+    "subtopik": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Account Representative mengirimkan surat imbauan kepada Wajib Pajak terkait kewajiban pelaporan pajak. Wajib Pajak tidak menyampaikan penjelasan/belum sesuai dalam jangka waktu yang ditentukan. Berdasarkan Tata Cara Pengawasan WP Terdaftar, langkah tindak lanjut berikutnya adalah...",
+    "opsi": {
+      "A": "Langsung menerbitkan Surat Ketetapan Pajak",
+      "B": "Undangan pembahasan/Kunjungan",
+      "C": "Langsung case closed",
+      "D": "Mengusulkan pemeriksaan tanpa pembahasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Apabila WP tidak menyampaikan penjelasan/belum sesuai atas surat imbauan, tindak lanjutnya berupa Undangan pembahasan/Kunjungan sebelum berujung pada berita acara dan usulan lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 10,
+        "kutipan": "WP tidak menyampaikan penjelasan/ belum sesuai ... Undangan pembahasan/ Kunjungan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  }
+]

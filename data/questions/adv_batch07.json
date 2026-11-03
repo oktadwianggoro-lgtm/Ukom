@@ -1,0 +1,1578 @@
+[
+  {
+    "id": "ADV-07-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-48/PMK.03/2017 - Pendaftaran, Pelaporan, dan Pendataan Objek Pajak PBB",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "PMK 48/PMK.03/2017 sebagaimana disesuaikan dalam materi ini mengatur Tata Cara Pendaftaran, Pelaporan, dan Pendataan Objek Pajak untuk jenis pajak apa?",
+    "opsi": {
+      "A": "Pajak Bumi dan Bangunan",
+      "B": "Pajak Penghasilan",
+      "C": "Pajak Pertambahan Nilai",
+      "D": "Bea Perolehan Hak atas Tanah dan Bangunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Judul materi menyebutkan PMK 48/PMK.03/2017 mengatur 'Tata Cara Pendaftaran, Pelaporan, dan Pendataan Objek Pajak Pajak Bumi dan Bangunan', sehingga jenis pajak yang diatur adalah PBB, bukan PPh, PPN, maupun BPHTB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 287,
+        "kutipan": "Tata Cara Pendaftaran, Pelaporan, dan Pendataan Objek Pajak Pajak Bumi dan Bangunan"
+      }
+    ],
+    "tags": [
+      "PMK 48/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-48/PMK.03/2017 - Pendaftaran, Pelaporan, dan Pendataan Objek Pajak PBB",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan ketentuan pelaporan Objek Pajak PBB dalam PMK 48/PMK.03/2017, SPOP wajib diisi dan disampaikan paling lama berapa hari setelah tanggal diterimanya Surat Pemberitahuan Objek Pajak?",
+    "opsi": {
+      "A": "15 hari",
+      "B": "30 hari",
+      "C": "10 hari",
+      "D": "7 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menegaskan bahwa SPOP wajib diisi dengan jelas, benar, dan lengkap serta ditandatangani, dan disampaikan paling lama 30 hari setelah tanggal diterimanya Surat Pemberitahuan Objek Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 292,
+        "kutipan": "Disampaikan paling lama 30 hari setelah tanggal diterimanya"
+      }
+    ],
+    "tags": [
+      "PMK 48/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-48/PMK.03/2017 - Pendaftaran, Pelaporan, dan Pendataan Objek Pajak PBB",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema pendaftaran Objek Pajak PBB melalui permohonan Wajib Pajak pada PMK 48/PMK.03/2017, apa akibatnya jika Kepala KPP tidak menerbitkan keputusan dalam jangka waktu 10 hari kerja sejak permohonan diterima secara lengkap?",
+    "opsi": {
+      "A": "Permohonan dianggap ditolak dan Wajib Pajak harus mengajukan permohonan ulang secara lengkap",
+      "B": "Permohonan diteruskan secara otomatis kepada Kantor Wilayah DJP untuk diputuskan",
+      "C": "Permohonan dianggap dikabulkan dan SKT diterbitkan paling lama 1 hari kerja setelah jangka waktu berakhir",
+      "D": "Permohonan dianggap batal demi hukum dan Wajib Pajak wajib mendaftar ulang"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai skema pendaftaran, jika Kepala KPP tidak menerbitkan keputusan dalam 10 hari kerja, permohonan dianggap dikabulkan dan Kepala KPP wajib menerbitkan SKT Objek Pajak PBB paling lama 1 hari kerja setelah jangka waktu pemberian keputusan berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 289,
+        "kutipan": "permohonan dianggap dikabulkan dan Kepala Kantor Pelayanan Pajak menerbitkan Surat Keterangan Terdaftar Objek Pajak Pajak Bumi dan Bangunan paling lama 1 (satu) hari kerja"
+      }
+    ],
+    "tags": [
+      "PMK 48/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-48/PMK.03/2017 - Pendaftaran, Pelaporan, dan Pendataan Objek Pajak PBB",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penelitian formal SPOP menurut PMK 48/PMK.03/2017, kewajiban melengkapi SPOP dengan dokumen pendukung isian Surat Pemberitahuan Objek Pajak merupakan salah satu syarat kelengkapan yang dimaksud dalam pasal berapa?",
+    "opsi": {
+      "A": "Pasal 86 ayat (1) PMK-48/PMK.03/2017",
+      "B": "Pasal 17B ayat (3) UU KUP",
+      "C": "Pasal 27B ayat (1) UU KUP",
+      "D": "Pasal 84 PMK-48/PMK.03/2017"
+    },
+    "kunci": "D",
+    "pembahasan": "Salah satu syarat kelengkapan pengisian SPOP dalam penelitian formal adalah dilengkapi dengan dokumen pendukung isian SPOP sebagaimana dimaksud dalam Pasal 84. Pasal 86 ayat (1) mengatur soal Laporan Hasil Pendataan, sedangkan Pasal 17B dan 27B ayat (1) UU KUP adalah dasar hukum imbalan bunga, bukan PBB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 298,
+        "kutipan": "Dilengkapi dengan dokumen pendukung isian Surat Pemberitahuan Objek Pajak sebagaimana dimaksud dalam Pasal 84"
+      }
+    ],
+    "tags": [
+      "PMK 48/PMK.03/2017",
+      "Pasal 84"
+    ]
+  },
+  {
+    "id": "ADV-07-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-48/PMK.03/2017 - Pendaftaran, Pelaporan, dan Pendataan Objek Pajak PBB",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan dokumen pendukung isian SPOP untuk Objek Pajak PBB sektor Pertambangan Minyak dan Gas Bumi, KECUALI...",
+    "opsi": {
+      "A": "Rencana kerja tahunan beserta peta kerja Tahun Pajak PBB terutang",
+      "B": "Dokumen Kontrak Kerja Sama yang ditandatangani oleh pemerintah dan Kontraktor Kontrak Kerja Sama",
+      "C": "Peta wilayah kerja minyak dan gas bumi dalam format tertentu",
+      "D": "Authorization for Expenditure dan financial quarterly report triwulan IV tahun terakhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Dokumen pendukung isian SPOP sektor Pertambangan Minyak dan Gas Bumi meliputi dokumen Kontrak Kerja Sama, peta wilayah kerja migas, serta Authorization for Expenditure dan financial quarterly report. Rencana kerja tahunan beserta peta kerja merupakan dokumen pendukung untuk sektor Perhutanan, bukan Migas.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 294,
+        "kutipan": "rencana kerja tahunan beserta peta kerja Tahun Pajak Pajak Bumi dan Bangunan terutang"
+      },
+      {
+        "pdf": "B",
+        "halaman": 295,
+        "kutipan": "dokumen Kontrak Kerja Sama yang ditandatangani oleh pemerintah dan Kontraktor Kontrak Kerja Sama"
+      }
+    ],
+    "tags": [
+      "PMK 48/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Imbalan Bunga",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "PMK 18/PMK.03/2021 bagian Imbalan Bunga merupakan pelaksanaan dari Undang-Undang Nomor 11 Tahun 2020 tentang apa?",
+    "opsi": {
+      "A": "Harmonisasi Peraturan Perpajakan",
+      "B": "Cipta Kerja",
+      "C": "Ketentuan Umum dan Tata Cara Perpajakan",
+      "D": "Pengampunan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan PMK 18/PMK.03/2021 merupakan Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 Tentang Cipta Kerja di bidang PPh, PPN & PPnBM, serta KUP, khususnya bagian Imbalan Bunga.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 356,
+        "kutipan": "Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 Tentang Cipta Kerja di Bidang PPh, PPN & PPnBM, serta KUP"
+      }
+    ],
+    "tags": [
+      "PMK 18/PMK.03/2021",
+      "UU 11 Tahun 2020"
+    ]
+  },
+  {
+    "id": "ADV-07-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Imbalan Bunga",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam mekanisme pemberian imbalan bunga menurut PMK 18/PMK.03/2021, proses dari penelitian permohonan WP yang memenuhi ketentuan hingga terbit SP2D berlangsung dalam jangka waktu paling lama berapa?",
+    "opsi": {
+      "A": "2 bulan",
+      "B": "6 bulan",
+      "C": "1 bulan",
+      "D": "3 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram mekanisme pemberian imbalan bunga menunjukkan bahwa proses dari permohonan WP yang memenuhi ketentuan (SKPIB-SKPKPP-SPMIB) hingga SP2D berlangsung dalam jangka waktu 1 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 358,
+        "kutipan": "dalam jangka waktu 1 bulan"
+      }
+    ],
+    "tags": [
+      "PMK 18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-07-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Imbalan Bunga",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai mekanisme pemberian imbalan bunga dalam PMK 18/PMK.03/2021, apa tindak lanjut penerbitan SKPIB (Surat Keputusan Pemberian Imbalan Bunga) yang memenuhi ketentuan?",
+    "opsi": {
+      "A": "SKPPIB",
+      "B": "SKPLB",
+      "C": "STP",
+      "D": "SKPKPP"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam mekanisme terbaru, permohonan imbalan bunga WP yang memenuhi ketentuan ditindaklanjuti dengan SKPIB yang kemudian dilanjutkan dengan SKPKPP, SPMIB, hingga SP2D. Pengaturan sebelumnya menetapkan tindak lanjut dari SKPIB adalah SKPPIB, namun kini berubah menjadi SKPKPP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 358,
+        "kutipan": "SKPKPP"
+      },
+      {
+        "pdf": "B",
+        "halaman": 358,
+        "kutipan": "Pengaturan sebelumnya tindak lanjut dari SKPIB adalah SKPPIB"
+      }
+    ],
+    "tags": [
+      "PMK 18/PMK.03/2021",
+      "SKPIB",
+      "SKPKPP"
+    ]
+  },
+  {
+    "id": "ADV-07-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Imbalan Bunga",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP mengajukan permohonan keberatan atas SKPKB dan dikabulkan sebagian oleh Direktur Jenderal Pajak sehingga timbul kelebihan pembayaran pajak. Hak WP atas imbalan bunga dalam kasus ini diatur dalam ketentuan apa?",
+    "opsi": {
+      "A": "Pasal 27B ayat (1) UU KUP",
+      "B": "Pasal 11 ayat (3) UU KUP",
+      "C": "Pasal 17B ayat (3) UU KUP",
+      "D": "Pasal 27B ayat (3) UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Ruang lingkup pemberian imbalan bunga mencakup kelebihan pembayaran pajak karena permohonan keberatan, banding, atau PK yang dikabulkan sebagian/seluruhnya, yang diatur dalam Pasal 27B ayat (1) UU KUP. Pasal 11 ayat (3) mengatur keterlambatan pengembalian kelebihan bayar, Pasal 17B ayat (3) mengatur keterlambatan penerbitan SKPLB, dan Pasal 27B ayat (3) mengatur kelebihan bayar karena SK Pembetulan/Pengurangan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 357,
+        "kutipan": "Kelebihan Pembayaran Pajak karena : Permohonan Keberatan, Banding, PK Dikabulkan Sebagian/Seluruhnya Pasal 27B ayat (1) UU KUP"
+      }
+    ],
+    "tags": [
+      "PMK 18/PMK.03/2021",
+      "Pasal 27B ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-07-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Imbalan Bunga",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk dalam ruang lingkup pemberian imbalan bunga sebagaimana diatur PMK 18/PMK.03/2021, KECUALI...",
+    "opsi": {
+      "A": "Keterlambatan penerbitan SKPLB",
+      "B": "Keterlambatan penerbitan SKT Objek Pajak PBB",
+      "C": "Keterlambatan pengembalian kelebihan pembayaran pajak",
+      "D": "Keterlambatan penerbitan SKPLB terkait proses pidana"
+    },
+    "kunci": "B",
+    "pembahasan": "Ruang lingkup pemberian imbalan bunga meliputi lima hal: keterlambatan pengembalian kelebihan pembayaran pajak, keterlambatan penerbitan SKPLB, keterlambatan penerbitan SKPLB terkait proses pidana, serta kelebihan pembayaran karena keberatan/banding/PK dan karena SK Pembetulan/Pengurangan. Keterlambatan penerbitan SKT Objek Pajak PBB bukan bagian dari ruang lingkup ini, melainkan materi PMK 48/PMK.03/2017 tentang PBB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 357,
+        "kutipan": "RUANG LINGKUP PEMBERIAN IMBALAN BUNGA"
+      }
+    ],
+    "tags": [
+      "PMK 18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-07-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "PMK 261/PMK.03/2016 beserta penyesuaiannya mengatur PPh final atas penghasilan dari pengalihan hak atas tanah dan/atau bangunan, serta atas perjanjian apa?",
+    "opsi": {
+      "A": "Perjanjian Kredit Pemilikan Rumah",
+      "B": "Perjanjian Sewa Guna Usaha",
+      "C": "Perjanjian Pengikatan Jual Beli (PPJB)",
+      "D": "Perjanjian Build Operate Transfer"
+    },
+    "kunci": "C",
+    "pembahasan": "Judul materi menyebutkan PMK 261/PMK.03/2016 mengatur penyetoran, pelaporan, dan pengecualian pengenaan PPh atas pengalihan hak atas tanah dan/atau bangunan, dan Perjanjian Pengikatan Jual Beli (PPJB) atas tanah dan/atau bangunan beserta perubahannya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 397,
+        "kutipan": "dan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan Beserta Perubahannya"
+      }
+    ],
+    "tags": [
+      "PMK 261/PMK.03/2016"
+    ]
+  },
+  {
+    "id": "ADV-07-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam hal terjadi perubahan atau adendum PPJB yang mengubah pihak pembeli, penghasilan yang menjadi objek PPh final atas PPJB berasal dari pihak pembeli yang namanya tercantum dalam PPJB pada kondisi apa?",
+    "opsi": {
+      "A": "Pihak pembeli yang namanya tercantum dalam PPJB setelah terjadinya perubahan/adendum",
+      "B": "Pihak penjual yang namanya tercantum dalam PPJB setelah terjadinya perubahan/adendum",
+      "C": "Pihak penjual yang namanya tercantum dalam PPJB pada saat PPJB pertama kali ditandatangani",
+      "D": "Pihak pembeli yang namanya tercantum dalam PPJB sebelum terjadinya perubahan/adendum"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek PPh final dari PPJB mencakup penghasilan dari pihak pembeli yang namanya tercantum dalam PPJB sebelum terjadinya perubahan atau adendum, atas terjadinya perubahan pihak pembeli dalam PPJB tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 398,
+        "kutipan": "dari pihak pembeli yang namanya tercantum dalam PPJB sebelum terjadinya perubahan atau adendum perjanjian pengikatan jual beli"
+      }
+    ],
+    "tags": [
+      "PMK 261/PMK.03/2016",
+      "PPJB"
+    ]
+  },
+  {
+    "id": "ADV-07-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa tarif PPh final atas pengalihan tanah dan/atau bangunan berupa Rumah Sederhana dan Rumah Susun Sederhana yang dilakukan oleh WP yang usaha pokoknya melakukan pengalihan hak atas tanah dan bangunan?",
+    "opsi": {
+      "A": "1%",
+      "B": "0%",
+      "C": "2,5%",
+      "D": "5%"
+    },
+    "kunci": "A",
+    "pembahasan": "Tarif PPh final sebesar 1% dari jumlah bruto nilai pengalihan dikenakan atas tanah dan/atau bangunan berupa Rumah Sederhana dan Rumah Susun Sederhana yang dilakukan oleh WP yang usaha pokoknya melakukan pengalihan hak atas tanah dan bangunan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 399,
+        "kutipan": "atas tanah dan/atau bangunan berupa Rumah Sederhana dan Rumah Susun Sederhana yang dilakukan oleh WP yang usaha pokoknya melakukan PHTB"
+      }
+    ],
+    "tags": [
+      "PMK 261/PMK.03/2016"
+    ]
+  },
+  {
+    "id": "ADV-07-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai penyesuaian PMK 261/PMK.03/2016, apa kewajiban Instansi Pemerintah terkait PPh final atas pengalihan tanah dan/atau bangunan kepada pemerintah?",
+    "opsi": {
+      "A": "Menyerahkan penyetoran PPh final sepenuhnya kepada OP/Badan penjual",
+      "B": "Memungut dan menyetor PPh final ke Kas Negara sebelum membayar OP/Badan",
+      "C": "Menunggu penerbitan SKB sebelum melakukan pemungutan PPh final",
+      "D": "Membuat bukti pemungutan PPh hanya atas pengalihan yang dikenai tarif di atas 0%"
+    },
+    "kunci": "B",
+    "pembahasan": "Atas pengalihan kepada pemerintah, PPh final dipungut oleh Instansi Pemerintah yang wajib menyetor PPh final tersebut ke Kas Negara sebelum melakukan pembayaran kepada OP/Badan. Instansi Pemerintah juga wajib membuat bukti pemungutan PPh, termasuk atas pengalihan yang dikenai tarif 0%, sehingga opsi D keliru.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 401,
+        "kutipan": "Instansi Pemerintah wajib menyetor PPh final yang telah dipungut ke Kas Negara, sebelum melakukan pembayaran kepada OP/Badan atau sebelum tukar menukar dilaksanakan."
+      }
+    ],
+    "tags": [
+      "PMK 261/PMK.03/2016"
+    ]
+  },
+  {
+    "id": "ADV-07-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP melunasi pembayaran atas pengalihan tanah sebelum tanggal 7 September 2016 dan belum dibuatkan akta, namun penghasilan dari pengalihan tersebut belum dilaporkan dalam SPT Tahunan. Bagaimana perlakuan PPh atas pengalihan tersebut berdasarkan ketentuan peralihan PMK 261/PMK.03/2016?",
+    "opsi": {
+      "A": "Dikecualikan dari pengenaan PPh berdasarkan PP 34/2016 dengan penerbitan SKB",
+      "B": "Dikecualikan dari pengenaan PPh dengan melakukan penyetoran kekurangan PPh sesuai ketentuan pada periode pengalihan",
+      "C": "Dikenakan PPh berdasarkan PP 34/2016, dengan DPP sebesar nilai transaksi saat pembuatan akta",
+      "D": "Dikenakan PPh berdasarkan Pasal 17 UU PPh"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan peralihan mengatur bahwa pengalihan sebelum 7 September 2016 yang belum dibuatkan akta dan penghasilannya belum dilaporkan dalam SPT Tahunan dikenakan PPh berdasarkan PP 34/2016, dengan DPP sebesar nilai transaksi saat dilakukan pembuatan akta, keputusan, perjanjian, kesepakatan, atau risalah lelang oleh pejabat yang berwenang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 404,
+        "kutipan": "dikenakan PPh berdasarkan PP 34/2016, dengan DPP sebesar nilai transaksi saat dilakukan pembuatan akta, keputusan, perjanjian, kesepakatan, atau risalah lelang oleh pejabat yang berwenang"
+      }
+    ],
+    "tags": [
+      "PMK 261/PMK.03/2016",
+      "PP 34/2016"
+    ]
+  },
+  {
+    "id": "ADV-07-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan ketentuan peralihan PMK 261/PMK.03/2016, penghasilan dari perubahan atau adendum PPJB yang terjadi pada tanggal 7 September 2016 dan setelahnya dikenai PPh final berdasarkan peraturan apa?",
+    "opsi": {
+      "A": "Pasal 17 UU PPh",
+      "B": "PMK 261/PMK.03/2016",
+      "C": "UU Nomor 11 Tahun 2020 tentang Cipta Kerja",
+      "D": "PP 34/2016"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan peralihan menyebutkan bahwa penghasilan dari perubahan/adendum PPJB pada tanggal 7 September 2016 dan setelahnya dikenai PPh final berdasarkan PP 34/2016, sedangkan perubahan/adendum sebelum tanggal tersebut dikenai PPh berdasarkan Pasal 17 UU PPh (bukan final).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 404,
+        "kutipan": "Dikenai PPh final berdasarkan PP 34/2016"
+      },
+      {
+        "pdf": "B",
+        "halaman": 404,
+        "kutipan": "Penghasilan dari perubahan/adendum PPJB pada 7 September 2016 dan setelahnya"
+      }
+    ],
+    "tags": [
+      "PMK 261/PMK.03/2016",
+      "PP 34/2016"
+    ]
+  },
+  {
+    "id": "ADV-07-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 94 PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, PPh Pasal 21 wajib disetor paling lama pada tanggal berapa pada bulan berikutnya?",
+    "opsi": {
+      "A": "Tanggal 15 bulan berikutnya",
+      "B": "Tanggal 10 bulan berikutnya",
+      "C": "Tanggal 20 bulan berikutnya",
+      "D": "Akhir bulan berikutnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Tabel Pasal 94 menetapkan jatuh tempo penyetoran 'Tanggal 15 bulan berikutnya' untuk berbagai jenis setoran termasuk PPh Pasal 21, menggantikan ketentuan lama yang mengatur tanggal 10 bulan berikutnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 306,
+        "kutipan": "Tanggal 15 bulan berikutnya"
+      },
+      {
+        "pdf": "B",
+        "halaman": 306,
+        "kutipan": "PPh Pasal 21"
+      },
+      {
+        "pdf": "B",
+        "halaman": 306,
+        "kutipan": "*dibayarkan paling lama tanggal 10 bulan berikutnya"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014",
+      "Pasal 94"
+    ]
+  },
+  {
+    "id": "ADV-07-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sesuai ketentuan permohonan penambahan saldo deposit pada Mesin Teraan Meterai Digital (MTMD) dalam PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, nilai nominal penambahan saldo deposit ditetapkan sebesar...",
+    "opsi": {
+      "A": "Rp10.000.000,00 atau kelipatannya",
+      "B": "Rp15.000.000,00 atau kelipatannya",
+      "C": "Rp20.000.000,00 atau kelipatannya",
+      "D": "Rp25.000.000,00 atau kelipatannya"
+    },
+    "kunci": "B",
+    "pembahasan": "Permohonan penambahan saldo deposit pada MTMD harus mencantumkan nomor seri mesin dan nilai nominal penambahan saldo deposit sebesar Rp15.000.000,00 (lima belas juta rupiah) atau kelipatannya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 318,
+        "kutipan": "nilai nominal penambahan saldo deposit sebesar Rp15.000.000,00 (lima belas juta rupiah) atau kelipatannya."
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, ketentuan mengenai jatuh tempo pembayaran berbagai jenis setoran pajak dan ketentuan mengenai kekurangan pembayaran pajak yang terutang berdasarkan SPT Tahunan diatur berturut-turut dalam...",
+    "opsi": {
+      "A": "Pasal 97 dan Pasal 98",
+      "B": "Pasal 101 dan Pasal 102",
+      "C": "Pasal 94 dan Pasal 95",
+      "D": "Pasal 115 dan Pasal 117"
+    },
+    "kunci": "C",
+    "pembahasan": "Slide materi secara eksplisit berjudul 'POKOK PERUBAHAN > PASAL 94 & PASAL 95 (JATUH TEMPO PEMBAYARAN & KEKURANGAN PEMBAYARAN)', sehingga jatuh tempo pembayaran diatur Pasal 94 dan kekurangan pembayaran berdasarkan SPT Tahunan diatur Pasal 95.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 307,
+        "kutipan": "POKOK PERUBAHAN > PASAL 94 & PASAL 95 (JATUH TEMPO PEMBAYARAN & KEKURANGAN PEMBAYARAN)"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014",
+      "Pasal 94",
+      "Pasal 95"
+    ]
+  },
+  {
+    "id": "ADV-07-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pembayaran dan penyetoran pajak yang menggunakan Deposit Pajak, sebagaimana diatur dalam pasal baru PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, dilakukan melalui mekanisme...",
+    "opsi": {
+      "A": "Surat Setoran Pajak (SSP)",
+      "B": "Bukti Penerimaan Negara (BPN) secara langsung",
+      "C": "Surat Keputusan Pengembalian Pendahuluan Pajak (SKPKPP)",
+      "D": "Pemindahbukuan (Pbk)"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menegaskan bahwa pembayaran dan penyetoran pajak menggunakan Deposit Pajak dilakukan melalui Pemindahbukuan (Pbk), bukan mekanisme pembayaran biasa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 313,
+        "kutipan": "Pembayaran dan penyetoran pajak menggunakan Deposit dilakukan melalui Pemindahbukuan"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak mengajukan permohonan pengangsuran atas pajak yang masih harus dibayar sebagaimana dimaksud Pasal 97 ayat (3) PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024 dengan alasan kesulitan likuiditas. Dokumen apa yang wajib dilampirkan sebagai bukti pendukung alasan permohonan tersebut?",
+    "opsi": {
+      "A": "Surat pernyataan kesulitan likuiditas dan rekening koran 3 bulan terakhir",
+      "B": "Surat keterangan keadaan force majeur dari pihak yang berwenang",
+      "C": "Laporan keuangan interim Wajib Pajak untuk 2 Tahun Pajak terakhir",
+      "D": "Salinan Surat Tagihan Pajak Pajak Bumi dan Bangunan terkait"
+    },
+    "kunci": "A",
+    "pembahasan": "Untuk permohonan dengan alasan kesulitan likuiditas atas pajak yang masih harus dibayar, surat permohonan wajib dilampiri surat pernyataan Wajib Pajak mengalami kesulitan likuiditas dan rekening koran 3 (tiga) bulan terakhir, bukan surat keterangan force majeur maupun laporan keuangan interim.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 322,
+        "kutipan": "1. surat pernyataan Wajib Pajak mengalami kesulitan likuiditas; dan 2. rekening koran 3 (tiga) bulan terakhir; dan"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014",
+      "Pasal 97",
+      "Pasal 98"
+    ]
+  },
+  {
+    "id": "ADV-07-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam ketentuan Surat Setoran Pajak (SSP) pada PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, SSP dengan skema 'Single' digunakan untuk pembayaran atas...",
+    "opsi": {
+      "A": "Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak",
+      "B": "Satu Jenis Pajak yang dibayarkan Wajib Pajak",
+      "C": "STP, SKPKB, SKPKBT, dan ketetapan pajak sejenis",
+      "D": "SK Pembetulan, SK Keberatan, dan Putusan Banding"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram SSP menunjukkan skema 'Single' bercabang ke satu kategori 'Jenis Pajak', sedangkan skema 'Multiple' mencakup Masa Pajak/Bagian Tahun Pajak/Tahun Pajak sekaligus STP, SKPKB, SKPKBT, dan ketetapan/putusan lain (berbeda dengan aturan lama yang hanya mengenal satu SSP untuk satu transaksi).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 314,
+        "kutipan": "Single"
+      },
+      {
+        "pdf": "B",
+        "halaman": 314,
+        "kutipan": "Jenis Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Direktur Jenderal Pajak memberikan keputusan atas permohonan pengangsuran atau penundaan pembayaran pajak sebagaimana dimaksud dalam Pasal 115 ayat (1) PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024 paling lama dalam jangka waktu...",
+    "opsi": {
+      "A": "3 hari kerja",
+      "B": "5 hari kerja",
+      "C": "7 hari kerja",
+      "D": "10 hari kerja"
+    },
+    "kunci": "C",
+    "pembahasan": "Jangka waktu pemberian keputusan untuk permohonan sebagaimana dimaksud Pasal 115 ayat (1) adalah paling lama 7 hari kerja setelah bukti penerimaan diterbitkan, berbeda dengan permohonan Pasal 114 ayat (1) yang hanya 3 hari kerja.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 327,
+        "kutipan": "7 hari kerja setelah bukti penerimaan diterbitkan untuk permohonan pengangsuran atau penundaan pembayaran pajak sebagaimana dimaksud dalam Pasal 115 ayat (1)."
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014",
+      "Pasal 114",
+      "Pasal 115"
+    ]
+  },
+  {
+    "id": "ADV-07-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 118 PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, surat keputusan persetujuan pengangsuran pembayaran pajak atas permohonan sebagaimana dimaksud Pasal 115 menjadi tidak berlaku dan dilakukan tindakan penagihan apabila Wajib Pajak tidak memenuhi pembayaran berdasarkan surat keputusan persetujuan pengangsuran paling banyak...",
+    "opsi": {
+      "A": "1 (satu) kali",
+      "B": "3 (tiga) kali",
+      "C": "4 (empat) kali",
+      "D": "2 (dua) kali"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 118 menyatakan surat keputusan persetujuan menjadi tidak berlaku dalam hal Wajib Pajak tidak memenuhi pembayaran berdasarkan surat keputusan persetujuan pengangsuran paling banyak 2 (dua) kali, atau surat keputusan persetujuan penundaan sesuai lamanya penundaan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 330,
+        "kutipan": "surat keputusan persetujuan pengangsuran paling banyak 2 (dua) kali"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014",
+      "Pasal 118",
+      "Pasal 115"
+    ]
+  },
+  {
+    "id": "ADV-07-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk kriteria Pemindahbukuan (Pbk) yang TIDAK DAPAT dilakukan menurut PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024, KECUALI...",
+    "opsi": {
+      "A": "Bukti Pemindahbukuan (Pbk) yang terdapat kesalahan dalam proses penerbitannya",
+      "B": "Pembayaran pajak yang kode billing-nya diterbitkan oleh sistem billing selain yang diadministrasikan DJP",
+      "C": "Pembayaran pajak yang dianggap sebagai penyampaian SPT Masa",
+      "D": "Pembayaran pajak yang sudah diperhitungkan dengan pajak terutang dalam STP, SKPKB, SKPKBT, SKPPBB, STPPBB, SPT Pajak Terutang, dan SK Pembetulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Opsi B, C, dan D merupakan kriteria Pemindahbukuan yang tidak dapat dilakukan. Sebaliknya, 'Bukti Pbk yang terdapat kesalahan dalam penerbitan' justru merupakan salah satu alasan Pbk DAPAT dilakukan secara jabatan oleh Tax Office, bukan larangan Pbk.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 316,
+        "kutipan": "1. Bukti Pbk yang terdapat kesalahan dalam penerbitan;"
+      },
+      {
+        "pdf": "B",
+        "halaman": 317,
+        "kutipan": "pembayaran pajak yang kode billing-nya diterbitkan oleh sistem billing selain yang diadministrasikan DJP"
+      },
+      {
+        "pdf": "B",
+        "halaman": 317,
+        "kutipan": "pembayaran pajak yang dianggap sebagai penyampaian SPT Masa"
+      },
+      {
+        "pdf": "B",
+        "halaman": 317,
+        "kutipan": "pembayaran pajak yang sudah diperhitungkan dengan pajak terutang dalam STP, SKPKB, SKPKBT, SKPPBB, STPPBB, SPT Pajak Terutang, dan SK Pembetulan, SK Keberatan, SK Persetujuan Bersama"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Account Representative menjelaskan kepada Wajib Pajak bahwa kekurangan pembayaran pajak berdasarkan SPT Tahunan untuk Pajak Karbon kini turut diatur jatuh temponya bersama PPh dalam Pasal 95 PMK-242/PMK.03/2014 s.t.d.d. PMK-81/2024. Bagaimana pengaturan atas Pajak Karbon dalam konteks tersebut sebelum PMK-81/2024 berlaku?",
+    "opsi": {
+      "A": "Diatur sama dengan ketentuan Bea Meterai",
+      "B": "Sebelumnya tidak ada pengaturan Pajak Karbon",
+      "C": "Diatur dengan jatuh tempo tanggal 10 bulan berikutnya",
+      "D": "Diatur sama dengan ketentuan Pajak Penjualan atas Barang Mewah"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan jenis setoran 'Kekurangan pembayaran pajak yang terutang berdasarkan SPT Tahunan untuk PPh dan Pajak Karbon' dengan keterangan bahwa sebelumnya tidak ada pengaturan Pajak Karbon dalam konteks ini.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 307,
+        "kutipan": "Kekurangan pembayaran pajak yang terutang berdasarkan SPT Tahunan untuk PPh dan Pajak Karbon"
+      },
+      {
+        "pdf": "B",
+        "halaman": 307,
+        "kutipan": "*sebelumnya tidak ada pengaturan Pajak Karbon"
+      }
+    ],
+    "tags": [
+      "PMK-242/PMK.03/2014",
+      "Pasal 95"
+    ]
+  },
+  {
+    "id": "ADV-07-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pasal berapa dalam Undang-Undang KUP yang menjadi dasar hukum penerbitan Surat Ketetapan Pajak Lebih Bayar atas pajak yang seharusnya tidak terutang sebagaimana diatur dalam PMK-187/PMK.03/2015?",
+    "opsi": {
+      "A": "Pasal 17 ayat (1) Undang-Undang KUP",
+      "B": "Pasal 17 ayat (2) Undang-Undang KUP",
+      "C": "Pasal 17B Undang-Undang KUP",
+      "D": "Pasal 36 Undang-Undang KUP"
+    },
+    "kunci": "B",
+    "pembahasan": "Dasar hukum PMK-187/PMK.03/2015 adalah Pasal 17 ayat (2) UU KUP, yang mengatur penerbitan SKPLB oleh Dirjen Pajak berdasarkan permohonan WP atas pembayaran pajak yang seharusnya tidak terutang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 334,
+        "kutipan": "PMK-187/PMK.03/2015 Pasal 17 ayat (2) Undang-Undang KUP"
+      }
+    ],
+    "tags": [
+      "PMK-187/PMK.03/2015",
+      "Pasal 17 ayat (2) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-07-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan tata cara penelitian atas permohonan pengembalian pajak yang seharusnya tidak terutang dalam PMK-187/PMK.03/2015, KPP menerbitkan SKPLB atau pemberitahuan penolakan paling lama dalam jangka waktu berapa sejak permohonan diterima?",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "2 bulan",
+      "C": "3 bulan",
+      "D": "6 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai tata cara penelitian atas permohonan, KPP menerbitkan SKPLB atau pemberitahuan penolakan paling lama 3 bulan setelah diterimanya permohonan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 337,
+        "kutipan": "KPP menerbitkan SKPLB atau pemberitahuan penolakan paling lama 3 bulan setelah diterimanya permohonan"
+      }
+    ],
+    "tags": [
+      "PMK-187/PMK.03/2015"
+    ]
+  },
+  {
+    "id": "ADV-07-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "KPP belum menerbitkan SKPLB maupun pemberitahuan penolakan atas suatu permohonan pengembalian pajak yang seharusnya tidak terutang hingga batas waktu 3 bulan sejak permohonan diterima terlampaui. Apa akibat hukumnya sesuai PMK-187/PMK.03/2015?",
+    "opsi": {
+      "A": "Permohonan dianggap ditolak dan WP harus mengajukan keberatan",
+      "B": "Permohonan dianggap dikabulkan dan DJP menerbitkan SKPLB dalam 5 hari kerja sejak berakhirnya batas waktu 3 bulan",
+      "C": "Permohonan dianggap dikabulkan dan DJP menerbitkan SKPLB dalam 10 hari kerja sejak berakhirnya batas waktu 3 bulan",
+      "D": "Permohonan otomatis batal dan WP harus mengajukan permohonan baru"
+    },
+    "kunci": "B",
+    "pembahasan": "Apabila sampai batas waktu 3 bulan KPP tidak menerbitkan SKPLB atau pemberitahuan penolakan, permohonan WP dianggap dikabulkan dan Direktur Jenderal Pajak menerbitkan SKPLB dalam jangka waktu 5 hari kerja sejak berakhirnya batas waktu 3 bulan tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 337,
+        "kutipan": "permohonan Wajib Pajak dianggap dikabulkan dan Direktur Jenderal Pajak menerbitkan SKPLB dalam jangka waktu 5 hari kerja sejak berakhirnya batas waktu 3 bulan tersebut."
+      }
+    ],
+    "tags": [
+      "PMK-187/PMK.03/2015"
+    ]
+  },
+  {
+    "id": "ADV-07-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan PMK-187/PMK.03/2015, manakah di antara berikut yang termasuk objek pajak yang dapat diajukan permohonan pengembalian atas kelebihan pembayaran pajak yang seharusnya tidak terutang?",
+    "opsi": {
+      "A": "Pajak Karbon",
+      "B": "Bea Masuk",
+      "C": "Cukai",
+      "D": "Denda Administrasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Objek yang dapat diajukan permohonan pengembalian meliputi PPh, PPN, PPnBM, PBB, Bea Meterai, Pajak Penjualan, dan Pajak Karbon, serta Deposit Pajak yang tidak digunakan untuk pelunasan pajak terutang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 335,
+        "kutipan": "Pajak Penghasilan; Pajak Pertambahan Nilai; Pajak Penjualan atas Barang Mewah; Pajak Bumi dan Bangunan; Bea Meterai; Pajak Penjualan; dan Pajak Karbon."
+      }
+    ],
+    "tags": [
+      "PMK-187/PMK.03/2015"
+    ]
+  },
+  {
+    "id": "ADV-07-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Permohonan pengembalian kesalahan pemotongan/pemungutan PPh pada dasarnya diajukan oleh WP Pemungut/Pemotong, namun dapat beralih kepada pihak yang dipotong/dipungut dalam kondisi tertentu. Kondisi apa yang dimaksud sesuai PMK-187/PMK.03/2015?",
+    "opsi": {
+      "A": "WP Pemungut/Pemotong tidak ditemukan (misalnya pembubaran) atau tidak dapat membetulkan SPT",
+      "B": "WP Pemungut/Pemotong sedang dalam proses pemeriksaan pajak",
+      "C": "WP Pemungut/Pemotong belum memiliki NPWP yang valid",
+      "D": "WP Pemungut/Pemotong telah mengajukan keberatan atas SKPKB"
+    },
+    "kunci": "A",
+    "pembahasan": "Permohonan beralih kepada pihak yang dipotong/dipungut dalam hal WP Pemungut/Pemotong tidak ditemukan (misalnya karena pembubaran) atau tidak dapat membetulkan SPT.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 346,
+        "kutipan": "dalam hal WP Pemungut/Pemotong: - tidak ditemukan (mis pembubaran) - tidak dapat membetulkan SPT"
+      }
+    ],
+    "tags": [
+      "PMK-187/PMK.03/2015"
+    ]
+  },
+  {
+    "id": "ADV-07-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan ruang lingkup pembayaran pajak yang bukan merupakan objek pajak terutang/seharusnya tidak terutang dalam PMK-187/PMK.03/2015, semua berikut termasuk dalam ruang lingkup tersebut, KECUALI...",
+    "opsi": {
+      "A": "Pembayaran pajak atas transaksi yang dibatalkan",
+      "B": "Pembayaran pajak yang lebih besar dari pajak yang terutang",
+      "C": "Penyetoran di muka Bea Meterai yang belum digunakan dan/atau masih tersisa",
+      "D": "Pembayaran pajak yang telah dikreditkan sebagai pajak masukan dalam SPT Masa PPN"
+    },
+    "kunci": "D",
+    "pembahasan": "Ruang lingkup mencakup pembayaran yang lebih besar dari pajak terutang, transaksi dibatalkan, dan penyetoran di muka Bea Meterai yang belum digunakan/masih tersisa, bukan pajak yang telah dikreditkan sebagai pajak masukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 338,
+        "kutipan": "pembayaran pajak atas transaksi yang dibatalkan pembayaran pajak yang lebih besar dari pajak yang terutang penyetoran di muka Bea Meterai yang belum digunakan dan/atau masih tersisa"
+      }
+    ],
+    "tags": [
+      "PMK-187/PMK.03/2015"
+    ]
+  },
+  {
+    "id": "ADV-07-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam ruang lingkup kelebihan pembayaran pajak menurut PMK-244/PMK.03/2014, Pengembalian Pendahuluan Kelebihan Pembayaran Pajak diatur berdasarkan pasal-pasal apa?",
+    "opsi": {
+      "A": "Pasal 17 ayat (1) KUP",
+      "B": "Pasal 17 ayat (2) KUP",
+      "C": "Pasal 17B UU KUP",
+      "D": "Pasal 17C dan Pasal 17D KUP, Pasal 9 ayat (4c) PPN"
+    },
+    "kunci": "D",
+    "pembahasan": "Pengembalian Pendahuluan Kelebihan Pembayaran Pajak dalam ruang lingkup PMK-244/PMK.03/2014 didasarkan pada Pasal 17C dan Pasal 17D UU KUP serta Pasal 9 ayat (4c) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 360,
+        "kutipan": "Pasal 17C dan Pasal 17D KUP, Pasal 9 ayat (4c) PPN Pengembalian Pendahuluan Kelebihan Pembayaran Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-244/PMK.03/2014",
+      "Pasal 17C KUP",
+      "Pasal 17D KUP",
+      "Pasal 9 ayat (4c) PPN"
+    ]
+  },
+  {
+    "id": "ADV-07-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PPN (VAT) Refund atas PPN yang dibayar oleh Subjek Pajak Luar Negeri yang akan meninggalkan Indonesia, sebagaimana disebutkan dalam ruang lingkup PMK-244/PMK.03/2014, diatur lebih lanjut dengan peraturan apa?",
+    "opsi": {
+      "A": "PMK Nomor 187/PMK.03/2015",
+      "B": "PMK Nomor 242/PMK.03/2014",
+      "C": "PMK Nomor 120/PMK.03/2019",
+      "D": "PMK Nomor 81/2024"
+    },
+    "kunci": "C",
+    "pembahasan": "PPN (VAT) Refund atas PPN yang dibayar SPLN yang akan meninggalkan Indonesia berdasarkan Pasal 17E KUP dan Pasal 16E PPN diatur lebih lanjut dengan PMK Nomor 120/PMK.03/2019.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 360,
+        "kutipan": "Atas PPN dibayar SPLN yang akan meninggalkan RI (Pasal 17E KUP dan Pasal 16E PPN) PMK Nomor 120/PMK. 03/2019"
+      }
+    ],
+    "tags": [
+      "PMK-244/PMK.03/2014",
+      "PMK Nomor 120/PMK.03/2019",
+      "Pasal 17E KUP",
+      "Pasal 16E PPN"
+    ]
+  },
+  {
+    "id": "ADV-07-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan alur pengembalian dalam PMK-244/PMK.03/2014, SKPKPP dan SPMKP masing-masing diterbitkan paling lama dalam jangka waktu berapa, terhitung sejak peristiwa yang ditentukan?",
+    "opsi": {
+      "A": "1 bulan untuk SKPKPP dan 15 hari untuk SPMKP",
+      "B": "15 hari untuk SKPKPP dan 1 bulan untuk SPMKP",
+      "C": "1 bulan untuk SKPKPP dan 1 bulan untuk SPMKP",
+      "D": "2 bulan untuk SKPKPP dan 1 bulan untuk SPMKP"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam alur pengembalian, SKPKPP diterbitkan paling lama 1 bulan terhitung sejak permohonan diterima/diterbitkannya dasar pengembalian, dan SPMKP juga diterbitkan paling lama 1 bulan terhitung sejak SKPKPP diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 362,
+        "kutipan": "SKPKPP diterbitkan paling lama 1 bulan, terhitung sejak SPMKP diterbitkan paling lama 1 bulan, terhitung sejak"
+      }
+    ],
+    "tags": [
+      "PMK-244/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam mekanisme pengembalian kelebihan pembayaran pajak dan imbalan bunga menurut PMK-244/PMK.03/2014, sebelum dikembalikan kepada Wajib Pajak, kelebihan pembayaran tersebut diperlakukan bagaimana?",
+    "opsi": {
+      "A": "Diperhitungkan terlebih dahulu dengan Utang Pajak berdasarkan Pasal 54 ayat (1) PMK PSIAP",
+      "B": "Langsung dikembalikan tanpa memperhitungkan utang pajak apa pun",
+      "C": "Ditahan hingga seluruh SPT Tahunan Wajib Pajak selesai diperiksa",
+      "D": "Dipindahkan ke rekening Kas Umum Negara tanpa persetujuan Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Kelebihan pembayaran pajak dan imbalan bunga diperhitungkan terlebih dahulu dengan Utang Pajak sesuai Pasal 54 ayat (1) PMK PSIAP, dan sisanya baru dapat dikembalikan atau digunakan berdasarkan persetujuan WP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 363,
+        "kutipan": "Diperhitungkan terlebih dahulu dengan UTANG PAJAK (Pasal 54 ayat (1) PMK PSIAP)"
+      }
+    ],
+    "tags": [
+      "PMK-244/PMK.03/2014",
+      "Pasal 54 ayat (1) PMK PSIAP"
+    ]
+  },
+  {
+    "id": "ADV-07-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "DJP mengirimkan permintaan konfirmasi kompensasi kepada seorang Wajib Pajak terkait rencana penggunaan kelebihan pembayaran pajak untuk membayar utang pajak atas nama WP lain. Berapa lama batas waktu WP menyampaikan persetujuannya, dihitung sejak permintaan konfirmasi disampaikan?",
+    "opsi": {
+      "A": "3 hari",
+      "B": "7 hari",
+      "C": "14 hari",
+      "D": "30 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Persetujuan WP disampaikan paling lama 7 hari sejak permintaan konfirmasi disampaikan, atau 1 hari sebelum jatuh tempo penerbitan SKPKPP, tergantung peristiwa yang terjadi lebih dahulu.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 363,
+        "kutipan": "Persetujuan WP disampaikan paling lama: a. 7 hari sejak permintaan konfirmasi disampaikan; atau b. 1 hari sebelum JT penerbitan SKPKPP,"
+      }
+    ],
+    "tags": [
+      "PMK-244/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Wajib Pajak dinyatakan pailit dan berhak atas pengembalian kelebihan pembayaran pajak. Sesuai PMK-244/PMK.03/2014, pengembalian tersebut menggunakan rekening dalam negeri atas nama siapa?",
+    "opsi": {
+      "A": "Likuidator",
+      "B": "Direktur Wajib Pajak",
+      "C": "Pelaksana wasiat",
+      "D": "Kurator"
+    },
+    "kunci": "D",
+    "pembahasan": "Untuk WP yang dinyatakan pailit, pengembalian kelebihan pajak menggunakan rekening dalam negeri atas nama kurator, berbeda dengan WP dalam likuidasi (rekening a.n. likuidator) atau WP WBT (rekening a.n. ahli waris/pelaksana wasiat).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 365,
+        "kutipan": "pengembalian kepada WP yang dinyatakan pailit rekening dalam negeri a.n. kurator"
+      }
+    ],
+    "tags": [
+      "PMK-244/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan jenis SPT pada materi penyesuaian ketentuan PMK 243/PMK.03/2014, manakah yang termasuk dalam kelompok SPT Tahunan?",
+    "opsi": {
+      "A": "PPh untuk Tahun Pajak",
+      "B": "PPh Pasal 21 dan/atau Pasal 26",
+      "C": "PPN bagi Pengusaha Kena Pajak",
+      "D": "Bea Meterai"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan jenis SPT membagi SPT menjadi tiga kelompok: Tahunan (PPh untuk Tahun Pajak, PPh untuk Bagian Tahun Pajak, dan Pajak Karbon), Masa (antara lain PPh Pasal 21/26, PPN bagi PKP, dan Bea Meterai), serta SPOP sebagai kelompok tersendiri. PPh Pasal 21/26, PPN bagi PKP, dan Bea Meterai berada pada kelompok SPT Masa, bukan Tahunan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 370,
+        "kutipan": "PPh untuk Tahun Pajak**"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan jenis SPT pada materi penyesuaian ketentuan PMK 243/PMK.03/2014, Pajak Karbon termasuk dalam kelompok SPT jenis apa saja?",
+    "opsi": {
+      "A": "Hanya SPT Tahunan",
+      "B": "SPT Tahunan dan SPT Masa",
+      "C": "Hanya SPT Masa",
+      "D": "Surat Pemberitahuan Objek Pajak (SPOP)"
+    },
+    "kunci": "B",
+    "pembahasan": "Pajak Karbon tercantum dua kali dalam bagan jenis SPT: pada kelompok SPT Tahunan (bersama PPh untuk Tahun Pajak dan PPh untuk Bagian Tahun Pajak) dan juga pada kelompok SPT Masa (bersama Bea Meterai). Dengan demikian Pajak Karbon memiliki SPT Tahunan sekaligus SPT Masa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 370,
+        "kutipan": "PPh untuk Bagian Tahun Pajak** • Pajak Karbon*"
+      },
+      {
+        "pdf": "B",
+        "halaman": 370,
+        "kutipan": "Bea Meterai • Pajak Karbon"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan PMK 243/PMK.03/2014, batas waktu penyampaian SPT Tahunan PPh Wajib Pajak Badan adalah paling lama...",
+    "opsi": {
+      "A": "3 bulan setelah akhir Tahun Pajak",
+      "B": "4 bulan setelah akhir tahun kalender",
+      "C": "4 bulan setelah akhir Tahun Pajak",
+      "D": "30 hari setelah tanggal diterimanya SPOP"
+    },
+    "kunci": "C",
+    "pembahasan": "Batas waktu penyampaian SPT Tahunan PPh Badan adalah 4 bulan setelah akhir Tahun Pajak (atau 4 bulan setelah akhir Bagian Tahun Pajak). Angka 3 bulan berlaku untuk PPh Orang Pribadi, 4 bulan setelah akhir tahun kalender berlaku untuk Pajak Karbon, dan 30 hari setelah diterimanya SPOP berlaku untuk SPOP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 378,
+        "kutipan": "4 bulan setelah akhir Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berbeda dengan sebagian besar jenis SPT Masa lainnya yang batas waktunya 20 hari setelah Masa Pajak berakhir, berdasarkan PMK 243/PMK.03/2014 SPT Masa Bea Meterai wajib disampaikan paling lama...",
+    "opsi": {
+      "A": "20 hari setelah Masa Pajak berakhir",
+      "B": "akhir bulan berikutnya",
+      "C": "30 hari setelah Masa Pajak berakhir",
+      "D": "15 hari setelah Masa Pajak berakhir"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam bagan batas waktu penyampaian SPT Masa, PPh Pasal 21/26, PPh Pasal 25, PPh Unifikasi, Laporan Penerimaan Negara, dan Pajak Karbon memiliki batas waktu 20 hari setelah Masa Pajak berakhir, sedangkan Bea Meterai memiliki batas waktu tersendiri yaitu 15 hari setelah Masa Pajak berakhir, dan PPN pada akhir bulan berikutnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 380,
+        "kutipan": "15 hari setelah Masa Pajak berakhir"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban Wajib Pajak tertentu untuk menyampaikan SPT secara elektronik, berdasarkan materi penyesuaian PMK 243/PMK.03/2014, merujuk pada ketentuan...",
+    "opsi": {
+      "A": "Pasal 163",
+      "B": "Pasal 7 ayat (1) UU KUP",
+      "C": "Pasal 3 ayat (1) UU KUP",
+      "D": "Pasal 8 UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan bahwa WP yang wajib SPT Elektronik sebagaimana dimaksud dalam Pasal 163 wajib menyampaikan SPT secara elektronik; jika disampaikan dengan cara lain, tidak diberikan bukti penerimaan dan dianggap tidak menyampaikan SPT. Pasal 7 ayat (1), Pasal 3 ayat (1), dan Pasal 8 UU KUP adalah dasar hukum untuk ketentuan SPT lainnya (sanksi denda, penelitian SPT, dan sanksi bunga pembetulan).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 377,
+        "kutipan": "WP yang wajib SPT Elektronik sebagaimana dimaksud dalam Pasal 163 wajib menyampaikan SPT secara elektronik."
+      }
+    ],
+    "tags": [
+      "Pasal 163"
+    ]
+  },
+  {
+    "id": "ADV-07-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam ketentuan pembetulan SPT pada PMK 243/PMK.03/2014, apabila pembetulan SPT mengakibatkan SPT menyatakan rugi atau lebih bayar, jangka waktu penyampaian pembetulan tersebut adalah...",
+    "opsi": {
+      "A": "Sampai dengan daluwarsa",
+      "B": "Paling lama 2 (dua) tahun sebelum daluwarsa",
+      "C": "Paling lama 3 bulan sejak diterbitkannya ketetapan",
+      "D": "Paling lama 2 bulan sejak batas waktu penyampaian SPT Tahunan"
+    },
+    "kunci": "B",
+    "pembahasan": "Berdasarkan diagram pembetulan SPT, jika pembetulan mengakibatkan SPT menyatakan rugi atau lebih bayar, pembetulan hanya dapat dilakukan paling lama 2 (dua) tahun sebelum daluwarsa. Apabila pembetulan tidak mengakibatkan rugi atau lebih bayar, pembetulan dapat dilakukan sampai dengan daluwarsa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 390,
+        "kutipan": "paling lama 2 (dua) tahun sebelum daluwarsa"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan PMK 243/PMK.03/2014, Wajib Pajak yang menerima SKP, SK Pembetulan, SK Keberatan, Putusan Banding, atau Putusan PK yang menyatakan rugi fiskal berbeda dengan rugi fiskal yang telah dikompensasikan dalam SPT Tahunan, dapat membetulkan SPT dalam jangka waktu...",
+    "opsi": {
+      "A": "2 bulan sejak diterbitkannya ketetapan",
+      "B": "2 tahun sebelum daluwarsa",
+      "C": "3 bulan sejak tanggal stempel pos pengiriman atau diterima secara langsung",
+      "D": "20 hari sejak Masa Pajak berakhir"
+    },
+    "kunci": "C",
+    "pembahasan": "WP yang menerima ketetapan, keputusan, atau putusan yang menyatakan rugi fiskal berbeda dapat membetulkan SPT dalam jangka waktu 3 bulan sejak tanggal stempel pos pengiriman atau diterima secara langsung, dengan syarat belum dilakukan pemeriksaan. Jika WP tidak membetulkan SPT, Dirjen Pajak menghitung kembali kompensasi kerugian dalam SPT secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 392,
+        "kutipan": "jangka waktu 3 bulan sejak tanggal stempel pos pengiriman diterima secara langsung"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PT Maju Sejahtera adalah WP Badan yang telah mendapat izin menyelenggarakan pembukuan dalam bahasa Inggris dan satuan mata uang dolar Amerika Serikat. Berdasarkan PMK 243/PMK.03/2014, dalam menyampaikan SPT PPh WP Badan beserta lampirannya, PT Maju Sejahtera wajib menggunakan...",
+    "opsi": {
+      "A": "Bahasa Inggris dan dolar Amerika Serikat untuk seluruh dokumen termasuk laporan keuangan",
+      "B": "Bahasa Indonesia dan satuan Rupiah untuk seluruh dokumen",
+      "C": "Bahasa Inggris untuk SPT induk dan Bahasa Indonesia untuk lampiran",
+      "D": "Bahasa Indonesia untuk SPT dan lampirannya kecuali laporan keuangan, dengan satuan dolar Amerika Serikat"
+    },
+    "kunci": "D",
+    "pembahasan": "WP Badan yang diizinkan menyelenggarakan pembukuan dengan bahasa Inggris dan satuan dolar Amerika Serikat tetap wajib menyampaikan SPT PPh WP Badan beserta lampirannya dalam bahasa Indonesia, kecuali lampiran berupa laporan keuangan, dan menggunakan satuan mata uang dolar Amerika Serikat.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 369,
+        "kutipan": "wajib menyampaikan SPT PPh WP Badan beserta lampirannya dalam bahasa Indonesia kecuali lampiran berupa laporan keuangan, dan menggunakan satuan mata uang dolar Amerika Serikat"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan kriteria Wajib Pajak yang wajib menyampaikan SPT Tahunan PPh dalam bentuk Dokumen Elektronik berdasarkan PMK 243/PMK.03/2014, KECUALI...",
+    "opsi": {
+      "A": "Terdaftar di KPP Pratama",
+      "B": "Wajib Pajak Badan",
+      "C": "SPT Tahunan PPh Lebih Bayar",
+      "D": "Menggunakan jasa konsultan pajak dalam pengisian SPT"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria yang sebenarnya adalah terdaftar di KPP selain KPP Pratama, bukan terdaftar di KPP Pratama. Kriteria lain yang benar antara lain Wajib Pajak Badan, SPT Tahunan PPh Lebih Bayar, dan menggunakan jasa konsultan pajak dalam pengisian SPT.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 371,
+        "kutipan": "Terdaftar di KPP selain KPP Pratama"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan PMK 243/PMK.03/2014, perpanjangan jangka waktu penyampaian SPT Tahunan Pajak Karbon berbeda dengan SPT Tahunan PPh dalam hal...",
+    "opsi": {
+      "A": "Pajak Karbon dapat diperpanjang hingga 3 bulan, sedangkan PPh hanya 2 bulan",
+      "B": "Pemberitahuan perpanjangan SPT Tahunan Pajak Karbon hanya dapat disampaikan dalam bentuk Dokumen Elektronik, sedangkan SPT Tahunan PPh dapat dalam bentuk Dokumen Elektronik atau formulir kertas",
+      "C": "Pajak Karbon tidak memerlukan laporan keuangan sementara, sedangkan PPh wajib melampirkannya",
+      "D": "Pajak Karbon tidak dapat diperpanjang, sedangkan PPh dapat diperpanjang 2 bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "Kedua jenis SPT Tahunan sama-sama dapat diperpanjang paling lama 2 bulan sejak batas waktu penyampaian. Perbedaannya, Pemberitahuan Perpanjangan SPT Tahunan PPh dapat disampaikan dalam bentuk Dokumen Elektronik atau formulir kertas (hardcopy), sedangkan Pemberitahuan Perpanjangan SPT Tahunan Pajak Karbon hanya dapat disampaikan dalam bentuk Dokumen Elektronik.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 385,
+        "kutipan": "dalam bentuk Dokumen Elektronik atau dalam bentuk fomulir kertas (hardcopy)"
+      },
+      {
+        "pdf": "B",
+        "halaman": 386,
+        "kutipan": "menyampaikan Pemberitahuan Perpanjangan SPT Tahunan Pajak Karbon dalam bentuk Dokumen Elektronik"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-07-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-37/PMK.03/2017 - PPh atas Pengalihan Real Estat dalam Skema KIK/DIRE Tertentu",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan PMK 37/PMK.03/2017, Special Purpose Company (SPC) adalah Perseroan Terbatas yang sahamnya dimiliki oleh DIRE berbentuk KIK paling kurang...",
+    "opsi": {
+      "A": "51% dari modal disetor",
+      "B": "99% dari modal disetor",
+      "C": "99,9% dari modal disetor",
+      "D": "100% dari modal disetor"
+    },
+    "kunci": "C",
+    "pembahasan": "SPC adalah Perseroan Terbatas yang sahamnya dimiliki oleh DIRE berbentuk KIK paling kurang 99,9% (sembilan puluh sembilan koma sembilan persen) dari modal disetor, yang dibentuk semata-mata untuk kepentingan DIRE berbentuk KIK tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 406,
+        "kutipan": "sahamnya dimiliki oleh DIRE berbentuk KIK paling kurang 99,9% (sembilan puluh sembilan koma sembilan persen) dari modal disetor"
+      }
+    ],
+    "tags": [
+      "PMK 37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-37/PMK.03/2017 - PPh atas Pengalihan Real Estat dalam Skema KIK/DIRE Tertentu",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan PMK 37/PMK.03/2017, dalam hal Wajib Pajak memiliki hubungan istimewa dengan SPC atau KIK, jumlah bruto nilai pengalihan Real Estat yang menjadi dasar pengenaan PPh final adalah...",
+    "opsi": {
+      "A": "Seluruh jumlah yang sesungguhnya diterima atau diperoleh Wajib Pajak, dalam hal tidak memiliki hubungan istimewa dengan SPC atau KIK",
+      "B": "Nilai transaksi sebagaimana tercantum dalam akta pengalihan Real Estat",
+      "C": "Nilai Jual Objek Pajak (NJOP) atas Real Estat yang dialihkan",
+      "D": "Seluruh jumlah yang seharusnya diterima atau diperoleh Wajib Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Jumlah bruto nilai pengalihan Real Estat ditentukan dengan dua kondisi: jika WP tidak memiliki hubungan istimewa dengan SPC atau KIK, dasarnya adalah seluruh jumlah yang sesungguhnya diterima atau diperoleh; jika WP memiliki hubungan istimewa, dasarnya adalah seluruh jumlah yang seharusnya diterima atau diperoleh Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 408,
+        "kutipan": "seluruh jumlah yang seharusnya diterima atau diperoleh Wajib Pajak, dalam hal Wajib Pajak memiliki hubungan istimewa dengan SPC atau KIK."
+      }
+    ],
+    "tags": [
+      "PMK 37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-37/PMK.03/2017 - PPh atas Pengalihan Real Estat dalam Skema KIK/DIRE Tertentu",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai tata cara pembayaran dan pelaporan Pajak Penghasilan atas penghasilan dari pengalihan Real Estat dalam skema Kontrak Investasi Kolektif tertentu diatur dalam...",
+    "opsi": {
+      "A": "PMK 37/PMK.03/2017",
+      "B": "PMK 243/PMK.03/2014",
+      "C": "PP 40/2016",
+      "D": "PMK 81/2024"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan bahwa Tata Cara Pembayaran dan Pelaporan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Real Estat Dalam Skema Kontrak Investasi Kolektif Tertentu diatur dalam PMK 37/PMK.03/2017. PMK 243/PMK.03/2014 mengatur Surat Pemberitahuan secara umum, sedangkan PP 40/2016 disebut dalam ketentuan peralihan terkait pengalihan sebelum 17 Oktober 2016.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 405,
+        "kutipan": "PENYESUAIAN ATAS KETENTUAN PMK 37/PMK.03/2017 Tata Cara Pembayaran dan Pelaporan Pajak Penghasilan Atas Penghasilan Dari Pengalihan Real Estat Dalam Skema Kontrak Investasi Kolektif Tertentu"
+      }
+    ],
+    "tags": [
+      "PMK 37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-052",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-37/PMK.03/2017 - PPh atas Pengalihan Real Estat dalam Skema KIK/DIRE Tertentu",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tuan Budi (bukan developer) melakukan pengalihan Real Estat kepada SPC dalam skema KIK tertentu. Berdasarkan ketentuan PMK 37/PMK.03/2017 yang berlaku saat ini, PPh final atas transaksi tersebut terutang di...",
+    "opsi": {
+      "A": "Lokasi Real Estat yang dialihkan",
+      "B": "Tempat terdaftar Wajib Pajak, yaitu tempat Surat Pemberitahuan Tahunan PPh Wajib Pajak diadministrasikan",
+      "C": "Tempat kedudukan SPC yang menerima pengalihan",
+      "D": "Kantor Pelayanan Pajak tempat notaris/PPAT yang membuat akta terdaftar"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan saat ini mengatur bahwa PPh atas pengalihan Real Estat kepada SPC atau KIK tertentu terutang di tempat terdaftar Wajib Pajak, yaitu tempat Surat Pemberitahuan Tahunan Pajak Penghasilan WP diadministrasikan. Ketentuan sebelumnya (PMK-37/2017 awal) membedakan tempat terutang bagi developer (di lokasi Real Estat) dan bagi OP/badan selain developer (di tempat tinggal/kedudukan).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 411,
+        "kutipan": "terutang di tempat terdaftar Wajib Pajak, di mana Surat Pemberitahuan Tahunan Pajak Penghasilan WP diadministrasikan"
+      }
+    ],
+    "tags": [
+      "PMK 37/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-07-053",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-37/PMK.03/2017 - PPh atas Pengalihan Real Estat dalam Skema KIK/DIRE Tertentu",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini adalah kondisi yang menyebabkan Wajib Pajak DIKECUALIKAN dari pengenaan PPh berdasarkan PP 40/2016 (dengan penerbitan SKB) dalam ketentuan peralihan PMK 37/PMK.03/2017, KECUALI...",
+    "opsi": {
+      "A": "Pembayaran atas pengalihan dilunasi sebelum 17 Oktober 2016, belum dibuatkan akta, dan penghasilan telah dilaporkan di SPT Tahunan dengan PPh telah dilunasi",
+      "B": "Pembayaran atas pengalihan baru dilunasi sebagian sebelum 17 Oktober 2016, belum dibuatkan akta, dan penghasilan telah dilaporkan di SPT Tahunan",
+      "C": "Pengalihan terjadi sebelum 17 Oktober 2016, belum dibuatkan akta, dan penghasilan dari pengalihan tersebut belum dilaporkan dalam SPT Tahunan",
+      "D": "Pembayaran atas pengalihan telah dilunasi sebelum 17 Oktober 2016, belum dibuatkan akta, namun PPh belum dilaksanakan sepenuhnya sesuai ketentuan yang berlaku pada periode pengalihan, dan penghasilan telah dilaporkan di SPT Tahunan"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam ketentuan peralihan, WP dengan pengalihan sebelum 17 Oktober 2016, belum dibuatkan akta, namun penghasilannya belum dilaporkan dalam SPT Tahunan, justru DIKENAKAN PPh berdasarkan PP 40/2016 dengan DPP sebesar nilai transaksi saat dilakukan pembuatan akta, bukan dikecualikan dengan SKB. Tiga kondisi lainnya (pembayaran lunas/sebagian lunas sebelum 17 Oktober 2016 dengan penghasilan telah dilaporkan di SPT Tahunan) memang dikecualikan dari pengenaan PPh berdasarkan PP 40/2016 dengan penerbitan SKB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 414,
+        "kutipan": "Pengalihan sebelum tanggal 17 Oktober 2016, dan belum dibuatkan akta"
+      },
+      {
+        "pdf": "B",
+        "halaman": 414,
+        "kutipan": "penghasilan dari pengalihan tersebut belum dilaporkan dalam SPT Tahunan dikenakan PPh berdasarkan PP 40/2016, dengan DPP sebesar nilai transaksi saat dilakukan pembuatan akta"
+      }
+    ],
+    "tags": [
+      "PP 40/2016",
+      "PMK 37/PMK.03/2017"
+    ]
+  }
+]

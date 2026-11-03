@@ -1,0 +1,981 @@
+[
+  {
+    "id": "PMR-08-001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pelaksanaan Surat Paksa, Surat Perintah Melaksanakan Penyitaan, atau Pengumuman Lelang dalam rangka penagihan pajak dapat menjadi objek upaya hukum berupa...",
+    "opsi": {
+      "A": "Keberatan ke Direktur Jenderal Pajak",
+      "B": "Gugatan ke Pengadilan Pajak",
+      "C": "Banding ke Pengadilan Pajak",
+      "D": "Peninjauan Kembali ke Mahkamah Agung"
+    },
+    "kunci": "B",
+    "pembahasan": "Salah satu objek Gugatan adalah pelaksanaan Surat Paksa, Surat Perintah Melaksanakan Penyitaan, atau Pengumuman Lelang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "pelaksanaan Surat Paksa, Surat Perintah Melaksanakan Penyitaan, atau Pengumuman Lelang"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Objek Gugatan",
+      "Penagihan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-08-002",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan pencegahan dalam rangka penagihan pajak termasuk salah satu objek...",
+    "opsi": {
+      "A": "Banding",
+      "B": "Keberatan",
+      "C": "Gugatan",
+      "D": "Permohonan pengurangan sanksi administrasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Objek Gugatan kedua adalah keputusan pencegahan dalam rangka penagihan pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "keputusan pencegahan dalam rangka penagihan pajak"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Objek Gugatan",
+      "Penagihan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-08-003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan yang berkaitan dengan pelaksanaan keputusan perpajakan dapat menjadi objek Gugatan ke Pengadilan Pajak, KECUALI keputusan yang ditetapkan dalam...",
+    "opsi": {
+      "A": "Pasal 8 ayat (1) dan Pasal 9 UU KUP",
+      "B": "Pasal 14 ayat (2) dan Pasal 15 UU KUP",
+      "C": "Pasal 13 ayat (1) dan Pasal 17 UU KUP",
+      "D": "Pasal 25 ayat (1) dan Pasal 26 UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek Gugatan ketiga adalah keputusan terkait pelaksanaan keputusan perpajakan, selain yang ditetapkan dalam Pasal 25 ayat (1) dan Pasal 26 UU KUP (yang menjadi objek Keberatan/Banding).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "selain yang ditetapkan dalam Pasal 25 ayat (1) dan Pasal 26; atau"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Objek Gugatan",
+      "Pasal 25",
+      "Pasal 26"
+    ]
+  },
+  {
+    "id": "PMR-08-004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "KPP menerbitkan Surat Ketetapan Pajak kepada seorang WP, namun proses penerbitannya tidak sesuai dengan prosedur atau tata cara yang telah diatur dalam ketentuan peraturan perundang-undangan perpajakan. Atas kondisi tersebut, WP dapat menempuh upaya hukum berupa...",
+    "opsi": {
+      "A": "Keberatan ke Direktur Jenderal Pajak",
+      "B": "Banding ke Pengadilan Pajak",
+      "C": "Gugatan ke Pengadilan Pajak",
+      "D": "Peninjauan Kembali ke Mahkamah Agung"
+    },
+    "kunci": "C",
+    "pembahasan": "Penerbitan surat ketetapan pajak atau SK Keberatan yang tidak sesuai prosedur/tata cara merupakan objek Gugatan ke Pengadilan Pajak, bukan Keberatan/Banding yang menyasar substansi ketetapan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "penerbitan surat ketetapan pajak atau Surat Keputusan Keberatan yang dalam penerbitannya tidak sesuai dengan prosedur atau tata cara"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Objek Gugatan",
+      "Surat Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-08-005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu pengajuan Gugatan terhadap pelaksanaan penagihan pajak adalah...",
+    "opsi": {
+      "A": "7 hari sejak tanggal pelaksanaan penagihan",
+      "B": "14 hari sejak tanggal pelaksanaan penagihan",
+      "C": "21 hari sejak tanggal pelaksanaan penagihan",
+      "D": "30 hari sejak tanggal pelaksanaan penagihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Jangka waktu Gugatan terhadap pelaksanaan penagihan pajak adalah 14 (empat belas) hari sejak tanggal pelaksanaan penagihan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "pelaksanaan penagihan pajak adalah 14 (empat belas hari) sejak tanggal pelaksanaan penagihan"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Jangka Waktu Gugatan"
+    ]
+  },
+  {
+    "id": "PMR-08-006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu pengajuan Gugatan terhadap objek Gugatan selain pelaksanaan penagihan pajak adalah 30 (tiga puluh) hari sejak...",
+    "opsi": {
+      "A": "tanggal diterbitkannya keputusan yang digugat",
+      "B": "tanggal diterima keputusan yang digugat",
+      "C": "tanggal pelaksanaan penagihan pajak",
+      "D": "tanggal keputusan berkekuatan hukum tetap"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk objek Gugatan selain pelaksanaan penagihan pajak, jangka waktunya 30 hari sejak tanggal diterima keputusan yang digugat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "objek Gugatan selain pelaksanaan penagihan pajak adalah 30 (tiga puluh hari) sejak tanggal diterima keputusan yang digugat"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Jangka Waktu Gugatan"
+    ]
+  },
+  {
+    "id": "PMR-08-007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Terhadap 1 (satu) pelaksanaan penagihan pajak atau 1 (satu) keputusan yang digugat, Wajib Pajak mengajukan...",
+    "opsi": {
+      "A": "2 (dua) Surat Gugatan",
+      "B": "Surat Keberatan terlebih dahulu sebelum Gugatan",
+      "C": "1 (satu) Surat Gugatan",
+      "D": "Surat Gugatan gabungan untuk seluruh sengketa"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan Gugatan menegaskan bahwa terhadap 1 pelaksanaan penagihan atau 1 keputusan diajukan 1 Surat Gugatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "Terhadap 1 (satu) pelaksanaan penagihan atau 1 (satu) keputusan diajukan 1 (satu) Surat Gugatan"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Surat Gugatan"
+    ]
+  },
+  {
+    "id": "PMR-08-008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Gugatan terhadap pelaksanaan penagihan pajak atau keputusan perpajakan tertentu diajukan kepada...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Pengadilan Pajak",
+      "C": "Pengadilan Negeri",
+      "D": "Kepala Kantor Wilayah DJP"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan materi menegaskan bahwa Gugatan diajukan kepada Pengadilan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "Gugatan diajukan kepada Pengadilan Pajak."
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Pengadilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-08-009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengaruh pengajuan Gugatan terhadap pelaksanaan penagihan pajak atau kewajiban perpajakan Wajib Pajak adalah...",
+    "opsi": {
+      "A": "Menunda sementara pelaksanaan penagihan pajak yang berlangsung",
+      "B": "Tidak menunda atau menghalangi penagihan pajak yang berlangsung",
+      "C": "Menghapuskan seluruh kewajiban perpajakan yang sedang disengketakan",
+      "D": "Menangguhkan seluruh kewajiban pajak lainnya yang terutang"
+    },
+    "kunci": "B",
+    "pembahasan": "Gugatan tidak menunda atau menghalangi dilaksanakannya penagihan pajak atau kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 60,
+        "kutipan": "Gugatan tidak menunda atau menghalangi dilaksanakannya penagihan pajak atau kewajiban perpajakan."
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Akibat Hukum Gugatan"
+    ]
+  },
+  {
+    "id": "PMR-08-010",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Pemeriksaan Rutin (Daftar Nominatif) vs Pemeriksaan Khusus (Jopro CRM PBB Batubara)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksaan Rutin PBB sebagaimana ditampilkan dalam materi dilaksanakan berdasarkan...",
+    "opsi": {
+      "A": "Jopro CRM PBB Batubara",
+      "B": "Permohonan Wajib Pajak",
+      "C": "Daftar Nominatif",
+      "D": "Laporan pengaduan masyarakat"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam bagan Pemeriksaan PBB, Pemeriksaan Rutin dikaitkan dengan data Daftar Nominatif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 118,
+        "kutipan": "Pemeriksaan Rutin-----Daftar Nominatif"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan PBB",
+      "Pemeriksaan Rutin",
+      "Daftar Nominatif"
+    ]
+  },
+  {
+    "id": "PMR-08-011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Pemeriksaan Rutin (Daftar Nominatif) vs Pemeriksaan Khusus (Jopro CRM PBB Batubara)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksaan Khusus PBB sebagaimana ditampilkan dalam materi dilaksanakan berdasarkan...",
+    "opsi": {
+      "A": "Daftar Nominatif",
+      "B": "Surat Teguran",
+      "C": "Laporan Wajib Pajak",
+      "D": "Jopro CRM PBB Batubara"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam bagan Pemeriksaan PBB, Pemeriksaan Khusus dikaitkan dengan data Jopro CRM PBB Batubara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 118,
+        "kutipan": "Pemeriksaan Khusus----Jopro CRM PBB Batubara"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan PBB",
+      "Pemeriksaan Khusus",
+      "Jopro CRM"
+    ]
+  },
+  {
+    "id": "PMR-08-012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Pemeriksaan Rutin (Daftar Nominatif) vs Pemeriksaan Khusus (Jopro CRM PBB Batubara)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Aplikasi Jopro CRM yang menjadi dasar Pemeriksaan Khusus PBB sebagaimana ditampilkan dalam materi secara spesifik berkaitan dengan sektor objek pajak...",
+    "opsi": {
+      "A": "Perkebunan",
+      "B": "Kehutanan",
+      "C": "Batubara",
+      "D": "Perikanan"
+    },
+    "kunci": "C",
+    "pembahasan": "Istilah yang digunakan dalam materi adalah 'Jopro CRM PBB Batubara', menunjukkan sektor Batubara sebagai fokus Pemeriksaan Khusus PBB tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 118,
+        "kutipan": "Jopro CRM PBB Batubara"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan PBB",
+      "Pemeriksaan Khusus",
+      "Batubara"
+    ]
+  },
+  {
+    "id": "PMR-08-013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Pemeriksaan Rutin (Daftar Nominatif) vs Pemeriksaan Khusus (Jopro CRM PBB Batubara)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebuah Unit Pelaksana Pemeriksaan akan melaksanakan pemeriksaan PBB terhadap WP yang namanya tercantum dalam Daftar Nominatif. Jenis pemeriksaan PBB yang sesuai dengan dasar data tersebut adalah...",
+    "opsi": {
+      "A": "Pemeriksaan Khusus",
+      "B": "Pemeriksaan Rutin",
+      "C": "Pemeriksaan Ulang",
+      "D": "Pemeriksaan Bukti Permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Daftar Nominatif merupakan dasar pelaksanaan Pemeriksaan Rutin PBB sebagaimana ditampilkan dalam bagan materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 118,
+        "kutipan": "Pemeriksaan Rutin-----Daftar Nominatif"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan PBB",
+      "Pemeriksaan Rutin",
+      "Daftar Nominatif"
+    ]
+  },
+  {
+    "id": "PMR-08-014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu Kriteria Pemilihan Pemeriksaan PBB adalah skala prioritas untuk...",
+    "opsi": {
+      "A": "seluruh Wajib Pajak tanpa terkecuali",
+      "B": "Wajib Pajak yang mengajukan keberatan",
+      "C": "Wajib Pajak yang baru terdaftar NPWP",
+      "D": "ketetapan atau potensi yang signifikan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria pertama dalam Kriteria Pemilihan Pemeriksaan PBB adalah skala prioritas untuk ketetapan atau potensi yang signifikan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "Skala prioritas untuk ketetapan atau potensi yang signifikan"
+      }
+    ],
+    "tags": [
+      "Kriteria Pemilihan",
+      "Pemeriksaan PBB"
+    ]
+  },
+  {
+    "id": "PMR-08-015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah Kriteria Pemilihan Pemeriksaan PBB sebagaimana ditampilkan dalam materi?",
+    "opsi": {
+      "A": "8 kriteria",
+      "B": "9 kriteria",
+      "C": "10 kriteria",
+      "D": "12 kriteria"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi mencantumkan Kriteria Pemilihan Pemeriksaan PBB secara berurutan dari nomor 1 sampai dengan nomor 10 (diakhiri kriteria pembuatan Timeline pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "10. Membuat Timeline pemeriksaan untuk memudahkan capaian target penyelesaian."
+      }
+    ],
+    "tags": [
+      "Kriteria Pemilihan",
+      "Pemeriksaan PBB"
+    ]
+  },
+  {
+    "id": "PMR-08-016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Untuk Pemeriksaan Rutin PBB, salah satu kriteria pemilihannya adalah memastikan bahwa...",
+    "opsi": {
+      "A": "Wajib Pajak telah mengajukan keberatan atas ketetapan",
+      "B": "Wajib Pajak berdomisili tetap di luar negeri",
+      "C": "surat teguran telah disampaikan melalui Coretax",
+      "D": "terdapat indikasi tindak pidana di bidang perpajakan"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria keempat menegaskan bahwa untuk Pemeriksaan Rutin, dipastikan surat teguran sudah disampaikan secara system melalui Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "Rutin, dipastikan surat teguran sudah disampaikan (Coretax secara system)"
+      }
+    ],
+    "tags": [
+      "Kriteria Pemilihan",
+      "Pemeriksaan Rutin",
+      "Coretax"
+    ]
+  },
+  {
+    "id": "PMR-08-017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "WP Orang Pribadi pemilik objek PBB telah menyampaikan SPOP pada tahun sebelumnya dan memiliki data pendukung berupa SPT dan RKAB. Kondisi tersebut termasuk kriteria yang diprioritaskan untuk...",
+    "opsi": {
+      "A": "Pemeriksaan Bukti Permulaan",
+      "B": "Pemeriksaan untuk tujuan lain",
+      "C": "Penelitian keberatan",
+      "D": "Pemeriksaan Rutin PBB"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria Pemeriksaan Rutin PBB memprioritaskan WP/OP yang menyampaikan SPOP tahun sebelumnya dan memiliki data pendukung, contohnya SPT/Laporan Keuangan/RKAB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "Rutin, diprioritaskan atas WP/ OP yang menyampaikan SPOP tahun sebelumnya\ndan \nmemiliki data pendukung (contoh SPT/ Lapkeu, RKAB)"
+      }
+    ],
+    "tags": [
+      "Kriteria Pemilihan",
+      "Pemeriksaan Rutin",
+      "SPOP"
+    ]
+  },
+  {
+    "id": "PMR-08-018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Untuk Pemeriksaan Khusus (Riksus)/Data Jopro, kriteria pemilihannya memastikan bahwa...",
+    "opsi": {
+      "A": "Wajib Pajak belum terdaftar sebagai PKP pada tahun berjalan",
+      "B": "Wajib Pajak berstatus non-efektif sejak tahun sebelumnya",
+      "C": "Wajib Pajak telah menyampaikan SPOP pada tahun pemeriksaan",
+      "D": "Wajib Pajak sedang mengajukan banding atas ketetapan"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria untuk Riksus/Data Jopro memastikan bahwa Wajib Pajak telah menyampaikan SPOP pada tahun pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "Riksus/ Data Jopro dipastikan Wajib Pajak telah menyampaikan SPOP pada\ntahun\npemeriksaan"
+      }
+    ],
+    "tags": [
+      "Kriteria Pemilihan",
+      "Pemeriksaan Khusus",
+      "SPOP"
+    ]
+  },
+  {
+    "id": "PMR-08-019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk Kriteria Pemilihan Pemeriksaan PBB sebagaimana ditampilkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Cek data NOP dan SKT",
+      "B": "Konfirmasi perizinan",
+      "C": "Dipastikan untuk cek keberadaan data PNBP",
+      "D": "Permohonan pengurangan sanksi administrasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Permohonan pengurangan sanksi administrasi tidak termasuk dalam 10 Kriteria Pemilihan Pemeriksaan PBB; kriteria yang tercantum antara lain cek data NOP dan SKT, konfirmasi perizinan, dan cek keberadaan data PNBP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "Cek data NOP dan SKT"
+      },
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "Konfirmasi perizinan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 120,
+        "kutipan": "dipastikan untuk cek keberadaan data PNBP"
+      }
+    ],
+    "tags": [
+      "Kriteria Pemilihan",
+      "Pemeriksaan PBB"
+    ]
+  },
+  {
+    "id": "PMR-08-020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Bantuan Ahli Penetapan NJOP PBB: Bantuan Penilaian vs Bantuan Penilai",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Pada suatu Unit Pelaksana Pemeriksaan yang akan melaksanakan Pemeriksaan PBB, tersedia Penilai Pajak yang dapat dilibatkan oleh tim. Bentuk bantuan ahli yang diberikan dalam kondisi tersebut disebut...",
+    "opsi": {
+      "A": "Bantuan Penilai",
+      "B": "Bantuan Hukum",
+      "C": "Bantuan Teknis Lapangan",
+      "D": "Bantuan Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Bantuan Penilaian diberikan bilamana terdapat Penilai Pajak atau Petugas Penilai Pajak pada Unit Pelaksana Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 121,
+        "kutipan": "Bantuan Penilaian bilamana terdapat Penilai Pajak atau Petugas Penilai Pajak pada Unit Pelaksana Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Bantuan Ahli",
+      "Pemeriksaan PBB",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "PMR-08-021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Bantuan Ahli Penetapan NJOP PBB: Bantuan Penilaian vs Bantuan Penilai",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Dalam hal dilakukan Pemeriksaan PBB, Kepala Unit Pelaksana Pemeriksaan (UP2) melibatkan Penilai Pajak sebagai pihak yang memiliki keahlian tertentu untuk menetapkan...",
+    "opsi": {
+      "A": "Nilai Jual Objek Pajak (NJOP)",
+      "B": "Surat Pemberitahuan Objek Pajak (SPOP)",
+      "C": "Nomor Objek Pajak (NOP)",
+      "D": "besarnya sanksi administrasi PBB"
+    },
+    "kunci": "A",
+    "pembahasan": "Kepala UP2 melibatkan Penilai Pajak sebagai pihak yang memiliki keahlian tertentu untuk menetapkan NJOP PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 121,
+        "kutipan": "Dalam hal dilakukan Pemeriksaan PBB, Kepala UP2 melibatkan Penilai Pajak sebagai Pihak yang Memiliki Keahlian Tertentu untuk menetapkan NJOP"
+      }
+    ],
+    "tags": [
+      "Bantuan Ahli",
+      "Pemeriksaan PBB",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "PMR-08-022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan PBB (Rutin & Khusus)",
+    "subtopik": "Bantuan Ahli Penetapan NJOP PBB: Bantuan Penilaian vs Bantuan Penilai",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Apabila terjadi perubahan susunan Tim Pemeriksa Pajak, Surat Perintah Pemeriksaan perubahan diterbitkan oleh...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Kepala Unit Pelaksana Pemeriksaan",
+      "C": "Kepala Kantor Wilayah DJP",
+      "D": "Pemeriksa Pajak senior dalam tim"
+    },
+    "kunci": "B",
+    "pembahasan": "Surat Perintah Pemeriksaan perubahan diterbitkan oleh Kepala Unit Pelaksana Pemeriksaan apabila terdapat perubahan susunan tim.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 121,
+        "kutipan": "Surat Perintah Pemeriksaan perubahan diterbitkan oleh Kepala\nUnit Pelaksana Pemeriksaan jika ada perubahan susunan tim."
+      }
+    ],
+    "tags": [
+      "Tim Pemeriksa Pajak",
+      "Pemeriksaan PBB"
+    ]
+  },
+  {
+    "id": "PMR-08-023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Wakil Wajib Pajak (Pasal 32 ayat 2 UU KUP): Badan oleh Pengurus, Pailit oleh Kurator, Warisan, Anak Belum Dewasa; Tanggung Jawab Renteng",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PT ABC berada dalam proses pembubaran, dan telah ditunjuk pihak tertentu untuk melakukan pemberesan atas harta perusahaan. Pihak yang bertindak sebagai wakil Wajib Pajak bagi PT ABC dalam hal ini adalah...",
+    "opsi": {
+      "A": "likuidator yang ditunjuk membubarkan badan",
+      "B": "kurator yang ditunjuk oleh pengadilan niaga",
+      "C": "orang atau badan yang ditugasi melakukan pemberesan",
+      "D": "wali atau pengampu yang sah menurut hukum"
+    },
+    "kunci": "C",
+    "pembahasan": "Badan dalam pembubaran diwakili oleh orang atau badan yang ditugasi untuk melakukan pemberesan, berbeda dengan badan dalam likuidasi (diwakili likuidator) atau badan pailit (diwakili kurator).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 64,
+        "kutipan": "badan dalam pembubaran oleh orang atau badan yang ditugasi untuk melakukan\npemberesan"
+      }
+    ],
+    "tags": [
+      "Wakil Wajib Pajak",
+      "Ketentuan Khusus"
+    ]
+  },
+  {
+    "id": "PMR-08-024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Wakil Wajib Pajak (Pasal 32 ayat 2 UU KUP): Badan oleh Pengurus, Pailit oleh Kurator, Warisan, Anak Belum Dewasa; Tanggung Jawab Renteng",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Wakil Wajib Pajak bagi anak yang belum dewasa atau orang yang berada dalam pengampuan adalah...",
+    "opsi": {
+      "A": "wali atau pengampunya yang sah",
+      "B": "kurator yang ditunjuk pengadilan",
+      "C": "likuidator yang ditugasi membubarkan badan",
+      "D": "salah seorang ahli warisnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Anak yang belum dewasa atau orang yang berada dalam pengampuan diwakili oleh wali atau pengampunya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 64,
+        "kutipan": "anak yang belum dewasa atau orang yang berada dalam pengampuan oleh wali atau\npengampunya"
+      }
+    ],
+    "tags": [
+      "Wakil Wajib Pajak",
+      "Ketentuan Khusus"
+    ]
+  },
+  {
+    "id": "PMR-08-025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Kuasa Wajib Pajak (Pasal 32 ayat 3 UU KUP): Keluarga vs Bukan Keluarga (Konsultan Pajak/Pihak Lain Kompeten), Surat Kuasa Khusus",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa Wajib Pajak dapat menunjuk kuasa dari kalangan bukan keluarga, yaitu Konsultan Pajak atau pihak lain yang memiliki kompetensi tertentu dalam aspek perpajakan, merupakan pelaksanaan dari...",
+    "opsi": {
+      "A": "Pasal 32 ayat (3) UU KUP",
+      "B": "Pasal 32 ayat (2) UU KUP",
+      "C": "Pasal 2 ayat (3) UU KUP",
+      "D": "Pasal 29 ayat (1) UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Penunjukan kuasa Wajib Pajak, baik dari kalangan keluarga maupun bukan keluarga (Konsultan Pajak/pihak lain), merupakan pelaksanaan Pasal 32 ayat (3) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "PASAL 32 ayat (3) UU KUP"
+      },
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "memiliki kompetensi tertentu\ndalam aspek perpajakan"
+      }
+    ],
+    "tags": [
+      "Kuasa Wajib Pajak",
+      "Pasal 32 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-08-026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Kuasa Wajib Pajak (Pasal 32 ayat 3 UU KUP): Keluarga vs Bukan Keluarga (Konsultan Pajak/Pihak Lain Kompeten), Surat Kuasa Khusus",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Penunjukan kuasa Wajib Pajak untuk menjalankan hak dan memenuhi kewajiban perpajakan harus memenuhi ketentuan, yaitu...",
+    "opsi": {
+      "A": "menggunakan surat kuasa khusus serta mematuhi ketentuan UU perpajakan",
+      "B": "mendapat persetujuan tertulis terlebih dahulu dari Kantor Wilayah DJP",
+      "C": "berstatus sebagai pegawai tetap dari Wajib Pajak yang bersangkutan",
+      "D": "memiliki NPWP cabang yang sama dengan Wajib Pajak yang dikuasakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Penunjukan kuasa WP harus menggunakan surat kuasa khusus dan mematuhi ketentuan UU di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "Menggunakan surat kuasa khusus"
+      },
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "Mematuhi ketentuan UU di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "Kuasa Wajib Pajak",
+      "Surat Kuasa Khusus"
+    ]
+  },
+  {
+    "id": "PMR-08-027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Penghasilan yang menjadi objek pajak menurut syarat objektif Wajib Pajak diatur dalam...",
+    "opsi": {
+      "A": "Pasal 4 ayat (1) UU PPh",
+      "B": "Pasal 4 ayat (3) UU PPh",
+      "C": "Pasal 2 ayat (3) UU PPh",
+      "D": "Pasal 28 UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Penghasilan yang menjadi objek pajak (syarat objektif) diatur dalam Pasal 4 ayat (1) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "PENGHASILAN YANG MENJADI OBJEK PAJAK (Pasal 4 ayat (1) UU PPh)"
+      }
+    ],
+    "tags": [
+      "Syarat Objektif",
+      "UU PPh"
+    ]
+  },
+  {
+    "id": "PMR-08-028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Berikut termasuk kelompok penghasilan yang menjadi objek pajak (Pasal 4 ayat (1) UU PPh) sebagaimana ditampilkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Penghasilan dari pekerjaan",
+      "B": "Penghasilan dari usaha",
+      "C": "Penghasilan dari modal",
+      "D": "Hibah tertentu dari pihak lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Hibah tertentu termasuk kelompok penghasilan yang TIDAK termasuk objek pajak (Pasal 4 ayat (3) UU PPh), bukan bagian dari penghasilan objek pajak Pasal 4 ayat (1).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "YANG TIDAK TERMASUK OBJEK PAJAK (Pasal 4 ayat (3) UU PPh)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "Hibah tertentu"
+      }
+    ],
+    "tags": [
+      "Syarat Objektif",
+      "UU PPh",
+      "Pasal 4 ayat 3"
+    ]
+  },
+  {
+    "id": "PMR-08-029",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Yang dimaksud dengan syarat objektif dalam penentuan status Wajib Pajak adalah penghasilan berupa...",
+    "opsi": {
+      "A": "setiap tambahan kemampuan ekonomis yang dapat dipakai untuk konsumsi atau menambah kekayaan Wajib Pajak",
+      "B": "seluruh penghasilan yang diterima Wajib Pajak hanya dari luar negeri",
+      "C": "penghasilan yang telah dipotong Pajak Penghasilan final oleh pemberi kerja",
+      "D": "penghasilan yang diterima Wajib Pajak setelah dikukuhkan sebagai Pengusaha Kena Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat objektif menentukan penghasilan yang menjadi objek pajak, yaitu setiap tambahan kemampuan ekonomis yang diterima/diperoleh WP dari Indonesia maupun luar Indonesia, yang dapat dipakai untuk konsumsi atau menambah kekayaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "setiap tambahan kemampuan ekonomis yang diterima atau diperoleh Wajib Pajak, baik yang berasal dari Indonesia maupun dari luar Indonesia, yang dapat dipakai untuk konsumsi"
+      }
+    ],
+    "tags": [
+      "Syarat Objektif",
+      "UU PPh"
+    ]
+  },
+  {
+    "id": "PMR-08-030",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Secara default, kewajiban sebagai Pengusaha Kena Pajak (PKP) mulai berlaku pada...",
+    "opsi": {
+      "A": "Masa Pajak pertama Tahun Buku berikutnya",
+      "B": "Masa Pajak saat omzet melebihi Rp4,8 miliar",
+      "C": "awal Tahun Buku berjalan",
+      "D": "tanggal diterbitkannya Surat Pengukuhan PKP"
+    },
+    "kunci": "A",
+    "pembahasan": "Secara default, kewajiban sebagai PKP mulai berlaku pada Masa Pajak pertama Tahun Buku berikutnya, namun WP dapat memilih memulai lebih awal dengan menyampaikan pemberitahuan Masa Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "Default Mulai kewajiban PKP"
+      },
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "Masa Pajak pertama Tahun Buku berikutnya"
+      }
+    ],
+    "tags": [
+      "Pengukuhan PKP",
+      "Timeline PKP",
+      "PMK 164/2023"
+    ]
+  },
+  {
+    "id": "PMR-08-031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan Timeline Pelaporan Pengukuhan PKP, apabila Wajib Lapor PKP tidak dipenuhi WP sampai batas akhir Tahun Buku, maka status PKP dapat ditetapkan melalui dua kemungkinan, yaitu secara...",
+    "opsi": {
+      "A": "Jabatan atau Terlambat",
+      "B": "Elektronik atau Manual",
+      "C": "Pusat atau Cabang",
+      "D": "Sukarela atau Wajib"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram timeline menunjukkan bahwa kegagalan memenuhi batas Wajib Lapor PKP Maksimal Akhir Tahun Buku bercabang menjadi dua kemungkinan: dikukuhkan secara Jabatan atau dianggap Terlambat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "Jabatan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "Terlambat"
+      }
+    ],
+    "tags": [
+      "Pengukuhan PKP",
+      "Timeline PKP"
+    ]
+  },
+  {
+    "id": "PMR-08-032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+    "subtopik": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Sebuah perusahaan mendatangkan Barang Kena Pajak dari luar Daerah Pabean ke dalam Daerah Pabean. Berdasarkan Pasal 4 ayat (1) UU PPN, kegiatan tersebut termasuk objek PPN pada huruf...",
+    "opsi": {
+      "A": "a",
+      "B": "b",
+      "C": "c",
+      "D": "d"
+    },
+    "kunci": "B",
+    "pembahasan": "Objek PPN Pasal 4 ayat (1) UU PPN huruf b adalah impor BKP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 90,
+        "kutipan": "impor BKP"
+      }
+    ],
+    "tags": [
+      "Objek PPN",
+      "Pasal 4 ayat 1 UU PPN"
+    ]
+  }
+]

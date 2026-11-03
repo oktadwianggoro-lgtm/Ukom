@@ -1,0 +1,1415 @@
+[
+  {
+    "id": "ADV-04-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Objek PPN Pasal 4 ayat (1) UU PPN, termasuk PPN KMS (16C) & Aktiva Non-Tujuan Jual (16D)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 4 ayat (1) huruf a UU PPN, Pajak Pertambahan Nilai dikenakan atas penyerahan Barang Kena Pajak di dalam Daerah Pabean yang dilakukan oleh siapa?",
+    "opsi": {
+      "A": "Pengusaha Kena Pajak yang telah dikukuhkan",
+      "B": "Pengusaha",
+      "C": "Wajib Pajak Badan",
+      "D": "Importir terdaftar"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 4 ayat (1) huruf a UU PPN menyebutkan PPN dikenakan atas penyerahan BKP di dalam Daerah Pabean yang dilakukan oleh Pengusaha, tidak dibatasi hanya Pengusaha Kena Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 112,
+        "kutipan": "penyerahan BKP di dalam Daerah Pabean yang dilakukan oleh Pengusaha;"
+      }
+    ],
+    "tags": [
+      "Pasal 4 ayat (1) huruf a UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Objek PPN Pasal 4 ayat (1) UU PPN, termasuk PPN KMS (16C) & Aktiva Non-Tujuan Jual (16D)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan Membangun Sendiri (KMS) sebagai objek PPN diatur dalam Pasal berapa UU PPN?",
+    "opsi": {
+      "A": "Pasal 4A",
+      "B": "Pasal 9",
+      "C": "Pasal 16D",
+      "D": "Pasal 16C"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi secara eksplisit menempatkan Kegiatan Membangun Sendiri di bawah judul Pasal 16C, berbeda dengan Pasal 16D yang mengatur penyerahan aktiva non-tujuan jual.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 112,
+        "kutipan": "PASAL 16C Kegiatan Membangun Sendiri"
+      }
+    ],
+    "tags": [
+      "Pasal 16C UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Objek PPN Pasal 4 ayat (1) UU PPN, termasuk PPN KMS (16C) & Aktiva Non-Tujuan Jual (16D)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Rumus penghitungan PPN terutang atas Kegiatan Membangun Sendiri (KMS) sesuai Pasal 16C UU PPN adalah...",
+    "opsi": {
+      "A": "20% x 11% x Biaya Pembangunan (tidak termasuk tanah)",
+      "B": "11% x Biaya Pembangunan (termasuk tanah)",
+      "C": "10% x Biaya Pembangunan (tidak termasuk tanah)",
+      "D": "20% x 10% x Total Biaya (termasuk tanah)"
+    },
+    "kunci": "A",
+    "pembahasan": "PPN KMS dihitung dengan formula 20% x 11% x Biaya Pembangunan, tidak termasuk harga perolehan tanah.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 112,
+        "kutipan": "PPN Terutang: 20% x 11% x Biaya Pembangunan (tdk termasuk tanah)"
+      }
+    ],
+    "tags": [
+      "Pasal 16C UU PPN",
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-04-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Objek PPN Pasal 4 ayat (1) UU PPN, termasuk PPN KMS (16C) & Aktiva Non-Tujuan Jual (16D)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengkreditan Pajak Masukan atas perolehan/pemeliharaan kendaraan bermotor sedan dan station wagon TIDAK berlaku, KECUALI apabila kendaraan tersebut digunakan sebagai...",
+    "opsi": {
+      "A": "kendaraan operasional kantor",
+      "B": "kendaraan dinas pejabat",
+      "C": "barang dagangan atau disewakan",
+      "D": "kendaraan angkutan karyawan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 9 ayat (8) huruf c UU PPN mengecualikan larangan pengkreditan PM kendaraan sedan/station wagon apabila kendaraan tersebut merupakan barang dagangan atau disewakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 112,
+        "kutipan": "perolehan/pemeliharaan kendaraan bermotor sedan dan station wagon, KECUALI sebagai barang dagangan/disewakan"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (8) huruf c UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut Pasal 1A ayat (1) huruf b UU PPN, pengalihan Barang Kena Pajak karena perjanjian sewa guna usaha (leasing) termasuk penyerahan BKP apabila leasing tersebut dilakukan dengan...",
+    "opsi": {
+      "A": "tanpa hak opsi",
+      "B": "hak opsi",
+      "C": "masa sewa di atas 5 tahun",
+      "D": "nilai sisa nol"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengalihan BKP karena leasing hanya termasuk penyerahan BKP apabila perjanjian sewa guna usaha tersebut disertai hak opsi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 115,
+        "kutipan": "adalah penyerahan Barang Kena Pajak yang disebabkan oleh perjanjian sewa guna usaha (leasing) dengan hak opsi."
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (1) huruf b UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam penyerahan BKP melalui perjanjian sewa guna usaha (leasing) dengan hak opsi, Barang Kena Pajak dianggap diserahkan langsung dari...",
+    "opsi": {
+      "A": "lessee kepada lessor",
+      "B": "perusahaan leasing kepada lessor",
+      "C": "lessor kepada produsen barang",
+      "D": "Pengusaha Kena Pajak pemasok (supplier) kepada pihak yang membutuhkan barang (lessee)"
+    },
+    "kunci": "D",
+    "pembahasan": "BKP dianggap diserahkan langsung dari PKP pemasok (supplier) kepada lessee, bukan melalui perusahaan leasing.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 115,
+        "kutipan": "Barang Kena Pajak dianggap diserahkan langsung dari Pengusaha Kena Pajak pemasok (supplier) kepada pihak yang membutuhkan barang (lessee)."
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (1) huruf b UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Istilah 'pedagang perantara' dalam Pasal 1A ayat (1) huruf c UU PPN misalnya merujuk pada profesi...",
+    "opsi": {
+      "A": "komisioner",
+      "B": "notaris",
+      "C": "kurator",
+      "D": "likuidator"
+    },
+    "kunci": "A",
+    "pembahasan": "Pedagang perantara adalah orang pribadi/badan yang bertindak dengan nama sendiri untuk tanggungan orang lain dengan upah/balas jasa tertentu, misalnya komisioner.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 116,
+        "kutipan": "dengan mendapat upah atau balas jasa tertentu, misalnya komisioner."
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (1) huruf c UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PT Abadi memberikan contoh barang secara gratis kepada calon pembeli untuk keperluan promosi produknya tanpa meminta pembayaran apa pun. Berdasarkan Pasal 1A ayat (1) huruf d UU PPN, tindakan tersebut termasuk kategori...",
+    "opsi": {
+      "A": "pemakaian sendiri",
+      "B": "penyerahan kepada pedagang perantara",
+      "C": "pemberian cuma-cuma",
+      "D": "penyerahan antar cabang"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemberian contoh barang untuk promosi kepada relasi/pembeli tanpa pembayaran termasuk pemberian cuma-cuma.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 117,
+        "kutipan": "seperti pemberian contoh barang untuk promosi kepada relasi atau pembeli."
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (1) huruf d UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam transaksi murabahah berbasis prinsip syariah, bank syariah bertindak sebagai penyedia dana untuk membeli kendaraan bermotor dari PKP A atas pesanan nasabah (Tuan B), kemudian menjualnya kepada Tuan B. Menurut Pasal 1A ayat (1) huruf h UU PPN, penyerahan kendaraan tersebut dianggap dilakukan langsung oleh...",
+    "opsi": {
+      "A": "bank syariah kepada Tuan B",
+      "B": "Pengusaha Kena Pajak A kepada Tuan B",
+      "C": "Tuan B kepada bank syariah",
+      "D": "PKP A kepada bank syariah"
+    },
+    "kunci": "B",
+    "pembahasan": "Meskipun bank syariah membeli dahulu kendaraan tersebut, penyerahan dianggap dilakukan langsung oleh PKP A kepada Tuan B.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 120,
+        "kutipan": "penyerahan kendaraan bermotor tersebut dianggap dilakukan langsung oleh Pengusaha Kena Pajak A kepada Tuan B"
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (1) huruf h UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bentuk penyerahan BKP berupa 'penyerahan BKP secara konsinyasi' yang semula diatur dalam Pasal 1A ayat (1) huruf g UU PPN, tidak lagi masuk dalam definisi penyerahan BKP sejak diundangkannya...",
+    "opsi": {
+      "A": "UU Harmonisasi Peraturan Perpajakan (UU HPP)",
+      "B": "UU KUP",
+      "C": "UU PPh",
+      "D": "UU Cipta Kerja (UU CIKA)"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyerahan BKP secara konsinyasi dihapus dari definisi penyerahan BKP sejak berlakunya UU Cipta Kerja (UU CIKA), bukan UU HPP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 113,
+        "kutipan": "\"penyerahan BKP secara konsinyasi\" tidak lagi masuk dalam definisi penyerahan sejak diundangkannya UU CIKA"
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (1) huruf g UU PPN",
+      "UU Cipta Kerja"
+    ]
+  },
+  {
+    "id": "ADV-04-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Penyerahan BKP yang Tidak Termasuk Objek (Pasal 1A ayat 2 UU PPN)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 1A ayat (2) UU PPN, penyerahan Barang Kena Pajak untuk tujuan berikut TIDAK termasuk penyerahan BKP yang terutang PPN, yaitu penyerahan BKP untuk...",
+    "opsi": {
+      "A": "jaminan utang-piutang",
+      "B": "penjualan tunai kepada konsumen akhir",
+      "C": "ekspor ke luar negeri",
+      "D": "pemakaian sendiri oleh karyawan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 1A ayat (2) UU PPN mengecualikan penyerahan BKP untuk jaminan utang-piutang dari definisi penyerahan BKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 121,
+        "kutipan": "Penyerahan BKP untuk jaminan utang-piutang;"
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (2) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Penyerahan BKP yang Tidak Termasuk Objek (Pasal 1A ayat 2 UU PPN)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PT Maju melakukan penggabungan usaha (merger) dengan PT Sejahtera sehingga seluruh aktiva BKP PT Maju dialihkan kepada PT Sejahtera. Pengalihan tersebut dikecualikan dari objek PPN sepanjang memenuhi syarat bahwa pihak yang mengalihkan dan menerima pengalihan adalah...",
+    "opsi": {
+      "A": "badan usaha milik negara",
+      "B": "wajib pajak orang pribadi",
+      "C": "Pengusaha Kena Pajak",
+      "D": "perusahaan publik yang terdaftar di bursa"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengalihan BKP dalam rangka penggabungan usaha dikecualikan dari objek PPN dengan syarat pihak yang mengalihkan dan menerima pengalihan adalah Pengusaha Kena Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 121,
+        "kutipan": "dengan syarat pihak yang melakukan pengalihan dan yang menerima pengalihan adalah Pengusaha Kena Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (2) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Penyerahan BKP yang Tidak Termasuk Objek (Pasal 1A ayat 2 UU PPN)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Penyerahan BKP berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan, yang masih tersisa pada saat pembubaran perusahaan, dikecualikan dari objek PPN (tidak termasuk penyerahan BKP) apabila...",
+    "opsi": {
+      "A": "nilai aktiva tersebut di bawah Rp10.000.000",
+      "B": "Pajak Masukan atas perolehannya tidak dapat dikreditkan sebagaimana dimaksud Pasal 9 ayat (8) huruf b",
+      "C": "perusahaan telah dinyatakan pailit oleh pengadilan",
+      "D": "aktiva tersebut telah disusutkan penuh secara akuntansi"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengecualian berlaku apabila Pajak Masukan atas perolehan aktiva tersebut tidak dapat dikreditkan sebagaimana dimaksud Pasal 9 ayat (8) huruf b.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 121,
+        "kutipan": "dan yang Pajak Masukan atas perolehannya tidak dapat dikreditkan sebagaimana dimaksud dalam Pasal 9 ayat (8) huruf b."
+      }
+    ],
+    "tags": [
+      "Pasal 1A ayat (2) huruf e UU PPN",
+      "Pasal 9 ayat (8) huruf b UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Kegiatan Membangun Sendiri (Pasal 16C) secara Rinci",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Yang dimaksud dengan Kegiatan Membangun Sendiri (KMS) adalah kegiatan membangun bangunan yang dilakukan tidak dalam kegiatan usaha atau pekerjaan oleh orang pribadi atau badan yang hasilnya digunakan...",
+    "opsi": {
+      "A": "untuk dijual kembali kepada pihak ketiga",
+      "B": "sebagai aset investasi jangka panjang",
+      "C": "untuk disewakan kepada penyewa",
+      "D": "sendiri atau digunakan pihak lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Definisi KMS menyebutkan hasil bangunan digunakan sendiri atau digunakan pihak lain, bukan untuk dijual atau disewakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 122,
+        "kutipan": "yang hasilnya digunakan sendiri atau digunakan pihak lain."
+      }
+    ],
+    "tags": [
+      "Pasal 16C UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Kegiatan Membangun Sendiri (Pasal 16C) secara Rinci",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu kriteria bangunan yang dikenakan PPN Kegiatan Membangun Sendiri (KMS) adalah memiliki luas keseluruhan paling sedikit...",
+    "opsi": {
+      "A": "200 m2",
+      "B": "150 m2",
+      "C": "100 m2",
+      "D": "250 m2"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria bangunan KMS antara lain luas keseluruhan paling sedikit 200 m2.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 122,
+        "kutipan": "luas keseluruhan paling sedikit 200 m2"
+      }
+    ],
+    "tags": [
+      "Pasal 16C UU PPN",
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-04-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Kegiatan Membangun Sendiri (Pasal 16C) secara Rinci",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PT Abadi membangun gedung kantor sendiri dengan total biaya pembangunan (tidak termasuk harga tanah) sebesar Rp1.000.000.000. Besarnya PPN atas Kegiatan Membangun Sendiri yang harus disetor adalah...",
+    "opsi": {
+      "A": "Rp11.000.000",
+      "B": "Rp20.000.000",
+      "C": "Rp22.000.000",
+      "D": "Rp110.000.000"
+    },
+    "kunci": "C",
+    "pembahasan": "PPN KMS = 20% x 11% x Rp1.000.000.000 = 2,2% x Rp1.000.000.000 = Rp22.000.000.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 122,
+        "kutipan": "20% 11% Total Biaya Kecuali perolehan tanah"
+      }
+    ],
+    "tags": [
+      "Pasal 16C UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Kegiatan Membangun Sendiri (Pasal 16C) secara Rinci",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban penyetoran PPN atas Kegiatan Membangun Sendiri (KMS) wajib dilakukan paling lambat tanggal...",
+    "opsi": {
+      "A": "10 bulan berikutnya",
+      "B": "15 bulan berikutnya",
+      "C": "20 bulan berikutnya",
+      "D": "akhir bulan berikutnya"
+    },
+    "kunci": "B",
+    "pembahasan": "PPN KMS wajib disetor paling lambat tanggal 15 bulan berikutnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 122,
+        "kutipan": "Wajib disetor max tgl 15 bulan berikutnya"
+      }
+    ],
+    "tags": [
+      "Pasal 16C UU PPN",
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-04-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sejak berlakunya UU HPP, status barang hasil pertambangan atau hasil pengeboran yang diambil langsung dari sumbernya sebagai Bukan Barang Kena Pajak (Non-BKP) adalah...",
+    "opsi": {
+      "A": "dihapus, sehingga menjadi Barang Kena Pajak",
+      "B": "tetap menjadi Non-BKP seluruhnya",
+      "C": "hanya batubara yang tetap Non-BKP",
+      "D": "menjadi Non-BKP hanya jika diekspor"
+    },
+    "kunci": "A",
+    "pembahasan": "Sejak UU HPP, ketentuan Non-BKP atas barang hasil pertambangan/pengeboran yang diambil langsung dari sumbernya dihapus sehingga menjadi objek PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 124,
+        "kutipan": "barang hasil pertambangan atau hasil pengeboran yang diambil langsung dari sumbernya, tidak termasuk hasil pertambangan batubara Dihapus"
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (2) UU PPN",
+      "UU HPP"
+    ]
+  },
+  {
+    "id": "ADV-04-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "negasi",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sebelum berlakunya UU HPP, barang hasil pertambangan yang diambil langsung dari sumbernya termasuk Non-BKP, KECUALI hasil pertambangan...",
+    "opsi": {
+      "A": "nikel",
+      "B": "emas",
+      "C": "batubara",
+      "D": "tembaga"
+    },
+    "kunci": "C",
+    "pembahasan": "Hasil pertambangan batubara dikecualikan dari daftar Non-BKP sejak awal (sebelum UU HPP).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 124,
+        "kutipan": "tidak termasuk hasil pertambangan batubara"
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (2) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sejak UU HPP, emas batangan yang masih termasuk Bukan Barang Kena Pajak (Non-BKP) adalah emas batangan untuk tujuan...",
+    "opsi": {
+      "A": "investasi pribadi",
+      "B": "cadangan devisa",
+      "C": "perhiasan",
+      "D": "koleksi numismatik"
+    },
+    "kunci": "B",
+    "pembahasan": "Sejak UU HPP, hanya emas batangan untuk cadangan devisa yang tetap Non-BKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 124,
+        "kutipan": "uang, emas batangan untuk cadangan devisa, dan surat berharga."
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (2) UU PPN",
+      "UU HPP"
+    ]
+  },
+  {
+    "id": "ADV-04-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah restoran menyajikan makanan dan minuman yang dikonsumsi langsung di tempat oleh pelanggannya. Sejak berlakunya UU HPP, penyerahan makanan dan minuman tersebut tetap menjadi Non-BKP karena merupakan objek...",
+    "opsi": {
+      "A": "bea masuk",
+      "B": "cukai",
+      "C": "PPh final",
+      "D": "pajak daerah dan retribusi daerah"
+    },
+    "kunci": "D",
+    "pembahasan": "Makanan dan minuman di restoran tetap Non-BKP karena menjadi objek pajak daerah dan retribusi daerah.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 124,
+        "kutipan": "yang merupakan objek pajak daerah dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan di bidang pajak daerah dan retribusi daerah"
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (2) UU PPN",
+      "UU HPP"
+    ]
+  },
+  {
+    "id": "ADV-04-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini adalah jenis jasa yang TETAP menjadi Bukan Jasa Kena Pajak (Non-JKP) sejak berlakunya UU HPP, KECUALI jasa...",
+    "opsi": {
+      "A": "keuangan",
+      "B": "keagamaan",
+      "C": "kesenian dan hiburan",
+      "D": "perhotelan"
+    },
+    "kunci": "A",
+    "pembahasan": "Jasa keuangan dihapus dari daftar Non-JKP sejak UU HPP sehingga menjadi objek PPN, berbeda dengan jasa keagamaan, kesenian dan hiburan, serta perhotelan yang tetap Non-JKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 125,
+        "kutipan": "d. jasa keuangan;"
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (3) UU PPN",
+      "UU HPP"
+    ]
+  },
+  {
+    "id": "ADV-04-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Daftar jenis jasa yang termasuk Bukan Jasa Kena Pajak (Non-JKP), baik sebelum maupun sejak UU HPP, diatur dalam Pasal 4A ayat...UU PPN.",
+    "opsi": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)"
+    },
+    "kunci": "C",
+    "pembahasan": "Bukan Jasa Kena Pajak diatur dalam Pasal 4A ayat (3) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 125,
+        "kutipan": "Bukan Jasa Kena Pajak (Non JKP) Pasal 4A ayat (3)"
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (3) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah stasiun radio swasta menyiarkan program yang tidak bersifat iklan. Sebelum UU HPP, jasa penyiaran yang tidak bersifat iklan tersebut termasuk Non-JKP. Berdasarkan ketentuan sejak UU HPP, status jasa tersebut adalah...",
+    "opsi": {
+      "A": "tetap menjadi Non-JKP tanpa perubahan",
+      "B": "dihapus dari daftar Non-JKP sehingga menjadi objek PPN",
+      "C": "berubah menjadi Non-BKP",
+      "D": "dikecualikan hanya untuk radio milik pemerintah"
+    },
+    "kunci": "B",
+    "pembahasan": "Jasa penyiaran yang tidak bersifat iklan dihapus dari daftar Non-JKP sejak UU HPP sehingga menjadi objek PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 125,
+        "kutipan": "i. jasa penyiaran yang tidak bersifat iklan;"
+      }
+    ],
+    "tags": [
+      "Pasal 4A ayat (3) UU PPN",
+      "UU HPP"
+    ]
+  },
+  {
+    "id": "ADV-04-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Tarif PPN (10% s.d. 1 April 2022, 11% s.d. 31 Des 2024, 12% mulai 1 Jan 2025, 0% Ekspor)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tarif PPN normal yang berlaku sebelum 1 April 2022 adalah...",
+    "opsi": {
+      "A": "11%",
+      "B": "12%",
+      "C": "0%",
+      "D": "10%"
+    },
+    "kunci": "D",
+    "pembahasan": "Tarif PPN normal sebelum 1 April 2022 adalah 10%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 127,
+        "kutipan": "TARIF NORMAL 10%"
+      }
+    ],
+    "tags": [
+      "Pasal 7 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Tarif PPN (10% s.d. 1 April 2022, 11% s.d. 31 Des 2024, 12% mulai 1 Jan 2025, 0% Ekspor)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tarif PPN normal yang berlaku setelah 1 April 2022 adalah...",
+    "opsi": {
+      "A": "11%",
+      "B": "10%",
+      "C": "12%",
+      "D": "0%"
+    },
+    "kunci": "A",
+    "pembahasan": "Tarif PPN normal setelah 1 April 2022 naik menjadi 11%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 127,
+        "kutipan": "11% dan akan menjadi 12% paling lambat 1 Januari 2025"
+      }
+    ],
+    "tags": [
+      "Pasal 7 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Tarif PPN (10% s.d. 1 April 2022, 11% s.d. 31 Des 2024, 12% mulai 1 Jan 2025, 0% Ekspor)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan ketentuan, tarif PPN normal akan menjadi 12% paling lambat pada tanggal...",
+    "opsi": {
+      "A": "1 April 2024",
+      "B": "1 Juli 2025",
+      "C": "1 Januari 2025",
+      "D": "1 Januari 2026"
+    },
+    "kunci": "C",
+    "pembahasan": "Tarif PPN 12% berlaku paling lambat 1 Januari 2025.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 127,
+        "kutipan": "dan akan menjadi 12% paling lambat 1 Januari 2025"
+      }
+    ],
+    "tags": [
+      "Pasal 7 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Tarif PPN (10% s.d. 1 April 2022, 11% s.d. 31 Des 2024, 12% mulai 1 Jan 2025, 0% Ekspor)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tarif PPN atas ekspor BKP Berwujud, ekspor JKP, dan ekspor BKP Tidak Berwujud, baik sebelum maupun setelah 1 April 2022, adalah sebesar...",
+    "opsi": {
+      "A": "10%",
+      "B": "0%",
+      "C": "11%",
+      "D": "12%"
+    },
+    "kunci": "B",
+    "pembahasan": "Tarif PPN atas ekspor BKP/JKP/BKPTB tetap 0% baik sebelum maupun setelah 1 April 2022.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 127,
+        "kutipan": "EKSPOR BKP EKSPOR JKP EKSPOR BKPTB 0% 0%"
+      }
+    ],
+    "tags": [
+      "Pasal 7 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Formula umum penghitungan PPN terutang (PPN = Tarif x DPP) diatur dalam...",
+    "opsi": {
+      "A": "Pasal 7",
+      "B": "Pasal 9",
+      "C": "Pasal 16C",
+      "D": "Pasal 8A ayat (1)"
+    },
+    "kunci": "D",
+    "pembahasan": "Formula umum PPN = Tarif x DPP diatur dalam Pasal 8A ayat (1) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 128,
+        "kutipan": "Cara Menghitung Pajak: Formula Pasal 8A (1) PPN=Tarif x DPP"
+      }
+    ],
+    "tags": [
+      "Pasal 8A ayat (1) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "'Harga Jual' sebagai salah satu jenis Dasar Pengenaan Pajak mencakup biaya yang diminta penjual atas penyerahan BKP, namun tidak termasuk PPN yang dipungut dan...",
+    "opsi": {
+      "A": "potongan harga yang dicantumkan dalam Faktur Pajak",
+      "B": "biaya pengangkutan barang",
+      "C": "komisi penjualan kepada pihak ketiga",
+      "D": "biaya asuransi pengiriman barang"
+    },
+    "kunci": "A",
+    "pembahasan": "Harga Jual tidak termasuk PPN yang dipungut dan potongan harga yang dicantumkan dalam Faktur Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 129,
+        "kutipan": "tidak termasuk PPN yang dipungut dan potongan harga yang dicantumkan dalam Faktur Pajak."
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 18 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "'Penggantian' sebagai salah satu jenis Dasar Pengenaan Pajak berdasarkan Pasal 1 angka 19 UU PPN digunakan antara lain untuk penyerahan...",
+    "opsi": {
+      "A": "BKP di dalam Daerah Pabean",
+      "B": "impor BKP",
+      "C": "JKP, ekspor JKP, atau ekspor BKP Tidak Berwujud",
+      "D": "ekspor BKP Berwujud"
+    },
+    "kunci": "C",
+    "pembahasan": "Penggantian digunakan sebagai DPP untuk penyerahan JKP, ekspor JKP, atau ekspor BKP Tidak Berwujud.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 129,
+        "kutipan": "karena penyerahan JKP, ekspor JKP, atau ekspor BKP Tidak Berwujud"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 19 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengertian 'Nilai Impor' sebagai salah satu jenis Dasar Pengenaan Pajak diatur dalam Pasal 1 angka...UU PPN.",
+    "opsi": {
+      "A": "18",
+      "B": "20",
+      "C": "19",
+      "D": "26"
+    },
+    "kunci": "B",
+    "pembahasan": "Nilai Impor diatur dalam Pasal 1 angka 20 UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 129,
+        "kutipan": "Nilai Impor (Pasal 1 angka 20)"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 20 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengertian 'Nilai Ekspor' sebagai salah satu jenis Dasar Pengenaan Pajak diatur dalam Pasal 1 angka...UU PPN.",
+    "opsi": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "26"
+    },
+    "kunci": "D",
+    "pembahasan": "Nilai Ekspor diatur dalam Pasal 1 angka 26 UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 129,
+        "kutipan": "Nilai Ekspor (Pasal 1 angka 26)"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 26 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PT Elektronik Jaya mengimpor barang dari luar negeri. Nilai yang menjadi dasar penghitungan bea masuk atas barang tersebut adalah Rp50.000.000, ditambah pungutan berdasarkan ketentuan kepabeanan dan cukai sebesar Rp5.000.000. PPN dan PPnBM belum diperhitungkan di dalamnya. Besarnya Nilai Impor yang menjadi DPP adalah...",
+    "opsi": {
+      "A": "Rp55.000.000",
+      "B": "Rp50.000.000",
+      "C": "Rp60.000.000",
+      "D": "Rp5.000.000"
+    },
+    "kunci": "A",
+    "pembahasan": "Nilai Impor = dasar bea masuk + pungutan kepabeanan dan cukai = Rp50.000.000 + Rp5.000.000 = Rp55.000.000, tidak termasuk PPN dan PPnBM.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 129,
+        "kutipan": "Nilai berupa uang yang menjadi dasar penghitungan bea masuk ditambah pungutan berdasarkan ketentuan kepabeanan dan cukai untuk impor BKP, tidak termasuk PPN dan PPnBM."
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 20 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah perusahaan di dalam negeri memanfaatkan Jasa Kena Pajak dari luar Daerah Pabean. Nilai berupa uang yang dibayar atau seharusnya dibayar oleh penerima jasa atas pemanfaatan JKP tersebut digunakan sebagai Dasar Pengenaan Pajak dalam bentuk...",
+    "opsi": {
+      "A": "Harga Jual",
+      "B": "Nilai Ekspor",
+      "C": "Penggantian",
+      "D": "Nilai Impor"
+    },
+    "kunci": "C",
+    "pembahasan": "Nilai yang dibayar/seharusnya dibayar penerima jasa atas pemanfaatan JKP dari luar Daerah Pabean termasuk kategori Penggantian.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 129,
+        "kutipan": "Nilai berupa uang yang dibayar atau seharusnya dibayar oleh Penerima Jasa karena pemanfaatan JKP"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 19 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "PPN dengan Besaran Tertentu vs Cara Hitung Umum",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dasar hukum penghitungan PPN dengan cara umum (Tarif PPN x DPP) adalah Pasal 8A, sedangkan dasar hukum PPN dengan Besaran Tertentu adalah Pasal...",
+    "opsi": {
+      "A": "4A",
+      "B": "9A",
+      "C": "16C",
+      "D": "16D"
+    },
+    "kunci": "B",
+    "pembahasan": "PPN dengan Besaran Tertentu diatur dalam Pasal 9A UU PPN, berbeda dengan cara hitung umum pada Pasal 8A.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 130,
+        "kutipan": "Dasar Hukum Pasal 8A Pasal 9A"
+      }
+    ],
+    "tags": [
+      "Pasal 9A UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "PPN dengan Besaran Tertentu vs Cara Hitung Umum",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Perbedaan mendasar antara PPN cara hitung umum dan PPN dengan Besaran Tertentu terkait pengkreditan Pajak Masukan adalah...",
+    "opsi": {
+      "A": "keduanya sama-sama dapat mengkreditkan PM",
+      "B": "pada cara umum PM tidak dapat dikreditkan, pada besaran tertentu PM dapat dikreditkan",
+      "C": "keduanya sama-sama tidak dapat mengkreditkan PM",
+      "D": "pada cara umum PM dapat dikreditkan, pada besaran tertentu PM tidak dapat dikreditkan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada cara hitung umum, Pajak Masukan dapat dikreditkan; pada PPN Besaran Tertentu, PM tidak dapat dikreditkan karena dianggap telah diperhitungkan dalam Pajak Keluaran.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 130,
+        "kutipan": "Dapat dikreditkan Tidak Dapat Dikreditkan*)"
+      }
+    ],
+    "tags": [
+      "Pasal 8A UU PPN",
+      "Pasal 9A UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "PPN dengan Besaran Tertentu vs Cara Hitung Umum",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan PMK-65/PMK.03/2022, PPN dengan Besaran Tertentu atas penyerahan kendaraan bermotor bekas dihitung sebesar...",
+    "opsi": {
+      "A": "1,1% x Harga Jual",
+      "B": "2,2% x Harga Jual",
+      "C": "1,1% x Nilai Transaksi",
+      "D": "11% x Harga Jual"
+    },
+    "kunci": "A",
+    "pembahasan": "PPN besaran tertentu atas kendaraan bermotor bekas adalah 1,1% x Harga Jual sesuai PMK-65/2022.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 133,
+        "kutipan": "Kendaraan Bermotor Bekas 1,1% x Harga Jual PMK-65/2022"
+      }
+    ],
+    "tags": [
+      "PMK-65/PMK.03/2022",
+      "Pasal 9A UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "PPN dengan Besaran Tertentu vs Cara Hitung Umum",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan PMK-68/PMK.03/2022, perdagangan aset kripto melalui exchanger yang TIDAK terdaftar di Bappebti dikenakan PPN dengan Besaran Tertentu sebesar...",
+    "opsi": {
+      "A": "0,11% x Nilai Transaksi",
+      "B": "1,1% x Nilai Transaksi",
+      "C": "0,22% x Nilai Transaksi",
+      "D": "2,2% x Nilai Transaksi"
+    },
+    "kunci": "C",
+    "pembahasan": "Perdagangan aset kripto melalui exchanger yang tidak terdaftar di Bappebti dikenakan 0,22% x Nilai Transaksi, dua kali lipat dari exchanger yang terdaftar (0,11%).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 133,
+        "kutipan": "0,22% x Nilai Transaksi (jika exchanger tidak terdaftar di Bappebti)"
+      }
+    ],
+    "tags": [
+      "PMK-68/PMK.03/2022",
+      "Pasal 9A UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Contoh Dasar Pengenaan Pajak Nilai Lain per Jenis Penyerahan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Sebuah perusahaan menyerahkan Jasa Kena Pajak senilai Rp1.000.000 dengan Dasar Pengenaan Pajak berupa Nilai Lain sebesar 10% dari nilai penyerahan. Besarnya PPN yang terutang (tarif 11%) adalah...",
+    "opsi": {
+      "A": "Rp10.000",
+      "B": "Rp11.000",
+      "C": "Rp100.000",
+      "D": "Rp110.000"
+    },
+    "kunci": "B",
+    "pembahasan": "DPP = 10% x Rp1.000.000 = Rp100.000; PPN = 11% x Rp100.000 = Rp11.000.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 131,
+        "kutipan": "DPP: 10% x Rp1.000.000=Rp100.000 PPN: 11% x Rp100.000=Rp11.000"
+      }
+    ],
+    "tags": [
+      "Pasal 8A UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Contoh Dasar Pengenaan Pajak Nilai Lain per Jenis Penyerahan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dasar Pengenaan Pajak berupa Nilai Lain atas penyerahan produk hasil tembakau ditetapkan sebesar...",
+    "opsi": {
+      "A": "1,1% x Harga Jual",
+      "B": "11% x Harga Jual Eceran (HJE)",
+      "C": "2,2% x Harga Jual Eceran (HJE)",
+      "D": "9,9% x Harga Jual Eceran (HJE)"
+    },
+    "kunci": "D",
+    "pembahasan": "DPP Nilai Lain untuk produk hasil tembakau adalah 9,9% x HJE sesuai PMK-63/PMK.03/2022.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 132,
+        "kutipan": "Penyerahan produk hasil tembakau 9,9% x HJE (PMK 63/PMK.03/2022)"
+      }
+    ],
+    "tags": [
+      "PMK-63/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-04-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Tarif dan Dasar Pengenaan Pajak",
+    "subtopik": "Contoh Dasar Pengenaan Pajak Nilai Lain per Jenis Penyerahan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dasar Pengenaan Pajak berupa Nilai Lain untuk penyerahan Barang Kena Pajak melalui juru lelang ditetapkan sebesar...",
+    "opsi": {
+      "A": "Harga Lelang",
+      "B": "Harga pasar wajar",
+      "C": "Harga pokok penjualan",
+      "D": "Harga disepakati"
+    },
+    "kunci": "A",
+    "pembahasan": "DPP Nilai Lain untuk penyerahan BKP melalui juru lelang adalah Harga Lelang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 132,
+        "kutipan": "Penyerahan BKP melalui Juru Lelang Harga Lelang"
+      }
+    ],
+    "tags": [
+      "PMK-75/PMK.03/2010"
+    ]
+  },
+  {
+    "id": "ADV-04-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang PPN - Umum (Prinsip Akrual)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemungutan PPN dan PPnBM menganut prinsip...",
+    "opsi": {
+      "A": "kas",
+      "B": "realisasi",
+      "C": "akrual",
+      "D": "campuran"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemungutan PPN dan PPnBM menganut prinsip akrual.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 135,
+        "kutipan": "Pemungutan PPN dan PPnBM menganut prinsip akrual"
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang PPN - Umum (Prinsip Akrual)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan prinsip akrual dalam PPN, terutangnya pajak terjadi pada saat penyerahan BKP atau JKP, meskipun...",
+    "opsi": {
+      "A": "Faktur Pajak belum diterbitkan",
+      "B": "pembayaran atas penyerahan tersebut belum diterima atau belum sepenuhnya diterima",
+      "C": "SPT Masa PPN belum dilaporkan",
+      "D": "barang belum dikirim ke alamat pembeli"
+    },
+    "kunci": "B",
+    "pembahasan": "Prinsip akrual: pajak terutang pada saat penyerahan meskipun pembayaran belum diterima atau belum sepenuhnya diterima.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 135,
+        "kutipan": "meskipun pembayaran atas penyerahan tersebut belum diterima atau belum sepenuhnya diterima atau pada saat impor BKP."
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang PPN - Umum (Prinsip Akrual)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk peristiwa yang menyebabkan terutangnya PPN berdasarkan ketentuan Saat Terutang Umum, KECUALI...",
+    "opsi": {
+      "A": "penyerahan BKP",
+      "B": "impor BKP",
+      "C": "ekspor JKP",
+      "D": "penandatanganan kontrak kerja sama"
+    },
+    "kunci": "D",
+    "pembahasan": "Daftar peristiwa saat terutang umum meliputi penyerahan BKP, impor BKP, penyerahan JKP, pemanfaatan BKPTB/JKP luar negeri, serta ekspor BKP/BKPTB/JKP; penandatanganan kontrak kerja sama tidak termasuk di dalamnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 136,
+        "kutipan": "penyerahan BKP; impor BKP; penyerahan JKP; pemanfaatan BKPTB dari luar Daerah Pabean;"
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang Khusus (Pembayaran di Muka & Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal pembayaran diterima sebelum penyerahan BKP atau JKP, saat terutangnya PPN adalah pada saat...",
+    "opsi": {
+      "A": "pembayaran",
+      "B": "penyerahan BKP/JKP",
+      "C": "penerbitan Faktur Pajak",
+      "D": "penandatanganan perjanjian"
+    },
+    "kunci": "A",
+    "pembahasan": "Jika pembayaran diterima sebelum penyerahan, saat terutangnya pajak adalah pada saat pembayaran.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 137,
+        "kutipan": "saat terutangnya pajak adalah pada saat pembayaran."
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang Khusus (Pembayaran di Muka & Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Budi memesan furnitur kepada PT Kayu Asli Jepara (PKP) pada tanggal 10 Januari dan langsung membayar lunas pada tanggal yang sama. Furnitur baru selesai dibuat dan diserahkan pada tanggal 15 Februari. PPN atas transaksi tersebut terutang dan dipungut oleh PT Kayu Asli Jepara pada tanggal...",
+    "opsi": {
+      "A": "15 Februari",
+      "B": "akhir bulan Februari",
+      "C": "10 Januari",
+      "D": "akhir bulan Januari"
+    },
+    "kunci": "C",
+    "pembahasan": "Karena pembayaran lunas diterima pada 10 Januari (sebelum penyerahan), PPN terutang dan dipungut pada tanggal 10 Januari, bukan saat penyerahan 15 Februari.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 138,
+        "kutipan": "maka PPN terutang dan dipungut oleh PT Kayu Asli Jepara pada tanggal 10 Januari."
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang Khusus (Pembayaran di Muka & Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah perusahaan di Indonesia memanfaatkan jasa konsultan dari luar negeri yang merupakan Jasa Kena Pajak dari luar Daerah Pabean. Terutangnya PPN atas pemanfaatan JKP tersebut terjadi pada saat...",
+    "opsi": {
+      "A": "perusahaan tersebut mulai memanfaatkan JKP tersebut di dalam Daerah Pabean",
+      "B": "invoice dari konsultan luar negeri diterbitkan",
+      "C": "kontrak kerja sama ditandatangani",
+      "D": "jasa konsultan selesai sepenuhnya diberikan"
+    },
+    "kunci": "A",
+    "pembahasan": "Terutangnya PPN atas pemanfaatan JKP dari luar Daerah Pabean terjadi pada saat orang pribadi/badan mulai memanfaatkan JKP tersebut di dalam Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 139,
+        "kutipan": "Terutangnya PPN terjadi pada saat orang pribadi atau badan tersebut mulai memanfaatkan BKPTB atau JKP tersebut di dalam Daerah Pabean"
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang Khusus (Pembayaran di Muka & Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Terutangnya PPN atas pemanfaatan BKP Tidak Berwujud (BKPTB)/JKP dari luar Daerah Pabean TIDAK ditentukan berdasarkan saat...",
+    "opsi": {
+      "A": "harga perolehan BKPTB/JKP dinyatakan sebagai utang oleh pihak yang memanfaatkannya",
+      "B": "penyerahan BKPTB/JKP dilakukan oleh pihak di luar negeri",
+      "C": "BKPTB/JKP secara nyata digunakan oleh pihak yang memanfaatkannya",
+      "D": "harga jual/penggantian BKPTB/JKP ditagih oleh pihak yang menyerahkannya"
+    },
+    "kunci": "B",
+    "pembahasan": "Terutangnya PPN atas pemanfaatan BKPTB/JKP dari luar Daerah Pabean bukan ditentukan pada saat penyerahan, melainkan pada saat mulai dimanfaatkan di dalam Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 139,
+        "kutipan": "Terutangnya PPN terjadi pada saat orang pribadi atau badan tersebut mulai memanfaatkan BKPTB atau JKP tersebut di dalam Daerah Pabean Bukan terutang saat penyerahan!"
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-04-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Saat Terutang Khusus (Pembayaran di Muka & Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila saat dimulainya pemanfaatan BKPTB/JKP dari luar Daerah Pabean tidak diketahui, maka saat dimulainya pemanfaatan ditetapkan sebagai...",
+    "opsi": {
+      "A": "tanggal pembayaran pertama kali dilakukan",
+      "B": "akhir tahun pajak berjalan",
+      "C": "tanggal pelaporan SPT Masa PPN",
+      "D": "tanggal ditandatanganinya kontrak atau perjanjian, atau saat lain yang ditetapkan oleh Direktur Jenderal Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika saat dimulainya pemanfaatan tidak diketahui, saat dimulainya ditetapkan sebagai tanggal ditandatanganinya kontrak/perjanjian, atau saat lain yang ditetapkan Dirjen Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 140,
+        "kutipan": "saat dimulainya adalah tanggal ditandatanganinya kontrak atau perjanjian atau saat lain yang ditetapkan oleh Direktur Jenderal Pajak."
+      }
+    ],
+    "tags": [
+      "Pasal 11 UU PPN"
+    ]
+  }
+]

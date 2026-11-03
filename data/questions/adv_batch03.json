@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "ADV-03-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPN (Surat Ketetapan Pajak Nihil)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan Pasal 17A UU KUP, Surat Ketetapan Pajak Nihil (SKPN) diterbitkan dalam hal...",
+    "opsi": {
+      "A": "jumlah pajak yang masih harus dibayar bertambah karena ditemukan data baru",
+      "B": "jumlah kredit pajak atau jumlah pajak yang dibayar sama dengan jumlah pajak yang terutang, atau pajak tidak terutang dan tidak ada kredit pajak/pembayaran pajak",
+      "C": "jumlah kredit pajak lebih besar daripada jumlah pajak yang terutang menurut SPT",
+      "D": "Wajib Pajak mengajukan permohonan pengembalian kelebihan pembayaran pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "SKPN (Pasal 17A UU KUP) diterbitkan apabila jumlah kredit pajak/pajak yang dibayar sama dengan pajak terutang, atau pajak tidak terutang dan tidak ada kredit pajak/pembayaran pajak. Opsi C adalah dasar penerbitan SKPLB melalui pemeriksaan (Ps.17(1)), D adalah dasar SKPLB melalui Ps.17B, dan A terkait SKPKBT.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 71,
+        "kutipan": "Jumlah kredit pajak atau jumlah pajak yg dibayar sama dengan jumlah pajak yang terutang, atau pajak tidak terutang & tidak ada kredit pajak atau tidak ada pembayaran pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 17A UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPLB (Pasal 17, 17 ayat 2, 17B UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SKPLB yang diterbitkan berdasarkan Penelitian, sebagaimana digambarkan dalam materi, didasarkan pada ketentuan...",
+    "opsi": {
+      "A": "Pasal 17 ayat (1) UU KUP karena jumlah kredit pajak lebih besar daripada pajak terutang menurut SPT",
+      "B": "Pasal 17B UU KUP karena adanya permohonan pengembalian kelebihan pembayaran pajak",
+      "C": "Pasal 17A UU KUP karena tidak ada kredit pajak maupun pembayaran pajak",
+      "D": "Pasal 17 ayat (2) UU KUP karena kelebihan pembayaran pajak yang seharusnya tidak terutang"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menunjukkan SKPLB 'diterbitkan berdasarkan' dua jalur: Penelitian untuk kelebihan pembayaran pajak yang seharusnya tidak terutang (Ps.17(2) UU KUP), dan Pemeriksaan untuk kondisi Ps.17(1) atau Ps.17B UU KUP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 72,
+        "kutipan": "kelebihan pembayaran pajak yg seharusnya tidak terutang Ps. 17 (2) UU KUP"
+      }
+    ],
+    "tags": [
+      "Pasal 17 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPLB (Pasal 17, 17 ayat 2, 17B UU KUP)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai diagram penerbitan SKPLB dalam materi, Surat Ketetapan Pajak Lebih Bayar dapat diterbitkan lagi melalui Pemeriksaan Ulang apabila ditemukan...",
+    "opsi": {
+      "A": "data baru, termasuk data yang semula belum terungkap",
+      "B": "kesalahan tulis pada SKPLB yang telah diterbitkan sebelumnya",
+      "C": "Wajib Pajak mengajukan keberatan atas SKPLB yang telah terbit",
+      "D": "permohonan pembetulan dari Wajib Pajak atas SKPLB sebelumnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah SKPLB diterbitkan melalui Pemeriksaan, SKPLB dapat 'diterbitkan lagi' melalui Pemeriksaan Ulang apabila ditemukan data baru, termasuk data yang semula belum terungkap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 72,
+        "kutipan": "data baru, termasuk data yg semula belum terungkap"
+      }
+    ],
+    "tags": [
+      "Pasal 17 UU KUP",
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "ADV-03-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "STP (Surat Tagihan Pajak) - Dasar Penerbitan & Sanksi",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah perusahaan diketahui belum membayar sebagian PPh dalam tahun berjalan yang seharusnya telah disetor. Atas kondisi tersebut, sesuai Pasal 14 UU KUP, DJP menerbitkan...",
+    "opsi": {
+      "A": "Surat Ketetapan Pajak Kurang Bayar",
+      "B": "Surat Ketetapan Pajak Kurang Bayar Tambahan",
+      "C": "Surat Tagihan Pajak",
+      "D": "Surat Ketetapan Pajak Lebih Bayar"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 14 UU KUP mengatur Surat Tagihan Pajak diterbitkan dalam hal antara lain PPh dalam tahun berjalan tidak atau kurang dibayar.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 73,
+        "kutipan": "PPh dalam tahun berjalan tidak atau kurang dibayar"
+      }
+    ],
+    "tags": [
+      "Pasal 14 UU KUP",
+      "STP"
+    ]
+  },
+  {
+    "id": "ADV-03-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "STP (Surat Tagihan Pajak) - Dasar Penerbitan & Sanksi",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal terdapat jumlah pajak yang tidak/kurang dibayar dalam jangka waktu persetujuan mengangsur atau menunda, STP diterbitkan dengan tambahan sanksi bunga per bulan sebesar...",
+    "opsi": {
+      "A": "suku bunga acuan ditambah uplift factor 10%, paling lama 12 bulan",
+      "B": "suku bunga acuan ditambah uplift factor 15%, paling lama 24 bulan",
+      "C": "suku bunga acuan ditambah uplift factor 20%, paling lama 24 bulan",
+      "D": "suku bunga acuan ditambah uplift factor 5%, paling lama 24 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan sanksi bunga atas STP akibat kurang bayar dalam jangka waktu angsuran/penundaan dihitung sebesar suku bunga acuan ditambah uplift factor 5% dengan maksimal 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 73,
+        "kutipan": "ditambah dengan sanksi bunga per bulan sebesar suku bunga acuan + uplift factor 5% (max. 24 bulan)"
+      }
+    ],
+    "tags": [
+      "Pasal 14 UU KUP",
+      "STP"
+    ]
+  },
+  {
+    "id": "ADV-03-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "STP (Surat Tagihan Pajak) - Dasar Penerbitan & Sanksi",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TERMASUK sanksi yang melekat pada penerbitan Surat Tagihan Pajak sebagaimana diuraikan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "sanksi denda 30% dan 60% terkait proses keberatan/banding/peninjauan kembali",
+      "B": "sanksi kenaikan sebesar 100% atas kekurangan pajak dalam SKPKBT",
+      "C": "sanksi denda 1% dari Dasar Pengenaan Pajak",
+      "D": "sanksi bunga per bulan sebesar suku bunga acuan ditambah uplift factor 5%"
+    },
+    "kunci": "B",
+    "pembahasan": "Sanksi yang disebutkan materi terkait STP adalah bunga (suku bunga acuan + uplift 5%), denda 1% dari DPP, serta denda 30%/60% keberatan-banding-PK. Sanksi kenaikan 100% SKPKBT (Pasal 15 ayat (2) UU KUP) bukan bagian dari sanksi STP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 73,
+        "kutipan": "termasuk denda 30% & 60% (keberatan/banding/PK)"
+      }
+    ],
+    "tags": [
+      "Pasal 14 UU KUP",
+      "STP"
+    ]
+  },
+  {
+    "id": "ADV-03-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda, Bunga, dan Kenaikan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 7 ayat (1) UU KUP, keterlambatan pelaporan SPT Tahunan PPh Wajib Pajak badan dikenai sanksi denda sebesar...",
+    "opsi": {
+      "A": "Rp100.000",
+      "B": "Rp500.000",
+      "C": "Rp1.000.000",
+      "D": "Rp2.000.000"
+    },
+    "kunci": "C",
+    "pembahasan": "Tabel ringkasan sanksi denda menunjukkan keterlambatan pelaporan SPT Tahunan Wajib Pajak badan dikenai denda Rp1.000.000, berbeda dengan SPT Tahunan WP orang pribadi (Rp100.000) dan SPT Masa PPN (Rp500.000).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 74,
+        "kutipan": "Keterlambatan pelaporan SPT Tahunan Wajib Pajak badan Denda sebesar Rp1.000.000"
+      }
+    ],
+    "tags": [
+      "Pasal 7 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda, Bunga, dan Kenaikan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi bunga sebesar suku bunga acuan ditambah 15% per bulan sebagaimana diatur Pasal 13 ayat (2) UU KUP dikenakan dalam hal...",
+    "opsi": {
+      "A": "berdasarkan hasil pemeriksaan, pajak terutang yang tidak/kurang dibayar",
+      "B": "keterlambatan pembayaran SKPKB atau SKPKBT serta SK Pembetulan, SK Keberatan, Putusan Banding/PK",
+      "C": "kurang bayar akibat pembetulan SPT Tahunan dan SPT Masa",
+      "D": "pajak kurang dibayar akibat pengungkapan ketidakbenaran pengisian SPT"
+    },
+    "kunci": "A",
+    "pembahasan": "Tabel Sanksi Bunga menunjukkan Pasal 13 ayat (2) UU KUP mengenakan bunga per bulan sebesar suku bunga acuan ditambah 15% atas pajak terutang yang tidak/kurang dibayar berdasarkan hasil pemeriksaan. Pasal 19(1) dikenakan +0%, Pasal 8(2)/(2a) dikenakan +5%, dan Pasal 8(5) dikenakan +10%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 75,
+        "kutipan": "Berdasarkan hasil pemeriksaan, pajak terutang yang tidak/kurang dibayar"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (2) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda, Bunga, dan Kenaikan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi kenaikan sebesar 100% sebagaimana diatur Pasal 15 ayat (2) UU KUP dikenakan atas...",
+    "opsi": {
+      "A": "hasil pemeriksaan PPN dan PPnBM yang tidak atau kurang dibayar",
+      "B": "jumlah kekurangan pajak yang terutang dalam SKPKBT",
+      "C": "hasil pemeriksaan PPh yang dipotong/dipungut tetapi tidak atau kurang disetor",
+      "D": "keberatan Wajib Pajak yang ditolak atau dikabulkan sebagian"
+    },
+    "kunci": "B",
+    "pembahasan": "Tabel Sanksi Kenaikan menunjukkan Pasal 15 ayat (2) UU KUP mengenakan kenaikan 100% atas jumlah kekurangan pajak yang terutang dalam SKPKBT. Pemeriksaan PPN/PPnBM dan PPh dipotong/dipungut (Pasal 13(3) huruf c&d) dikenai kenaikan 75%, sementara keberatan ditolak dikenai denda 30% (bukan kenaikan).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 76,
+        "kutipan": "Jumlah kekurangan pajak yang terutang dalam SKPKBT Kenaikan sebesar 100%"
+      }
+    ],
+    "tags": [
+      "Pasal 15 ayat (2) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda, Bunga, dan Kenaikan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi kenaikan sebesar 100% juga dikenakan dalam hal Wajib Pajak tidak seharusnya diberikan...",
+    "opsi": {
+      "A": "imbalan bunga atas keterlambatan penerbitan SKPLB",
+      "B": "restitusi Pajak Masukan bagi PKP yang belum berproduksi",
+      "C": "pengembalian kelebihan pembayaran pajak berdasarkan SKPLB hasil pemeriksaan",
+      "D": "pengembalian pendahuluan sebagaimana diatur Pasal 17C ayat (5) dan Pasal 17D ayat (5) UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Tabel Sanksi Kenaikan menyebutkan kenaikan 100% berdasarkan Pasal 17C ayat (5) dan Pasal 17D ayat (5) UU KUP dikenakan dalam hal Wajib Pajak tidak seharusnya diberikan pengembalian pendahuluan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 76,
+        "kutipan": "Dalam hal Wajib Pajak tidak seharusnya diberikan pengembalian pendahuluan Kenaikan sebesar 100%"
+      }
+    ],
+    "tags": [
+      "Pasal 17C UU KUP",
+      "Pasal 17D UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Imbalan Bunga - Ruang Lingkup & Cara Penghitungan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penghitungan imbalan bunga, jumlah bulan yang diperhitungkan paling banyak adalah...",
+    "opsi": {
+      "A": "24 bulan",
+      "B": "12 bulan",
+      "C": "18 bulan",
+      "D": "36 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan jumlah bulan dalam formula penghitungan imbalan bunga maksimal 24 bulan, serta bagian dari bulan dihitung penuh 1 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 100,
+        "kutipan": "maksimal 24 bulan serta Bagian dari Bulan dihitung penuh 1 (satu) bulan"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-03-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Imbalan Bunga - Ruang Lingkup & Cara Penghitungan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Imbalan bunga atas keterlambatan penerbitan SKPLB yang terkait proses pidana (Pasal 17B ayat (4) UU KUP) dihitung sejak...",
+    "opsi": {
+      "A": "jangka waktu 1 bulan sejak SKPLB seharusnya terbit sampai dengan diterbitkannya SKPLB",
+      "B": "tanggal penerbitan SKPKB atau SKPKBT sampai dengan tanggal diterbitkannya keputusan/putusan",
+      "C": "jangka waktu 12 bulan sejak surat permohonan pengembalian kelebihan pembayaran pajak diterima lengkap berakhir sampai dengan diterbitkannya SKPLB",
+      "D": "batas waktu penerbitan SKPKPP berakhir sampai dengan penerbitan SKPKPP"
+    },
+    "kunci": "C",
+    "pembahasan": "Ruang lingkup imbalan bunga Pasal 17B ayat (4) UU KUP terkait proses pidana dihitung sejak jangka waktu 12 bulan sejak surat permohonan pengembalian kelebihan pembayaran pajak diterima lengkap berakhir sampai saat diterbitkannya SKPLB, berbeda dengan Pasal 17B ayat (3) yang menggunakan jangka waktu 1 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 99,
+        "kutipan": "dihitung sejak jangka waktu 12 (dua belas) bulan sejak tanggal surat permohonan pengembalian kelebihan pembayaran pajak diterima secara lengkap berakhir s/d saat diterbitkan SKPLB"
+      }
+    ],
+    "tags": [
+      "Pasal 17B UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Imbalan Bunga - Ruang Lingkup & Cara Penghitungan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Imbalan bunga atas kelebihan pembayaran pajak karena SK Pembetulan atau SK Pengurangan/Pembatalan SKP/STP yang mengabulkan sebagian/seluruhnya permohonan Wajib Pajak (Pasal 27B ayat (3) UU KUP) dihitung sejak...",
+    "opsi": {
+      "A": "tanggal penerbitan SKPKB, SKPKBT, SKPLB, atau SKPN sampai dengan tanggal diterbitkannya keputusan/putusan",
+      "B": "tanggal pembayaran SKPKB/SKPKBT, tanggal penerbitan SKPLB/SKPN, atau tanggal pembayaran STP sampai dengan diterbitkannya SK Pembetulan",
+      "C": "batas waktu penerbitan SKPKPP berakhir sampai dengan penerbitan SKPKPP",
+      "D": "jangka waktu 1 bulan sejak SKPLB seharusnya terbit sampai dengan diterbitkannya SKPLB"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan imbalan bunga Pasal 27B ayat (3) UU KUP dihitung sejak tanggal pembayaran SKPKB/SKPKBT, tanggal penerbitan SKPLB/SKPN, atau tanggal pembayaran STP sampai dengan diterbitkannya SK Pembetulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 99,
+        "kutipan": "sejak tanggal pembayaran SKPKB atau SKPKBT, sejak tanggal penerbitan SKPLB atau SKPN, sejak tanggal pembayaran STP s/d diterbitkannya SK Pembetulan"
+      }
+    ],
+    "tags": [
+      "Pasal 27B UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Pengertian, Tujuan & Dasar Hukum Penagihan Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar diatur dalam...",
+    "opsi": {
+      "A": "PMK-18/PMK.03/2021",
+      "B": "PMK-164/2023",
+      "C": "PP Nomor 50 Tahun 2022",
+      "D": "PMK-61/PMK.03/2023"
+    },
+    "kunci": "D",
+    "pembahasan": "Dasar hukum penagihan pajak dalam materi mencakup Pasal 18 s.d. Pasal 24 UU KUP, UU PPSP, dan PMK-61/PMK.03/2023 tentang Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 78,
+        "kutipan": "PMK-61/PMK.03/2023 tentang Tata Cara Pelaksanaan Penagihan Pajak atas Jumlah Pajak yang Masih Harus Dibayar"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2023",
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Pengertian, Tujuan & Dasar Hukum Penagihan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai definisi dalam materi, tindakan Penagihan Pajak agar Penanggung Pajak melunasi utang pajak dan biaya penagihan mencakup hal-hal berikut, yaitu...",
+    "opsi": {
+      "A": "menegur/memperingatkan, melaksanakan penagihan seketika dan sekaligus, memberitahukan Surat Paksa, mengusulkan pencegahan, penyitaan, penyanderaan, dan menjual barang yang disita",
+      "B": "menerbitkan STP, SKPKB, dan SKPKBT kepada Wajib Pajak yang bersangkutan",
+      "C": "melakukan pemeriksaan bukti permulaan dan penyidikan tindak pidana perpajakan",
+      "D": "mengajukan gugatan dan permohonan banding ke Pengadilan Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mendefinisikan Penagihan Pajak sebagai serangkaian tindakan agar Penanggung Pajak melunasi utang pajak dan biaya penagihan dengan menegur/memperingatkan, penagihan seketika dan sekaligus, memberitahukan Surat Paksa, mengusulkan pencegahan, penyitaan, penyanderaan, dan menjual barang yang telah disita.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 78,
+        "kutipan": "serangkaian tindakan agar Penanggung Pajak melunasi utang pajak dan biaya penagihan pajak dengan menegur atau memperingatkan"
+      }
+    ],
+    "tags": [
+      "Pasal 18 UU KUP",
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Jatuh Tempo Pelunasan Dasar Penagihan Pajak",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Wajib Pajak mengajukan permohonan banding, pelunasan atas jumlah pajak yang tidak disetujui Wajib Pajak dalam pembahasan akhir hasil pemeriksaan dilakukan paling lama...",
+    "opsi": {
+      "A": "1 bulan sejak tanggal penerbitan Surat Keputusan Keberatan",
+      "B": "2 bulan sejak tanggal penerbitan Putusan Banding",
+      "C": "1 bulan sejak tanggal penerbitan Putusan Banding dengan memperhitungkan jumlah pajak berdasarkan Putusan Banding",
+      "D": "3 bulan sejak tanggal pengajuan permohonan banding"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan dalam hal WP mengajukan banding, pelunasan dilakukan paling lama 1 bulan sejak tanggal penerbitan Putusan Banding dengan memperhitungkan jumlah pajak berdasarkan Putusan Banding, berbeda dengan jalur keberatan tanpa banding yang dihitung sejak SK Keberatan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 80,
+        "kutipan": "dilakukan paling lama 1 (satu) bulan sejak tanggal penerbitan Putusan Banding dengan memperhitungkan jumlah pajak berdasarkan Putusan Banding"
+      }
+    ],
+    "tags": [
+      "PP Nomor 50 Tahun 2022",
+      "Pasal 18 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Jatuh Tempo Pelunasan Dasar Penagihan Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PT Maju Jaya adalah Wajib Pajak usaha kecil yang menyetujui seluruh jumlah pajak yang masih harus dibayar dalam pembahasan akhir hasil pemeriksaan. Berdasarkan ketentuan dalam materi, pelunasan atas jumlah pajak tersebut dilakukan paling lama...",
+    "opsi": {
+      "A": "1 bulan sejak tanggal penerbitan SKP",
+      "B": "2 bulan sejak tanggal penerbitan SKP",
+      "C": "1 bulan sejak tanggal pembahasan akhir hasil pemeriksaan",
+      "D": "3 bulan sejak tanggal penerbitan SKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan Wajib Pajak usaha kecil dan Wajib Pajak di daerah tertentu yang menyetujui seluruh jumlah pajak dalam pembahasan akhir hasil pemeriksaan diberikan waktu pelunasan paling lama 2 bulan sejak tanggal penerbitan SKP, lebih lama dibanding WP pada umumnya (1 bulan).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 81,
+        "kutipan": "Wajib Pajak usaha kecil dan Waijb Pajak di daerah tertentu ... dilakukan paling lama 2 (dua) bulan terhitung sejak tanggal penerbitan SKP"
+      }
+    ],
+    "tags": [
+      "Pasal 18 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Jatuh Tempo Pelunasan Dasar Penagihan Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai jatuh tempo pelunasan dasar penagihan pajak sebagaimana disebutkan dalam materi diatur dalam...",
+    "opsi": {
+      "A": "PMK-61/PMK.03/2023",
+      "B": "UU PPSP",
+      "C": "Pasal 18 UU KUP",
+      "D": "PP Nomor 50 Tahun 2022"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan ketentuan mengenai jatuh tempo pelunasan dasar penagihan pajak diatur dalam PP Nomor 50 Tahun 2022.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 80,
+        "kutipan": "Ketentuan mengenai jatuh tempo pelunasan dasar penagihan pajak PP Nomor 50 Tahun 2022"
+      }
+    ],
+    "tags": [
+      "PP Nomor 50 Tahun 2022"
+    ]
+  },
+  {
+    "id": "ADV-03-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Penanggung Pajak (WP Orang Pribadi & Badan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Wajib Pajak orang pribadi meninggal dunia dan harta warisannya belum terbagi. Berdasarkan materi, pihak yang menjadi Penanggung Pajak atas harta warisan tersebut adalah...",
+    "opsi": {
+      "A": "salah seorang ahli waris, pelaksana wasiat, atau pihak yang ditunjuk untuk mengurus harta peninggalan",
+      "B": "para ahli waris yang telah menerima bagian harta warisan",
+      "C": "wali yang mengurus anak yang belum dewasa",
+      "D": "pengampu bagi orang yang berada dalam pengampuan"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram Penanggung Pajak atas WP Orang Pribadi menunjukkan untuk harta warisan belum terbagi, Wakil adalah salah seorang ahli waris/pelaksana wasiat/pihak yang ditunjuk untuk mengurus harta peninggalan, berbeda dengan harta warisan telah dibagi yang diwakili para ahli waris.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 82,
+        "kutipan": "Salah seorang ahli waris/pelaksana wasiat/ pihak yang ditunjuk untuk mengurus harta peninggalan ... harta warisan belum terbagi"
+      }
+    ],
+    "tags": [
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Penanggung Pajak (WP Orang Pribadi & Badan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini TERMASUK pihak yang berkedudukan sebagai Penanggung Pajak atas WP Badan berbentuk Perseroan Terbatas sebagaimana diuraikan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Direksi",
+      "B": "Dewan Komisaris",
+      "C": "Kurator yang ditunjuk pengadilan",
+      "D": "Pemegang Saham"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan Pengurus Perseroan Terbatas yang menjadi Penanggung Pajak meliputi Direksi, Dewan Komisaris, orang yang nyata-nyata mempunyai wewenang, dan Pemegang Saham. Kurator berperan sebagai wakil Wajib Pajak badan yang pailit, bukan bagian dari daftar Pengurus PT ini.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 83,
+        "kutipan": "Perseroan Terbatas 1. Direksi 2. Dewan Komisaris 3. Orang yang nyata-nyata 4. Pemegang Saham"
+      }
+    ],
+    "tags": [
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Tahapan Tindakan Penagihan Pajak (Teguran s.d. Lelang)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram tahapan tindakan penagihan pajak, setelah Surat Teguran diterbitkan, Surat Paksa diberitahukan dalam jangka waktu paling cepat...",
+    "opsi": {
+      "A": "7 hari",
+      "B": "21 hari",
+      "C": "14 hari",
+      "D": "2x24 jam"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram tahapan penagihan menunjukkan urutan: Surat Teguran (7 hari sejak jatuh tempo) lalu Surat Paksa diberitahukan 21 hari kemudian, dilanjutkan SPMP/Penyitaan (2x24 jam setelah Surat Paksa).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 84,
+        "kutipan": "Surat Teguran ... 21 hari ... Surat Paksa"
+      }
+    ],
+    "tags": [
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Tahapan Tindakan Penagihan Pajak (Teguran s.d. Lelang)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Setelah Surat Paksa diberitahukan, tindakan SPMP/Penyitaan dilakukan dalam jangka waktu...",
+    "opsi": {
+      "A": "7 hari",
+      "B": "14 hari",
+      "C": "21 hari",
+      "D": "2x24 jam"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram tahapan tindakan penagihan pajak menunjukkan SPMP/Penyitaan dilakukan 2x24 jam setelah Surat Paksa diberitahukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 84,
+        "kutipan": "Surat Paksa ... 2x24 jam ... SPMP/Penyitaan"
+      }
+    ],
+    "tags": [
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Tahapan Tindakan Penagihan Pajak (Teguran s.d. Lelang)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram tahapan tindakan penagihan pajak, jangka waktu dari SPMP/Penyitaan menuju Pengumuman Lelang, dan dari Pengumuman Lelang menuju Lelang, masing-masing adalah...",
+    "opsi": {
+      "A": "14 hari dan 14 hari",
+      "B": "7 hari dan 7 hari",
+      "C": "14 hari dan 21 hari",
+      "D": "21 hari dan 14 hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram menunjukkan dari SPMP/Penyitaan menuju Pemindahbukuan/Penjualan non lelang atau Pengumuman Lelang berjarak 14 hari, dan dari Pengumuman Lelang menuju Lelang juga berjarak 14 hari.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 84,
+        "kutipan": "SPMP/Penyitaan ... 14 hari ... Pengumuman Lelang ... 14 hari ... Lelang"
+      }
+    ],
+    "tags": [
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "ADV-03-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Daluwarsa Penagihan Pajak",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Untuk Tahun Pajak 2008 dan setelahnya, daluwarsa penagihan pajak adalah...",
+    "opsi": {
+      "A": "10 tahun sejak saat terutangnya pajak",
+      "B": "10 tahun sejak penerbitan STP",
+      "C": "5 tahun sejak penerbitan STP/SKPKB/SKPKBT/SK/Putusan atau tahun pajak yang bersangkutan",
+      "D": "5 tahun sejak berakhirnya masa pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi membedakan daluwarsa penagihan: untuk Tahun Pajak 2007 dan sebelumnya, 10 tahun sejak saat terutangnya pajak/berakhirnya masa pajak; sedangkan untuk Tahun Pajak 2008 dan setelahnya, 5 tahun sejak penerbitan STP/SKPKB/SKPKBT/SK/Putusan atau tahun pajak yang bersangkutan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 85,
+        "kutipan": "5 tahun sejak penerbitan STP/SKPKB/SKPKBT/ SK/Put atau tahun Pajak yang bersangkutan, tertangguh apabila"
+      }
+    ],
+    "tags": [
+      "Pasal 22 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penagihan Pajak",
+    "subtopik": "Daluwarsa Penagihan Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Untuk Tahun Pajak 2008 dan setelahnya, daluwarsa penagihan pajak tertangguh apabila terjadi kondisi berikut, KECUALI...",
+    "opsi": {
+      "A": "dilakukan penyidikan tindak pidana perpajakan",
+      "B": "diterbitkan Surat Teguran dan Surat Paksa",
+      "C": "Wajib Pajak mengajukan angsuran atau penundaan pembayaran",
+      "D": "Wajib Pajak mengajukan gugatan ke Pengadilan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk Tahun Pajak 2008 dan setelahnya, daluwarsa tertangguh apabila 'Diterbitkan Surat Paksa' (bukan Surat Teguran dan Surat Paksa, yang merupakan ketentuan untuk Tahun Pajak 2007 dan sebelumnya), pengakuan WP (termasuk angsuran/penundaan), serta penyidikan tindak pidana perpajakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 85,
+        "kutipan": "TAHUN PAJAK 2008 DAN SETELAHNYA ... Diterbitkan Surat Paksa ... Pengakuan dari Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 22 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Gambaran Umum Upaya Hukum Perpajakan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan gambaran umum upaya hukum perpajakan, upaya hukum administratif yang dapat diajukan paling banyak 2 (dua) kali, kecuali untuk Pasal 36 ayat (1) huruf d, adalah...",
+    "opsi": {
+      "A": "Pembetulan",
+      "B": "Keberatan",
+      "C": "Prosedur Persetujuan Bersama",
+      "D": "Pengurangan dan Pembatalan"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram Gambaran Umum Upaya Hukum menunjukkan Pengurangan dan Pembatalan (Pasal 36 ayat (1), PMK-8/2013) dapat diajukan maksimal 2 kali (selain Pasal 36 ayat (1) huruf d), berbeda dengan Pembetulan (berkali-kali) dan Prosedur Persetujuan Bersama (maksimal 1 kali).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 87,
+        "kutipan": "PENGURANGAN DAN PEMBATALAN Pasal 36 ayat (1) PMK-8/2013 ... Dapat diajukan maksimal 2 kali* ... *selain Pasal 36 ayat (1) huruf d"
+      }
+    ],
+    "tags": [
+      "Pasal 36 UU KUP",
+      "PMK-8/2013"
+    ]
+  },
+  {
+    "id": "ADV-03-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pembetulan (Ps.16 UU KUP) - Objek, Ruang Lingkup Kesalahan, Jangka Waktu",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TERMASUK objek yang dapat dibetulkan oleh Direktur Jenderal Pajak berdasarkan Pasal 16 UU KUP, KECUALI...",
+    "opsi": {
+      "A": "Putusan Pengadilan Pajak yang telah berkekuatan hukum tetap",
+      "B": "Surat Ketetapan Pajak meliputi SKPKB, SKPKBT, SKPN, dan SKPLB",
+      "C": "Surat Tagihan Pajak",
+      "D": "Surat Keputusan Keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Objek pembetulan Pasal 16 UU KUP mencakup SKP, STP, SKPPKP, SKPIB, SK Pembetulan, SK Keberatan, SK Pengurangan/Penghapusan Sanksi, SK Pengurangan/Pembatalan Ketetapan Pajak, SPPT, SKP PBB, STP PBB, dan SK Persetujuan Bersama. Putusan Pengadilan Pajak bukan objek pembetulan oleh DJP karena merupakan produk lembaga peradilan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 88,
+        "kutipan": "SKP meliputi SKPKB, SKPKBT, SKPN, dan SKPLB; STP; SKPPKP; SKPIB; SK Pembetulan; SK Keberatan"
+      }
+    ],
+    "tags": [
+      "Pasal 16 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pembetulan (Ps.16 UU KUP) - Objek, Ruang Lingkup Kesalahan, Jangka Waktu",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ruang lingkup 'Kesalahan Hitung' dalam Pembetulan Pasal 16 UU KUP mencakup kekeliruan yang berasal dari...",
+    "opsi": {
+      "A": "kesalahan nama, alamat, atau NPWP pada surat ketetapan pajak",
+      "B": "kesalahan tanggal jatuh tempo pada surat ketetapan pajak",
+      "C": "penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan",
+      "D": "kesalahan penulisan jenis pajak atau Masa Pajak pada surat ketetapan pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi membedakan Kesalahan Tulis (nama, alamat, NPWP, nomor surat ketetapan, jenis pajak, Masa/Tahun Pajak, tanggal jatuh tempo) dengan Kesalahan Hitung yang berasal dari penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 89,
+        "kutipan": "berasal dari penjumlahan dan/atau pengurangan dan/atau perkalian dan/atau pembagian suatu bilangan"
+      }
+    ],
+    "tags": [
+      "Pasal 16 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pembetulan (Ps.16 UU KUP) - Objek, Ruang Lingkup Kesalahan, Jangka Waktu",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan atas permohonan pembetulan yang diajukan Wajib Pajak diterbitkan paling lama...",
+    "opsi": {
+      "A": "3 bulan sejak surat permohonan diterima",
+      "B": "6 bulan sejak surat permohonan diterima",
+      "C": "9 bulan sejak surat permohonan diterima",
+      "D": "12 bulan sejak surat permohonan diterima"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan keputusan atas permohonan pembetulan diterbitkan paling lama 6 bulan sejak tanggal surat permohonan pembetulan diterima.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 88,
+        "kutipan": "Atas permohonan keputusan diterbitkan paling lama 6 bulan sejak tanggal surat permohonan pembetulan diterima"
+      }
+    ],
+    "tags": [
+      "Pasal 16 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pembetulan (Ps.16 UU KUP) - Objek, Ruang Lingkup Kesalahan, Jangka Waktu",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila jangka waktu 6 bulan penyelesaian permohonan pembetulan terlampaui tanpa diterbitkan keputusan, maka sesuai diagram dalam materi, permohonan tersebut...",
+    "opsi": {
+      "A": "dianggap dikabulkan",
+      "B": "dianggap ditolak",
+      "C": "dianggap batal demi hukum",
+      "D": "dikembalikan kepada Wajib Pajak untuk dilengkapi"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram alur Pembetulan menunjukkan apabila jangka waktu 6 bulan terlampaui tanpa Surat Keputusan diterbitkan, permohonan Wajib Pajak dianggap dikabulkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 90,
+        "kutipan": "terlampaui ... Permohonan dianggap dikabulkan"
+      }
+    ],
+    "tags": [
+      "Pasal 16 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pengurangan/Penghapusan Sanksi & Pengurangan/Pembatalan SKP-STP (Ps.36 UU KUP)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 36 UU KUP, Direktur Jenderal Pajak karena jabatannya atau atas permohonan Wajib Pajak dapat melakukan hal-hal berikut, KECUALI...",
+    "opsi": {
+      "A": "mengurangkan atau menghapuskan sanksi administratif",
+      "B": "mengurangkan atau membatalkan SKP yang tidak benar",
+      "C": "mengurangkan atau membatalkan STP yang tidak benar",
+      "D": "membatalkan Putusan Banding yang telah berkekuatan hukum tetap"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 36 UU KUP memberi wewenang DJP mengurangkan/menghapuskan sanksi administratif, mengurangkan/membatalkan SKP atau STP yang tidak benar, serta membatalkan SKP hasil pemeriksaan tanpa SPHP/Pembahasan Akhir. Membatalkan Putusan Banding bukan wewenang DJP karena merupakan putusan Pengadilan Pajak yang berkekuatan hukum tetap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 91,
+        "kutipan": "mengurangkan/menghapuskan sanksi administratif ... mengurangkan atau membatalkan SKP yang tidak benar ... mengurangkan atau membatalkan STP yang tidak benar"
+      }
+    ],
+    "tags": [
+      "Pasal 36 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pengurangan/Penghapusan Sanksi & Pengurangan/Pembatalan SKP-STP (Ps.36 UU KUP)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Permohonan pengurangan/penghapusan sanksi administratif atau pengurangan/pembatalan SKP-STP yang tidak benar untuk kedua kalinya harus diajukan dalam jangka waktu, dan keputusan diterbitkan paling lama...",
+    "opsi": {
+      "A": "1 bulan; keputusan paling lama 3 bulan",
+      "B": "6 bulan; keputusan paling lama 12 bulan",
+      "C": "3 bulan; keputusan paling lama 6 bulan",
+      "D": "3 bulan; keputusan paling lama 12 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan untuk permohonan yang kedua harus diajukan dalam jangka waktu 3 bulan, dan keputusan atas permohonan diterbitkan paling lama 6 bulan; apabila melewati jangka waktu tersebut, permohonan WP dianggap dikabulkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 91,
+        "kutipan": "Untuk permohonan yang kedua, permohonan tersebut harus diajukan dalam jangka waktu 3 (tiga) bulan ... keputusan atas permohonan paling lama 6 bulan"
+      }
+    ],
+    "tags": [
+      "Pasal 36 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+    "subtopik": "Pengurangan/Penghapusan Sanksi & Pengurangan/Pembatalan SKP-STP (Ps.36 UU KUP)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam permohonan pembatalan SKP berdasarkan Pasal 36 ayat (1) huruf d UU KUP, yaitu SKP yang terbit dari hasil Pemeriksaan tanpa penyampaian SPHP, syarat permohonan mengharuskan Wajib Pajak menguraikan tentang...",
+    "opsi": {
+      "A": "jumlah sanksi administrasi yang menurut Wajib Pajak seharusnya terutang",
+      "B": "tidak disampaikannya Surat Pemberitahuan Hasil Pemeriksaan (SPHP)",
+      "C": "jumlah pajak yang terutang menurut perhitungan Wajib Pajak",
+      "D": "jumlah tagihan pajak dan/atau sanksi administrasi dalam STP"
+    },
+    "kunci": "B",
+    "pembahasan": "Tabel Syarat Permohonan menunjukkan untuk Pasal 36 ayat (1) huruf d, kolom 'Jumlah menurut WP dan alasan' diisi dengan uraian tentang tidak disampaikannya SPHP, berbeda dengan huruf a (sanksi administrasi), huruf b (pajak terutang), dan huruf c (tagihan pajak dan/atau sanksi administrasi).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 92,
+        "kutipan": "36 (1) d ... menguraikan tentang tidak disampaikannya SPHP"
+      }
+    ],
+    "tags": [
+      "Pasal 36 ayat (1) huruf d UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Keberatan - Persyaratan, Jangka Waktu 3 Bulan, Pelunasan & Sanksi Denda 30%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak dapat mengajukan keberatan atas suatu ketetapan pajak dalam jangka waktu paling lama...",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "6 bulan",
+      "C": "12 bulan",
+      "D": "3 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan keberatan diajukan dalam jangka waktu 3 bulan, sedangkan keputusan atas keberatan diterbitkan DJP dalam jangka waktu 12 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 93,
+        "kutipan": "dalam jangka waktu 3 bulan"
+      }
+    ],
+    "tags": [
+      "Pasal 25 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Keberatan - Persyaratan, Jangka Waktu 3 Bulan, Pelunasan & Sanksi Denda 30%",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan atas pengajuan keberatan diterbitkan oleh Direktur Jenderal Pajak dalam jangka waktu paling lama...",
+    "opsi": {
+      "A": "12 bulan",
+      "B": "6 bulan",
+      "C": "9 bulan",
+      "D": "18 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram Keberatan menunjukkan setelah pengajuan keberatan, Dirjen Pajak menerbitkan keputusan dalam jangka waktu 12 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 93,
+        "kutipan": "Dirjen Pajak 12 bulan"
+      }
+    ],
+    "tags": [
+      "Pasal 26 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Keberatan - Persyaratan, Jangka Waktu 3 Bulan, Pelunasan & Sanksi Denda 30%",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apabila pengajuan keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar...",
+    "opsi": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "50%"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan sanksi administratif atas keberatan yang ditolak atau dikabulkan sebagian berupa denda 30%, berbeda dengan sanksi denda banding yang ditolak/dikabulkan sebagian sebesar 60%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 93,
+        "kutipan": "Sanksi Administratif Denda 30%"
+      }
+    ],
+    "tags": [
+      "Pasal 25 ayat (9) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Keberatan - Persyaratan, Jangka Waktu 3 Bulan, Pelunasan & Sanksi Denda 30%",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu persyaratan formal pengajuan keberatan sebagaimana diatur dalam materi adalah...",
+    "opsi": {
+      "A": "keberatan dapat diajukan terhadap lebih dari satu jenis pajak dalam satu surat keberatan",
+      "B": "1 (satu) surat keberatan diajukan terhadap 1 (satu) jenis pajak dan 1 (satu) Masa Pajak atau Tahun Pajak",
+      "C": "Wajib Pajak tidak perlu melunasi pajak yang telah disetujui dalam pembahasan akhir hasil pemeriksaan",
+      "D": "keberatan dapat diajukan secara lisan apabila disertai alasan yang jelas"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan persyaratan keberatan antara lain: 1 keberatan diajukan terhadap 1 jenis pajak dan 1 Masa/Tahun Pajak; tertulis dalam bahasa Indonesia; serta melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui WP dalam pembahasan akhir hasil pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 93,
+        "kutipan": "1 keberatan harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 25 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Banding ke Pengadilan Pajak & Sanksi Denda 60%",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan banding atas Surat Keputusan Keberatan diajukan paling lama...",
+    "opsi": {
+      "A": "1 bulan sejak Surat Keputusan Keberatan diterima",
+      "B": "2 bulan sejak Surat Keputusan Keberatan diterima",
+      "C": "6 bulan sejak Surat Keputusan Keberatan diterima",
+      "D": "3 bulan sejak Surat Keputusan Keberatan diterima dan dilampiri salinan Surat Keputusan Keberatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan permohonan banding diajukan paling lama 3 bulan sejak Surat Keputusan Keberatan diterima dan dilampiri dengan salinan Surat Keputusan Keberatan tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 95,
+        "kutipan": "Diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima dan dilampiri dengan salinan Surat Keputusan Keberatan tersebut"
+      }
+    ],
+    "tags": [
+      "Pasal 27 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Banding ke Pengadilan Pajak & Sanksi Denda 60%",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu ketentuan pengajuan banding sebagaimana diatur dalam materi adalah...",
+    "opsi": {
+      "A": "jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan",
+      "B": "permohonan banding dapat diajukan tanpa melalui proses keberatan terlebih dahulu",
+      "C": "permohonan banding membatalkan seluruh jumlah pajak yang masih harus dibayar",
+      "D": "Putusan Banding dapat diajukan peninjauan kembali dalam waktu 1 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan jumlah pajak yang belum dibayar pada saat pengajuan banding belum merupakan pajak terutang sampai dengan Putusan Banding diterbitkan, dan tertangguh sampai dengan 1 bulan sejak tanggal penerbitan Putusan Banding.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 95,
+        "kutipan": "Jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan"
+      }
+    ],
+    "tags": [
+      "Pasal 27 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Banding ke Pengadilan Pajak & Sanksi Denda 60%",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apabila permohonan banding Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar...",
+    "opsi": {
+      "A": "30%",
+      "B": "40%",
+      "C": "60%",
+      "D": "100%"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan sanksi administratif atas banding yang ditolak atau dikabulkan sebagian berupa denda 60%, lebih tinggi dibandingkan sanksi denda keberatan (30%).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 95,
+        "kutipan": "Sanksi Administratif Denda 60%"
+      }
+    ],
+    "tags": [
+      "Pasal 27 ayat (5d) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Gugatan - Objek & Jangka Waktu Pengajuan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jangka waktu pengajuan Gugatan terhadap pelaksanaan penagihan pajak adalah...",
+    "opsi": {
+      "A": "30 hari sejak tanggal pelaksanaan penagihan",
+      "B": "14 hari sejak tanggal pelaksanaan penagihan",
+      "C": "14 hari sejak tanggal diterima keputusan yang digugat",
+      "D": "30 hari sejak tanggal diterima keputusan yang digugat"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi membedakan jangka waktu Gugatan: 14 hari sejak tanggal pelaksanaan penagihan untuk objek pelaksanaan penagihan pajak, dan 30 hari sejak tanggal diterima keputusan yang digugat untuk objek Gugatan lainnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 96,
+        "kutipan": "pelaksanaan penagihan pajak adalah 14 (empat belas hari) sejak tanggal pelaksanaan penagihan"
+      }
+    ],
+    "tags": [
+      "Pasal 23 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Gugatan - Objek & Jangka Waktu Pengajuan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini TERMASUK objek Gugatan ke Pengadilan Pajak sebagaimana diatur dalam materi, KECUALI...",
+    "opsi": {
+      "A": "pelaksanaan Surat Paksa, Surat Perintah Melaksanakan Penyitaan, atau Pengumuman Lelang",
+      "B": "keputusan pencegahan dalam rangka penagihan pajak",
+      "C": "penerbitan surat ketetapan pajak yang dalam penerbitannya tidak sesuai dengan prosedur atau tata cara yang diatur",
+      "D": "besarnya jumlah pajak yang terutang dalam Surat Ketetapan Pajak Kurang Bayar"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek Gugatan meliputi pelaksanaan Surat Paksa/SPMP/Pengumuman Lelang, keputusan pencegahan dalam rangka penagihan, keputusan terkait pelaksanaan keputusan perpajakan selain Pasal 25(1) dan 26, serta penerbitan ketetapan/SK Keberatan yang tidak sesuai prosedur. Sengketa mengenai besarnya jumlah pajak terutang merupakan objek Keberatan, bukan Gugatan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 96,
+        "kutipan": "pelaksanaan Surat Paksa, Surat Perintah Melaksanakan Penyitaan, atau Pengumuman Lelang"
+      }
+    ],
+    "tags": [
+      "Pasal 23 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Peninjauan Kembali ke Mahkamah Agung",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Permohonan Peninjauan Kembali atas putusan Pengadilan Pajak diajukan kepada...",
+    "opsi": {
+      "A": "Mahkamah Agung",
+      "B": "Direktur Jenderal Pajak",
+      "C": "Pengadilan Pajak",
+      "D": "Mahkamah Konstitusi"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan permohonan Peninjauan Kembali diajukan oleh Wajib Pajak atau Dirjen Pajak kepada Mahkamah Agung sebagai upaya hukum luar biasa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 97,
+        "kutipan": "WAJIB PAJAK atau DIRJEN PAJAK Permohonan PK (Upaya Hukum Luar Biasa) dengan ketentuan MAHKAMAH AGUNG"
+      }
+    ],
+    "tags": [
+      "Pasal 89 UU PP",
+      "Pasal 27 ayat (5e) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Peninjauan Kembali ke Mahkamah Agung",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Putusan atas permohonan Peninjauan Kembali terbit paling lama...",
+    "opsi": {
+      "A": "6 bulan sejak permohonan PK diterima",
+      "B": "1 tahun sejak putusan PK diterima",
+      "C": "2 tahun sejak putusan PK diterima",
+      "D": "3 tahun sejak putusan PK diterima"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan putusan Peninjauan Kembali terbit maksimal 2 tahun sejak putusan PK diterima, dan permohonan PK hanya dapat diajukan maksimal 1 kali.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 97,
+        "kutipan": "terbit maksimal 2 tahun sejak putusan PK diterima"
+      }
+    ],
+    "tags": [
+      "Pasal 89 UU PP"
+    ]
+  },
+  {
+    "id": "ADV-03-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+    "subtopik": "Prosedur Persetujuan Bersama / Mutual Agreement Procedure (MAP)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Seorang Warga Negara Indonesia mengalami perlakuan diskriminatif perpajakan di negara mitra P3B dan ingin agar DJP menindaklanjuti melalui Prosedur Persetujuan Bersama (MAP). Berdasarkan materi, permintaan pelaksanaan MAP tersebut dapat diajukan...",
+    "opsi": {
+      "A": "hanya setelah seluruh upaya hukum keberatan dan banding selesai diputus",
+      "B": "bersamaan dengan permohonan keberatan, banding, atau pengurangan/pembatalan SKP yang tidak benar",
+      "C": "hanya sebelum Wajib Pajak mengajukan keberatan atas SKP terkait",
+      "D": "hanya oleh Wajib Pajak badan yang berstatus PKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan permintaan pelaksanaan MAP dapat diajukan bersamaan dengan permohonan keberatan, banding, atau pengurangan/pembatalan SKP yang tidak benar, dan dapat diajukan oleh WP dalam negeri, Dirjen Pajak, pejabat berwenang mitra P3B, atau WNI terkait perlakuan diskriminatif.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 94,
+        "kutipan": "Permintaan pelaksanaan MAP dapat diajukan bersamaan dengan permohonan keberatan, banding atau pengurangan/pembatalan SKP yang tidak benar"
+      }
+    ],
+    "tags": [
+      "Pasal 27C UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Khusus KUP (Wakil, Kuasa, Pihak Lain)",
+    "subtopik": "Wakil Wajib Pajak (Badan, Pailit, Likuidasi, WBT, Pengampuan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Sebuah badan usaha dinyatakan pailit oleh pengadilan niaga. Berdasarkan ketentuan khusus KUP dalam materi, pihak yang bertindak sebagai Wakil Wajib Pajak atas badan tersebut adalah...",
+    "opsi": {
+      "A": "likuidator",
+      "B": "pengurus badan sebelum dinyatakan pailit",
+      "C": "pengampu",
+      "D": "kurator"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan badan yang dinyatakan pailit diwakili oleh kurator, berbeda dengan badan dalam likuidasi yang diwakili likuidator dan badan dalam pembubaran yang diwakili orang/badan yang ditugasi melakukan pemberesan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 102,
+        "kutipan": "badan yang dinyatakan pailit oleh kurator"
+      }
+    ],
+    "tags": [
+      "Ketentuan Khusus KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Khusus KUP (Wakil, Kuasa, Pihak Lain)",
+    "subtopik": "Kuasa Wajib Pajak (Ps.32 ayat 3 UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai kuasa Wajib Pajak untuk menjalankan hak dan memenuhi kewajiban perpajakan diatur dalam...",
+    "opsi": {
+      "A": "Pasal 32 ayat (3) UU KUP",
+      "B": "Pasal 32 ayat (2) UU KUP",
+      "C": "Pasal 36 ayat (1) UU KUP",
+      "D": "Pasal 27C UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mengutip ketentuan: Orang pribadi atau badan dapat menunjuk seorang kuasa dengan surat kuasa khusus untuk menjalankan hak dan memenuhi kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan, yang bersumber dari Pasal 32 ayat (3) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 103,
+        "kutipan": "PASAL 32 ayat (3) UU KUP"
+      }
+    ],
+    "tags": [
+      "Pasal 32 ayat (3) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-03-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketentuan Khusus KUP (Wakil, Kuasa, Pihak Lain)",
+    "subtopik": "Penunjukan Pihak Lain sebagai Pemotong/Pemungut Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan PMK 60/2022 sebagaimana disebutkan dalam materi, pihak yang ditunjuk sebagai Pemotong/Pemungut adalah...",
+    "opsi": {
+      "A": "Market Place dan Ritel Daring untuk pengadaan barang/jasa dalam sistem informasi pengadaan pemerintah",
+      "B": "Penyelenggara PMSE atas transaksi Kripto",
+      "C": "PPMSE Dalam Negeri dan Luar Negeri atas transaksi Pemanfaatan BKP tidak berwujud dan JKP dari luar pabean",
+      "D": "Penyelenggara Layanan Pinjam Meminjam Online (Fintech)"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi memberikan contoh pihak lain yang ditunjuk sebagai pemotong/pemungut: PMK 58/2022 (Market Place & Ritel Daring), PMK 60/2022 (PPMSE DN dan LN atas pemanfaatan BKP tidak berwujud dan JKP dari luar pabean), PMK 68/2022 (transaksi Kripto), dan PMK 69/2022 (Fintech).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 104,
+        "kutipan": "PMK 60/2022 : PPMSE DN dan LN atas transaksi Pemanfaatan BKP tidak berwujud dan JKP dari luar pabean"
+      }
+    ],
+    "tags": [
+      "PMK-60/2022"
+    ]
+  },
+  {
+    "id": "ADV-03-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Pengusaha, Pengusaha Kena Pajak & Pengusaha Kecil (Batasan Rp4,8 Miliar)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Definisi Pengusaha Kena Pajak sebagaimana diatur dalam Pasal 1 angka 15 UU PPN adalah...",
+    "opsi": {
+      "A": "orang pribadi atau badan yang melakukan usaha perdagangan dan mengimpor barang",
+      "B": "Pengusaha yang melakukan penyerahan BKP dan/atau JKP yang dikenai pajak berdasarkan UU PPN",
+      "C": "Pengusaha yang peredaran brutonya tidak lebih dari Rp4.800.000.000",
+      "D": "Pengusaha yang telah terdaftar sebagai Wajib Pajak di KPP tempat kedudukannya"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi mengutip Pasal 1 angka 15 UU PPN: Pengusaha Kena Pajak adalah Pengusaha yang melakukan penyerahan BKP dan/atau JKP yang dikenai pajak berdasarkan UU PPN, berbeda dengan definisi Pengusaha (Pasal 1 angka 14) dan Pengusaha Kecil.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 107,
+        "kutipan": "Pengusaha yang melakukan penyerahan BKP dan/atau JKP yang dikenai pajak berdasarkan UU PPN (Pasal 1angka 15 UU PPN)"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 15 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-03-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Pengusaha, Pengusaha Kena Pajak & Pengusaha Kecil (Batasan Rp4,8 Miliar)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batasan peredaran bruto dan/atau penerimaan bruto bagi Pengusaha Kecil dalam satu tahun buku sebagaimana diatur PMK 197/PMK.03/2013 adalah tidak lebih dari...",
+    "opsi": {
+      "A": "Rp1.800.000.000",
+      "B": "Rp2.400.000.000",
+      "C": "Rp3.600.000.000",
+      "D": "Rp4.800.000.000"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan Pengusaha Kecil adalah pengusaha yang selama satu tahun buku melakukan penyerahan BKP dan/atau JKP dengan jumlah peredaran bruto dan/atau penerimaan bruto tidak lebih dari Rp4.800.000.000 sesuai PMK 197/PMK.03/2013.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 107,
+        "kutipan": "jumlah peredaran bruto dan/atau penerimaan bruto tidak lebih dari Rp4.800.000.000,- (empat milyar delapan ratus juta rupiah)"
+      }
+    ],
+    "tags": [
+      "PMK-197/PMK.03/2013"
+    ]
+  },
+  {
+    "id": "ADV-03-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Pengusaha, Pengusaha Kena Pajak & Pengusaha Kecil (Batasan Rp4,8 Miliar)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan PMK-164/2023 sebagaimana digambarkan dalam materi, saat mulai kewajiban PKP secara default (apabila Wajib Pajak tidak menyampaikan pemberitahuan) adalah...",
+    "opsi": {
+      "A": "Masa Pajak pertama Tahun Buku berikutnya",
+      "B": "Masa Pajak saat terbitnya SPPKP",
+      "C": "Masa Pajak saat peredaran bruto melebihi Rp4,8 miliar",
+      "D": "Masa Pajak terakhir Tahun Buku berjalan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan default mulai kewajiban PKP adalah Masa Pajak pertama Tahun Buku berikutnya, namun WP dapat memilih memulai kewajiban sebagai PKP sebelum Masa Pajak tersebut dengan menyampaikan pemberitahuan Masa Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 108,
+        "kutipan": "Default Mulai kewajiban PKP Masa Pajak pertama Tahun Buku berikutnya"
+      }
+    ],
+    "tags": [
+      "PMK-164/2023"
+    ]
+  },
+  {
+    "id": "ADV-03-052",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Subjek dan Objek Pajak",
+    "subtopik": "Pengusaha, Pengusaha Kena Pajak & Pengusaha Kecil (Batasan Rp4,8 Miliar)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PT ABC terdaftar sebagai Wajib Pajak sejak 2 Januari 2023 dengan tahun buku Januari-Desember. Berdasarkan data peredaran bruto bulanan pada materi (Januari Rp1.100.000.000; Februari Rp2.175.000.000; Maret Rp50.000.000; April Rp1.200.000.000; Mei Rp1.150.000.000), peredaran bruto kumulatif PT ABC pertama kali melebihi Rp4.800.000.000 pada bulan...",
+    "opsi": {
+      "A": "Maret 2023",
+      "B": "April 2023",
+      "C": "Mei 2023",
+      "D": "Juni 2023"
+    },
+    "kunci": "C",
+    "pembahasan": "Akumulasi peredaran bruto PT ABC Januari-April = Rp1.100.000.000+Rp2.175.000.000+Rp50.000.000+Rp1.200.000.000 = Rp4.525.000.000 (belum melebihi Rp4,8 miliar). Ditambah Mei Rp1.150.000.000 menjadi Rp5.675.000.000, sehingga batasan Rp4,8 miliar pertama kali terlampaui pada Mei 2023.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 110,
+        "kutipan": "Januari 1,100,000,000 Februari 2,175,000,000 Maret 50,000,000 April 1,200,000,000 Mei 1,150,000,000"
+      }
+    ],
+    "tags": [
+      "PMK-197/PMK.03/2013",
+      "PMK-164/2023"
+    ]
+  }
+]

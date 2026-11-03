@@ -1,0 +1,1440 @@
+[
+  {
+    "id": "ADV-05-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang PPN - Umum (Tempat Tinggal/Kedudukan & Tempat Kegiatan Usaha)",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pak Budi adalah Pengusaha Kena Pajak Orang Pribadi yang menjalankan usaha dagang di rumah tempat tinggalnya sendiri. Atas penyerahan BKP yang dilakukannya, tempat pajak terutang berada di...",
+    "opsi": {
+      "A": "tempat tinggal dan/atau tempat kegiatan usaha Pak Budi",
+      "B": "tempat kedudukan dan tempat kegiatan usaha badan hukum terdekat",
+      "C": "tempat BKP dimasukkan dan dipungut melalui DJBC",
+      "D": "Kantor Pusat Direktorat Jenderal Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Untuk PKP Orang Pribadi, tempat terutang pajak atas penyerahan BKP/JKP adalah tempat tinggal dan/atau tempat kegiatan usaha, sedangkan untuk PKP Badan di tempat kedudukan dan tempat kegiatan usaha.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 141,
+        "kutipan": "PKP OP : tempat tinggal dan/atau tempat kegiatan usaha, PKP Badan: tempat kedudukan dan tempat kegiatan usaha"
+      }
+    ],
+    "tags": [
+      "Tempat Terutang PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang PPN - Umum (Tempat Tinggal/Kedudukan & Tempat Kegiatan Usaha)",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "PT Sinar Abadi merupakan Pengusaha Kena Pajak Badan yang berkedudukan di Jakarta dan memiliki tempat kegiatan usaha di Surabaya. Tempat pajak terutang atas penyerahan BKP yang dilakukan PT Sinar Abadi adalah...",
+    "opsi": {
+      "A": "tempat tinggal direktur utama PT Sinar Abadi",
+      "B": "tempat domisili pemegang saham mayoritas",
+      "C": "tempat kedudukan dan tempat kegiatan usaha PT Sinar Abadi",
+      "D": "tempat kedudukan saja tanpa memperhitungkan tempat kegiatan usaha"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagi PKP Badan, tempat pajak terutang ditentukan berdasarkan tempat kedudukan dan tempat kegiatan usaha, sebagaimana tabel tempat terutang umum atas penyerahan BKP/JKP dan ekspor.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 141,
+        "kutipan": "PKP Badan: tempat kedudukan dan tempat kegiatan usaha"
+      }
+    ],
+    "tags": [
+      "Tempat Terutang PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang PPN - Umum (Tempat Tinggal/Kedudukan & Tempat Kegiatan Usaha)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal kegiatan impor Barang Kena Pajak, tempat pajak terutang berada di...",
+    "opsi": {
+      "A": "tempat tinggal importir",
+      "B": "tempat BKP dimasukkan dan dipungut melalui Direktorat Jenderal Bea dan Cukai",
+      "C": "tempat kedudukan PKP yang melakukan impor",
+      "D": "Kantor Pelayanan Pajak tempat PKP terdaftar"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk kegiatan impor BKP, tempat pajak terutang adalah tempat BKP dimasukkan dan dipungut melalui Direktorat Jenderal Bea dan Cukai (DJBC), berbeda dengan tempat terutang penyerahan BKP/JKP biasa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 141,
+        "kutipan": "Impor BKP tempat BKP dimasukkan dan dipungut melalui DJBC"
+      }
+    ],
+    "tags": [
+      "Tempat Terutang PPN",
+      "Impor BKP"
+    ]
+  },
+  {
+    "id": "ADV-05-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang PPN - Umum (Tempat Tinggal/Kedudukan & Tempat Kegiatan Usaha)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan objek PPN yang tempat terutangnya mengikuti tempat tinggal dan/atau tempat kegiatan usaha PKP, KECUALI...",
+    "opsi": {
+      "A": "penyerahan BKP",
+      "B": "penyerahan JKP",
+      "C": "ekspor BKP Berwujud",
+      "D": "impor BKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Impor BKP memiliki aturan khusus: tempat terutangnya adalah tempat BKP dimasukkan dan dipungut melalui DJBC, bukan tempat tinggal/kedudukan dan/atau tempat kegiatan usaha PKP seperti penyerahan dan ekspor BKP/JKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 141,
+        "kutipan": "Impor BKP tempat BKP dimasukkan dan dipungut melalui DJBC"
+      }
+    ],
+    "tags": [
+      "Tempat Terutang PPN",
+      "Impor BKP"
+    ]
+  },
+  {
+    "id": "ADV-05-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang Khusus (Pemusatan PKP, Impor, Pemanfaatan dari Luar Daerah Pabean)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila PKP memiliki lebih dari satu tempat kegiatan usaha di luar tempat tinggal atau tempat kedudukannya, maka berdasarkan ketentuan tempat terutang khusus...",
+    "opsi": {
+      "A": "setiap tempat kegiatan usaha tersebut merupakan tempat terutangnya pajak dan PKP wajib melaporkan usahanya untuk dikukuhkan sebagai PKP",
+      "B": "hanya tempat kegiatan usaha utama yang menjadi tempat terutang pajak",
+      "C": "PKP wajib memusatkan seluruh kewajiban PPN di kantor pusat",
+      "D": "tempat terutang otomatis mengikuti alamat NPWP pusat tanpa pemberitahuan"
+    },
+    "kunci": "A",
+    "pembahasan": "Apabila PKP mempunyai satu atau lebih tempat kegiatan usaha di luar tempat tinggal/kedudukannya, setiap tempat tersebut merupakan tempat terutangnya pajak, dan PKP wajib melaporkan usahanya untuk dikukuhkan sebagai PKP di tempat tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 142,
+        "kutipan": "setiap tempat tersebut merupakan tempat terutangnya pajak, dan PKP dimaksud wajib melaporkan usahanya untuk dikukuhkan sebagai PKP"
+      }
+    ],
+    "tags": [
+      "Tempat Terutang Khusus"
+    ]
+  },
+  {
+    "id": "ADV-05-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang Khusus (Pemusatan PKP, Impor, Pemanfaatan dari Luar Daerah Pabean)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila PKP mempunyai lebih dari satu tempat pajak terutang dalam wilayah kerja 1 (satu) KPP dan menghendaki lebih dari 1 (satu) tempat pajak terutang, maka PKP wajib...",
+    "opsi": {
+      "A": "mengajukan permohonan pengukuhan PKP baru di setiap tempat",
+      "B": "menunggu penetapan jabatan dari Direktur Jenderal Pajak",
+      "C": "memberitahukan kepada Direktur Jenderal Pajak",
+      "D": "membuat perjanjian notariil antar tempat kegiatan usaha"
+    },
+    "kunci": "C",
+    "pembahasan": "PKP yang memiliki lebih dari satu tempat terutang dalam wilayah kerja 1 KPP pada dasarnya memilih satu tempat kegiatan usaha sebagai penanggung jawab, kecuali menghendaki lebih dari 1 tempat pajak terutang maka wajib memberitahukan kepada Direktur Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 142,
+        "kutipan": "kecuali apabila PKP tersebut menghendaki lebih dari 1 (satu) tempat pajak terutang, PKP wajib memberitahukan kepada Direktur Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "Tempat Terutang Khusus"
+    ]
+  },
+  {
+    "id": "ADV-05-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang Khusus (Pemusatan PKP, Impor, Pemanfaatan dari Luar Daerah Pabean)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pemusatan atau pemilihan tempat terutang oleh PKP yang memiliki pajak terutang pada lebih dari 1 (satu) tempat kegiatan usaha dilakukan melalui...",
+    "opsi": {
+      "A": "keputusan rapat umum pemegang saham",
+      "B": "pemberitahuan secara tertulis kepada Direktur Jenderal Pajak",
+      "C": "permohonan lisan kepada Kepala KPP terdekat",
+      "D": "pengumuman di media massa nasional"
+    },
+    "kunci": "B",
+    "pembahasan": "Apabila PKP terutang pajak pada lebih dari 1 tempat kegiatan usaha, PKP dapat menyampaikan pemberitahuan secara tertulis kepada Direktur Jenderal Pajak untuk memilih 1 tempat atau lebih sebagai tempat terutangnya pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 143,
+        "kutipan": "dapat menyampaikan pemberitahuan secara tertulis kepada Direktur Jenderal Pajak untuk memilih 1 (satu) tempat atau lebih sebagai tempat terutangnya pajak"
+      }
+    ],
+    "tags": [
+      "Pemusatan Tempat Terutang"
+    ]
+  },
+  {
+    "id": "ADV-05-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PPN - Saat dan Tempat Terutang",
+    "subtopik": "Tempat Terutang Khusus (Pemusatan PKP, Impor, Pemanfaatan dari Luar Daerah Pabean)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Orang pribadi atau badan, baik sebagai PKP maupun bukan PKP, yang memanfaatkan JKP dan/atau BKP Tidak Berwujud dari luar Daerah Pabean di dalam Daerah Pabean, tetap terutang pajak di...",
+    "opsi": {
+      "A": "tempat Direktorat Jenderal Bea dan Cukai terdekat",
+      "B": "tempat kedudukan Direktorat Jenderal Pajak Pusat",
+      "C": "tempat penyedia jasa luar negeri berkedudukan",
+      "D": "tempat tinggal dan/atau tempat kegiatan usaha orang pribadi, atau tempat kedudukan dan/atau tempat kegiatan usaha badan tersebut"
+    },
+    "kunci": "D",
+    "pembahasan": "Orang pribadi/badan yang memanfaatkan BKP Tidak Berwujud dan/atau JKP dari luar Daerah Pabean tetap terutang pajak di tempat tinggal/kegiatan usaha (bagi OP) atau tempat kedudukan/kegiatan usaha (bagi badan), bukan di tempat penyedia jasa luar negeri berada.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 145,
+        "kutipan": "tetap terutang pajak di tempat tinggal dan/atau tempat kegiatan usaha orang pribadi atau di tempat kedudukan dan/atau tempat kegiatan usaha badan tersebut"
+      }
+    ],
+    "tags": [
+      "Pemanfaatan JKP Luar Daerah Pabean"
+    ]
+  },
+  {
+    "id": "ADV-05-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Definisi & Fungsi Faktur Pajak (Pasal 1 angka 23 UU PPN)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 1 angka 23 UU PPN, Faktur Pajak didefinisikan sebagai...",
+    "opsi": {
+      "A": "bukti pungutan pajak yang dibuat oleh Pengusaha Kena Pajak yang melakukan penyerahan Barang Kena Pajak atau penyerahan Jasa Kena Pajak",
+      "B": "bukti pembayaran pajak yang dibuat oleh Direktorat Jenderal Pajak kepada Wajib Pajak",
+      "C": "dokumen yang diterbitkan Bea Cukai atas kegiatan impor barang",
+      "D": "surat ketetapan pajak yang diterbitkan setelah pemeriksaan selesai"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 1 angka 23 UU PPN mendefinisikan Faktur Pajak sebagai bukti pungutan pajak yang dibuat oleh PKP yang melakukan penyerahan BKP atau penyerahan JKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 147,
+        "kutipan": "Faktur Pajak adalah bukti pungutan pajak yang dibuat oleh Pengusaha Kena Pajak yang melakukan penyerahan Barang Kena Pajak atau penyerahan Jasa Kena Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 23 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Definisi & Fungsi Faktur Pajak (Pasal 1 angka 23 UU PPN)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini adalah fungsi Faktur Pajak, KECUALI sebagai...",
+    "opsi": {
+      "A": "bukti pungutan pajak atas penyerahan BKP dan/atau JKP",
+      "B": "tanda telah memungut PPN dari pembeli atas penyerahan BKP dan/atau JKP",
+      "C": "sarana permohonan restitusi kelebihan pembayaran PPh",
+      "D": "sarana bagi PKP untuk mengkreditkan Pajak Masukan"
+    },
+    "kunci": "C",
+    "pembahasan": "Fungsi Faktur Pajak adalah sebagai bukti pungutan pajak (PPN/PPnBM), tanda telah memungut PPN dari pembeli, dan sarana bagi PKP untuk mengkreditkan Pajak Masukan. Faktur Pajak tidak berfungsi sebagai sarana restitusi PPh.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 147,
+        "kutipan": "bukti pungutan pajak (PPN atau PPN dan PPNBM) atas penyerahan BKP dan/atau JKP; tanda telah memungut PPN...; sarana bagi PKP untuk mengkreditkan Pajak Masukan"
+      }
+    ],
+    "tags": [
+      "Fungsi Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Kewajiban & Saat Pembuatan Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "PKP wajib membuat Faktur Pajak untuk setiap penyerahan BKP, penyerahan JKP, ekspor BKP berwujud, ekspor BKP tidak berwujud, dan...",
+    "opsi": {
+      "A": "pemberian hadiah kepada karyawan",
+      "B": "ekspor JKP",
+      "C": "impor BKP oleh pihak lain",
+      "D": "pembayaran utang kepada pemasok"
+    },
+    "kunci": "B",
+    "pembahasan": "PKP wajib membuat Faktur Pajak untuk setiap penyerahan BKP, penyerahan JKP, ekspor BKP berwujud, ekspor BKP tidak berwujud, dan/atau ekspor JKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 148,
+        "kutipan": "PKP wajib membuat Faktur Pajak untuk setiap: penyerahan BKP; penyerahan JKP; ekspor BKP berwujud; ekspor BKP tidak berwujud; dan/atau ekspor JKP"
+      }
+    ],
+    "tags": [
+      "Kewajiban Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Kewajiban & Saat Pembuatan Faktur Pajak",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak harus dibuat pada saat penerimaan pembayaran apabila...",
+    "opsi": {
+      "A": "penyerahan BKP telah selesai dilakukan sepenuhnya",
+      "B": "PKP memilih membuat Faktur Pajak gabungan pada akhir bulan",
+      "C": "pembeli mengajukan permohonan tertulis",
+      "D": "penerimaan pembayaran terjadi sebelum penyerahan BKP dan/atau JKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Faktur Pajak harus dibuat pada saat penerimaan pembayaran dalam hal penerimaan pembayaran terjadi sebelum penyerahan BKP dan/atau JKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 148,
+        "kutipan": "saat penerimaan pembayaran dalam hal penerimaan pembayaran terjadi sebelum penyerahan BKP dan/atau JKP"
+      }
+    ],
+    "tags": [
+      "Saat Pembuatan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Kewajiban & Saat Pembuatan Faktur Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "CV Mitra Jaya mengerjakan proyek pembangunan untuk kliennya secara bertahap sesuai termin pekerjaan. Atas penerimaan pembayaran termin tersebut, CV Mitra Jaya wajib membuat Faktur Pajak pada saat...",
+    "opsi": {
+      "A": "penerimaan pembayaran termin dalam hal penyerahan sebagian tahap pekerjaan",
+      "B": "seluruh tahap pekerjaan telah selesai dilakukan",
+      "C": "akhir tahun buku CV Mitra Jaya",
+      "D": "penandatanganan kontrak kerja dengan klien"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam hal penyerahan sebagian tahap pekerjaan (termin), Faktur Pajak dibuat pada saat penerimaan pembayaran termin tersebut, bukan menunggu seluruh pekerjaan selesai.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 148,
+        "kutipan": "saat penerimaan pembayaran termin dalam hal penyerahan sebagian tahap pekerjaan"
+      }
+    ],
+    "tags": [
+      "Saat Pembuatan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Kewajiban & Saat Pembuatan Faktur Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan saat pembuatan Faktur Pajak sebagaimana diatur dalam materi, KECUALI...",
+    "opsi": {
+      "A": "saat penyerahan BKP dan/atau penyerahan JKP",
+      "B": "saat ekspor BKP berwujud, BKP tidak berwujud, dan/atau ekspor JKP",
+      "C": "saat diterbitkannya Surat Ketetapan Pajak Kurang Bayar",
+      "D": "saat lain yang diatur berdasarkan PMK tersendiri"
+    },
+    "kunci": "C",
+    "pembahasan": "Faktur Pajak harus dibuat pada saat penyerahan, saat penerimaan pembayaran (termasuk termin), saat ekspor, atau saat lain yang diatur PMK tersendiri. Penerbitan SKPKB bukan termasuk saat pembuatan Faktur Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 148,
+        "kutipan": "saat penyerahan BKP dan/atau penyerahan JKP; ...; saat ekspor BKP berwujud, BKP tidak berwujud, dan/atau ekspor JKP; atau saat lain yang diatur berdasarkan PMK tersendiri"
+      }
+    ],
+    "tags": [
+      "Saat Pembuatan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak Gabungan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Faktur Pajak gabungan adalah 1 (satu) Faktur Pajak yang meliputi seluruh penyerahan yang dilakukan kepada pembeli BKP dan/atau penerima JKP yang sama selama...",
+    "opsi": {
+      "A": "1 (satu) tahun pajak",
+      "B": "1 (satu) bulan kalender",
+      "C": "3 (tiga) bulan kalender",
+      "D": "1 (satu) masa pajak yang dipilih PKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Faktur Pajak gabungan meliputi seluruh penyerahan kepada pembeli/penerima yang sama selama 1 (satu) bulan kalender, dan harus dibuat paling lama pada akhir bulan penyerahan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 149,
+        "kutipan": "1 (satu) Faktur Pajak yang meliputi seluruh penyerahan yang dilakukan kepada pembeli BKP dan/atau penerima JKP yang sama selama 1 (satu) bulan kalender"
+      }
+    ],
+    "tags": [
+      "Faktur Pajak Gabungan"
+    ]
+  },
+  {
+    "id": "ADV-05-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak Gabungan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PT A melakukan penyerahan BKP kepada PT B sepanjang April 2022 dengan rincian: tanggal 4 (Rp1.000.000), 11 (Rp1.500.000), 18 (Rp2.000.000), 25 (Rp2.500.000), dan 30 (Rp3.000.000), ditambah penerimaan uang muka tanggal 26 sebesar Rp250.000 untuk penyerahan Mei 2022. Jika PT A membuat Faktur Pajak gabungan dengan 1 (satu) kode transaksi, Dasar Pengenaan Pajak dalam Faktur Pajak gabungan tersebut adalah...",
+    "opsi": {
+      "A": "Rp9.000.000,00",
+      "B": "Rp9.250.000,00",
+      "C": "Rp10.000.000,00",
+      "D": "Rp10.250.000,00"
+    },
+    "kunci": "D",
+    "pembahasan": "DPP Faktur Pajak gabungan meliputi seluruh penyerahan dan uang muka yang diterima selama bulan April 2022: Rp1.000.000 + Rp1.500.000 + Rp2.000.000 + Rp2.500.000 + Rp250.000 + Rp3.000.000 = Rp10.250.000.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 150,
+        "kutipan": "Dasar Pengenaan Pajak sebesar Rp10.250.000,00 (Rp1.000.000,00 + Rp1.500.000,00 + Rp2.000.000,00 + Rp2.500.000,00 + Rp250.000,00 + Rp3.000.000,00)"
+      }
+    ],
+    "tags": [
+      "Faktur Pajak Gabungan",
+      "PER-03/PJ/2022"
+    ]
+  },
+  {
+    "id": "ADV-05-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak Gabungan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "PT A merupakan PKP yang menyerahkan BKP kepada CV C berupa penjualan komputer (kode transaksi 01) pada tanggal 2, 9, 16, 23, dan 30 April 2022, serta pemberian cuma-cuma keyboard dan mouse (kode transaksi 04) pada tanggal 4, 11, 18, dan 25 April 2022. Jika PT A memilih membuat Faktur Pajak gabungan, Faktur Pajak gabungan untuk kode transaksi 04 wajib dibuat paling lama pada tanggal...",
+    "opsi": {
+      "A": "30 April 2022",
+      "B": "25 April 2022 tanpa kemungkinan penundaan",
+      "C": "4 Mei 2022",
+      "D": "akhir Mei 2022"
+    },
+    "kunci": "A",
+    "pembahasan": "PT A dapat membuat Faktur Pajak gabungan kode transaksi 04 pada tanggal 25 April 2022 atau paling lama tanggal 30 April 2022, sesuai batas akhir bulan penyerahan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 151,
+        "kutipan": "1 (satu) Faktur Pajak gabungan pada tanggal 25 April 2022 atau paling lama tanggal 30 April 2022 dengan menggunakan kode transaksi 04"
+      }
+    ],
+    "tags": [
+      "Faktur Pajak Gabungan",
+      "Kode Transaksi"
+    ]
+  },
+  {
+    "id": "ADV-05-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Keterangan yang Wajib Dicantumkan dalam Faktur Pajak",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Seorang warga negara asing yang berstatus sebagai subjek pajak luar negeri orang pribadi membeli BKP dari sebuah PKP di Indonesia. Identitas pembeli yang wajib dicantumkan PKP dalam Faktur Pajak atas transaksi tersebut meliputi...",
+    "opsi": {
+      "A": "nama, alamat, dan NPWP",
+      "B": "nama, alamat, dan NIK",
+      "C": "nama, alamat, dan nomor paspor",
+      "D": "nama dan alamat saja tanpa identitas lain"
+    },
+    "kunci": "C",
+    "pembahasan": "Identitas pembeli bagi subjek pajak luar negeri orang pribadi yang wajib dicantumkan dalam Faktur Pajak adalah nama, alamat, dan nomor paspor.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 152,
+        "kutipan": "nama, alamat, dan nomor paspor, bagi subjek pajak luar negeri orang pribadi"
+      }
+    ],
+    "tags": [
+      "Keterangan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Keterangan yang Wajib Dicantumkan dalam Faktur Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 27 ayat (3) PP-44/2022, kedudukan NIK dalam pembuatan Faktur Pajak dan pengkreditan Pajak Masukan adalah...",
+    "opsi": {
+      "A": "hanya berlaku sebagai identitas tambahan pelengkap NPWP",
+      "B": "mempunyai kedudukan yang sama dengan NPWP",
+      "C": "tidak dapat digunakan untuk pengkreditan Pajak Masukan",
+      "D": "hanya berlaku bagi Wajib Pajak badan tertentu"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 27 ayat (3) PP-44/2022 menyatakan bahwa NIK mempunyai kedudukan yang sama dengan NPWP dalam rangka pembuatan Faktur Pajak dan pengkreditan Pajak Masukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 152,
+        "kutipan": "NIK mempunyai kedudukan yang sama dengan NPWP dalam rangka pembuatan Faktur Pajak dan pengkreditan Pajak Masukan"
+      }
+    ],
+    "tags": [
+      "Pasal 27 ayat (3) PP-44/2022",
+      "NIK"
+    ]
+  },
+  {
+    "id": "ADV-05-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Keterangan yang Wajib Dicantumkan dalam Faktur Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk keterangan yang wajib dicantumkan dalam Faktur Pajak, KECUALI...",
+    "opsi": {
+      "A": "jenis barang atau jasa, jumlah Harga Jual atau Penggantian, dan potongan harga",
+      "B": "PPN yang dipungut dan PPnBM yang dipungut",
+      "C": "kode, nomor seri, dan tanggal pembuatan Faktur Pajak",
+      "D": "nomor rekening bank tujuan pembayaran PKP penjual"
+    },
+    "kunci": "D",
+    "pembahasan": "Keterangan wajib dalam Faktur Pajak meliputi identitas penjual dan pembeli, jenis barang/jasa dan harga, PPN dan PPnBM yang dipungut, kode/nomor seri/tanggal FP, serta nama dan tanda tangan yang berhak. Nomor rekening bank bukan termasuk keterangan wajib.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 152,
+        "kutipan": "jenis barang atau jasa, jumlah Harga Jual atau Penggantian, dan potongan harga; PPN yang dipungut; PPnBM yang dipungut; kode, nomor seri, dan tanggal pembuatan Faktur Pajak"
+      }
+    ],
+    "tags": [
+      "Keterangan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Keterangan yang Wajib Dicantumkan dalam Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bagi Wajib Pajak dalam negeri badan dan instansi pemerintah selaku pembeli BKP, identitas yang wajib dicantumkan dalam Faktur Pajak meliputi...",
+    "opsi": {
+      "A": "nama, alamat, dan NPWP",
+      "B": "nama, alamat, dan nomor paspor",
+      "C": "nama dan alamat saja",
+      "D": "nama, alamat, dan NIK"
+    },
+    "kunci": "A",
+    "pembahasan": "Identitas pembeli bagi Wajib Pajak dalam negeri badan dan instansi pemerintah yang wajib dicantumkan dalam Faktur Pajak adalah nama, alamat, dan NPWP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 152,
+        "kutipan": "nama, alamat, dan NPWP, bagi Wajib Pajak dalam negeri badan dan instansi pemerintah"
+      }
+    ],
+    "tags": [
+      "Keterangan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak PKP Pedagang Eceran & Dokumen Tertentu yang Dipersamakan dengan FP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "PKP yang melakukan penyerahan BKP/JKP kepada pembeli/penerima dengan karakteristik konsumen akhir, termasuk melalui PMSE, dikategorikan sebagai...",
+    "opsi": {
+      "A": "PKP Eksportir",
+      "B": "PKP Pedagang Eceran",
+      "C": "PKP Pemungut",
+      "D": "Pengusaha Kecil"
+    },
+    "kunci": "B",
+    "pembahasan": "PKP yang menyerahkan BKP/JKP kepada pembeli/penerima dengan karakteristik konsumen akhir, termasuk melalui PMSE, merupakan PKP Pedagang Eceran, dan penetapannya tidak ditentukan berdasarkan KLU.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 153,
+        "kutipan": "PKP yang melakukan penyerahan BKP/JKP kepada pembeli BKP/ penerima JKP dengan karakteristik konsumen akhir, termasuk yang dilakukan melalui PMSE, merupakan PKP Pedagang Eceran"
+      }
+    ],
+    "tags": [
+      "PKP Pedagang Eceran"
+    ]
+  },
+  {
+    "id": "ADV-05-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak PKP Pedagang Eceran & Dokumen Tertentu yang Dipersamakan dengan FP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penetapan status PKP Pedagang Eceran, sebagaimana diatur dalam materi, tidak ditentukan berdasarkan...",
+    "opsi": {
+      "A": "karakteristik transaksi dengan konsumen akhir",
+      "B": "apakah penyerahan dilakukan melalui PMSE atau tidak",
+      "C": "jenis barang/jasa yang diserahkan kepada konsumen akhir",
+      "D": "Klasifikasi Lapangan Usaha (KLU)"
+    },
+    "kunci": "D",
+    "pembahasan": "Status PKP Pedagang Eceran ditentukan oleh karakteristik transaksi dengan konsumen akhir (termasuk melalui PMSE), bukan berdasarkan Klasifikasi Lapangan Usaha (KLU) PKP tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 153,
+        "kutipan": "Tidak ditentukan berdasarkan KLU."
+      }
+    ],
+    "tags": [
+      "PKP Pedagang Eceran"
+    ]
+  },
+  {
+    "id": "ADV-05-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak PKP Pedagang Eceran & Dokumen Tertentu yang Dipersamakan dengan FP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan karakteristik konsumen akhir sebagaimana dimaksud dalam ketentuan Faktur Pajak PKP Pedagang Eceran, KECUALI pembeli...",
+    "opsi": {
+      "A": "mengonsumsi secara langsung barang dan/atau jasa yang dibeli",
+      "B": "tidak menggunakan barang/jasa yang dibeli untuk kegiatan usaha",
+      "C": "merupakan Pengusaha Kena Pajak yang terdaftar di KPP yang sama",
+      "D": "tidak memanfaatkan barang/jasa yang diterima untuk kegiatan usaha"
+    },
+    "kunci": "C",
+    "pembahasan": "Karakteristik konsumen akhir meliputi: mengonsumsi secara langsung barang/jasa yang dibeli/diterima, dan tidak menggunakan/memanfaatkannya untuk kegiatan usaha. Status terdaftar di KPP yang sama bukan merupakan karakteristik konsumen akhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 153,
+        "kutipan": "pembeli barang dan/atau penerima jasa mengonsumsi secara langsung barang dan/atau jasa yang dibeli/diterima; dan ... tidak menggunakan atau memanfaatkan barang dan/atau jasa yang dibeli/diterima untuk kegiatan usaha"
+      }
+    ],
+    "tags": [
+      "Karakteristik Konsumen Akhir"
+    ]
+  },
+  {
+    "id": "ADV-05-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak PKP Pedagang Eceran & Dokumen Tertentu yang Dipersamakan dengan FP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak dapat ditetapkan oleh Direktur Jenderal Pajak antara lain dalam hal...",
+    "opsi": {
+      "A": "pihak yang seharusnya membuat Faktur Pajak berada di luar Daerah Pabean",
+      "B": "PKP penjual lupa membuat Faktur Pajak tepat waktu",
+      "C": "pembeli berstatus bukan Pengusaha Kena Pajak",
+      "D": "terdapat sengketa pembayaran antara penjual dan pembeli"
+    },
+    "kunci": "A",
+    "pembahasan": "Dokumen tertentu dapat ditetapkan dipersamakan dengan Faktur Pajak antara lain apabila pihak yang seharusnya membuat Faktur Pajak berada di luar Daerah Pabean, misalnya SSP untuk pemanfaatan JKP dari luar Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 154,
+        "kutipan": "pihak yang seharusnya membuat Faktur Pajak berada di luar Daerah Pabean, misalnya, dalam hal pemanfaatan JKP dari luar Daerah Pabean, Surat Setoran Pajak dapat ditetapkan sebagai Faktur Pajak"
+      }
+    ],
+    "tags": [
+      "Dokumen Tertentu Dipersamakan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Faktur Pajak PKP Pedagang Eceran & Dokumen Tertentu yang Dipersamakan dengan FP",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Apabila dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak dibuat melewati jangka waktu tertentu sejak saat seharusnya dibuat, maka dokumen tersebut dianggap tidak dibuat dan PPN yang tercantum tidak dapat dikreditkan. Jangka waktu dimaksud adalah...",
+    "opsi": {
+      "A": "1 (satu) bulan",
+      "B": "3 (tiga) bulan",
+      "C": "6 (enam) bulan",
+      "D": "1 (satu) tahun"
+    },
+    "kunci": "B",
+    "pembahasan": "Dokumen tertentu yang dibuat melewati jangka waktu 3 (tiga) bulan sejak saat seharusnya dibuat dianggap tidak membuat dokumen tertentu, sehingga PPN yang tercantum tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 154,
+        "kutipan": "Dibuat melewati jangka waktu 3 (tiga) bulan sejak saat seharusnya dibuat dianggap tidak membuat dokumen tertentu"
+      }
+    ],
+    "tags": [
+      "Dokumen Tertentu Dipersamakan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Persyaratan Formal & Material Faktur Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Persyaratan formal Faktur Pajak, yaitu diisi secara benar, lengkap, dan jelas, diatur dalam...",
+    "opsi": {
+      "A": "Pasal 13 ayat (1) UU PPN",
+      "B": "Pasal 9 ayat (8) UU PPN",
+      "C": "Pasal 13 ayat (5) UU PPN",
+      "D": "Pasal 1 angka 23 UU PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Persyaratan formal Faktur Pajak (diisi benar, lengkap, dan jelas) diatur dalam Pasal 13 ayat (5) UU PPN; untuk dokumen tertentu yang dipersamakan dengan Faktur Pajak mengacu pada Pasal 13 ayat (6) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 155,
+        "kutipan": "Diisi secara benar, lengkap, dan jelas sesuai dengan ketentuan Pasal 13 ayat (5) UU PPN"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (5) UU PPN",
+      "Persyaratan Formal"
+    ]
+  },
+  {
+    "id": "ADV-05-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Persyaratan Formal & Material Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Persyaratan material Faktur Pajak terpenuhi apabila Faktur Pajak...",
+    "opsi": {
+      "A": "diisi dengan tanda tangan elektronik tersertifikasi",
+      "B": "dicetak menggunakan kop surat resmi perusahaan",
+      "C": "diterbitkan melalui aplikasi e-Faktur versi terbaru",
+      "D": "berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan BKP dan/atau JKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Persyaratan material terpenuhi apabila Faktur Pajak berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan BKP/JKP, ekspor, impor, atau pemanfaatan BKP TB/JKP dari luar Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 155,
+        "kutipan": "Berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan BKP dan/atau JKP"
+      }
+    ],
+    "tags": [
+      "Persyaratan Material"
+    ]
+  },
+  {
+    "id": "ADV-05-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Persyaratan Formal & Material Faktur Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam hal dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak, persyaratan formalnya mengacu pada...",
+    "opsi": {
+      "A": "Pasal 13 ayat (6) UU PPN",
+      "B": "Pasal 13 ayat (5) UU PPN",
+      "C": "Pasal 9 ayat (2) UU PPN",
+      "D": "Pasal 1 angka 24 UU PPN"
+    },
+    "kunci": "A",
+    "pembahasan": "Persyaratan formal untuk dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak mengacu pada Pasal 13 ayat (6) UU PPN, berbeda dengan Faktur Pajak biasa yang mengacu Pasal 13 ayat (5).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 155,
+        "kutipan": "Pasal 13 ayat (6) UU PPN untuk dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (6) UU PPN",
+      "Persyaratan Formal"
+    ]
+  },
+  {
+    "id": "ADV-05-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Faktur Pajak",
+    "subtopik": "Persyaratan Formal & Material Faktur Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Faktur Pajak yang diisi secara benar, lengkap, dan jelas sesuai Pasal 13 ayat (5) UU PPN, tetapi keterangan yang dicantumkan tidak sesuai dengan transaksi penyerahan BKP/JKP yang sesungguhnya terjadi, merupakan Faktur Pajak yang...",
+    "opsi": {
+      "A": "tidak memenuhi persyaratan formal maupun material",
+      "B": "memenuhi persyaratan material namun tidak memenuhi persyaratan formal",
+      "C": "memenuhi persyaratan formal namun tidak memenuhi persyaratan material",
+      "D": "memenuhi kedua persyaratan formal dan material sekaligus"
+    },
+    "kunci": "C",
+    "pembahasan": "Persyaratan formal (pengisian benar, lengkap, jelas) dan persyaratan material (keterangan sesuai keadaan sesungguhnya) merupakan dua syarat yang berdiri sendiri. Faktur Pajak dapat memenuhi persyaratan formal tanpa memenuhi persyaratan material apabila isinya tidak sesuai transaksi sesungguhnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 155,
+        "kutipan": "Persyaratan Formal ... Persyaratan Material ... Berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan BKP dan/atau JKP"
+      }
+    ],
+    "tags": [
+      "Persyaratan Formal dan Material"
+    ]
+  },
+  {
+    "id": "ADV-05-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Definisi Pajak Masukan & Prinsip Pengkreditan (Pasal 1 angka 24, Pasal 9 UU PPN)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Definisi Pajak Masukan diatur dalam...",
+    "opsi": {
+      "A": "Pasal 1 angka 23 UU PPN",
+      "B": "Pasal 1 angka 24 UU PPN",
+      "C": "Pasal 9 ayat (8) UU PPN",
+      "D": "Pasal 13 ayat (5) UU PPN"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 1 angka 24 UU PPN mendefinisikan Pajak Masukan sebagai PPN yang seharusnya sudah dibayar oleh PKP karena perolehan BKP/JKP, pemanfaatan BKP TB/JKP dari luar Daerah Pabean, dan/atau impor BKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 157,
+        "kutipan": "Pasal 1 angka 24 UU PPN: Pajak Masukan adalah PPN yang seharusnya sudah dibayar oleh PKP karena"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 24 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Definisi Pajak Masukan & Prinsip Pengkreditan (Pasal 1 angka 24, Pasal 9 UU PPN)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk penyebab timbulnya Pajak Masukan sebagaimana dimaksud Pasal 1 angka 24 UU PPN, KECUALI...",
+    "opsi": {
+      "A": "perolehan BKP dan/atau JKP",
+      "B": "pemanfaatan BKP tidak berwujud dan/atau JKP dari luar Daerah Pabean",
+      "C": "impor BKP",
+      "D": "penyerahan BKP kepada pembeli di dalam Daerah Pabean"
+    },
+    "kunci": "D",
+    "pembahasan": "Pajak Masukan timbul karena perolehan BKP/JKP, pemanfaatan BKP Tidak Berwujud/JKP dari luar Daerah Pabean, dan/atau impor BKP. Penyerahan BKP kepada pembeli justru menimbulkan Pajak Keluaran, bukan Pajak Masukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 157,
+        "kutipan": "perolehan BKP dan/atau JKP; pemanfaatan BKP tidak berwujud dan/atau JKP dari luar Daerah Pabean; dan/atau impor BKP"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 24 UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Definisi Pajak Masukan & Prinsip Pengkreditan (Pasal 1 angka 24, Pasal 9 UU PPN)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sesuai prinsip pengkreditan Pajak Masukan, bagi PKP yang telah melakukan penyerahan BKP/JKP atau ekspor namun dalam suatu Masa Pajak tidak terdapat penyerahan dan/atau ekspor dimaksud, maka Pajak Masukan dalam Masa Pajak tersebut...",
+    "opsi": {
+      "A": "tetap dapat dikreditkan oleh PKP sesuai ketentuan peraturan perundang-undangan",
+      "B": "otomatis hangus dan tidak dapat dikreditkan",
+      "C": "hanya dapat dikreditkan setelah PKP mengajukan keberatan",
+      "D": "wajib dikompensasikan ke tahun pajak berikutnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagi PKP yang telah melakukan penyerahan BKP/JKP/ekspor namun pada suatu Masa Pajak tidak terdapat penyerahan/ekspor dimaksud, Pajak Masukan dalam Masa Pajak itu tetap dapat dikreditkan sesuai ketentuan peraturan perundang-undangan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 158,
+        "kutipan": "Pajak Masukan dalam Masa Pajak dimaksud tetap dapat dikreditkan oleh PKP sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "Prinsip Pengkreditan Pajak Masukan"
+    ]
+  },
+  {
+    "id": "ADV-05-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Syarat Pengkreditan Pajak Masukan (Formal & Material) & Saat Pengkreditan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat Pajak Masukan dapat dikreditkan, yaitu harus menggunakan Faktur Pajak yang memenuhi ketentuan Pasal 13 ayat (5) dan ayat (9) UU PPN, diatur dalam...",
+    "opsi": {
+      "A": "Pasal 9 ayat (8) UU PPN",
+      "B": "Pasal 1 angka 24 UU PPN",
+      "C": "Pasal 9 ayat (2b) UU PPN",
+      "D": "Pasal 16A UU PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 9 ayat (2b) UU PPN mengatur bahwa Pajak Masukan yang dikreditkan harus menggunakan Faktur Pajak yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal 13 ayat (5) dan ayat (9) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 159,
+        "kutipan": "Pasal 9 ayat (2b) UU PPN: Pajak Masukan yang dikreditkan harus menggunakan Faktur Pajak yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal 13 ayat (5) dan ayat (9) UU PPN"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2b) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Syarat Pengkreditan Pajak Masukan (Formal & Material) & Saat Pengkreditan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PKP menerima Faktur Pajak Masukan bertanggal 21 Juli 2022. Berdasarkan Pasal 9 ayat (9) UU PPN jo. Pasal 63 PMK-18/2021, Faktur Pajak tersebut paling lambat dapat dikreditkan pada Masa Pajak...",
+    "opsi": {
+      "A": "Juli 2022 saja",
+      "B": "Oktober 2022",
+      "C": "Januari 2023",
+      "D": "Desember 2022"
+    },
+    "kunci": "B",
+    "pembahasan": "Pajak Masukan yang belum dikreditkan pada Masa Pajak yang sama dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 (tiga) Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat. FP dibuat Juli 2022, sehingga paling lambat dapat dikreditkan pada Masa Pajak Oktober 2022.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 160,
+        "kutipan": "dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 (tiga) Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (9) UU PPN",
+      "PMK-18/2021"
+    ]
+  },
+  {
+    "id": "ADV-05-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Syarat Pengkreditan Pajak Masukan (Formal & Material) & Saat Pengkreditan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pajak Masukan yang dapat dikreditkan tetapi belum dikreditkan dengan Pajak Keluaran pada Masa Pajak yang sama, dapat dikreditkan pada Masa Pajak berikutnya dengan syarat...",
+    "opsi": {
+      "A": "PKP telah mengajukan permohonan restitusi",
+      "B": "Faktur Pajak diterbitkan oleh PKP Pedagang Eceran",
+      "C": "Masa Pajak berikutnya belum melewati tahun buku berjalan",
+      "D": "belum dibebankan sebagai biaya atau belum dikapitalisasi dalam harga perolehan BKP/JKP serta memenuhi ketentuan pengkreditan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pajak Masukan yang belum dikreditkan dapat dikreditkan pada Masa Pajak berikutnya (paling lama 3 Masa Pajak) sepanjang belum dibebankan sebagai biaya atau belum dikapitalisasi dalam harga perolehan BKP/JKP serta memenuhi ketentuan pengkreditan sesuai UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 160,
+        "kutipan": "sepanjang belum dibebankan sebagai biaya atau belum ditambahkan (dikapitalisasi) dalam harga perolehan BKP atau JKP serta memenuhi ketentuan pengkreditan sesuai dengan UU PPN"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (9) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Kriteria Pajak Masukan yang Tidak Dapat Dikreditkan (Pasal 9 ayat 8 UU PPN)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pajak Masukan atas perolehan BKP atau JKP yang tidak mempunyai hubungan langsung dengan kegiatan usaha tidak dapat dikreditkan berdasarkan...",
+    "opsi": {
+      "A": "Pasal 9 ayat (8) huruf b UU PPN",
+      "B": "Pasal 9 ayat (8) huruf f UU PPN",
+      "C": "Pasal 9 ayat (8) huruf g UU PPN",
+      "D": "Pasal 13 ayat (5) UU PPN"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 9 ayat (8) huruf b UU PPN menetapkan bahwa Pajak Masukan atas perolehan BKP/JKP yang tidak mempunyai hubungan langsung dengan kegiatan usaha tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 161,
+        "kutipan": "perolehan BKP atau JKP yang tidak mempunyai hubungan langsung dengan kegiatan usaha (Pasal 9 ayat (8) huruf b)"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (8) huruf b UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Kriteria Pajak Masukan yang Tidak Dapat Dikreditkan (Pasal 9 ayat 8 UU PPN)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pajak Masukan atas perolehan BKP/JKP yang Faktur Pajaknya tidak mencantumkan nama, alamat, dan NPWP pembeli BKP atau penerima JKP, tidak dapat dikreditkan berdasarkan...",
+    "opsi": {
+      "A": "Pasal 9 ayat (8) huruf b UU PPN",
+      "B": "Pasal 9 ayat (8) huruf g UU PPN",
+      "C": "Pasal 9 ayat (8) huruf f UU PPN",
+      "D": "Pasal 1 angka 24 UU PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 9 ayat (8) huruf f UU PPN mengatur bahwa Pajak Masukan atas perolehan BKP/JKP yang Faktur Pajaknya tidak memenuhi Pasal 13 ayat (5)/(9) atau tidak mencantumkan nama, alamat, dan NPWP pembeli/penerima tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 161,
+        "kutipan": "tidak mencantumkan nama, alamat, dan NPWP pembeli BKP atau penerima JKP (Pasal 9 ayat (8) huruf f)"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (8) huruf f UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Kriteria Pajak Masukan yang Tidak Dapat Dikreditkan (Pasal 9 ayat 8 UU PPN)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pengkreditan Pajak Masukan atas pemanfaatan BKP Tidak Berwujud atau pemanfaatan JKP dari luar Daerah Pabean tidak diperkenankan apabila Faktur Pajaknya tidak memenuhi ketentuan...",
+    "opsi": {
+      "A": "Pasal 13 ayat (5) UU PPN",
+      "B": "Pasal 13 ayat (6) UU PPN",
+      "C": "Pasal 9 ayat (2) UU PPN",
+      "D": "Pasal 16A UU PPN"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 9 ayat (8) huruf g UU PPN mengatur bahwa Pajak Masukan atas pemanfaatan BKP Tidak Berwujud/JKP dari luar Daerah Pabean tidak dapat dikreditkan apabila Faktur Pajaknya tidak memenuhi ketentuan Pasal 13 ayat (6) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 161,
+        "kutipan": "yang Faktur Pajaknya tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 13 ayat (6) (Pasal 9 ayat (8) huruf g)"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (8) huruf g UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Kriteria Pajak Masukan yang Tidak Dapat Dikreditkan (Pasal 9 ayat 8 UU PPN)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan kriteria Pajak Masukan yang tidak dapat dikreditkan sebagaimana dimaksud Pasal 9 ayat (8) UU PPN, KECUALI perolehan BKP/JKP yang...",
+    "opsi": {
+      "A": "tidak mempunyai hubungan langsung dengan kegiatan usaha",
+      "B": "Faktur Pajaknya tidak mencantumkan nama, alamat, dan NPWP pembeli",
+      "C": "Faktur Pajaknya tidak memenuhi ketentuan Pasal 13 ayat (5) atau ayat (9)",
+      "D": "telah dilaporkan dalam SPT Masa PPN sesuai dengan Faktur Pajak yang dimiliki"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria PM tidak dapat dikreditkan meliputi: tidak ada hubungan langsung dengan kegiatan usaha, FP tidak memenuhi Pasal 13 ayat (5)/(9) atau tidak mencantumkan identitas pembeli, dan FP pemanfaatan dari luar Daerah Pabean tidak memenuhi Pasal 13 ayat (6). PM yang telah dilaporkan sesuai Faktur Pajak yang dimiliki justru dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 161,
+        "kutipan": "perolehan BKP atau JKP yang tidak mempunyai hubungan langsung dengan kegiatan usaha (Pasal 9 ayat (8) huruf b)"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (8) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM Sebelum Ada Penyerahan/Sebelum Dikukuhkan PKP (Deemed PM 80%)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai pengkreditan Pajak Masukan bagi PKP yang belum melakukan penyerahan BKP/JKP diatur dalam...",
+    "opsi": {
+      "A": "Pasal 9 ayat (8) UU PPN",
+      "B": "Pasal 9 ayat (2a) dan ayat (6a) UU PPN",
+      "C": "Pasal 13 ayat (5) UU PPN",
+      "D": "Pasal 1 angka 24 UU PPN"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengkreditan Pajak Masukan bagi PKP yang belum melakukan penyerahan BKP/JKP diatur dalam Pasal 9 ayat (2a) dan ayat (6a) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 162,
+        "kutipan": "Pasal 9 ayat (2a) & ayat (6a)"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2a) UU PPN",
+      "Pasal 9 ayat (6a) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM Sebelum Ada Penyerahan/Sebelum Dikukuhkan PKP (Deemed PM 80%)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Apabila dalam jangka waktu 3 (tiga) tahun pertama sejak mengkreditkan Pajak Masukan belum terdapat penyerahan BKP/JKP, maka terhadap PPN yang telah dikreditkan tersebut berlaku ketentuan...",
+    "opsi": {
+      "A": "tetap dapat dikreditkan tanpa batas waktu",
+      "B": "dikompensasikan secara otomatis ke tahun pajak berikutnya",
+      "C": "menjadi tidak dapat dikreditkan (dibatalkan)",
+      "D": "dikenakan sanksi bunga sebesar 2% per bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Jika dalam 3 tahun pertama sejak mengkreditkan belum ada penyerahan BKP/JKP, PPN yang telah dikreditkan menjadi tidak dapat dikreditkan (dibatalkan) berdasarkan Pasal 9 ayat (2a) dan (6a) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 162,
+        "kutipan": "Jika 3 tahun pertama sejak mengkreditkan belum ada penyerahan BKP/JKP, PPN menjadi tidak dapat dikreditkan (dibatalkan)"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2a) UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM Sebelum Ada Penyerahan/Sebelum Dikukuhkan PKP (Deemed PM 80%)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pedoman pengkreditan Pajak Masukan bagi Pengusaha sebelum dikukuhkan sebagai PKP ditetapkan sebesar...",
+    "opsi": {
+      "A": "80% dari Pajak Keluaran yang seharusnya dipungut",
+      "B": "60% dari Pajak Keluaran yang seharusnya dipungut",
+      "C": "100% dari Pajak Keluaran yang seharusnya dipungut",
+      "D": "70% dari Pajak Keluaran yang seharusnya dipungut"
+    },
+    "kunci": "A",
+    "pembahasan": "Pajak Masukan atas perolehan sebelum Pengusaha dikukuhkan sebagai PKP dapat dikreditkan dengan pedoman pengkreditan PM (deemed) sebesar 80% dari Pajak Keluaran yang seharusnya dipungut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 163,
+        "kutipan": "dapat dikreditkan oleh PKP dengan menggunakan pedoman pengkreditan PM sebesar 80% dari Pajak Keluaran yang seharusnya dipungut"
+      }
+    ],
+    "tags": [
+      "Deemed Pajak Masukan 80%"
+    ]
+  },
+  {
+    "id": "ADV-05-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM Sebelum Ada Penyerahan/Sebelum Dikukuhkan PKP (Deemed PM 80%)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pedoman pengkreditan Pajak Masukan sebesar 80% dari Pajak Keluaran berlaku atas Pajak Masukan dari perolehan BKP dan/atau JKP, impor BKP, serta pemanfaatan BKP Tidak Berwujud dan/atau JKP dari luar Daerah Pabean yang terjadi...",
+    "opsi": {
+      "A": "setelah Pengusaha dikukuhkan sebagai PKP",
+      "B": "pada saat pemeriksaan pajak berlangsung",
+      "C": "setelah diterbitkannya ketetapan pajak",
+      "D": "sebelum Pengusaha dikukuhkan sebagai PKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pedoman deemed pengkreditan PM 80% berlaku atas perolehan BKP/JKP, impor BKP, serta pemanfaatan BKP TB/JKP dari luar Daerah Pabean yang terjadi sebelum Pengusaha dikukuhkan sebagai PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 163,
+        "kutipan": "sebelum Pengusaha dikukuhkan sebagai PKP, dapat dikreditkan oleh PKP dengan menggunakan pedoman pengkreditan PM sebesar 80%"
+      }
+    ],
+    "tags": [
+      "Deemed Pajak Masukan 80%"
+    ]
+  },
+  {
+    "id": "ADV-05-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM yang Ditemukan Saat Pemeriksaan atau Ditagih dengan Ketetapan Pajak",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pajak Masukan yang tidak dilaporkan dalam SPT Masa PPN yang diberitahukan dan/atau ditemukan pada waktu dilakukan pemeriksaan, dapat dikreditkan oleh PKP...",
+    "opsi": {
+      "A": "sebesar 80% dari Pajak Keluaran yang seharusnya dipungut",
+      "B": "sepanjang memenuhi ketentuan pengkreditan sesuai Undang-Undang PPN",
+      "C": "hanya setelah PKP mengajukan permohonan tertulis kepada Kepala KPP",
+      "D": "setelah lewat jangka waktu daluwarsa penetapan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pajak Masukan yang tidak dilaporkan dalam SPT Masa PPN yang diberitahukan dan/atau ditemukan pada waktu pemeriksaan, dapat dikreditkan oleh PKP sepanjang memenuhi ketentuan pengkreditan sesuai UU PPN, sesuai bukti Faktur Pajak yang dimiliki.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 164,
+        "kutipan": "dapat dikreditkan oleh PKP sepanjang memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini"
+      }
+    ],
+    "tags": [
+      "Pengkreditan PM Saat Pemeriksaan"
+    ]
+  },
+  {
+    "id": "ADV-05-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM yang Ditemukan Saat Pemeriksaan atau Ditagih dengan Ketetapan Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pajak Masukan yang ditagih dengan penerbitan ketetapan pajak TIDAK dapat dikreditkan apabila...",
+    "opsi": {
+      "A": "ketetapan pajak dimaksud belum dilakukan pelunasan atau masih dilakukan upaya hukum",
+      "B": "Faktur Pajak telah memenuhi persyaratan formal dan material",
+      "C": "ketetapan pajak telah dilunasi tanpa upaya hukum",
+      "D": "PKP melaporkan Pajak Masukan tersebut dalam SPT Masa PPN berikutnya"
+    },
+    "kunci": "A",
+    "pembahasan": "PM atas ketetapan pajak dapat dikreditkan dengan syarat ketetapan pajak telah dilunasi dan tidak dilakukan upaya hukum. Jika ketetapan belum dilunasi atau masih ada upaya hukum, syarat tersebut tidak terpenuhi sehingga PM tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 165,
+        "kutipan": "dengan ketentuan ketetapan pajak dimaksud telah dilakukan pelunasan dan tidak dilakukan upaya hukum"
+      }
+    ],
+    "tags": [
+      "Pengkreditan PM Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "ADV-05-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Pengkreditan PM yang Ditemukan Saat Pemeriksaan atau Ditagih dengan Ketetapan Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Saat dilakukan pemeriksaan, ditemukan Pajak Masukan atas perolehan BKP yang belum dilaporkan PKP dalam SPT Masa PPN yang telah disampaikan. Sepanjang memenuhi ketentuan pengkreditan sesuai UU PPN, Pajak Masukan tersebut...",
+    "opsi": {
+      "A": "tidak dapat dikreditkan karena telah melewati batas pelaporan SPT",
+      "B": "hanya dapat dikreditkan sebesar 80% dari Pajak Keluaran",
+      "C": "dikreditkan hanya setelah PKP membayar sanksi kenaikan 100%",
+      "D": "tetap dapat dikreditkan oleh PKP sesuai bukti Faktur Pajak yang dimiliki"
+    },
+    "kunci": "D",
+    "pembahasan": "Pajak Masukan yang tidak dilaporkan dalam SPT Masa PPN dan ditemukan pada waktu pemeriksaan tetap dapat dikreditkan oleh PKP sepanjang memenuhi ketentuan pengkreditan sesuai UU PPN, sesuai bukti Faktur Pajak yang dimiliki.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 164,
+        "kutipan": "yang tidak dilaporkan dalam SPT Masa PPN yang diberitahukan dan/atau ditemukan pada waktu dilakukan pemeriksaan dapat dikreditkan oleh PKP sepanjang memenuhi ketentuan pengkreditan"
+      }
+    ],
+    "tags": [
+      "Pengkreditan PM Saat Pemeriksaan"
+    ]
+  },
+  {
+    "id": "ADV-05-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Fungsi SPT PPN & Jenis SPT Masa PPN (1111, 1111 DM, 1107 PUT)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Bagi PKP, SPT PPN berfungsi sebagai sarana untuk melaporkan dan mempertanggungjawabkan penghitungan jumlah PPN dan PPnBM yang terutang, termasuk melaporkan...",
+    "opsi": {
+      "A": "besaran Penghasilan Kena Pajak dalam satu tahun pajak",
+      "B": "pengkreditan Pajak Masukan terhadap Pajak Keluaran",
+      "C": "daftar aset tetap yang dimiliki PKP",
+      "D": "perhitungan angsuran PPh Pasal 25"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagi PKP, SPT PPN berfungsi sebagai sarana melaporkan dan mempertanggungjawabkan penghitungan PPN/PPnBM terutang, termasuk pengkreditan Pajak Masukan terhadap Pajak Keluaran serta pembayaran/pelunasan pajak dalam satu Masa Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 167,
+        "kutipan": "melaporkan tentang pengkreditan Pajak Masukan terhadap Pajak Keluaran; dan pembayaran atau pelunasan pajak yang telah dilaksanakan sendiri oleh PKP"
+      }
+    ],
+    "tags": [
+      "Fungsi SPT PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Fungsi SPT PPN & Jenis SPT Masa PPN (1111, 1111 DM, 1107 PUT)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SPT PPN harus diisi dengan memenuhi unsur-unsur berikut, KECUALI...",
+    "opsi": {
+      "A": "benar",
+      "B": "jelas",
+      "C": "dilegalisasi notaris",
+      "D": "lengkap dan ditandatangani"
+    },
+    "kunci": "C",
+    "pembahasan": "SPT PPN harus diisi secara Benar, Jelas, Lengkap, dan Ditandatangani. Legalisasi notaris bukan merupakan salah satu unsur pengisian SPT PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 168,
+        "kutipan": "SPT PPN harus Diisi secara Jelas Benar Lengkap Ditandatangani"
+      }
+    ],
+    "tags": [
+      "Pengisian SPT PPN"
+    ]
+  },
+  {
+    "id": "ADV-05-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Fungsi SPT PPN & Jenis SPT Masa PPN (1111, 1111 DM, 1107 PUT)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SPT Masa PPN jenis 1111DM digunakan oleh...",
+    "opsi": {
+      "A": "PKP yang menggunakan pedoman penghitungan pengkreditan Pajak Masukan",
+      "B": "pemungut PPN sebagaimana diatur dalam Pasal 16A UU PPN",
+      "C": "instansi pemerintah selaku pemungut PPN",
+      "D": "PKP Pedagang Eceran yang menerbitkan Faktur Pajak elektronik"
+    },
+    "kunci": "A",
+    "pembahasan": "SPT Masa PPN 1111DM digunakan oleh PKP yang menggunakan pedoman penghitungan pengkreditan Pajak Masukan, berbeda dengan SPT 1111 (PKP pada umumnya) dan SPT 1107PUT (pemungut PPN/pihak lain).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 169,
+        "kutipan": "digunakan oleh PKP yang menggunakan pedoman penghitungan pengkreditan Pajak Masukan"
+      }
+    ],
+    "tags": [
+      "SPT Masa PPN 1111DM"
+    ]
+  },
+  {
+    "id": "ADV-05-052",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Fungsi SPT PPN & Jenis SPT Masa PPN (1111, 1111 DM, 1107 PUT)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "SPT Masa PPN 1107 PUT digunakan oleh pemungut PPN sebagaimana diatur dalam Pasal 16A UU PPN selain instansi pemerintah, dan pihak lain sebagaimana diatur dalam...",
+    "opsi": {
+      "A": "Pasal 9 ayat (8) UU PPN",
+      "B": "Pasal 13 ayat (5) UU PPN",
+      "C": "Pasal 1 angka 24 UU PPN",
+      "D": "Pasal 32A UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "SPT Masa PPN 1107PUT digunakan oleh pemungut PPN sesuai Pasal 16A UU PPN selain instansi pemerintah, dan pihak lain sebagaimana diatur dalam Pasal 32A UU KUP. Instansi pemerintah menggunakan SPT Unifikasi Instansi Pemerintah.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 169,
+        "kutipan": "b. pihak lain sebagaimana diatur dalam Pasal 32A UU KUP"
+      }
+    ],
+    "tags": [
+      "SPT Masa PPN 1107PUT",
+      "Pasal 32A UU KUP"
+    ]
+  }
+]

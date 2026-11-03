@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "KEP-03-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut materi, Tanggapan Wajib Pajak atas SP2DK terdiri atas dua jenis, yaitu Pemenuhan Kewajiban Perpajakan dan apa?",
+    "opsi": {
+      "A": "Permohonan Pengurangan Sanksi Administrasi",
+      "B": "Pengajuan Keberatan atas SP2DK",
+      "C": "Penjelasan atas Kewajiban Perpajakan",
+      "D": "Permohonan Penundaan Pembayaran Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram Penyampaian Tanggapan membagi Tanggapan menjadi dua cabang: Pemenuhan Kewajiban Perpajakan dan Penjelasan atas Kewajiban Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "Tanggapan -> Pemenuhan Kewajiban Perpajakan; Penjelasan atas Kewajiban Perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penjelasan yang disampaikan WP dalam tanggapan atas SP2DK wajib disertai dengan apa?",
+    "opsi": {
+      "A": "bukti dan/atau dokumen pendukung",
+      "B": "surat kuasa bermeterai",
+      "C": "laporan keuangan teraudit",
+      "D": "fotokopi identitas pengurus perusahaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan bahwa penjelasan disertai dengan bukti dan/atau dokumen pendukung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "Penjelasan disertai dengan bukti dan/atau dokumen pendukung"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai catatan pada diagram Penyampaian Tanggapan, berapa kali WP dapat menyampaikan tanggapan dalam jangka waktu 14 hari/+7 hari?",
+    "opsi": {
+      "A": "hanya 1 kali",
+      "B": "lebih dari 1 kali",
+      "C": "maksimal 2 kali",
+      "D": "maksimal 3 kali"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan WP dapat menyampaikan tanggapan lebih dari 1 kali dalam jangka waktu 14 hari/+7 hari jika ada pemberitahuan perpanjangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "WP dapat menyampaikan tanggapan > 1 kali (dalam jangka waktu 14 hari/+ 7 hari jika ada pemberitahuan perpanjangan)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apa syarat agar WP dapat menyampaikan tanggapan SP2DK melalui Akun Wajib Pajak?",
+    "opsi": {
+      "A": "WP telah memiliki sertifikat elektronik tersendiri",
+      "B": "WP telah mendapat izin tertulis dari Kepala KPP",
+      "C": "WP merupakan Wajib Pajak berstatus Pengusaha Kena Pajak",
+      "D": "WP telah aktivasi Akun dan/atau SP2DK telah tersedia penyampaian melalui akun WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan syarat penyampaian melalui akun WP yaitu WP telah aktivasi Akun dan/atau SP2DK telah tersedia penyampaian melalui akun WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "Akun Wajib Pajak -> WP telah aktivasi Akun dan/atau SP2DK telah tersedia penyampaian melalui akun WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Apabila tanggapan disampaikan melalui pos, jasa ekspedisi, atau jasa kurir, ke mana surat beserta bukti pengirimannya harus dialamatkan?",
+    "opsi": {
+      "A": "ke KPP yang menerbitkan SP2DK",
+      "B": "ke Kantor Wilayah DJP atasan KPP",
+      "C": "ke Kantor Pusat Direktorat Jenderal Pajak",
+      "D": "ke KP2KP terdekat dari domisili WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan penyampaian melalui pos/jasa ekspedisi/jasa kurir disertai bukti pengiriman surat ke KPP yang menerbitkan SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "melalui pos/jasa ekspedisi/atau jasa kurir dengan bukti pengiriman surat ke KPP yang menerbitkan SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian tanggapan secara langsung pada saat dilakukan kunjungan dalam diagram Penyampaian Tanggapan dimaksudkan sebagai kunjungan pada saat apa?",
+    "opsi": {
+      "A": "kunjungan pada saat pemeriksaan lapangan",
+      "B": "kunjungan pada saat penyampaian SP2DK",
+      "C": "kunjungan pada saat penagihan aktif",
+      "D": "kunjungan pada saat pembahasan akhir hasil pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menegaskan penyampaian tanggapan secara langsung saat kunjungan merujuk pada kunjungan pada saat penyampaian SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "secara langsung pada saat dilakukan kunjungan -> kunjungan pada saat penyampaian SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk tempat penyampaian tanggapan SP2DK secara langsung sebagaimana diuraikan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "ke KPP yang menerbitkan SP2DK",
+      "B": "ke KP2KP di bawah KPP yang menerbitkan SP2DK",
+      "C": "ke Kantor Wilayah DJP setempat",
+      "D": "melalui media daring dengan video conference"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi hanya menyebutkan tiga tempat/cara penyampaian langsung: ke KPP penerbit SP2DK, ke KP2KP di bawahnya, atau melalui media daring dengan video conference; Kantor Wilayah tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 14,
+        "kutipan": "secara langsung: ke KPP yang menerbitkan SP2DK; ke KP2KP di bawah KPP yang menerbitkan SP2DK; melalui media daring dengan video conference"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa DJP dapat melakukan pembahasan dan/atau kunjungan diatur dalam pasal berapa pada materi Pembahasan SP2DK?",
+    "opsi": {
+      "A": "Pasal 7 ayat (6)",
+      "B": "Pasal 25 ayat (1)",
+      "C": "Pasal 6 ayat (10)",
+      "D": "Pasal 6 ayat (11)"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi Pembahasan secara eksplisit mengutip Pasal 6 ayat (11) sebagai dasar DJP dapat melakukan pembahasan dan/atau kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "Pasal 6 ayat (11) DJP dapat melakukan pembahasan dan/atau kunjungan dalam hal:"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP tidak menyampaikan tanggapan sama sekali hingga batas waktu berakhir. Berdasarkan Pasal 6 ayat (11), tindakan apa yang dapat dilakukan DJP terhadap WP tersebut?",
+    "opsi": {
+      "A": "melakukan pembahasan dan/atau kunjungan",
+      "B": "menerbitkan Surat Ketetapan Pajak secara langsung",
+      "C": "mencabut Nomor Pokok Wajib Pajak",
+      "D": "mengusulkan pemeriksaan bukti permulaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf c Pasal 6 ayat (11) menyebutkan WP tidak menyampaikan tanggapan sebagai salah satu kondisi DJP dapat melakukan pembahasan dan/atau kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "WP tidak menyampaikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut Pasal 7 materi Pembahasan, pembahasan atas SP2DK dilakukan secara daring/luring berdasarkan dokumen apa?",
+    "opsi": {
+      "A": "surat perintah pemeriksaan",
+      "B": "surat undangan",
+      "C": "surat teguran",
+      "D": "nota dinas internal"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 7 menyatakan pembahasan dilakukan secara daring/luring berdasarkan surat undangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "Pembahasan dilakukan secara daring/luring berdasarkan surat undangan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu saluran penyampaian surat undangan pembahasan menurut Pasal 7 adalah melalui pos elektronik. Syarat pos elektronik tersebut adalah...",
+    "opsi": {
+      "A": "menggunakan domain resmi instansi pemerintah",
+      "B": "telah diverifikasi oleh KP2KP",
+      "C": "terdaftar dalam sistem administrasi DJP",
+      "D": "tercantum dalam akta pendirian perusahaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 7 menyebutkan surat undangan dapat disampaikan melalui pos elektronik yang terdaftar dalam sistem administrasi DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "pos elektronik yang terdaftar dalam sistem administrasi DJP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 7, pembahasan SP2DK dilakukan atas berapa hal/dokumen?",
+    "opsi": {
+      "A": "2 hal",
+      "B": "4 hal",
+      "C": "5 hal",
+      "D": "3 hal"
+    },
+    "kunci": "D",
+    "pembahasan": "Pembahasan dilakukan atas a. SP2DK; b. tanggapan (jika ada); c. data dan/atau keterangan tambahan (jika ada), sehingga totalnya 3 hal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "Pembahasan dilakukan atas a. SP2DK; b. tanggapan (jika ada); c. data dan/atau keterangan tambahan (jika ada)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-013",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa pembahasan SP2DK dapat melibatkan pegawai Direktorat Jenderal Pajak lainnya yang ditugaskan (selain AR) diatur dalam pasal berapa?",
+    "opsi": {
+      "A": "Pasal 7",
+      "B": "Pasal 6 ayat (10)",
+      "C": "Pasal 6 ayat (11)",
+      "D": "Pasal 25 ayat (1)"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan tersebut berada pada Pasal 7, yang antara lain menyatakan pembahasan dapat melibatkan pegawai Direktorat Jenderal Pajak lainnya yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "Dapat melibatkan pegawai Direktorat Jenderal Pajak lainnya yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-014",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Apabila pembahasan SP2DK perlu dilakukan lebih dari satu kali, bagaimana dasar pelaksanaan pembahasan berikutnya menurut Pasal 7?",
+    "opsi": {
+      "A": "wajib menunggu persetujuan Kepala Kantor Wilayah",
+      "B": "menerbitkan surat undangan baru atau sesuai kesepakatan dalam BA pelaksanaan",
+      "C": "hanya dapat dilakukan setelah SP3-P2DK terbit",
+      "D": "harus diajukan ulang oleh WP secara tertulis"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 7 menyatakan pembahasan dapat dilakukan lebih dari satu kali dengan menerbitkan surat undangan baru atau sesuai kesepakatan yang tertuang dalam BA pelaksanaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "Dapat dilakukan pembahasan > 1 kali, dengan menerbitkan surat undangan baru atau sesuai kesepakatan yang tertuang dalam BA pelaksanaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-015",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Tanggapan WP atas SP2DK dinilai oleh AR sudah sesuai dengan kondisi sebenarnya. Berdasarkan diagram, apakah pembahasan/kunjungan tetap wajib dilakukan terhadap WP tersebut?",
+    "opsi": {
+      "A": "wajib dilakukan untuk seluruh WP tanpa terkecuali",
+      "B": "wajib dilakukan khusus bagi WP badan",
+      "C": "tidak wajib, karena hanya dilakukan dalam kondisi tertentu",
+      "D": "tidak diperbolehkan sama sekali dilakukan pembahasan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 6 ayat (11) menyatakan DJP 'dapat' melakukan pembahasan dan/atau kunjungan hanya dalam kondisi tertentu, antara lain apabila tanggapan WP tidak sesuai; apabila tanggapan sudah sesuai, proses dapat langsung ke BA pelaksanaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 15,
+        "kutipan": "DJP dapat melakukan pembahasan dan/atau kunjungan dalam hal: a. tanggapan WP tidak sesuai"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-016",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa dalam hal tanggapan WP telah sesuai maka dibuatkan BA pelaksanaan P2DK (BAP2DK) diatur dalam pasal berapa?",
+    "opsi": {
+      "A": "Pasal 7 ayat (6)",
+      "B": "Pasal 25 ayat (1)",
+      "C": "Pasal 6 ayat (11)",
+      "D": "Pasal 6 ayat (10)"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi BA Pelaksanaan mengutip Pasal 6 ayat (10): dalam hal tanggapan WP telah sesuai, dibuatkan BA pelaksanaan P2DK (BAP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 16,
+        "kutipan": "Pasal 6 ayat (10) Dalam hal tanggapan WP telah sesuai, dibuatkan BA pelaksanaan P2DK (BAP2DK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-017",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa terhadap hasil pembahasan dibuatkan BA pelaksanaan P2DK (BAP2DK) diatur dalam pasal berapa?",
+    "opsi": {
+      "A": "Pasal 7 ayat (6)",
+      "B": "Pasal 6 ayat (10)",
+      "C": "Pasal 25 ayat (1)",
+      "D": "Pasal 4 ayat (2)"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi BA Pelaksanaan mengutip Pasal 7 ayat (6): terhadap hasil pembahasan dibuatkan BA pelaksanaan P2DK (BAP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 16,
+        "kutipan": "Pasal 7 ayat (6) Terhadap hasil pembahasan dibuatkan BA pelaksanaan P2DK (BAP2DK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-018",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai pihak yang membuat BA pelaksanaan P2DK (BAP2DK), yaitu AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan, diatur dalam pasal berapa?",
+    "opsi": {
+      "A": "Pasal 6 ayat (10)",
+      "B": "Pasal 7 ayat (6)",
+      "C": "Pasal 6 ayat (11)",
+      "D": "Pasal 25 ayat (1)"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan Pasal 25 ayat (1) mengatur bahwa AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan membuat BA pelaksanaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 16,
+        "kutipan": "Pasal 25 ayat (1) AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan membuat BA pelaksanaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-019",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 25 ayat (1), BA pelaksanaan P2DK dibuat berdasarkan berapa unsur dokumen/kegiatan (termasuk yang bersifat jika ada)?",
+    "opsi": {
+      "A": "2 unsur",
+      "B": "3 unsur",
+      "C": "4 unsur",
+      "D": "5 unsur"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 25 ayat (1) menyebut 4 unsur: a. SP2DK; b. Tanggapan (jika ada); c. Pembahasan dan/atau kunjungan (jika ada); d. Pembahasan berikutnya (jika ada).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 16,
+        "kutipan": "membuat BA pelaksanaan berdasarkan: a. SP2DK; b. Tanggapan (jika ada); c. Pembahasan dan/atau kunjungan (jika ada); d. Pembahasan berikutnya (jika ada)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-020",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk unsur dasar pembuatan BA pelaksanaan P2DK menurut Pasal 25 ayat (1), KECUALI...",
+    "opsi": {
+      "A": "SP2DK yang diterbitkan",
+      "B": "Tanggapan (jika ada)",
+      "C": "Pembahasan dan/atau kunjungan (jika ada)",
+      "D": "Laporan Hasil Pemeriksaan (jika ada)"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 25 ayat (1) hanya menyebut SP2DK, Tanggapan, Pembahasan dan/atau kunjungan, serta Pembahasan berikutnya; Laporan Hasil Pemeriksaan tidak termasuk unsur tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 16,
+        "kutipan": "a. SP2DK; b. Tanggapan (jika ada); c. Pembahasan dan/atau kunjungan (jika ada); d. Pembahasan berikutnya (jika ada)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-021",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam kondisi normal, BA pelaksanaan P2DK (BAP2DK) ditandatangani oleh pihak-pihak berikut...",
+    "opsi": {
+      "A": "WP dan AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan",
+      "B": "WP dan Kepala Kantor Wilayah DJP",
+      "C": "AR dan notaris yang ditunjuk",
+      "D": "WP dan konsultan pajak terdaftar"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi Penandatanganan BA Pelaksanaan menyebutkan BAP2DK ditandatangani WP dan AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 17,
+        "kutipan": "Ditandatangani WP dan AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-022",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "WP menghadiri pembahasan SP2DK namun menyatakan tidak bersedia menandatangani BAP2DK yang disusun. Siapa yang akan menandatangani BAP2DK dalam kondisi tersebut?",
+    "opsi": {
+      "A": "tetap ditandatangani bersama WP secara paksa",
+      "B": "hanya ditandatangani oleh AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan",
+      "C": "BAP2DK dibatalkan dan tidak diterbitkan",
+      "D": "ditandatangani oleh saksi dari pihak ketiga"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan dalam hal WP menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK, BAP2DK hanya ditandatangani oleh AR dan/atau pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 17,
+        "kutipan": "hanya ditandatangani oleh AR dan/atau pegawai Direktorat Jenderal Pajak yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-023",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan kondisi yang menyebabkan BAP2DK hanya ditandatangani oleh AR dan/atau pegawai DJP yang ditugaskan, KECUALI...",
+    "opsi": {
+      "A": "tidak terdapat pembahasan",
+      "B": "WP tidak menghadiri pembahasan",
+      "C": "WP mengajukan permohonan pembatalan SP2DK",
+      "D": "WP menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi hanya menyebut tiga kondisi: tidak terdapat pembahasan; WP tidak menghadiri pembahasan; atau WP menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK; permohonan pembatalan SP2DK tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 17,
+        "kutipan": "Dalam hal: a. tidak terdapat pembahasan; b. Wajib Pajak tidak menghadiri pembahasan; atau c. Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-024",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa kondisi yang menyebabkan BAP2DK hanya ditandatangani oleh AR dan/atau pegawai DJP yang ditugaskan (tanpa tanda tangan WP)?",
+    "opsi": {
+      "A": "2 kondisi",
+      "B": "4 kondisi",
+      "C": "5 kondisi",
+      "D": "3 kondisi"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebut tiga kondisi (huruf a, b, c) yang menyebabkan BAP2DK hanya ditandatangani AR dan/atau pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 17,
+        "kutipan": "Dalam hal: a. tidak terdapat pembahasan; b. Wajib Pajak tidak menghadiri pembahasan; atau c. Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-025",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam hal pembahasan SP2DK dilakukan secara daring, dengan media apa BAP2DK ditandatangani oleh AR/Pegawai DJP yang ditugaskan?",
+    "opsi": {
+      "A": "tanda tangan elektronik (TTE)",
+      "B": "tanda tangan basah yang discan",
+      "C": "cap jempol digital",
+      "D": "kode OTP dari akun WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi Penandatanganan BA Pelaksanaan Secara Daring menyebutkan BAP2DK di-TTE oleh AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 18,
+        "kutipan": "BAP2DK di-TTE"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-026",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah BAP2DK di-TTE oleh AR/Pegawai DJP dalam skema pembahasan daring, apa langkah berikutnya sebelum ditandatangani Wajib Pajak?",
+    "opsi": {
+      "A": "BAP2DK langsung diunggah ke Akun Wajib Pajak tanpa pemberitahuan",
+      "B": "AR/Pegawai DJP mengirim konsep BAP2DK kepada Wajib Pajak",
+      "C": "BAP2DK dicetak dan dikirim melalui pos tercatat",
+      "D": "BAP2DK diserahkan kepada Kantor Wilayah untuk diverifikasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menggambarkan alur AR/Pegawai DJP mengirim konsep BAP2DK kepada Wajib Pajak setelah BAP2DK di-TTE.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 18,
+        "kutipan": "Mengirim konsep BAP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-027",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berapa lama batas waktu bagi WP untuk mengirim kembali konsep BAP2DK yang telah ditandatanganinya dalam skema penandatanganan BAP2DK secara daring, dihitung sejak konsep dikirim?",
+    "opsi": {
+      "A": "maksimal 5 hari kerja",
+      "B": "maksimal 3 hari kerja",
+      "C": "maksimal 7 hari kerja",
+      "D": "maksimal 14 hari kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan WP mengirim kembali konsep BAP2DK yang telah ditandatangani maksimal 5 hari kerja sejak konsep dikirim.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 18,
+        "kutipan": "WP mengirim kembali konsep BAP2DK yang telah di-ttd, max 5 hari kerja sejak konsep dikirim"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-028",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema penandatanganan BAP2DK secara daring, WP tidak mengirimkan kembali konsep BAP2DK yang telah ditandatanganinya dalam batas waktu yang ditentukan. Bagaimana status WP tersebut?",
+    "opsi": {
+      "A": "WP dianggap tidak pernah diundang pembahasan",
+      "B": "WP dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK",
+      "C": "proses P2DK otomatis dihentikan tanpa tindak lanjut",
+      "D": "SP2DK dinyatakan batal demi hukum"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan apabila WP tidak menyampaikan kembali konsep BAP2DK yang telah ditandatangani, WP dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 18,
+        "kutipan": "WP tidak menyampaikan kembali konsep BAP2DK yang telah di-ttd oleh WP -> Wajib Pajak dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-029",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Skema penandatanganan BAP2DK melalui TTE sebagaimana diuraikan dalam materi berlaku dalam hal pembahasan dilakukan secara apa?",
+    "opsi": {
+      "A": "secara luring di kantor WP",
+      "B": "secara tertulis melalui surat-menyurat",
+      "C": "secara daring melalui media elektronik",
+      "D": "secara campuran daring dan luring"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi berjudul 'Penandatanganan BA Pelaksanaan Secara Daring' menegaskan skema TTE berlaku apabila pembahasan dilakukan secara daring.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 18,
+        "kutipan": "PEMBAHASAN Dilakukan secara DARING"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-030",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tanggapan Wajib Pajak atas SP2DK dinilai AR telah sesuai sehingga tidak dilakukan pembahasan. Berdasarkan Pasal 6 ayat (10), dokumen apa yang tetap harus dibuat sebagai penutup kegiatan P2DK tersebut?",
+    "opsi": {
+      "A": "Surat Pemberitahuan Hasil Penelitian",
+      "B": "BA pelaksanaan P2DK (BAP2DK)",
+      "C": "Nota Penghitungan",
+      "D": "Surat Keputusan Keberatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 6 ayat (10) menyatakan dalam hal tanggapan WP telah sesuai, tetap dibuatkan BA pelaksanaan P2DK (BAP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 16,
+        "kutipan": "Pasal 6 ayat (10) Dalam hal tanggapan WP telah sesuai, dibuatkan BA pelaksanaan P2DK (BAP2DK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "BAP2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-031",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf b pada hasil kegiatan P2DK adalah perubahan data secara jabatan, dengan contoh yang disebutkan dalam materi yaitu...",
+    "opsi": {
+      "A": "perubahan status PKP risiko rendah",
+      "B": "perubahan status non-aktif menjadi aktif",
+      "C": "perubahan data profil",
+      "D": "perubahan alamat domisili usaha"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan huruf b berupa perubahan data secara jabatan dengan contoh perubahan data profil.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "perubahan data secara jabatan, contoh: perubahan data profil"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-032",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf c pada hasil kegiatan P2DK berupa tindakan apa?",
+    "opsi": {
+      "A": "pencabutan PKP secara jabatan",
+      "B": "pengukuhan PKP secara jabatan",
+      "C": "pembetulan produk hukum secara jabatan",
+      "D": "penghapusan NPWP secara jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan huruf c berupa penghapusan NPWP secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "penghapusan NPWP secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-033",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dari daftar usulan lain hasil kegiatan P2DK, ada berapa huruf yang secara spesifik berkaitan dengan status Pengusaha Kena Pajak (PKP)?",
+    "opsi": {
+      "A": "2 huruf",
+      "B": "1 huruf",
+      "C": "3 huruf",
+      "D": "4 huruf"
+    },
+    "kunci": "A",
+    "pembahasan": "Dua huruf berkaitan dengan status PKP, yaitu huruf d (pengukuhan PKP secara jabatan) dan huruf e (pencabutan PKP secara jabatan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "d. pengukuhan PKP secara jabatan e. pencabutan PKP secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-034",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dari daftar usulan lain hasil kegiatan P2DK, ada berapa huruf yang berkaitan langsung dengan objek pajak Pajak Bumi dan Bangunan (PBB)?",
+    "opsi": {
+      "A": "2 huruf",
+      "B": "3 huruf",
+      "C": "4 huruf",
+      "D": "5 huruf"
+    },
+    "kunci": "B",
+    "pembahasan": "Tiga huruf berkaitan dengan objek pajak PBB, yaitu huruf f (pendaftaran objek pajak PBB secara jabatan), huruf g (perubahan data objek pajak PBB secara jabatan), dan huruf h (pencabutan pendaftaran SKT objek pajak PBB secara jabatan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "f. pendaftaran objek pajak PBB secara jabatan g. perubahan data objek pajak PBB secara jabatan h. pencabutan pendaftaran SKT objek pajak PBB secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-035",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf h pada hasil kegiatan P2DK adalah...",
+    "opsi": {
+      "A": "pencabutan pemungut Bea Meterai",
+      "B": "pembatasan atau pemblokiran layanan publik tertentu",
+      "C": "pencabutan pendaftaran SKT objek pajak PBB secara jabatan",
+      "D": "penilaian untuk tujuan perpajakan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan huruf h berupa pencabutan pendaftaran SKT objek pajak PBB secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "pencabutan pendaftaran SKT objek pajak PBB secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-036",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf i berupa perubahan status secara jabatan, dengan contoh yang disebutkan dalam materi yaitu...",
+    "opsi": {
+      "A": "perubahan status PKP risiko rendah",
+      "B": "perubahan data profil Wajib Pajak",
+      "C": "perubahan status aktif menjadi non-efektif",
+      "D": "perubahan status non-aktif menjadi aktif"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan huruf i berupa perubahan status secara jabatan dengan contoh perubahan status non-aktif menjadi aktif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "perubahan status secara jabatan, contoh: perubahan status non-aktif menjadi aktif"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-037",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf j berupa perubahan administrasi layanan perpajakan dan/atau fasilitas perpajakan, dengan contoh yang disebutkan dalam materi yaitu...",
+    "opsi": {
+      "A": "perubahan status PKP risiko rendah",
+      "B": "perubahan status non-aktif menjadi aktif",
+      "C": "perubahan data profil Wajib Pajak",
+      "D": "pencabutan pemungut Bea Meterai"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan huruf j berupa perubahan administrasi layanan/fasilitas perpajakan dengan contoh perubahan status PKP risiko rendah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "perubahan administrasi layanan perpajakan dan/atau administrasi fasilitas perpajakan yang diterima atau dimiliki WP, contoh: perubahan status PKP risiko rendah"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-038",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf k pada hasil kegiatan P2DK berupa tindakan apa?",
+    "opsi": {
+      "A": "pengukuhan PKP secara jabatan",
+      "B": "pencabutan pemungut Bea Meterai",
+      "C": "pendaftaran objek pajak PBB secara jabatan",
+      "D": "pelaksanaan kegiatan pengamatan dan/atau intelijen"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan huruf k berupa pencabutan pemungut Bea Meterai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "pencabutan pemungut Bea Meterai"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-039",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf l pada hasil kegiatan P2DK adalah...",
+    "opsi": {
+      "A": "pembatasan atau pemblokiran layanan publik tertentu",
+      "B": "penilaian untuk tujuan perpajakan",
+      "C": "pembetulan atau pembatalan secara jabatan terhadap produk hukum secara jabatan",
+      "D": "pemeriksaan bukti permulaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan huruf l berupa pembetulan atau pembatalan secara jabatan terhadap produk hukum secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "pembetulan atau pembatalan secara jabatan terhadap produk hukum secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-040",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf m pada hasil kegiatan P2DK adalah...",
+    "opsi": {
+      "A": "pembetulan atau pembatalan produk hukum secara jabatan",
+      "B": "penilaian untuk tujuan perpajakan",
+      "C": "pelaksanaan kegiatan pengamatan dan/atau intelijen",
+      "D": "pembatasan atau pemblokiran layanan publik tertentu"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan huruf m berupa pembatasan atau pemblokiran layanan publik tertentu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "pembatasan atau pemblokiran layanan publik tertentu"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-041",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan usulan lain yang termasuk dalam huruf o, p, dan q pada hasil kegiatan P2DK, KECUALI...",
+    "opsi": {
+      "A": "penilaian untuk tujuan perpajakan",
+      "B": "pengamatan dan/atau kegiatan intelijen",
+      "C": "kegiatan Pemeriksaan pajak",
+      "D": "pemeriksaan bukti permulaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf o, p, dan q berturut-turut adalah pengamatan/intelijen, Pemeriksaan, dan pemeriksaan bukti permulaan; penilaian untuk tujuan perpajakan merupakan huruf n, bukan o/p/q.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "n. penilaian untuk tujuan perpajakan; o. pelaksanaan kegiatan pengamatan dan/atau kegiatan intelijen; p. Pemeriksaan; q. pemeriksaan bukti permulaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-042",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dari daftar usulan lain hasil kegiatan P2DK, ada berapa huruf yang berkaitan dengan kegiatan pengawasan lanjutan berupa pengamatan/intelijen, Pemeriksaan, dan pemeriksaan bukti permulaan?",
+    "opsi": {
+      "A": "1 huruf",
+      "B": "3 huruf",
+      "C": "2 huruf",
+      "D": "4 huruf"
+    },
+    "kunci": "B",
+    "pembahasan": "Tiga huruf berkaitan dengan pengawasan lanjutan, yaitu huruf o (pelaksanaan kegiatan pengamatan dan/atau kegiatan intelijen), huruf p (Pemeriksaan), dan huruf q (pemeriksaan bukti permulaan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "o. pelaksanaan kegiatan pengamatan dan/atau kegiatan intelijen p. Pemeriksaan q. pemeriksaan bukti permulaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-043",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Usulan lain huruf terakhir (huruf q) pada hasil kegiatan P2DK adalah...",
+    "opsi": {
+      "A": "pelaksanaan kegiatan Pemeriksaan",
+      "B": "pengamatan dan/atau kegiatan intelijen",
+      "C": "pemeriksaan bukti permulaan",
+      "D": "pembatasan atau pemblokiran layanan publik"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan huruf q, huruf terakhir pada daftar usulan lain, berupa pemeriksaan bukti permulaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "q. pemeriksaan bukti permulaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-044",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa butir usulan lain (huruf b sampai q) yang disebutkan sebagai kemungkinan hasil kegiatan P2DK selain case closed?",
+    "opsi": {
+      "A": "14 butir",
+      "B": "15 butir",
+      "C": "17 butir",
+      "D": "16 butir"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf b hingga q pada daftar usulan lain berjumlah 16 huruf (b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "Usulan lain (huruf b-q)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-045",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil kegiatan P2DK menunjukkan bahwa WP ternyata belum dikukuhkan sebagai Pengusaha Kena Pajak padahal secara ketentuan sudah memenuhi syarat sebagai PKP. Usulan lain huruf berapa yang paling sesuai untuk tindak lanjut kondisi tersebut?",
+    "opsi": {
+      "A": "huruf d, pengukuhan PKP secara jabatan",
+      "B": "huruf e, pencabutan PKP secara jabatan",
+      "C": "huruf c, penghapusan NPWP secara jabatan",
+      "D": "huruf f, pendaftaran objek pajak PBB secara jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kondisi WP yang telah memenuhi syarat PKP namun belum dikukuhkan paling sesuai ditindaklanjuti dengan usulan huruf d, pengukuhan PKP secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "d. pengukuhan PKP secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-046",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "AR menemukan indikasi kuat terjadinya tindak pidana di bidang perpajakan saat melakukan kegiatan P2DK terhadap seorang WP. Usulan lain manakah yang paling relevan untuk ditindaklanjuti sebagai hasil kegiatan tersebut?",
+    "opsi": {
+      "A": "pelaksanaan kegiatan pengamatan dan/atau kegiatan intelijen",
+      "B": "pemeriksaan bukti permulaan",
+      "C": "penilaian untuk tujuan perpajakan",
+      "D": "pembatasan atau pemblokiran layanan publik tertentu"
+    },
+    "kunci": "B",
+    "pembahasan": "Indikasi kuat tindak pidana perpajakan paling relevan ditindaklanjuti dengan usulan huruf q, pemeriksaan bukti permulaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "q. pemeriksaan bukti permulaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-047",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil kegiatan P2DK, baik berupa case closed maupun usulan lain, disampaikan kepada WP melalui akun WP dan saluran lainnya. Salah satu saluran tersebut adalah pos elektronik dengan syarat...",
+    "opsi": {
+      "A": "menggunakan tanda tangan elektronik tersertifikasi",
+      "B": "telah diverifikasi oleh Kantor Wilayah DJP",
+      "C": "terdaftar dalam sistem administrasi DJP",
+      "D": "didaftarkan maksimal 5 hari kerja sebelumnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan hasil kegiatan P2DK disampaikan antara lain melalui pos elektronik yang terdaftar dalam sistem administrasi DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "melalui pos elektronik yang terdaftar dalam sistem administrasi DJP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-048",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk saluran penyampaian hasil kegiatan P2DK (case closed/usulan lain) kepada WP menurut materi, KECUALI...",
+    "opsi": {
+      "A": "melalui akun Wajib Pajak yang aktif",
+      "B": "melalui pos elektronik terdaftar di sistem DJP",
+      "C": "melalui pos/ekspedisi/kurir dengan bukti kirim",
+      "D": "media sosial resmi Direktorat Jenderal Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi hanya menyebut empat saluran: akun WP, pos elektronik terdaftar, pos/jasa ekspedisi/jasa kurir, dan secara langsung; media sosial tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "disampaikan melalui: a. akun WP; b. melalui pos elektronik yang terdaftar dalam sistem administrasi DJP; c. melalui pos/jasa ekspedisi/atau jasa kurir dengan bukti pengiriman surat"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-049",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penyampaian hasil kegiatan P2DK secara langsung dapat dilakukan kepada WP, wakil, kuasa, pegawai, atau pihak lain, yaitu...",
+    "opsi": {
+      "A": "anggota keluarga yang telah dewasa dari WP",
+      "B": "tetangga terdekat domisili WP",
+      "C": "kepala desa/lurah setempat",
+      "D": "notaris yang ditunjuk WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan penyampaian secara langsung dapat dilakukan kepada WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "secara langsung kepada WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "KEP-03-050",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+    "subtopik": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam suatu kegiatan P2DK, AR menemukan bahwa data objek pajak PBB milik WP sudah tidak sesuai dengan kondisi riil di lapangan, misalnya luas bangunan bertambah tanpa pelaporan perubahan. Usulan lain huruf berapa yang paling tepat sebagai tindak lanjut?",
+    "opsi": {
+      "A": "huruf f, pendaftaran objek pajak PBB secara jabatan",
+      "B": "huruf g, perubahan data objek pajak PBB secara jabatan",
+      "C": "huruf h, pencabutan pendaftaran SKT objek pajak PBB secara jabatan",
+      "D": "huruf n, penilaian untuk tujuan perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketidaksesuaian data objek pajak PBB yang sudah terdaftar paling tepat ditindaklanjuti dengan usulan huruf g, perubahan data objek pajak PBB secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 19,
+        "kutipan": "g. perubahan data objek pajak PBB secara jabatan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "P2DK"
+    ]
+  }
+]

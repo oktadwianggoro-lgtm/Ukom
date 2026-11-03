@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "KEP-07-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Diagram 'Persandingan Alur PMK Pengawasan dan PMK Pemeriksaan' mencantumkan dasar hukum untuk jalur Pengawasan (DPE/DPP), yaitu...",
+    "opsi": {
+      "A": "PMK-111/2025 ttg Pengawasan",
+      "B": "PMK-15/2025 ttg Pemeriksaan",
+      "C": "PMK-17/PMK.03/2025 ttg Pengawasan",
+      "D": "PMK-18/2025 ttg Pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Banner di bagian atas diagram mencantumkan 'PMK-111/2025 ttg Pengawasan' sebagai dasar hukum jalur Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "PMK-111/2025 ttg Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pengawasan"
+    ]
+  },
+  {
+    "id": "KEP-07-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada diagram yang sama, dasar hukum untuk jalur Pemeriksaan (lane ungu) adalah...",
+    "opsi": {
+      "A": "PMK-111/2025 ttg Pengawasan",
+      "B": "PMK-17/2025 ttg Pemeriksaan",
+      "C": "PMK-18/2025 ttg Pemeriksaan",
+      "D": "PMK-15/2025 ttg Pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Banner di bagian bawah diagram mencantumkan 'PMK-15/2025 ttg Pemeriksaan' sebagai dasar hukum jalur Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "PMK-15/2025 ttg Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK-15/2025",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "KEP-07-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apa judul diagram yang menyandingkan alur Pengawasan dan Pemeriksaan pada materi ini?",
+    "opsi": {
+      "A": "Siklus Penatausahaan PBB P5L",
+      "B": "Persandingan Alur PMK Pengawasan dan PMK Pemeriksaan",
+      "C": "Alur Penelitian Material dan Klarifikasi SPOP",
+      "D": "Mekanisme Keberatan dan Banding Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul tersebut tercantum di bagian atas diagram persandingan alur.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Persandingan Alur PMK Pengawasan dan PMK Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Pengawasan",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "KEP-07-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada diagram, jalur Pengawasan ditampilkan dalam dua lane yang masing-masing berlabel...",
+    "opsi": {
+      "A": "DPE dan DPP",
+      "B": "DJP dan WP",
+      "C": "SP2DK dan SPHP",
+      "D": "Step 1 dan Step 2 saja"
+    },
+    "kunci": "A",
+    "pembahasan": "Dua lane pada jalur Pengawasan diberi label 'DPE' (lane atas) dan 'DPP' (lane tengah).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "DPE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "DPP"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "DPP"
+    ]
+  },
+  {
+    "id": "KEP-07-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada lane DPE, kelompok dokumen yang ditandai sebagai 'Step 1' terdiri atas...",
+    "opsi": {
+      "A": "Surat Perintah Pengawasan dan LHPtE",
+      "B": "SP2DKE dan SPHPP",
+      "C": "BAP2DKE dan LHP2DKE",
+      "D": "Tanggapan WP dan Undangan pembahasan akhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Kotak bergaris putus-putus 'Step 1' pada lane DPE membungkus dokumen Surat Perintah Pengawasan dan LHPtE.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Step 1"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Surat Perintah Pengawasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHPtE"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Step 1"
+    ]
+  },
+  {
+    "id": "KEP-07-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Masih pada lane DPE, kelompok dokumen yang ditandai sebagai 'Step 2' terdiri atas...",
+    "opsi": {
+      "A": "Surat Perintah Pengawasan dan LHPtE",
+      "B": "SP2DKE dan SPHPP, Tanggapan WP, serta Undangan pembahasan akhir",
+      "C": "BAP2DKE dan LHP2DKE",
+      "D": "SPHP, Tanggapan SPHP, dan Undangan PAHP"
+    },
+    "kunci": "B",
+    "pembahasan": "Kotak 'Step 2' pada lane DPE membungkus dokumen SP2DKE dan SPHPP, Tanggapan WP, serta Undangan pembahasan akhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Step 2"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "SP2DKE dan SPHPP"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Step 2"
+    ]
+  },
+  {
+    "id": "KEP-07-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Account Representative baru saja menerbitkan Surat Perintah Pengawasan untuk Wajib Pajak pada lane DPP. Berdasarkan urutan dokumen pada diagram, dokumen berikutnya yang akan terbit adalah...",
+    "opsi": {
+      "A": "SP2DK",
+      "B": "Tanggapan WP",
+      "C": "BAP2DK",
+      "D": "LHPt"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada lane DPP, urutan dokumen setelah Surat Perintah Pengawasan adalah LHPt, sebelum SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Surat Perintah Pengawasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHPt"
+      }
+    ],
+    "tags": [
+      "DPP",
+      "LHPt"
+    ]
+  },
+  {
+    "id": "KEP-07-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan urutan dokumen pada lane DPE, dokumen yang terbit tepat setelah LHPtE adalah...",
+    "opsi": {
+      "A": "SP2DKE dan SPHPP",
+      "B": "Tanggapan WP",
+      "C": "BAP2DKE",
+      "D": "LHP2DKE"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah LHPtE, dokumen berikutnya pada lane DPE adalah SP2DKE dan SPHPP (kelompok Step 2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHPtE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "SP2DKE dan SPHPP"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "SP2DKE"
+    ]
+  },
+  {
+    "id": "KEP-07-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen akhir (output) pada lane DPP dalam proses Pengawasan menurut diagram adalah...",
+    "opsi": {
+      "A": "LHP2DKE",
+      "B": "BAP2DK",
+      "C": "LHP2DK",
+      "D": "SP2DK"
+    },
+    "kunci": "C",
+    "pembahasan": "Dokumen paling kanan pada lane DPP adalah LHP2DK, sebagai output akhir jalur Pengawasan non-elektronik.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHP2DK"
+      }
+    ],
+    "tags": [
+      "DPP",
+      "LHP2DK"
+    ]
+  },
+  {
+    "id": "KEP-07-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN merupakan dokumen pada lane DPE (Pengawasan) dalam diagram tersebut adalah...",
+    "opsi": {
+      "A": "LHPtE",
+      "B": "SP2DKE dan SPHPP",
+      "C": "LHPt",
+      "D": "LHP2DKE"
+    },
+    "kunci": "C",
+    "pembahasan": "LHPt adalah dokumen pada lane DPP, bukan lane DPE yang dokumennya berakhiran huruf 'E' seperti LHPtE.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHPtE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHPt"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "DPP"
+    ]
+  },
+  {
+    "id": "KEP-07-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen pertama yang terbit dalam alur Pemeriksaan (PMK-15/2025) menurut diagram adalah...",
+    "opsi": {
+      "A": "SPHP",
+      "B": "Surat Perintah Pemeriksaan (SP2)",
+      "C": "S. Pemb Pemeriksaan",
+      "D": "BA Temuan Sementara"
+    },
+    "kunci": "B",
+    "pembahasan": "Dokumen paling kiri pada lane Pemeriksaan adalah Surat Perintah Pemeriksaan (SP2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Surat Perintah Pemeriksaan (SP2)"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "SP2"
+    ]
+  },
+  {
+    "id": "KEP-07-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen terakhir (output) pada alur Pemeriksaan (PMK-15/2025) menurut diagram adalah...",
+    "opsi": {
+      "A": "KKP",
+      "B": "Risalah PAHP",
+      "C": "LHP",
+      "D": "Ikhtisar BA PAHP"
+    },
+    "kunci": "C",
+    "pembahasan": "Dokumen paling kanan pada lane Pemeriksaan adalah LHP (Laporan Hasil Pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHP"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "LHP"
+    ]
+  },
+  {
+    "id": "KEP-07-013",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tim pemeriksa pajak baru saja menerbitkan Surat Perintah Pemeriksaan (SP2) kepada Wajib Pajak. Berdasarkan urutan dokumen pada diagram, dokumen berikutnya yang akan terbit adalah...",
+    "opsi": {
+      "A": "S. Pemb Pemeriksaan",
+      "B": "Panggilan Pembahasan Temuan Sementara",
+      "C": "SPHP",
+      "D": "BA Temuan Sementara"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah SP2, dokumen berikutnya pada alur Pemeriksaan adalah S. Pemb Pemeriksaan (Surat Pemberitahuan Pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Surat Perintah Pemeriksaan (SP2)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "S. Pemb Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "SP2"
+    ]
+  },
+  {
+    "id": "KEP-07-014",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada alur Pemeriksaan, dokumen yang terbit tepat sebelum SPHP menurut diagram adalah...",
+    "opsi": {
+      "A": "Panggilan Pembahasan Temuan Sementara",
+      "B": "BA Temuan Sementara",
+      "C": "S. Pemb Pemeriksaan",
+      "D": "Tanggapan SPHP"
+    },
+    "kunci": "B",
+    "pembahasan": "Sebelum SPHP, dokumen yang terbit adalah BA Temuan Sementara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "BA Temuan Sementara"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "SPHP"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "SPHP"
+    ]
+  },
+  {
+    "id": "KEP-07-015",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Setelah Wajib Pajak menyampaikan Tanggapan SPHP, dokumen berikutnya yang terbit pada alur Pemeriksaan menurut diagram adalah...",
+    "opsi": {
+      "A": "Risalah PAHP",
+      "B": "Ikhtisar BA PAHP",
+      "C": "KKP",
+      "D": "Undangan PAHP"
+    },
+    "kunci": "D",
+    "pembahasan": "Setelah Tanggapan SPHP, dokumen berikutnya adalah Undangan PAHP, sebelum Risalah PAHP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Tanggapan SPHP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Undangan PAHP"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "PAHP"
+    ]
+  },
+  {
+    "id": "KEP-07-016",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pada alur Pemeriksaan, dokumen yang terbit tepat sebelum Ikhtisar BA PAHP menurut diagram adalah...",
+    "opsi": {
+      "A": "Undangan PAHP",
+      "B": "Risalah PAHP",
+      "C": "Tanggapan SPHP",
+      "D": "KKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Sebelum Ikhtisar BA PAHP, dokumen yang terbit adalah Risalah PAHP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Risalah PAHP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Ikhtisar"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "PAHP"
+    ]
+  },
+  {
+    "id": "KEP-07-017",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen yang terbit tepat sebelum LHP pada alur Pemeriksaan menurut diagram adalah...",
+    "opsi": {
+      "A": "Risalah PAHP",
+      "B": "Ikhtisar BA PAHP",
+      "C": "KKP",
+      "D": "BA Temuan Sementara"
+    },
+    "kunci": "C",
+    "pembahasan": "Sebelum LHP, dokumen yang disusun adalah KKP (Kertas Kerja Pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "KKP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHP"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "KKP"
+    ]
+  },
+  {
+    "id": "KEP-07-018",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN merupakan dokumen pada lane DPP (Pengawasan) dalam diagram persandingan alur adalah...",
+    "opsi": {
+      "A": "Surat Perintah Pengawasan",
+      "B": "SP2DK",
+      "C": "SPHP",
+      "D": "LHP2DK"
+    },
+    "kunci": "C",
+    "pembahasan": "SPHP adalah dokumen pada alur Pemeriksaan, bukan pada lane DPP (Pengawasan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "SPHP"
+      }
+    ],
+    "tags": [
+      "DPP",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "KEP-07-019",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN merupakan dokumen pada alur Pemeriksaan (PMK-15/2025) dalam diagram tersebut adalah...",
+    "opsi": {
+      "A": "BA Temuan Sementara",
+      "B": "Risalah PAHP",
+      "C": "SP2DK",
+      "D": "KKP"
+    },
+    "kunci": "C",
+    "pembahasan": "SP2DK merupakan dokumen pada alur Pengawasan (lane DPP), bukan pada alur Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "BA Temuan Sementara"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "KEP-07-020",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Label dokumen 'Tanggapan WP' muncul identik pada dua lane dalam diagram, yaitu...",
+    "opsi": {
+      "A": "DPE dan DPP",
+      "B": "DPP dan Pemeriksaan",
+      "C": "DPE dan Pemeriksaan",
+      "D": "hanya pada lane Pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "'Tanggapan WP' muncul pada lane DPE maupun DPP, sedangkan lane Pemeriksaan menggunakan label 'Tanggapan SPHP'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Tanggapan WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Tanggapan SPHP"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "DPP"
+    ]
+  },
+  {
+    "id": "KEP-07-021",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Ciri khas penamaan dokumen pada lane DPE dibandingkan lane DPP dalam diagram adalah...",
+    "opsi": {
+      "A": "diawali huruf 'S'",
+      "B": "diawali angka",
+      "C": "menggunakan tanda kurung",
+      "D": "diakhiri huruf 'E'"
+    },
+    "kunci": "D",
+    "pembahasan": "Dokumen pada lane DPE seperti LHPtE, SP2DKE, BAP2DKE, dan LHP2DKE diakhiri huruf 'E', berbeda dari lane DPP (LHPt, SP2DK, BAP2DK, LHP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHPtE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "LHP2DKE"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "DPP"
+    ]
+  },
+  {
+    "id": "KEP-07-022",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Account Representative berada pada tahap 'Step 2' lane DPE dan baru saja menerima Tanggapan WP. Berdasarkan diagram, dokumen yang akan diterbitkan selanjutnya adalah...",
+    "opsi": {
+      "A": "SP2DKE dan SPHPP",
+      "B": "Undangan pembahasan akhir",
+      "C": "BAP2DKE",
+      "D": "LHP2DKE"
+    },
+    "kunci": "B",
+    "pembahasan": "Setelah Tanggapan WP pada lane DPE, dokumen berikutnya adalah Undangan pembahasan akhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Tanggapan WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "Undangan pembahasan akhir"
+      }
+    ],
+    "tags": [
+      "DPE",
+      "Step 2"
+    ]
+  },
+  {
+    "id": "KEP-07-023",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Persandingan Alur Pengawasan vs Pemeriksaan",
+    "subtopik": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Diagram 'Persandingan Alur PMK Pengawasan dan PMK Pemeriksaan' menyandingkan dua peraturan, yaitu...",
+    "opsi": {
+      "A": "PMK-111/2025 dan PMK-17/2025",
+      "B": "PMK-15/2025 dan PMK-18/2025",
+      "C": "PMK-111/2025 dan UU KUP",
+      "D": "PMK-111/2025 ttg Pengawasan dan PMK-15/2025 ttg Pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Dua banner pada diagram mencantumkan 'PMK-111/2025 ttg Pengawasan' dan 'PMK-15/2025 ttg Pemeriksaan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "PMK-111/2025 ttg Pengawasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 76,
+        "kutipan": "PMK-15/2025 ttg Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "PMK-15/2025"
+    ]
+  },
+  {
+    "id": "KEP-07-024",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apa judul diagram alur penatausahaan PBB sektor P5L pada materi ini?",
+    "opsi": {
+      "A": "Persandingan Alur PMK Pengawasan dan PMK Pemeriksaan",
+      "B": "Siklus Penatausahaan PBB P5L",
+      "C": "Mekanisme Pelaporan SPT Tahunan",
+      "D": "Alur Keberatan dan Banding PBB"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul diagram tercantum di bagian kanan atas halaman.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Siklus Penatausahaan PBB P5L"
+      }
+    ],
+    "tags": [
+      "PBB P5L"
+    ]
+  },
+  {
+    "id": "KEP-07-025",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram, batas waktu pelaporan SPOP oleh Wajib Pajak kepada CoreTax adalah...",
+    "opsi": {
+      "A": "7 Hari",
+      "B": "15 Hari",
+      "C": "30 Hari",
+      "D": "5 Hari"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram mencantumkan label 'Pelaporan SPOP (30 Hari)' pada alur dari Wajib Pajak menuju CoreTax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Pelaporan SPOP (30 Hari)"
+      }
+    ],
+    "tags": [
+      "SPOP",
+      "CoreTax"
+    ]
+  },
+  {
+    "id": "KEP-07-026",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jika Wajib Pajak mengajukan penundaan pelaporan SPOP, jangka waktu penundaan yang diberikan menurut diagram adalah...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "30 Hari",
+      "C": "7 Hari",
+      "D": "15 Hari"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram mencantumkan label 'Penundaan Pelaporan SPOP (7 Hari)'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penundaan Pelaporan SPOP (7 Hari)"
+      }
+    ],
+    "tags": [
+      "SPOP"
+    ]
+  },
+  {
+    "id": "KEP-07-027",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada 'Auto Creation SPOP' Periode I untuk objek pajak Kebun, Migas, dan Pabum, SPOP dibuat otomatis per tanggal...",
+    "opsi": {
+      "A": "1 Februari",
+      "B": "31 Maret",
+      "C": "1 Maret",
+      "D": "31 Januari"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram mencantumkan 'Periode I Kebun, Migas, Pabum : 1 Feb'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode I Kebun, Migas, Pabum : 1 Feb"
+      }
+    ],
+    "tags": [
+      "Auto Creation SPOP"
+    ]
+  },
+  {
+    "id": "KEP-07-028",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada 'Auto Creation SPOP' Periode II untuk objek pajak Hutan, Minerba, dan Lainnya, SPOP dibuat otomatis per tanggal...",
+    "opsi": {
+      "A": "1 Februari",
+      "B": "7 Maret",
+      "C": "30 April",
+      "D": "31 Maret"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram mencantumkan 'Periode II Hutan, Minerba, Lainnya : 31 Mar'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode II Hutan, Minerba, Lainnya : 31 Mar"
+      }
+    ],
+    "tags": [
+      "Auto Creation SPOP"
+    ]
+  },
+  {
+    "id": "KEP-07-029",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Objek pajak yang termasuk dalam 'Periode I' Auto Creation SPOP menurut diagram adalah...",
+    "opsi": {
+      "A": "Hutan, Minerba, Lainnya",
+      "B": "Kebun, Migas, Pabum",
+      "C": "Kebun dan Hutan saja",
+      "D": "Minerba dan Migas saja"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram mencantumkan 'Periode I Kebun, Migas, Pabum : 1 Feb'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode I Kebun, Migas, Pabum : 1 Feb"
+      }
+    ],
+    "tags": [
+      "Auto Creation SPOP"
+    ]
+  },
+  {
+    "id": "KEP-07-030",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN termasuk objek pajak pada 'Periode II' Auto Creation SPOP menurut diagram adalah...",
+    "opsi": {
+      "A": "Hutan",
+      "B": "Minerba",
+      "C": "Lainnya",
+      "D": "Migas"
+    },
+    "kunci": "D",
+    "pembahasan": "Migas termasuk dalam Periode I (bersama Kebun dan Pabum), bukan Periode II (Hutan, Minerba, Lainnya).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode I Kebun, Migas, Pabum : 1 Feb"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode II Hutan, Minerba, Lainnya : 31 Mar"
+      }
+    ],
+    "tags": [
+      "Auto Creation SPOP"
+    ]
+  },
+  {
+    "id": "KEP-07-031",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sistem yang menerima pelaporan SPOP dari Wajib Pajak pada diagram Siklus Penatausahaan PBB P5L adalah...",
+    "opsi": {
+      "A": "e-Filing",
+      "B": "CoreTax",
+      "C": "SIDJP",
+      "D": "e-SPOP Online"
+    },
+    "kunci": "B",
+    "pembahasan": "Alur pelaporan SPOP dari Wajib Pajak diarahkan ke sistem CoreTax pada diagram.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "CORETAX"
+      }
+    ],
+    "tags": [
+      "CoreTax"
+    ]
+  },
+  {
+    "id": "KEP-07-032",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika hasil penelitian material atas SPOP dinyatakan 'Sesuai', proses selanjutnya pada diagram adalah...",
+    "opsi": {
+      "A": "Surat Teguran",
+      "B": "Klarifikasi",
+      "C": "Penilaian",
+      "D": "Anris Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Anak panah berlabel 'Sesuai' dari Penelitan Material menuju langsung ke proses Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Sesuai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian"
+      }
+    ],
+    "tags": [
+      "Penilaian"
+    ]
+  },
+  {
+    "id": "KEP-07-033",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut diagram, jangka waktu pelaksanaan Penilaian Kantor adalah...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "7 Hari",
+      "C": "15 Hari",
+      "D": "30 Hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Label '5 Hari' tercantum berdampingan dengan kotak Penilaian Kantor.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Kantor"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "5 Hari"
+      }
+    ],
+    "tags": [
+      "Penilaian Kantor"
+    ]
+  },
+  {
+    "id": "KEP-07-034",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut diagram, jangka waktu pelaksanaan Penilaian Lapangan adalah...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "7 Hari",
+      "C": "15 Hari",
+      "D": "30 Hari"
+    },
+    "kunci": "C",
+    "pembahasan": "Label '15 Hari' tercantum berdampingan dengan kotak Penilaian Lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Lapangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "15 Hari"
+      }
+    ],
+    "tags": [
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "KEP-07-035",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Petugas penilai telah menyelesaikan Penilaian Kantor dan Penilaian Lapangan atas suatu objek PBB P5L. Berdasarkan diagram, tahap berikutnya dalam proses Penilaian adalah...",
+    "opsi": {
+      "A": "Penetapan NJOP",
+      "B": "SPPT",
+      "C": "Pemeriksaan PBB",
+      "D": "SKP PBB"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah Penilaian Kantor maupun Penilaian Lapangan, alur diagram menuju Penetapan NJOP sebelum SPPT diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Kantor"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penetapan NJOP"
+      }
+    ],
+    "tags": [
+      "Penilaian",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "KEP-07-036",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen akhir yang dihasilkan dari proses Penilaian pada diagram Siklus Penatausahaan PBB P5L adalah...",
+    "opsi": {
+      "A": "SKP PBB",
+      "B": "NJOP",
+      "C": "LHP",
+      "D": "SPPT"
+    },
+    "kunci": "D",
+    "pembahasan": "Alur proses Penilaian pada diagram berakhir pada penerbitan SPPT setelah Penetapan NJOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penetapan NJOP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "SPPT"
+      }
+    ],
+    "tags": [
+      "SPPT"
+    ]
+  },
+  {
+    "id": "KEP-07-037",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Account Representative merujuk hasil Anris Pemeriksaan ke unit pemeriksa, dan Pemeriksaan PBB pun dilaksanakan. Berdasarkan diagram, dokumen akhir yang diterbitkan dari proses tersebut adalah...",
+    "opsi": {
+      "A": "SPPT",
+      "B": "Penetapan NJOP",
+      "C": "SKP PBB",
+      "D": "Surat Teguran"
+    },
+    "kunci": "C",
+    "pembahasan": "Alur 'Probis Pemeriksaan' pada diagram menunjukkan Anris Pemeriksaan menuju Pemeriksaan PBB lalu berakhir pada SKP PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Pemeriksaan PBB"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "SKP PBB"
+      }
+    ],
+    "tags": [
+      "SKP PBB"
+    ]
+  },
+  {
+    "id": "KEP-07-038",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam legenda diagram, garis putus-putus berwarna hijau merepresentasikan...",
+    "opsi": {
+      "A": "Probis Pengawasan",
+      "B": "Probis Penilaian",
+      "C": "Probis Pemeriksaan",
+      "D": "Probis Keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Legenda pada diagram mencantumkan garis hijau putus-putus sebagai simbol 'Probis Pengawasan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Probis Pengawasan"
+      }
+    ],
+    "tags": [
+      "Probis Pengawasan"
+    ]
+  },
+  {
+    "id": "KEP-07-039",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam legenda diagram, garis putus-putus berwarna kuning/oranye merepresentasikan...",
+    "opsi": {
+      "A": "Probis Pengawasan",
+      "B": "Probis Pemeriksaan",
+      "C": "Probis Pelaporan",
+      "D": "Probis Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Legenda pada diagram mencantumkan garis kuning/oranye putus-putus sebagai simbol 'Probis Penilaian'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Probis Penilaian"
+      }
+    ],
+    "tags": [
+      "Probis Penilaian"
+    ]
+  },
+  {
+    "id": "KEP-07-040",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN termasuk kategori 'Probis' pada legenda diagram Siklus Penatausahaan PBB P5L adalah...",
+    "opsi": {
+      "A": "Probis Pengawasan",
+      "B": "Probis Penilaian",
+      "C": "Probis Pemeriksaan",
+      "D": "Probis Keberatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Legenda diagram hanya mencantumkan tiga kategori probis, yaitu Probis Pengawasan, Probis Penilaian, dan Probis Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Probis Pengawasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Probis Penilaian"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Probis Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Probis"
+    ]
+  },
+  {
+    "id": "KEP-07-041",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah objek pajak kategori Pertambangan Mineral dan Batubara (Minerba) akan dibuatkan SPOP secara otomatis oleh sistem pada Periode II. Berdasarkan diagram, tanggal Auto Creation SPOP untuk objek tersebut adalah...",
+    "opsi": {
+      "A": "1 Februari",
+      "B": "31 Maret",
+      "C": "30 April",
+      "D": "7 Maret"
+    },
+    "kunci": "B",
+    "pembahasan": "Minerba termasuk kelompok 'Periode II Hutan, Minerba, Lainnya : 31 Mar'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode II Hutan, Minerba, Lainnya : 31 Mar"
+      }
+    ],
+    "tags": [
+      "Auto Creation SPOP",
+      "Minerba"
+    ]
+  },
+  {
+    "id": "KEP-07-042",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jika verifikasi CoreTax atas pelaporan SPOP menunjukkan hasil 'Tidak', proses yang dijalankan selanjutnya menurut diagram adalah...",
+    "opsi": {
+      "A": "Klarifikasi",
+      "B": "Penelitian Material",
+      "C": "Surat Teguran",
+      "D": "Pembetulan SPOP"
+    },
+    "kunci": "C",
+    "pembahasan": "Cabang 'Tidak' dari CoreTax pada diagram mengarah ke kotak Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Surat Teguran"
+      }
+    ],
+    "tags": [
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-07-043",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu bagi Wajib Pajak untuk menanggapi Surat Teguran menurut diagram adalah...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "7 Hari",
+      "C": "15 Hari",
+      "D": "30 Hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Label '7 Hari' tercantum berdampingan dengan kotak Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Surat Teguran"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "7 Hari"
+      }
+    ],
+    "tags": [
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-07-044",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Wajib Pajak tidak menanggapi Surat Teguran dalam batas waktu yang ditentukan, tindak lanjut pada diagram adalah...",
+    "opsi": {
+      "A": "Klarifikasi",
+      "B": "Pembetulan SPOP",
+      "C": "Anris Pemeriksaan",
+      "D": "Penilaian"
+    },
+    "kunci": "C",
+    "pembahasan": "Anak panah berlabel 'Tidak Ditanggapi' dari Surat Teguran mengarah ke Anris Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Ditanggapi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Anris Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Surat Teguran",
+      "Anris Pemeriksaan"
+    ]
+  },
+  {
+    "id": "KEP-07-045",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Wajib Pajak menanggapi Surat Teguran, proses pada diagram kembali menuju...",
+    "opsi": {
+      "A": "CoreTax",
+      "B": "Klarifikasi",
+      "C": "Penilaian",
+      "D": "Pemeriksaan PBB"
+    },
+    "kunci": "A",
+    "pembahasan": "Anak panah berlabel 'Menanggapi' dari Surat Teguran mengarah kembali ke CoreTax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Menanggapi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Surat Teguran"
+      }
+    ],
+    "tags": [
+      "Surat Teguran",
+      "CoreTax"
+    ]
+  },
+  {
+    "id": "KEP-07-046",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jika hasil Penelitian Material atas SPOP dinyatakan 'Belum Sesuai', tahap berikutnya pada diagram adalah...",
+    "opsi": {
+      "A": "Surat Teguran",
+      "B": "Klarifikasi",
+      "C": "Pembetulan SPOP",
+      "D": "Penilaian"
+    },
+    "kunci": "B",
+    "pembahasan": "Anak panah berlabel 'Belum Sesuai' dari Penelitan Material mengarah ke Klarifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Belum"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Sesuai"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Klarifikasi"
+      }
+    ],
+    "tags": [
+      "Penelitian Material",
+      "Klarifikasi"
+    ]
+  },
+  {
+    "id": "KEP-07-047",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu bagi Wajib Pajak untuk menanggapi tahap Klarifikasi menurut diagram adalah...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "15 Hari",
+      "C": "30 Hari",
+      "D": "7 Hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Label '7 Hari' tercantum berdampingan dengan kotak Klarifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Klarifikasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "7 Hari"
+      }
+    ],
+    "tags": [
+      "Klarifikasi"
+    ]
+  },
+  {
+    "id": "KEP-07-048",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika Wajib Pajak menanggapi tahap Klarifikasi, langkah selanjutnya pada diagram adalah...",
+    "opsi": {
+      "A": "Pembetulan SPOP",
+      "B": "Anris Pemeriksaan",
+      "C": "Penilaian langsung",
+      "D": "Surat Teguran"
+    },
+    "kunci": "A",
+    "pembahasan": "Anak panah berlabel 'Menanggapi' dari Klarifikasi mengarah ke Pembetulan SPOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Menanggapi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Pembetulan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "SPOP"
+      }
+    ],
+    "tags": [
+      "Klarifikasi",
+      "Pembetulan SPOP"
+    ]
+  },
+  {
+    "id": "KEP-07-049",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN merupakan tahapan dalam alur Penelitian Material-Klarifikasi-Pembetulan SPOP pada diagram adalah...",
+    "opsi": {
+      "A": "Klarifikasi",
+      "B": "Pembetulan SPOP",
+      "C": "Penetapan NJOP",
+      "D": "Penelitian Material"
+    },
+    "kunci": "C",
+    "pembahasan": "Penetapan NJOP merupakan bagian dari proses Penilaian, bukan bagian dari alur Penelitian Material-Klarifikasi-Pembetulan SPOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Klarifikasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penetapan NJOP"
+      }
+    ],
+    "tags": [
+      "Penelitian Material"
+    ]
+  },
+  {
+    "id": "KEP-07-050",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Petugas melakukan Penelitian Material atas SPOP sebuah objek pajak perkebunan dan hasilnya 'Belum Sesuai'. Wajib Pajak kemudian diminta Klarifikasi namun tidak memberikan tanggapan dalam batas waktu yang ditentukan. Berdasarkan diagram, tindak lanjut atas kondisi tersebut adalah...",
+    "opsi": {
+      "A": "Penilaian langsung dilakukan",
+      "B": "SPOP otomatis dibetulkan",
+      "C": "Surat Teguran diterbitkan ulang",
+      "D": "Anris Pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Anak panah berlabel 'Tidak Ditanggapi' dari Klarifikasi mengarah ke Anris Pemeriksaan, sama seperti jalur dari Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Ditanggapi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Anris Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Klarifikasi",
+      "Anris Pemeriksaan"
+    ]
+  },
+  {
+    "id": "KEP-07-051",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak menerima Surat Teguran karena belum melaporkan SPOP, kemudian menyampaikan tanggapan dalam batas waktu 7 hari. Berdasarkan alur pada diagram, proses selanjutnya yang akan dijalani adalah kembali ke tahap...",
+    "opsi": {
+      "A": "Auto Creation SPOP",
+      "B": "CoreTax (verifikasi Ya/Tidak)",
+      "C": "Anris Pemeriksaan",
+      "D": "Penilaian"
+    },
+    "kunci": "B",
+    "pembahasan": "Anak panah berlabel 'Menanggapi' dari Surat Teguran mengarah kembali ke node CoreTax untuk verifikasi ulang.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Menanggapi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "CORETAX"
+      }
+    ],
+    "tags": [
+      "Surat Teguran",
+      "CoreTax"
+    ]
+  }
+]

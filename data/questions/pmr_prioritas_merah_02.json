@@ -1,0 +1,2206 @@
+[
+  {
+    "id": "PMR-0101",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Subjek Pajak",
+    "subtopik": "Syarat Subjektif Orang Pribadi",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut syarat subjektif Wajib Pajak orang pribadi, seseorang dianggap memenuhi syarat subjektif jika berada di Indonesia lebih dari berapa hari dalam jangka waktu 12 bulan?",
+    "opsi": {
+      "A": "183 hari",
+      "B": "90 hari",
+      "C": "120 hari",
+      "D": "200 hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat subjektif OP salah satunya adalah berada di Indonesia lebih dari 183 hari dalam jangka waktu 12 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "Berada di Indonesia lebih dari 183 hari dalam jangka waktu 12 bulan."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 2",
+      "Syarat Subjektif Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0102",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Subjek Pajak",
+    "subtopik": "Syarat Subjektif Badan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Manakah yang merupakan salah satu syarat subjektif Wajib Pajak Badan menurut materi Syarat Wajib Pajak di Indonesia?",
+    "opsi": {
+      "A": "Memiliki NPWP terdaftar di KPP Pratama",
+      "B": "Didirikan atau bertempat kedudukan di Indonesia untuk tujuan pajak",
+      "C": "Memperoleh penghasilan hanya dari luar Indonesia",
+      "D": "Terdaftar sebagai Pengusaha Kena Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Syarat subjektif Badan antara lain didirikan atau bertempat kedudukan di Indonesia untuk tujuan pajak, serta menjalankan kegiatan usaha atau melakukan kegiatan di Indonesia.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "Bertempat kedudukan di Indonesia untuk tujuan pajak."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 2",
+      "Syarat Subjektif Badan"
+    ]
+  },
+  {
+    "id": "PMR-0103",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Subjek Pajak",
+    "subtopik": "Dasar Hukum Wajib Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dasar hukum utama penetapan syarat Wajib Pajak adalah UU Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana diubah terakhir dengan undang-undang tentang Harmonisasi Peraturan Perpajakan, yaitu UU Nomor berapa?",
+    "opsi": {
+      "A": "UU Nomor 36 Tahun 2008",
+      "B": "UU Nomor 28 Tahun 2007",
+      "C": "UU Nomor 7 Tahun 2021",
+      "D": "UU Nomor 11 Tahun 2020"
+    },
+    "kunci": "C",
+    "pembahasan": "Dasar hukum utama adalah UU No. 7 Tahun 1983 tentang PPh sebagaimana telah beberapa kali diubah terakhir dengan UU No. 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 67,
+        "kutipan": "Undang-Undang Nomor 7 Tahun 1983 ... diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP)."
+      }
+    ],
+    "tags": [
+      "UU HPP",
+      "Dasar Hukum PPh"
+    ]
+  },
+  {
+    "id": "PMR-0104",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Kewajiban Mengisi SPT",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam kewajiban mengisi SPT, siapa yang berwenang menandatangani SPT selain Wajib Pajak sendiri?",
+    "opsi": {
+      "A": "Account Representative KPP",
+      "B": "Notaris yang ditunjuk WP",
+      "C": "Kepala KPP tempat WP terdaftar",
+      "D": "Wakil WP atau Kuasa"
+    },
+    "kunci": "D",
+    "pembahasan": "SPT ditandatangani oleh Wajib Pajak, atau dapat ditandatangani oleh Wakil WP atau Kuasa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 70,
+        "kutipan": "Menandatangani: Wakil WP atau Kuasa."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 4",
+      "Kewajiban Mengisi SPT"
+    ]
+  },
+  {
+    "id": "PMR-0105",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Kriteria Pengisian SPT",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut materi Kewajiban Mengisi SPT, pengertian SPT diisi secara 'lengkap' adalah...",
+    "opsi": {
+      "A": "Memuat semua unsur-unsur yang berkaitan dengan objek pajak dan unsur-unsur lain yang harus dilaporkan dalam SPT",
+      "B": "Benar dalam perhitungan dan penerapan ketentuan peraturan perpajakan",
+      "C": "Melaporkan asal-usul atau sumber dari objek pajak",
+      "D": "Disampaikan sebelum batas waktu pelaporan berakhir"
+    },
+    "kunci": "A",
+    "pembahasan": "'Lengkap' adalah memuat semua unsur-unsur yang berkaitan dengan objek pajak dan unsur-unsur lain yang harus dilaporkan dalam SPT.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 70,
+        "kutipan": "lengkap adalah memuat semua unsur-unsur yang berkaitan dengan objek pajak dan unsur-unsur lain yang harus dilaporkan dalam SPT"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 4",
+      "Kriteria Pengisian SPT"
+    ]
+  },
+  {
+    "id": "PMR-0106",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "SPT dengan Mata Uang Asing",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak yang telah memperoleh izin Menteri Keuangan untuk menyelenggarakan pembukuan dengan bahasa asing dan mata uang selain Rupiah, wajib menyampaikan SPT dalam...",
+    "opsi": {
+      "A": "Bahasa asing dengan mata uang Rupiah",
+      "B": "Bahasa Indonesia dengan mata uang selain Rupiah yang diizinkan",
+      "C": "Bahasa Indonesia dengan mata uang Rupiah tanpa pengecualian",
+      "D": "Bahasa asing dengan mata uang asing sepenuhnya"
+    },
+    "kunci": "B",
+    "pembahasan": "WP yang memperoleh izin pembukuan bahasa asing dan mata uang selain Rupiah tetap wajib menyampaikan SPT dalam bahasa Indonesia dengan mata uang selain Rupiah yang diizinkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 70,
+        "kutipan": "wajib menyampaikan SPT dalam bahasa Indonesia dengan mata uang selain Rupiah yang diizinkan"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "SPT Mata Uang Asing"
+    ]
+  },
+  {
+    "id": "PMR-0107",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "SPT Badan Mata Uang USD",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "WP Badan yang diizinkan menyelenggarakan pembukuan dengan bahasa Inggris dan satuan mata uang dolar Amerika Serikat tetap wajib menyampaikan SPT PPh Badan beserta lampirannya dalam bahasa Indonesia, KECUALI untuk lampiran berupa...",
+    "opsi": {
+      "A": "Daftar nominatif biaya promosi",
+      "B": "Bukti potong PPh Pasal 23",
+      "C": "Laporan keuangan, yang tetap menggunakan satuan mata uang dolar Amerika Serikat",
+      "D": "Rekonsiliasi fiskal akhir tahun"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengecualian hanya berlaku untuk lampiran berupa laporan keuangan, yang tetap menggunakan satuan mata uang dolar Amerika Serikat; bagian SPT lainnya tetap dalam bahasa Indonesia.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 71,
+        "kutipan": "wajib menyampaikan SPT PPh WP Badan beserta lampirannya dalam bahasa Indonesia kecuali lampiran berupa laporan keuangan, dan menggunakan satuan mata uang dolar Amerika Serikat"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Mata Uang Dolar AS"
+    ]
+  },
+  {
+    "id": "PMR-0108",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Dasar Hukum Mata Uang Asing",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai penggunaan bahasa Inggris dan mata uang dolar Amerika Serikat dalam SPT WP Badan sebagaimana disesuaikan dalam materi diatur dalam peraturan nomor...",
+    "opsi": {
+      "A": "PMK 9/PMK.03/2018",
+      "B": "PMK 164/PMK.03/2023",
+      "C": "PMK 18/PMK.03/2021",
+      "D": "PMK 243/PMK.03/2014"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan 'Penyesuaian Ketentuan PMK 243/PMK.03/2014' sebagai dasar aturan mata uang dolar Amerika Serikat dalam SPT.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 71,
+        "kutipan": "PENYESUAIAN KETENTUAN PMK 243/PMK.03/2014 - MATA UANG DOLAR AMERIKA SERIKAT"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Dasar Hukum SPT"
+    ]
+  },
+  {
+    "id": "PMR-0109",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "PPN PMSE Mata Uang Asing",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "WP yang ditunjuk sebagai Pihak Lain di luar Daerah Pabean dan memilih melaksanakan kewajiban pembayaran dan pelaporan atas PPN PMSE menggunakan mata uang dolar Amerika Serikat, wajib mengisi SPT Masa PPN menggunakan...",
+    "opsi": {
+      "A": "Satuan mata uang dolar Amerika Serikat",
+      "B": "Satuan mata uang Rupiah",
+      "C": "Satuan mata uang Euro",
+      "D": "Kombinasi Rupiah dan dolar Amerika Serikat"
+    },
+    "kunci": "A",
+    "pembahasan": "Jika Pihak Lain memilih melaksanakan kewajiban PPN PMSE dengan mata uang dolar AS, SPT Masa PPN juga wajib diisi dengan satuan mata uang dolar Amerika Serikat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 71,
+        "kutipan": "wajib mengisi SPT Masa PPN menggunakan satuan mata uang dolar Amerika Serikat"
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "PPN PMSE"
+    ]
+  },
+  {
+    "id": "PMR-0110",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Batas Waktu SPT Tahunan Badan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Tahunan PPh Badan adalah...",
+    "opsi": {
+      "A": "3 bulan setelah akhir Tahun Pajak",
+      "B": "4 bulan setelah akhir Tahun Pajak",
+      "C": "6 bulan setelah akhir Tahun Pajak",
+      "D": "2 bulan setelah akhir Tahun Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "SPT Tahunan PPh Badan disampaikan paling lambat 4 bulan setelah akhir Tahun Pajak atau 4 bulan setelah akhir Bagian Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 72,
+        "kutipan": "PPh Badan: 4 bulan setelah akhir Tahun Pajak, 4 bulan setelah akhir Bagian Tahun Pajak."
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Batas Waktu SPT Tahunan"
+    ]
+  },
+  {
+    "id": "PMR-0111",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Batas Waktu SPT Tahunan OP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Tahunan PPh Orang Pribadi adalah...",
+    "opsi": {
+      "A": "4 bulan setelah akhir Tahun Pajak",
+      "B": "6 bulan setelah akhir Tahun Pajak",
+      "C": "3 bulan setelah akhir Tahun Pajak",
+      "D": "2 bulan setelah akhir Tahun Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "SPT Tahunan PPh Orang Pribadi disampaikan paling lambat 3 bulan setelah akhir Tahun Pajak atau 3 bulan setelah akhir Bagian Tahun Pajak, lebih cepat dari batas waktu SPT Badan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 72,
+        "kutipan": "PPh Orang Pribadi: 3 bulan setelah akhir Tahun Pajak, 3 bulan setelah akhir Bagian Tahun Pajak."
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Batas Waktu SPT Tahunan"
+    ]
+  },
+  {
+    "id": "PMR-0112",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Batas Waktu SPOP PBB",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Surat Pemberitahuan Objek Pajak (SPOP) PBB wajib dikembalikan oleh Wajib Pajak paling lambat berapa hari setelah tanggal diterimanya SPOP?",
+    "opsi": {
+      "A": "14 hari",
+      "B": "20 hari",
+      "C": "60 hari",
+      "D": "30 hari"
+    },
+    "kunci": "D",
+    "pembahasan": "SPOP wajib dikembalikan WP paling lambat 30 hari setelah tanggal diterimanya SPOP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 72,
+        "kutipan": "SPOP 30 hari setelah tanggal diterimanya SPOP."
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "SPOP PBB"
+    ]
+  },
+  {
+    "id": "PMR-0113",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Batas Waktu SPT Masa PPh 21/26",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Masa PPh Pasal 21/26 adalah...",
+    "opsi": {
+      "A": "20 hari setelah Masa Pajak berakhir",
+      "B": "10 hari setelah Masa Pajak berakhir",
+      "C": "15 hari setelah Masa Pajak berakhir",
+      "D": "akhir bulan berikutnya setelah Masa Pajak berakhir"
+    },
+    "kunci": "A",
+    "pembahasan": "SPT Masa PPh Pasal 21/26 disampaikan paling lambat 20 hari setelah Masa Pajak berakhir, sama dengan PPh Pasal 25 dan PPh Unifikasi.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 73,
+        "kutipan": "PPh Pasal 21/26 ... 20 hari setelah Masa Pajak berakhir."
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Batas Waktu SPT Masa"
+    ]
+  },
+  {
+    "id": "PMR-0114",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Batas Waktu SPT Masa PPN",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berbeda dari SPT Masa PPh yang disampaikan 20 hari setelah Masa Pajak berakhir, SPT Masa PPN disampaikan paling lambat...",
+    "opsi": {
+      "A": "15 hari setelah Masa Pajak berakhir",
+      "B": "Akhir bulan berikutnya setelah Masa Pajak berakhir",
+      "C": "20 hari setelah Masa Pajak berakhir",
+      "D": "25 hari setelah Masa Pajak berakhir"
+    },
+    "kunci": "B",
+    "pembahasan": "SPT Masa PPN memiliki batas waktu tersendiri, yaitu akhir bulan berikutnya setelah Masa Pajak berakhir, berbeda dari SPT Masa lainnya yang 20 hari.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 73,
+        "kutipan": "PPN ... akhir bulan berikutnya."
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Batas Waktu SPT Masa PPN"
+    ]
+  },
+  {
+    "id": "PMR-0115",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaporan Pajak",
+    "subtopik": "Batas Waktu Bea Meterai",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Masa Bea Meterai adalah...",
+    "opsi": {
+      "A": "10 hari setelah Masa Pajak berakhir",
+      "B": "20 hari setelah Masa Pajak berakhir",
+      "C": "15 hari setelah Masa Pajak berakhir",
+      "D": "akhir bulan berikutnya"
+    },
+    "kunci": "C",
+    "pembahasan": "SPT Masa Bea Meterai disampaikan paling lambat 15 hari setelah Masa Pajak berakhir, berbeda dari kebanyakan SPT Masa lain yang 20 hari.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 73,
+        "kutipan": "Bea Meterai 15 hari setelah Masa Pajak berakhir."
+      }
+    ],
+    "tags": [
+      "PMK 243/PMK.03/2014",
+      "Bea Meterai"
+    ]
+  },
+  {
+    "id": "PMR-0116",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Perpajakan",
+    "subtopik": "Denda SPT Masa PPN",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 7 ayat (1) UU KUP, sanksi administrasi berupa denda atas keterlambatan/tidak menyampaikan SPT Masa PPN adalah sebesar...",
+    "opsi": {
+      "A": "Rp100.000",
+      "B": "Rp1.000.000",
+      "C": "Rp200.000",
+      "D": "Rp500.000"
+    },
+    "kunci": "D",
+    "pembahasan": "Denda keterlambatan SPT Masa PPN sebesar Rp500.000, lebih besar dari SPT Masa lainnya yang hanya Rp100.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 76,
+        "kutipan": "SPT Masa PPN ... Rp500.000,-"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 7",
+      "Sanksi Administrasi Denda"
+    ]
+  },
+  {
+    "id": "PMR-0117",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Perpajakan",
+    "subtopik": "Denda SPT Tahunan Badan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda keterlambatan/tidak menyampaikan SPT Tahunan WP Badan berdasarkan Pasal 7 ayat (1) UU KUP adalah sebesar...",
+    "opsi": {
+      "A": "Rp1.000.000",
+      "B": "Rp100.000",
+      "C": "Rp500.000",
+      "D": "Rp250.000"
+    },
+    "kunci": "A",
+    "pembahasan": "Denda SPT Tahunan WP Badan sebesar Rp1.000.000, jauh lebih besar dibanding SPT Tahunan WP OP yang hanya Rp100.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 76,
+        "kutipan": "SPT Tahunan WP Badan ... Rp1.000.000,-"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 7",
+      "Sanksi Administrasi Denda"
+    ]
+  },
+  {
+    "id": "PMR-0118",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Perpajakan",
+    "subtopik": "Denda SPT Tahunan OP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda keterlambatan/tidak menyampaikan SPT Tahunan WP Orang Pribadi berdasarkan Pasal 7 ayat (1) UU KUP adalah sebesar...",
+    "opsi": {
+      "A": "Rp500.000",
+      "B": "Rp100.000",
+      "C": "Rp1.000.000",
+      "D": "Rp50.000"
+    },
+    "kunci": "B",
+    "pembahasan": "Denda SPT Tahunan WP OP sebesar Rp100.000, sama besarnya dengan denda SPT Masa lainnya (selain PPN).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 76,
+        "kutipan": "SPT Tahunan WP OP ... Rp100.000,-"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 7",
+      "Sanksi Administrasi Denda"
+    ]
+  },
+  {
+    "id": "PMR-0119",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh - World Wide Income",
+    "subtopik": "Subjek Penerap World Wide Income",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Konsep world wide income, yaitu penghasilan dari Indonesia maupun luar Indonesia merupakan objek pajak di Indonesia, berlaku untuk...",
+    "opsi": {
+      "A": "Subjek Pajak Luar Negeri (SPLN)",
+      "B": "Hanya Wajib Pajak Badan BUT",
+      "C": "Subjek Pajak Dalam Negeri (SPDN)",
+      "D": "Hanya Wajib Pajak orang pribadi yang tidak bekerja"
+    },
+    "kunci": "C",
+    "pembahasan": "Konsep world wide income hanya berlaku untuk Subjek Pajak Dalam Negeri; SPLN hanya dikenai pajak atas penghasilan yang bersumber dari Indonesia (source income).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 81,
+        "kutipan": "Penghasilan WP baik dari Indonesia maupun luar Indonesia merupakan objek pajak di Indonesia (world wide income) - berlaku untuk Subjek Pajak Dalam Negeri"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 4 ayat 1",
+      "World Wide Income"
+    ]
+  },
+  {
+    "id": "PMR-0120",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh - World Wide Income",
+    "subtopik": "Dasar Hukum Objek Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Definisi objek pajak yang mencakup setiap tambahan kemampuan ekonomis baik dari Indonesia maupun dari luar Indonesia, diatur dalam...",
+    "opsi": {
+      "A": "Pasal 2 ayat (1) UU PPh",
+      "B": "Pasal 2 ayat (3) UU PPh",
+      "C": "Pasal 17 UU PPh",
+      "D": "Pasal 4 ayat (1) UU PPh"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 4 ayat (1) UU PPh menyatakan objek pajak adalah setiap tambahan kemampuan ekonomis yang diterima/diperoleh WP, baik dari Indonesia maupun luar Indonesia.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 81,
+        "kutipan": "Pasal 4 ayat (1) UU PPh ... baik yang berasal dari Indonesia maupun dari luar Indonesia."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 4 ayat 1",
+      "Dasar Hukum Objek Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0121",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh - World Wide Income",
+    "subtopik": "Prinsip Source Income SPLN",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 2 ayat (3) UU PPh, Subjek Pajak Luar Negeri dikenai pajak hanya atas penghasilan yang...",
+    "opsi": {
+      "A": "Berasal dari Indonesia (source income)",
+      "B": "Berasal dari seluruh dunia (world wide income)",
+      "C": "Diterima dalam bentuk dividen saja",
+      "D": "Diperoleh dari kegiatan usaha di luar negeri"
+    },
+    "kunci": "A",
+    "pembahasan": "SPLN dikenai pajak hanya atas penghasilan yang berasal dari Indonesia, berbeda dengan SPDN yang dikenai pajak atas world wide income.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 81,
+        "kutipan": "Subjek pajak luar negeri dikenai pajak hanya atas penghasilan yang berasal dari Indonesia."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 2 ayat 3",
+      "Source Income SPLN"
+    ]
+  },
+  {
+    "id": "PMR-0122",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tarif PPh",
+    "subtopik": "Tarif PPh Badan Umum",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tarif PPh Badan umum atas penghasilan kena pajak Tahun Pajak 2025 adalah...",
+    "opsi": {
+      "A": "19%",
+      "B": "22%",
+      "C": "25%",
+      "D": "20%"
+    },
+    "kunci": "B",
+    "pembahasan": "Tarif PPh Badan umum adalah 22% atas penghasilan kena pajak, kecuali terdapat tarif lebih rendah untuk WP Badan DN dengan peredaran bruto tertentu (19%).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 82,
+        "kutipan": "Tarif PPh Badan umum adalah 22% atas penghasilan kena pajak."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 17",
+      "Tarif PPh Badan"
+    ]
+  },
+  {
+    "id": "PMR-0123",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tarif PPh",
+    "subtopik": "Tarif PPh Badan Peredaran Bruto Tertentu",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak Badan dalam negeri dengan peredaran bruto sampai dengan Rp50 miliar mendapat tarif PPh Badan sebesar...",
+    "opsi": {
+      "A": "22%",
+      "B": "15%",
+      "C": "19%",
+      "D": "25%"
+    },
+    "kunci": "C",
+    "pembahasan": "Tarif 19% berlaku mulai Tahun Pajak 2022 untuk WP Badan dalam negeri tertentu dengan peredaran bruto sampai dengan Rp50 miliar, berdasarkan Pasal 31E UU PPh.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 82,
+        "kutipan": "Wajib Pajak Badan dalam negeri dengan peredaran bruto sampai dengan Rp50 miliar ... 19%"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 31E",
+      "Tarif PPh Badan"
+    ]
+  },
+  {
+    "id": "PMR-0124",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tarif PPh",
+    "subtopik": "Tarif Progresif Lapisan Tertinggi OP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tarif progresif PPh Orang Pribadi untuk lapisan Penghasilan Kena Pajak di atas Rp5.000.000.000 dalam 1 tahun pajak adalah...",
+    "opsi": {
+      "A": "30%",
+      "B": "25%",
+      "C": "40%",
+      "D": "35%"
+    },
+    "kunci": "D",
+    "pembahasan": "Lapisan tarif tertinggi PPh OP progresif adalah 35% untuk PKP di atas Rp5 miliar dalam 1 tahun pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 82,
+        "kutipan": "Di atas Rp5.000.000.000 ... 35%"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 17 ayat 1 huruf a",
+      "Tarif Progresif PPh OP"
+    ]
+  },
+  {
+    "id": "PMR-0125",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PTKP",
+    "subtopik": "Besaran PTKP Diri WP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Besaran PTKP untuk diri Wajib Pajak orang pribadi Tahun Pajak 2026 adalah...",
+    "opsi": {
+      "A": "Rp54.000.000",
+      "B": "Rp36.000.000",
+      "C": "Rp58.500.000",
+      "D": "Rp15.840.000"
+    },
+    "kunci": "A",
+    "pembahasan": "PTKP untuk diri WP orang pribadi adalah Rp54.000.000 per tahun.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 83,
+        "kutipan": "Untuk diri Wajib Pajak orang pribadi ... 54.000.000"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 7",
+      "PTKP"
+    ]
+  },
+  {
+    "id": "PMR-0126",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PTKP",
+    "subtopik": "Batas Maksimal Tanggungan PTKP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tambahan PTKP sebesar Rp4.500.000 untuk setiap anggota keluarga sedarah dan semenda dalam garis keturunan lurus serta anak angkat diberikan maksimal untuk berapa orang?",
+    "opsi": {
+      "A": "2 orang",
+      "B": "3 orang",
+      "C": "4 orang",
+      "D": "5 orang"
+    },
+    "kunci": "B",
+    "pembahasan": "Tambahan tanggungan PTKP diberikan maksimal 3 orang, masing-masing Rp4.500.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 83,
+        "kutipan": "Tambahan untuk setiap anggota keluarga sedarah dan keluarga semenda dalam garis keturunan lurus serta anak angkat, maksimal 3 orang"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 7",
+      "PTKP"
+    ]
+  },
+  {
+    "id": "PMR-0127",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PTKP",
+    "subtopik": "Perhitungan PTKP K/2",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Besaran PTKP Tahun Pajak 2026 untuk Wajib Pajak dengan status kawin dan 2 tanggungan (K/2) adalah...",
+    "opsi": {
+      "A": "Rp58.500.000",
+      "B": "Rp72.000.000",
+      "C": "Rp67.500.000",
+      "D": "Rp63.000.000"
+    },
+    "kunci": "C",
+    "pembahasan": "PTKP K/2 = Rp54.000.000 + Rp4.500.000 (kawin) + 2 x Rp4.500.000 (tanggungan) = Rp67.500.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 83,
+        "kutipan": "Kawin dengan 2 tanggungan (K/2) PTKP Rp67.500.000 (54.000.000 + 4.500.000 + 2 x 4.500.000)"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 7",
+      "PTKP"
+    ]
+  },
+  {
+    "id": "PMR-0128",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh Final UMKM",
+    "subtopik": "Batasan Peredaran Bruto PPh Final UMKM",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "WP Badan dapat menggunakan tarif PPh Final UMKM 0,5% apabila peredaran bruto dalam 1 Tahun Pajak tidak melebihi...",
+    "opsi": {
+      "A": "Rp2.000.000.000",
+      "B": "Rp15.000.000.000",
+      "C": "Rp50.000.000.000",
+      "D": "Rp4.800.000.000"
+    },
+    "kunci": "D",
+    "pembahasan": "Batasan peredaran bruto untuk dapat menggunakan tarif PPh Final UMKM 0,5% adalah tidak melebihi Rp4.800.000.000 (empat miliar delapan ratus juta rupiah) dalam 1 Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 84,
+        "kutipan": "Peredaran bruto tidak melebihi Rp4.800.000.000 (empat miliar delapan ratus juta rupiah) dalam 1 (satu) Tahun Pajak."
+      }
+    ],
+    "tags": [
+      "PP 55/2022",
+      "PPh Final UMKM 0,5%"
+    ]
+  },
+  {
+    "id": "PMR-0129",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh Final UMKM",
+    "subtopik": "Kriteria Usaha Mikro",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut kriteria UMKM untuk WP Badan, usaha mikro memiliki batasan peredaran bruto tahunan...",
+    "opsi": {
+      "A": "Paling banyak Rp2 miliar",
+      "B": "Lebih dari Rp2 miliar sampai Rp15 miliar",
+      "C": "Lebih dari Rp15 miliar sampai Rp50 miliar",
+      "D": "Paling banyak Rp4,8 miliar"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria usaha mikro adalah peredaran bruto tahunan sampai dengan Rp2 miliar, sedangkan usaha kecil di atas Rp2 miliar s.d. Rp15 miliar.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 84,
+        "kutipan": "USAHA MIKRO ... Peredaran bruto tahunan ≤ Rp2 miliar"
+      }
+    ],
+    "tags": [
+      "PP 55/2022",
+      "Kriteria UMKM"
+    ]
+  },
+  {
+    "id": "PMR-0130",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh Final UMKM",
+    "subtopik": "Batas Waktu Setor PPh Final UMKM",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PPh Final UMKM 0,5% wajib disetor paling lambat tanggal berapa pada bulan berikutnya setelah Masa Pajak berakhir?",
+    "opsi": {
+      "A": "Tanggal 10",
+      "B": "Tanggal 15",
+      "C": "Tanggal 20",
+      "D": "Tanggal 30"
+    },
+    "kunci": "B",
+    "pembahasan": "PPh Final UMKM 0,5% disetor paling lambat tanggal 15 bulan berikutnya setelah masa pajak berakhir.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 84,
+        "kutipan": "Menyetor PPh Final paling lambat tanggal 15 bulan berikutnya setelah masa pajak berakhir."
+      }
+    ],
+    "tags": [
+      "PMK 164/PMK.03/2022",
+      "Tata Cara PPh Final UMKM"
+    ]
+  },
+  {
+    "id": "PMR-0131",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh atas Dividen",
+    "subtopik": "Tarif PPh Final Dividen OP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dividen yang diterima oleh Wajib Pajak orang pribadi dalam negeri dikenai PPh dengan tarif final sebesar...",
+    "opsi": {
+      "A": "15% dari jumlah bruto dividen",
+      "B": "20% dari jumlah bruto dividen",
+      "C": "10% dari jumlah bruto dividen",
+      "D": "22% dari jumlah bruto dividen"
+    },
+    "kunci": "C",
+    "pembahasan": "Dividen yang diterima WP orang pribadi dalam negeri dikenai PPh final dengan tarif 10% dari jumlah bruto dividen yang diterima.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 85,
+        "kutipan": "Tarif PPh Final 10% dari jumlah bruto dividen yang diterima."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 17 ayat 2c",
+      "PPh Final Dividen"
+    ]
+  },
+  {
+    "id": "PMR-0132",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh atas Dividen",
+    "subtopik": "Syarat Kepemilikan Saham Dikecualikan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Agar dividen yang diterima WP Badan dalam negeri dapat dikecualikan dari objek PPh, salah satu syarat kepemilikan sahamnya adalah minimal...",
+    "opsi": {
+      "A": "10% dan dimiliki paling sedikit 2 tahun",
+      "B": "50% tanpa batas waktu kepemilikan",
+      "C": "15% dan dimiliki paling sedikit 6 bulan",
+      "D": "25% dan dimiliki paling sedikit 1 tahun"
+    },
+    "kunci": "D",
+    "pembahasan": "Salah satu syarat agar dividen dikecualikan dari objek PPh adalah kepemilikan saham minimal 25% dan dimiliki paling sedikit 1 tahun, atau kepemilikan di bawah 25% dengan syarat tertentu.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 85,
+        "kutipan": "Persyaratan kepemilikan saham: minimal 25% dan dimiliki ≥ 1 tahun"
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 4 ayat 3 huruf f",
+      "Pengecualian Objek PPh Dividen"
+    ]
+  },
+  {
+    "id": "PMR-0133",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPh atas Dividen",
+    "subtopik": "Sifat PPh Final Dividen OP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah pernyataan yang BENAR mengenai sifat PPh Final atas dividen yang diterima WP orang pribadi dalam negeri?",
+    "opsi": {
+      "A": "Bersifat final, tidak dapat dikreditkan dengan PPh lain",
+      "B": "Dapat dikreditkan dengan PPh terutang lainnya",
+      "C": "Harus digabungkan dengan penghasilan lain dalam SPT Tahunan",
+      "D": "Wajib dilaporkan kembali sebagai penghasilan dalam SPT Tahunan"
+    },
+    "kunci": "A",
+    "pembahasan": "PPh atas dividen WP OP DN bersifat final, tidak digabungkan dengan penghasilan lain, tidak dapat dikreditkan, dan tidak perlu dilaporkan kembali dalam SPT Tahunan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 85,
+        "kutipan": "Final ... Tidak dapat dikreditkan dengan PPh lain."
+      }
+    ],
+    "tags": [
+      "UU PPh Pasal 17 ayat 2c",
+      "Sifat PPh Final Dividen"
+    ]
+  },
+  {
+    "id": "PMR-0134",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengukuhan PKP",
+    "subtopik": "Default Mulai Kewajiban PKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Secara default, mulai kewajiban sebagai PKP bagi WP yang wajib lapor PKP adalah...",
+    "opsi": {
+      "A": "Masa Pajak saat omset melebihi Rp4,8 miliar",
+      "B": "Masa Pajak pertama Tahun Buku berikutnya",
+      "C": "Masa Pajak pertama tahun kalender berjalan",
+      "D": "Masa Pajak saat SPT Tahunan dilaporkan"
+    },
+    "kunci": "B",
+    "pembahasan": "Default mulai kewajiban PKP adalah Masa Pajak pertama Tahun Buku berikutnya, kecuali WP memilih memulai lebih awal dengan pemberitahuan Masa Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "Default Mulai kewajiban PKP = Masa Pajak pertama Tahun Buku berikutnya"
+      }
+    ],
+    "tags": [
+      "PMK 164/2023",
+      "Timeline Pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "PMR-0135",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengukuhan PKP",
+    "subtopik": "Batas Waktu Wajib Lapor PKP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu maksimal bagi WP untuk wajib lapor sebagai PKP menurut timeline pelaporan pengukuhan PKP adalah...",
+    "opsi": {
+      "A": "Akhir bulan saat omset melebihi Rp4,8 miliar",
+      "B": "30 hari setelah omset melebihi Rp4,8 miliar",
+      "C": "Akhir Tahun Buku",
+      "D": "Akhir Masa Pajak berikutnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Wajib Lapor PKP maksimal dilakukan pada akhir Tahun Buku, setelah omset melebihi Rp4,8 miliar.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "Wajib Lapor PKP Maksimal Akhir Tahun Buku"
+      }
+    ],
+    "tags": [
+      "PMK 164/2023",
+      "Timeline Pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "PMR-0136",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengukuhan PKP",
+    "subtopik": "Dasar Hukum Timeline PKP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Timeline pelaporan pengukuhan PKP sebagaimana ditampilkan dalam materi mengacu pada...",
+    "opsi": {
+      "A": "PMK 243/PMK.03/2014",
+      "B": "PMK 18/PMK.03/2021",
+      "C": "PMK 61/PMK.03/2022",
+      "D": "PMK 164/2023"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi timeline pelaporan pengukuhan PKP mencantumkan rujukan PMK 164/2023.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 88,
+        "kutipan": "PMK 164/2023"
+      }
+    ],
+    "tags": [
+      "PMK 164/2023",
+      "Dasar Hukum Pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "PMR-0137",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Objek PPN",
+    "subtopik": "Pengecualian Pasal 16D",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PPN dikenakan atas penyerahan aktiva yang menurut tujuan semula tidak untuk diperjualbelikan (Pasal 16D UU PPN) oleh PKP, KECUALI atas penyerahan aktiva yang...",
+    "opsi": {
+      "A": "Pajak Masukannya tidak dapat dikreditkan menurut Pasal 9 ayat (8) huruf b dan c",
+      "B": "Nilainya di bawah Rp1.000.000",
+      "C": "Diserahkan kepada pihak yang memiliki hubungan istimewa",
+      "D": "Merupakan barang bergerak"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 16D mengecualikan penyerahan aktiva yang Pajak Masukan atas perolehannya tidak dapat dikreditkan menurut Pasal 9 ayat (8) huruf b dan c UU PPN dari pengenaan PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 90,
+        "kutipan": "kecuali atas Penyerahan aktiva yang Pajak Masukan-nya tidak dapat dikreditkan menurut Pasal 9 ayat 8 huruf b dan c"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 16D",
+      "Objek PPN"
+    ]
+  },
+  {
+    "id": "PMR-0138",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Objek PPN",
+    "subtopik": "Luas Minimal Kegiatan Membangun Sendiri",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan Membangun Sendiri (Pasal 16C UU PPN) dikenakan PPN apabila luas bangunan paling sedikit...",
+    "opsi": {
+      "A": "100 m2",
+      "B": "200 m2",
+      "C": "150 m2",
+      "D": "300 m2"
+    },
+    "kunci": "B",
+    "pembahasan": "Kegiatan Membangun Sendiri yang tidak dalam kegiatan usaha dikenakan PPN dengan batasan luas minimal 200 m2 sesuai PMK-61/PMK.03/2022.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 90,
+        "kutipan": "Luas minimal 200m2"
+      }
+    ],
+    "tags": [
+      "PMK 61/PMK.03/2022",
+      "Kegiatan Membangun Sendiri"
+    ]
+  },
+  {
+    "id": "PMR-0139",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Objek PPN",
+    "subtopik": "Kode Faktur Pajak Pasal 16D",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak atas penyerahan aktiva menurut Pasal 16D UU PPN (PPN Terutang 11% x DPP) menggunakan Faktur Pajak dengan kode...",
+    "opsi": {
+      "A": "01",
+      "B": "04",
+      "C": "09",
+      "D": "08"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyerahan aktiva sesuai Pasal 16D menggunakan Faktur Pajak Kode 09.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 90,
+        "kutipan": "PPN Terutang: 11% x DPP, Faktur Pajak Kode 09"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 16D",
+      "Kode Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0140",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penyerahan BKP",
+    "subtopik": "Leasing sebagai Penyerahan BKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Menurut Pasal 1A ayat (1) UU PPN, pengalihan BKP karena perjanjian sewa beli atau sewa guna usaha (leasing) termasuk kategori...",
+    "opsi": {
+      "A": "Bukan penyerahan BKP",
+      "B": "Ekspor BKP",
+      "C": "Impor BKP",
+      "D": "Penyerahan BKP (huruf B)"
+    },
+    "kunci": "D",
+    "pembahasan": "Leasing (pengalihan BKP karena perjanjian sewa beli/sewa guna usaha) termasuk dalam kategori penyerahan BKP huruf B sesuai Pasal 1A ayat (1) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 91,
+        "kutipan": "Pengalihan BKP karena perjanjian sewa beli atau sewa guna usaha (leasing)"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 1A ayat 1",
+      "Penyerahan BKP"
+    ]
+  },
+  {
+    "id": "PMR-0141",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penyerahan BKP",
+    "subtopik": "Konsinyasi Pasca UU CIKA",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Sejak diundangkannya UU Cipta Kerja (UU CIKA), kegiatan apa yang TIDAK LAGI termasuk dalam definisi penyerahan BKP menurut Pasal 1A ayat (1) UU PPN?",
+    "opsi": {
+      "A": "Penyerahan BKP secara konsinyasi",
+      "B": "Pemakaian sendiri dan/atau pemberian cuma-cuma",
+      "C": "Penyerahan BKP dari pusat ke cabang",
+      "D": "Penyerahan BKP kepada pedagang perantara"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyerahan BKP secara konsinyasi yang sebelumnya diatur dalam Pasal 4 ayat (1) huruf g, tidak lagi masuk dalam definisi penyerahan BKP sejak diundangkannya UU Cipta Kerja (UU CIKA).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 91,
+        "kutipan": "Pasal 4(1) huruf g “penyerahan BKP secara konsinyasi” tidak lagi masuk dalam definisi penyerahan sejak diundangkannya UU CIKA"
+      }
+    ],
+    "tags": [
+      "UU Cipta Kerja",
+      "Penyerahan BKP Konsinyasi"
+    ]
+  },
+  {
+    "id": "PMR-0142",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penyerahan BKP",
+    "subtopik": "Penyerahan Antar Cabang",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyerahan BKP dari pusat ke cabang atau sebaliknya dan/atau antar cabang termasuk kategori penyerahan BKP huruf...",
+    "opsi": {
+      "A": "C",
+      "B": "F",
+      "C": "D",
+      "D": "H"
+    },
+    "kunci": "B",
+    "pembahasan": "Penyerahan BKP dari pusat ke cabang atau sebaliknya dan/atau antar cabang termasuk kategori huruf F dalam Pasal 1A ayat (1) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 91,
+        "kutipan": "penyerahan BKP dari pusat ke cabang atau sebaliknya dan/atau antar cabang"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 1A ayat 1",
+      "Penyerahan Antar Cabang"
+    ]
+  },
+  {
+    "id": "PMR-0143",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPN Ekspor JKP",
+    "subtopik": "Tarif PPN Ekspor JKP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penghitungan PPN atas ekspor Jasa Kena Pajak menggunakan rumus PPN = DPP (Penggantian) x Tarif sebesar...",
+    "opsi": {
+      "A": "10%",
+      "B": "11%",
+      "C": "0%",
+      "D": "12%"
+    },
+    "kunci": "C",
+    "pembahasan": "PPN atas ekspor JKP dihitung dengan tarif 0% dikalikan DPP berupa Penggantian, sebagaimana diatur PMK 32/PMK.010/2019.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 94,
+        "kutipan": "PPN = DPP (Penggantian) x Tarif 0%"
+      }
+    ],
+    "tags": [
+      "PMK 32/PMK.010/2019",
+      "PPN Ekspor JKP"
+    ]
+  },
+  {
+    "id": "PMR-0144",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPN Ekspor JKP",
+    "subtopik": "Dasar Hukum Penghitungan PPN Ekspor JKP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penghitungan PPN atas ekspor Jasa Kena Pajak sebagaimana ditampilkan dalam materi diatur dalam...",
+    "opsi": {
+      "A": "PMK 243/PMK.03/2014",
+      "B": "PMK 164/2023",
+      "C": "PMK 61/PMK.03/2022",
+      "D": "PMK 32/PMK.010/2019"
+    },
+    "kunci": "D",
+    "pembahasan": "Penghitungan PPN atas ekspor JKP diatur dalam PMK 32/PMK.010/2019 tentang Batasan Kegiatan dan Jenis Jasa Kena Pajak yang Atas Ekspornya Dikenai PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 94,
+        "kutipan": "PENYESUAIAN KETENTUAN PMK 32/PMK.010/2019 - PENGHITUNGAN PPN ATAS EKSPOR JASA KENA PAJAK"
+      }
+    ],
+    "tags": [
+      "PMK 32/PMK.010/2019",
+      "Dasar Hukum Ekspor JKP"
+    ]
+  },
+  {
+    "id": "PMR-0145",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPN Ekspor JKP",
+    "subtopik": "Dasar Pengenaan Pajak Ekspor JKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dasar Pengenaan Pajak (DPP) yang digunakan dalam penghitungan PPN atas ekspor Jasa Kena Pajak disebut...",
+    "opsi": {
+      "A": "Penggantian",
+      "B": "Nilai Impor",
+      "C": "Nilai Lain",
+      "D": "Harga Jual"
+    },
+    "kunci": "A",
+    "pembahasan": "DPP yang digunakan dalam rumus penghitungan PPN ekspor JKP adalah Penggantian.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 94,
+        "kutipan": "PPN = DPP (Penggantian) x Tarif"
+      }
+    ],
+    "tags": [
+      "PMK 32/PMK.010/2019",
+      "DPP Ekspor JKP"
+    ]
+  },
+  {
+    "id": "PMR-0146",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPN Ekspor JKP",
+    "subtopik": "Definisi Kegiatan Ekspor JKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kegiatan ekspor Jasa Kena Pajak didefinisikan sebagai kegiatan pelayanan dalam Daerah Pabean yang menyebabkan...",
+    "opsi": {
+      "A": "Barang masuk ke dalam Daerah Pabean untuk dipakai",
+      "B": "Barang, fasilitas, kemudahan, atau hak tersedia untuk dimanfaatkan di luar Daerah Pabean",
+      "C": "Jasa diserahkan kepada instansi pemerintah",
+      "D": "Penggantian diterima dalam mata uang Rupiah"
+    },
+    "kunci": "B",
+    "pembahasan": "Kegiatan ekspor JKP adalah kegiatan pelayanan dalam Daerah Pabean yang menyebabkan suatu barang, fasilitas, kemudahan, atau hak tersedia untuk dimanfaatkan di luar Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 95,
+        "kutipan": "kegiatan pelayanan di dalam Daerah Pabean yang menyebabkan suatu barang, fasilitas, kemudahan, atau hak tersedia untuk dimanfaatkan di luar Daerah Pabean"
+      }
+    ],
+    "tags": [
+      "PMK 32/PMK.010/2019",
+      "Definisi Ekspor JKP"
+    ]
+  },
+  {
+    "id": "PMR-0147",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPN Ekspor JKP",
+    "subtopik": "Kategori Huruf A Ekspor JKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kategori huruf a cakupan kegiatan ekspor JKP adalah kegiatan yang melekat pada...",
+    "opsi": {
+      "A": "Barang tidak bergerak yang berada di luar Daerah Pabean",
+      "B": "Barang bergerak yang berada di dalam Daerah Pabean",
+      "C": "Barang bergerak yang dikeluarkan untuk dimanfaatkan di luar Daerah Pabean",
+      "D": "Jasa konsultasi pajak dalam negeri"
+    },
+    "kunci": "C",
+    "pembahasan": "Kategori huruf a adalah kegiatan yang melekat pada barang bergerak yang dikeluarkan untuk dimanfaatkan di luar Daerah Pabean; huruf b untuk barang tidak bergerak yang berada di luar Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 95,
+        "kutipan": "kegiatan yang melekat pada barang bergerak yang dikeluarkan untuk dimanfaatkan di luar Daerah Pabean"
+      }
+    ],
+    "tags": [
+      "PMK 32/PMK.010/2019",
+      "Kategori Ekspor JKP"
+    ]
+  },
+  {
+    "id": "PMR-0148",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "PPN Ekspor JKP",
+    "subtopik": "Definisi Penerima Ekspor JKP",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Penerima Ekspor Jasa Kena Pajak adalah orang pribadi atau badan yang melakukan perikatan dan menerima manfaat langsung atas ekspor JKP, berada di luar Daerah Pabean, dan merupakan...",
+    "opsi": {
+      "A": "WP Dalam Negeri yang berdomisili di luar negeri",
+      "B": "PKP yang dikukuhkan di Indonesia",
+      "C": "WP Luar Negeri yang mempunyai Bentuk Usaha Tetap di Indonesia",
+      "D": "WP Luar Negeri yang tidak mempunyai Bentuk Usaha Tetap di Indonesia"
+    },
+    "kunci": "D",
+    "pembahasan": "Penerima Ekspor JKP adalah WP Luar Negeri yang tidak mempunyai Bentuk Usaha Tetap di Indonesia, berada di luar Daerah Pabean, dan menerima manfaat langsung atas ekspor JKP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 95,
+        "kutipan": "merupakan Wajib Pajak Luar Negeri yang tidak mempunyai Bentuk Usaha Tetap di Indonesia"
+      }
+    ],
+    "tags": [
+      "PMK 32/PMK.010/2019",
+      "Penerima Ekspor JKP"
+    ]
+  },
+  {
+    "id": "PMR-0150",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tarif PPN",
+    "subtopik": "Batas Waktu Kenaikan Tarif 12%",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tarif PPN normal akan menjadi 12% paling lambat pada tanggal...",
+    "opsi": {
+      "A": "1 April 2024",
+      "B": "1 Januari 2025",
+      "C": "1 Januari 2024",
+      "D": "1 Juli 2025"
+    },
+    "kunci": "B",
+    "pembahasan": "Tarif PPN normal 11% akan menjadi 12% paling lambat 1 Januari 2025 sesuai ketentuan UU HPP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 103,
+        "kutipan": "akan menjadi 12% paling lambat 1 Januari 2025"
+      }
+    ],
+    "tags": [
+      "UU HPP",
+      "Tarif PPN"
+    ]
+  },
+  {
+    "id": "PMR-0151",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tarif PPN",
+    "subtopik": "Tarif PPN Ekspor",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tarif PPN atas ekspor BKP, ekspor JKP, dan ekspor BKPTB baik sebelum maupun setelah 1 April 2022 tetap sebesar...",
+    "opsi": {
+      "A": "10%",
+      "B": "11%",
+      "C": "0%",
+      "D": "5%"
+    },
+    "kunci": "C",
+    "pembahasan": "Tarif PPN atas ekspor BKP/JKP/BKPTB tetap 0%, tidak terpengaruh kenaikan tarif PPN normal.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 103,
+        "kutipan": "EKSPOR BKP, EKSPOR JKP, EKSPOR BKPTB ... 0% ... 0%"
+      }
+    ],
+    "tags": [
+      "UU HPP",
+      "Tarif PPN Ekspor"
+    ]
+  },
+  {
+    "id": "PMR-0153",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Saat Terutang PPN",
+    "subtopik": "Saat Terutang Penyerahan BKP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan prinsip akrual, saat terutangnya PPN atas penyerahan BKP/JKP terjadi pada...",
+    "opsi": {
+      "A": "Saat penyerahan, meskipun pembayaran belum diterima atau belum sepenuhnya diterima",
+      "B": "Saat pembayaran diterima penuh dari pembeli",
+      "C": "Saat faktur komersial diterbitkan",
+      "D": "Saat laporan keuangan tahunan disusun"
+    },
+    "kunci": "A",
+    "pembahasan": "Terutangnya pajak terjadi pada saat penyerahan BKP atau JKP meskipun pembayaran atas penyerahan tersebut belum diterima atau belum sepenuhnya diterima.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 106,
+        "kutipan": "terutangnya pajak terjadi pada saat penyerahan BKP atau JKP meskipun pembayaran atas penyerahan tersebut belum diterima atau belum sepenuhnya diterima"
+      }
+    ],
+    "tags": [
+      "UU PPN",
+      "Saat Terutang PPN"
+    ]
+  },
+  {
+    "id": "PMR-0154",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Saat Terutang PPN",
+    "subtopik": "Saat Terutang Impor BKP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selain pada saat penyerahan BKP/JKP, PPN juga terutang pada saat...",
+    "opsi": {
+      "A": "Pembayaran uang muka diterima penjual",
+      "B": "Impor BKP",
+      "C": "Faktur komersial diterbitkan oleh penjual",
+      "D": "Barang diterima gudang pembeli dari ekspedisi"
+    },
+    "kunci": "B",
+    "pembahasan": "Selain pada saat penyerahan, PPN juga terutang pada saat impor BKP, sesuai prinsip akrual yang dianut PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 106,
+        "kutipan": "atau pada saat impor BKP"
+      }
+    ],
+    "tags": [
+      "UU PPN",
+      "Saat Terutang Impor"
+    ]
+  },
+  {
+    "id": "PMR-0155",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Faktur Pajak",
+    "subtopik": "Saat Pembuatan FP - Pembayaran Termin",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak dibuat pada saat penerimaan pembayaran termin dalam hal...",
+    "opsi": {
+      "A": "Penyerahan dilakukan secara ekspor",
+      "B": "Barang Kena Pajak rusak dalam pengiriman",
+      "C": "Penyerahan sebagian tahap pekerjaan",
+      "D": "Penjual mengajukan permohonan restitusi"
+    },
+    "kunci": "C",
+    "pembahasan": "Faktur Pajak dibuat pada saat penerimaan pembayaran termin dalam hal penyerahan sebagian tahap pekerjaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 110,
+        "kutipan": "saat penerimaan pembayaran termin dalam hal penyerahan sebagian tahap pekerjaan"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13",
+      "Saat Pembuatan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0156",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Faktur Pajak",
+    "subtopik": "Saat Pembuatan FP - Pembayaran Sebelum Penyerahan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak dibuat pada saat penerimaan pembayaran dalam hal...",
+    "opsi": {
+      "A": "Penyerahan BKP telah selesai dilakukan seluruhnya",
+      "B": "Barang Kena Pajak telah diterima pembeli",
+      "C": "Faktur komersial telah diterbitkan",
+      "D": "Penerimaan pembayaran terjadi sebelum penyerahan BKP dan/atau JKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Faktur Pajak dibuat saat penerimaan pembayaran dalam hal penerimaan pembayaran terjadi sebelum penyerahan BKP dan/atau JKP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 110,
+        "kutipan": "saat penerimaan pembayaran dalam hal penerimaan pembayaran terjadi sebelum penyerahan BKP dan/atau JKP"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13",
+      "Saat Pembuatan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0157",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Faktur Pajak",
+    "subtopik": "Daftar Lengkap Saat Pembuatan FP",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Manakah yang TIDAK termasuk dalam daftar saat kewajiban pembuatan Faktur Pajak menurut materi Kewajiban dan Saat Pembuatan Faktur Pajak?",
+    "opsi": {
+      "A": "Saat penandatanganan kontrak jual beli",
+      "B": "Saat penyerahan BKP dan/atau JKP",
+      "C": "Saat penerimaan pembayaran termin",
+      "D": "Saat ekspor BKP berwujud, tidak berwujud, dan/atau JKP"
+    },
+    "kunci": "A",
+    "pembahasan": "Daftar saat pembuatan Faktur Pajak meliputi saat penyerahan, saat penerimaan pembayaran (sebelum penyerahan), saat pembayaran termin, saat ekspor, dan saat lain menurut PMK; penandatanganan kontrak tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 110,
+        "kutipan": "Faktur Pajak harus dibuat pada: saat penyerahan BKP dan/atau penyerahan JKP ..."
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13",
+      "Saat Pembuatan Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0158",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Dokumen Tertentu Setara FP",
+    "subtopik": "Contoh Dokumen Tertentu",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah yang merupakan contoh dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak?",
+    "opsi": {
+      "A": "Surat Keterangan Domisili",
+      "B": "Pemberitahuan Impor Barang (PIB)",
+      "C": "Nota Debet dari pemasok",
+      "D": "Rekening koran bank"
+    },
+    "kunci": "B",
+    "pembahasan": "Contoh dokumen tertentu yang dipersamakan dengan Faktur Pajak antara lain bukti tagihan jasa telekomunikasi, Pemberitahuan Impor Barang (PIB), dan SSP untuk pembayaran PPN atas penyerahan BKP melalui juru lelang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 112,
+        "kutipan": "Pemberitahuan Impor Barang"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13 ayat 6",
+      "Dokumen Tertentu Setara Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0159",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Dokumen Tertentu Setara FP",
+    "subtopik": "Batas Waktu Pembuatan Dokumen Tertentu",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen tertentu yang dibuat melewati jangka waktu berapa bulan sejak saat seharusnya dibuat dianggap tidak membuat dokumen tertentu, sehingga PPN yang tercantum tidak dapat dikreditkan?",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "6 bulan",
+      "C": "3 bulan",
+      "D": "12 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Dokumen tertentu yang dibuat melewati jangka waktu 3 bulan sejak saat seharusnya dibuat dianggap tidak membuat dokumen tertentu, dan PPN yang tercantum tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 112,
+        "kutipan": "Dibuat melewati jangka waktu 3 (tiga) bulan sejak saat seharusnya dibuat → dianggap tidak membuat dokumen tertentu → PPN yang tercantum tidak dapat dikreditkan"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13 ayat 6",
+      "Batas Waktu Dokumen Tertentu"
+    ]
+  },
+  {
+    "id": "PMR-0160",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Dokumen Tertentu Setara FP",
+    "subtopik": "SSP Juru Lelang",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SSP untuk pembayaran PPN atas penyerahan BKP melalui juru lelang agar dipersamakan dengan Faktur Pajak harus disertai dengan...",
+    "opsi": {
+      "A": "Surat kuasa dari pembeli",
+      "B": "Nomor Pokok Wajib Pajak penjual",
+      "C": "Laporan hasil penilaian aset",
+      "D": "Kutipan risalah lelang"
+    },
+    "kunci": "D",
+    "pembahasan": "SSP untuk pembayaran PPN atas penyerahan BKP melalui juru lelang harus disertai dengan kutipan risalah lelang agar kedudukannya dipersamakan dengan Faktur Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 112,
+        "kutipan": "SSP untuk pembayaran PPN atas penyerahan BKP melalui juru lelang disertai dengan kutipan risalah lelang"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13 ayat 6",
+      "SSP Juru Lelang"
+    ]
+  },
+  {
+    "id": "PMR-0161",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Faktur Pajak",
+    "subtopik": "Persyaratan Formal Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Persyaratan formal Faktur Pajak sesuai Pasal 13 ayat (5)/(6) UU PPN mensyaratkan Faktur Pajak diisi secara...",
+    "opsi": {
+      "A": "Benar, lengkap, dan jelas",
+      "B": "Ringkas dan efisien",
+      "C": "Rahasia dan terenkripsi",
+      "D": "Berurutan dan otomatis"
+    },
+    "kunci": "A",
+    "pembahasan": "Persyaratan formal Faktur Pajak adalah diisi secara benar, lengkap, dan jelas sesuai Pasal 13 ayat (5) atau ayat (6) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 113,
+        "kutipan": "Diisi secara benar, lengkap, dan jelas sesuai dengan ketentuan Pasal 13 ayat (5) UU PPN atau ketentuan Pasal 13 ayat (6) UU PPN"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13 ayat 5",
+      "Persyaratan Formal Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0162",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Faktur Pajak",
+    "subtopik": "Persyaratan Material Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Persyaratan material Faktur Pajak mensyaratkan Faktur Pajak berisi keterangan yang...",
+    "opsi": {
+      "A": "Diterbitkan dalam rangkap tiga",
+      "B": "Sebenarnya atau sesungguhnya mengenai penyerahan BKP dan/atau JKP",
+      "C": "Ditandatangani oleh notaris",
+      "D": "Diisi dalam bahasa Inggris"
+    },
+    "kunci": "B",
+    "pembahasan": "Persyaratan material mensyaratkan Faktur Pajak berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan BKP dan/atau JKP, ekspor, impor, atau pemanfaatan BKP tidak berwujud/JKP dari luar Daerah Pabean.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 113,
+        "kutipan": "Berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan BKP dan/atau JKP"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13",
+      "Persyaratan Material Faktur Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0163",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Faktur Pajak",
+    "subtopik": "Beda Formal dan Material",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pernyataan 'berisi keterangan yang sebenarnya atau sesungguhnya' TIDAK termasuk bagian dari persyaratan...",
+    "opsi": {
+      "A": "Material Faktur Pajak",
+      "B": "Isi Faktur Pajak secara umum",
+      "C": "Formal Faktur Pajak",
+      "D": "Keabsahan Faktur Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pernyataan tersebut merupakan persyaratan material, bukan persyaratan formal yang mensyaratkan diisi benar, lengkap, dan jelas.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 113,
+        "kutipan": "Persyaratan Formal ... Diisi secara benar, lengkap, dan jelas"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 13",
+      "Persyaratan Formal vs Material"
+    ]
+  },
+  {
+    "id": "PMR-0164",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Batas Waktu Pengkreditan PM",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pajak Masukan yang dapat dikreditkan tetapi belum dikreditkan pada Masa Pajak yang sama, dapat dikreditkan pada Masa Pajak berikutnya paling lama...",
+    "opsi": {
+      "A": "6 Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat",
+      "B": "1 Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat",
+      "C": "12 Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat",
+      "D": "3 Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat"
+    },
+    "kunci": "D",
+    "pembahasan": "Sesuai Pasal 9 ayat (9) UU PPN, PM yang belum dikreditkan dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat, sepanjang belum dibebankan sebagai biaya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 116,
+        "kutipan": "dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 (tiga) Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9 ayat 9",
+      "Batas Waktu Pengkreditan PM"
+    ]
+  },
+  {
+    "id": "PMR-0165",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Dasar Hukum Pengkreditan PM Terlambat",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai Pajak Masukan yang dapat dikreditkan tetapi belum dikreditkan pada Masa Pajak yang sama diatur dalam...",
+    "opsi": {
+      "A": "Pasal 9 ayat (9) UU PPN",
+      "B": "Pasal 9 ayat (2) UU PPN",
+      "C": "Pasal 9 ayat (8) UU PPN",
+      "D": "Pasal 13 ayat (5) UU PPN"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 9 ayat (9) UU PPN, sedangkan Pasal 9 ayat (2) mengatur pengkreditan PM pada Masa Pajak yang sama.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 116,
+        "kutipan": "Pasal 9 ayat (9) UU PPN"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9 ayat 9",
+      "Dasar Hukum Pengkreditan PM"
+    ]
+  },
+  {
+    "id": "PMR-0166",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan Pajak Masukan",
+    "subtopik": "Ilustrasi Batas Akhir Pengkreditan PM",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jika Faktur Pajak Masukan bertanggal 21 Juli 2022, maka Pajak Masukan tersebut paling lambat dapat dikreditkan pada Masa Pajak...",
+    "opsi": {
+      "A": "November 2022",
+      "B": "Oktober 2022",
+      "C": "Agustus 2022",
+      "D": "Desember 2022"
+    },
+    "kunci": "B",
+    "pembahasan": "Berdasarkan ilustrasi pada materi, PM dengan Faktur Pajak 21 Juli 2022 dapat dikreditkan pada Masa Pajak Juli, Agustus, September, atau paling lambat Oktober 2022 (3 Masa Pajak setelah Juli 2022).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 116,
+        "kutipan": "Faktur Pajak Masukan tanggal 21 Jul 2022 ... MASA PAJAK OKT 2022"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9 ayat 9",
+      "Ilustrasi Pengkreditan PM"
+    ]
+  },
+  {
+    "id": "PMR-0167",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pajak Masukan Tidak Dapat Dikreditkan",
+    "subtopik": "Kriteria Tanpa Hubungan Usaha",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 9 ayat (8) huruf b UU PPN, Pajak Masukan atas perolehan BKP atau JKP TIDAK dapat dikreditkan apabila...",
+    "opsi": {
+      "A": "Diperoleh dari PKP yang dikukuhkan di KPP yang sama",
+      "B": "Digunakan untuk kegiatan produksi barang ekspor",
+      "C": "Tidak mempunyai hubungan langsung dengan kegiatan usaha",
+      "D": "Difakturkan dengan Faktur Pajak lengkap"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 9 ayat (8) huruf b menyatakan PM tidak dapat dikreditkan atas perolehan BKP/JKP yang tidak mempunyai hubungan langsung dengan kegiatan usaha.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 117,
+        "kutipan": "perolehan BKP atau JKP yang tidak mempunyai hubungan langsung dengan kegiatan usaha (Pasal 9 ayat (8) huruf b)"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9 ayat 8",
+      "PM Tidak Dapat Dikreditkan"
+    ]
+  },
+  {
+    "id": "PMR-0168",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pajak Masukan Tidak Dapat Dikreditkan",
+    "subtopik": "Kriteria FP Tidak Lengkap",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pasal 9 ayat (8) huruf f UU PPN mengatur bahwa Pajak Masukan tidak dapat dikreditkan apabila Faktur Pajaknya tidak mencantumkan...",
+    "opsi": {
+      "A": "Tanggal jatuh tempo pembayaran",
+      "B": "Logo perusahaan penjual",
+      "C": "Nomor rekening bank penjual",
+      "D": "Nama, alamat, dan NPWP pembeli BKP atau penerima JKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 9 ayat (8) huruf f mengatur PM tidak dapat dikreditkan jika Faktur Pajak tidak memenuhi Pasal 13 ayat (5)/(9) atau tidak mencantumkan nama, alamat, dan NPWP pembeli BKP atau penerima JKP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 117,
+        "kutipan": "tidak mencantumkan nama, alamat, dan NPWP pembeli BKP atau penerima JKP (Pasal 9 ayat (8) huruf f)"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9 ayat 8",
+      "PM Tidak Dapat Dikreditkan"
+    ]
+  },
+  {
+    "id": "PMR-0169",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pajak Masukan Tidak Dapat Dikreditkan",
+    "subtopik": "Kriteria Pemanfaatan BKP Luar Daerah Pabean",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pasal 9 ayat (8) huruf g UU PPN mengatur Pajak Masukan tidak dapat dikreditkan atas pemanfaatan BKP Tidak Berwujud atau JKP dari luar Daerah Pabean apabila...",
+    "opsi": {
+      "A": "Faktur Pajaknya tidak memenuhi ketentuan Pasal 13 ayat (6)",
+      "B": "Nilai transaksinya di atas Rp1 miliar",
+      "C": "Dilakukan oleh PKP yang baru dikukuhkan",
+      "D": "Dibayar menggunakan mata uang asing"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 9 ayat (8) huruf g mengatur PM atas pemanfaatan BKP Tidak Berwujud/JKP dari luar Daerah Pabean tidak dapat dikreditkan apabila Faktur Pajaknya tidak sesuai ketentuan Pasal 13 ayat (6).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 117,
+        "kutipan": "pemanfaatan BKP Tidak Berwujud atau pemanfaatan JKP dari luar Daerah Pabean yang Faktur Pajaknya tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 13 ayat (6) (Pasal 9 ayat (8) huruf g)"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9 ayat 8",
+      "PM Tidak Dapat Dikreditkan"
+    ]
+  },
+  {
+    "id": "PMR-0170",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan PM Saat Pemeriksaan",
+    "subtopik": "PM Ditemukan Saat Pemeriksaan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Pajak Masukan atas perolehan BKP tidak dilaporkan dalam SPT Masa PPN namun ditemukan pada waktu dilakukan pemeriksaan, maka Pajak Masukan tersebut...",
+    "opsi": {
+      "A": "Tidak dapat dikreditkan sama sekali",
+      "B": "Tetap dapat dikreditkan PKP sepanjang memenuhi ketentuan pengkreditan",
+      "C": "Otomatis menjadi temuan pemeriksaan tanpa dapat dikreditkan",
+      "D": "Hanya dapat dikreditkan jika WP mengajukan keberatan"
+    },
+    "kunci": "B",
+    "pembahasan": "PM yang tidak dilaporkan dalam SPT Masa PPN dan/atau ditemukan pada waktu dilakukan pemeriksaan tetap dapat dikreditkan PKP sepanjang memenuhi ketentuan pengkreditan sesuai UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 118,
+        "kutipan": "dapat dikreditkan oleh PKP sepanjang memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9",
+      "Pengkreditan PM Saat Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0171",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan PM Saat Pemeriksaan",
+    "subtopik": "Dasar Pengkreditan Sesuai Bukti",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengkreditan Pajak Masukan yang ditemukan pada waktu dilakukan pemeriksaan dilakukan sesuai dengan...",
+    "opsi": {
+      "A": "Perkiraan pemeriksa pajak",
+      "B": "Nilai rata-rata industri sejenis",
+      "C": "Bukti Faktur Pajak yang dimiliki",
+      "D": "Keputusan Pengadilan Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengkreditan PM yang ditemukan saat pemeriksaan dilakukan sesuai bukti Faktur Pajak yang dimiliki oleh PKP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 118,
+        "kutipan": "Sesuai Bukti Faktur Pajak yang dimiliki"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9",
+      "Dasar Pengkreditan PM"
+    ]
+  },
+  {
+    "id": "PMR-0172",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan PM Saat Pemeriksaan",
+    "subtopik": "Syarat Umum Pengkreditan PM",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PM yang tidak dilaporkan dalam SPT Masa PPN dan ditemukan saat pemeriksaan tetap dapat dikreditkan PKP, dengan syarat...",
+    "opsi": {
+      "A": "PKP mengajukan permohonan restitusi terlebih dahulu",
+      "B": "Pemeriksaan telah berjalan lebih dari 6 bulan",
+      "C": "PKP membuat Faktur Pajak pengganti",
+      "D": "Memenuhi ketentuan pengkreditan sesuai UU PPN"
+    },
+    "kunci": "D",
+    "pembahasan": "Syarat utamanya adalah sepanjang memenuhi ketentuan pengkreditan Pajak Masukan sesuai dengan UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 118,
+        "kutipan": "sepanjang memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9",
+      "Syarat Pengkreditan PM"
+    ]
+  },
+  {
+    "id": "PMR-0173",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan PM Ketetapan Pajak",
+    "subtopik": "Besaran PM yang Dikreditkan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pajak Masukan yang ditagih dengan penerbitan ketetapan pajak dapat dikreditkan oleh PKP sebesar...",
+    "opsi": {
+      "A": "Jumlah pokok PPN yang tercantum dalam ketetapan pajak",
+      "B": "Jumlah PPN ditambah sanksi administrasi",
+      "C": "50% dari jumlah pokok PPN dalam ketetapan",
+      "D": "Jumlah yang disetujui dalam keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "PM yang ditagih dengan penerbitan ketetapan pajak dapat dikreditkan PKP sebesar jumlah pokok PPN yang tercantum dalam ketetapan pajak tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 119,
+        "kutipan": "dapat dikreditkan oleh PKP sebesar jumlah pokok PPN yang tercantum dalam ketetapan pajak"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9",
+      "Pengkreditan PM Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0174",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan PM Ketetapan Pajak",
+    "subtopik": "Syarat Ketetapan Telah Dilunasi",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu syarat agar Pajak Masukan yang ditagih dengan ketetapan pajak dapat dikreditkan adalah ketetapan pajak tersebut...",
+    "opsi": {
+      "A": "Belum diterbitkan Surat Tagihan Pajak",
+      "B": "Telah dilakukan pelunasan",
+      "C": "Diajukan permohonan pengurangan",
+      "D": "Diterbitkan lebih dari 5 tahun lalu"
+    },
+    "kunci": "B",
+    "pembahasan": "Syaratnya adalah ketetapan pajak telah dilakukan pelunasan dan tidak dilakukan upaya hukum, serta memenuhi ketentuan pengkreditan sesuai UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 119,
+        "kutipan": "dengan ketentuan ketetapan pajak dimaksud telah dilakukan pelunasan dan tidak dilakukan upaya hukum"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9",
+      "Syarat Pengkreditan PM Ketetapan"
+    ]
+  },
+  {
+    "id": "PMR-0175",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pengkreditan PM Ketetapan Pajak",
+    "subtopik": "Dampak Upaya Hukum",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu syarat agar Pajak Masukan yang ditagih dengan ketetapan pajak dapat dikreditkan adalah TIDAK dilakukan upaya hukum atas ketetapan tersebut. Apa akibatnya jika Wajib Pajak tetap mengajukan upaya hukum (misalnya keberatan) atas ketetapan pajak tersebut?",
+    "opsi": {
+      "A": "Tetap dapat dikreditkan tanpa syarat tambahan",
+      "B": "Otomatis dikreditkan setelah upaya hukum selesai",
+      "C": "Tidak dapat dikreditkan karena syarat tidak dilakukan upaya hukum tidak terpenuhi",
+      "D": "Dikreditkan sebesar 50% dari pokok PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Salah satu syarat pengkreditan PM atas ketetapan pajak adalah tidak dilakukan upaya hukum; jika WP mengajukan upaya hukum, syarat ini tidak terpenuhi sehingga PM tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 119,
+        "kutipan": "ketetapan pajak dimaksud telah dilakukan pelunasan dan tidak dilakukan upaya hukum"
+      }
+    ],
+    "tags": [
+      "UU PPN Pasal 9",
+      "Dampak Upaya Hukum terhadap PM"
+    ]
+  },
+  {
+    "id": "PMR-0176",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaksanaan Pemeriksaan",
+    "subtopik": "Bantuan Ahli dalam Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tim Pemeriksa Pajak dapat dibantu oleh satu atau lebih ahli tertentu dalam melaksanakan pemeriksaan, yang berasal dari...",
+    "opsi": {
+      "A": "Hanya dari luar Direktorat Jenderal Pajak",
+      "B": "Hanya dari instansi pemerintah daerah",
+      "C": "Hanya dari kalangan akademisi",
+      "D": "Dalam atau luar Direktorat Jenderal Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Tim Pemeriksa Pajak dapat dibantu oleh satu atau lebih ahli tertentu dari dalam atau luar Direktorat Jenderal Pajak (Bantuan Ahli).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 121,
+        "kutipan": "Tim dapat dibantu oleh satu atau lebih ahli tertentu dari dalam atau luar Direktorat Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "Bantuan Ahli Pemeriksaan",
+      "Pelaksanaan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0177",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaksanaan Pemeriksaan",
+    "subtopik": "Dasar Penugasan Bantuan Ahli",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemberian Bantuan Ahli kepada Tim Pemeriksa Pajak dilaksanakan berdasarkan...",
+    "opsi": {
+      "A": "Surat Tugas Membantu Pelaksanaan Pemeriksaan",
+      "B": "Surat Perintah Pemeriksaan",
+      "C": "Surat Panggilan Pemeriksaan",
+      "D": "Nota Dinas Kepala Kantor Wilayah"
+    },
+    "kunci": "A",
+    "pembahasan": "Bantuan Ahli diberikan berdasarkan Surat Tugas Membantu Pelaksanaan Pemeriksaan, berbeda dengan Surat Perintah Pemeriksaan yang menjadi dasar penugasan Tim Pemeriksa Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 121,
+        "kutipan": "*Berdasarkan Surat Tugas Membantu Pelaksanaan Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Bantuan Ahli Pemeriksaan",
+      "Dasar Penugasan Bantuan Ahli"
+    ]
+  },
+  {
+    "id": "PMR-0178",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pelaksanaan Pemeriksaan",
+    "subtopik": "Bantuan Penilai PBB",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal dilakukan Pemeriksaan PBB dan tidak terdapat Penilai Pajak atau Petugas Penilai Pajak pada Unit Pelaksana Pemeriksaan, maka bentuk keterlibatan ahli untuk menetapkan NJOP disebut...",
+    "opsi": {
+      "A": "Bantuan Penilaian",
+      "B": "Bantuan Penilai",
+      "C": "Bantuan Ahli Hukum",
+      "D": "Bantuan Teknis Lapangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Bantuan Penilaian diberikan bilamana terdapat Penilai Pajak/Petugas Penilai Pajak pada Unit Pelaksana Pemeriksaan, sedangkan Bantuan Penilai diberikan bilamana tidak terdapat Penilai Pajak/Petugas Penilai Pajak pada unit tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 121,
+        "kutipan": "Bantuan Penilai bilamana tidak terdapat Penilai Pajak atau Petugas Penilai Pajak pada Unit Pelaksana Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Bantuan Ahli Pemeriksaan",
+      "Pemeriksaan PBB"
+    ]
+  }
+]

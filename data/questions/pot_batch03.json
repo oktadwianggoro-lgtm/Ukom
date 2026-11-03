@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "POT-03-001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 7 PMK-79/2023, tahap ketiga dalam tata cara Penilaian untuk tujuan perpajakan adalah...",
+    "opsi": {
+      "A": "Analisis data objek dan data pendukung Penilaian",
+      "B": "Penyiapan bahan Penilaian",
+      "C": "Pengumpulan data objek dan data pendukung Penilaian",
+      "D": "Penerapan Pendekatan Penilaian yang sesuai dengan objek Penilaian"
+    },
+    "kunci": "A",
+    "pembahasan": "Sesuai bagan Pasal 7 PMK-79/2023, urutan tahapan Penilaian adalah: penyiapan bahan, pengumpulan data, analisis data, penerapan pendekatan, dan penyusunan laporan. Tahap ketiga adalah analisis data objek dan data pendukung Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Analisis data objek dan data pendukung Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tahap 'Penerapan Pendekatan Penilaian yang sesuai dengan objek Penilaian' dalam Pasal 7 PMK-79/2023 diatur lebih lanjut dalam...",
+    "opsi": {
+      "A": "Pasal 9 s.d. Pasal 11",
+      "B": "Pasal 13 s.d. Pasal 28",
+      "C": "Pasal 12",
+      "D": "Pasal 29 s.d. Pasal 31"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada bagan Pasal 7, tahap penerapan pendekatan Penilaian yang sesuai dengan objek Penilaian merujuk pada Pasal 13 s.d. Pasal 28 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Pasal 13 s.d. Pasal 28"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian",
+      "Pendekatan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tahap 'Penyiapan bahan Penilaian' sebagaimana dimaksud Pasal 7 PMK-79/2023 diatur lebih lanjut dalam...",
+    "opsi": {
+      "A": "Pasal 7",
+      "B": "Pasal 9",
+      "C": "Pasal 8",
+      "D": "Pasal 12"
+    },
+    "kunci": "C",
+    "pembahasan": "Berdasarkan bagan tata cara Penilaian, tahap penyiapan bahan Penilaian dirujuk pada Pasal 8 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Pasal 8"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tahap pertama yang dilalui dalam pelaksanaan Penilaian untuk tujuan perpajakan menurut Pasal 7 PMK-79/2023 adalah...",
+    "opsi": {
+      "A": "Pengumpulan data objek dan data pendukung Penilaian",
+      "B": "Analisis data objek dan data pendukung Penilaian",
+      "C": "Penyusunan Laporan Penilaian",
+      "D": "Penyiapan bahan Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan Pasal 7 PMK-79/2023 menempatkan penyiapan bahan Penilaian sebagai tahap pertama sebelum pengumpulan data objek dan data pendukung Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Penyiapan bahan Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tahap 'Pengumpulan data objek dan data pendukung Penilaian' pada Pasal 7 PMK-79/2023 diatur dalam rentang pasal...",
+    "opsi": {
+      "A": "Pasal 9 s.d. Pasal 11",
+      "B": "Pasal 8",
+      "C": "Pasal 12",
+      "D": "Pasal 13 s.d. Pasal 28"
+    },
+    "kunci": "A",
+    "pembahasan": "Tahap kedua, yaitu pengumpulan data objek dan data pendukung Penilaian, dirujuk pada Pasal 9 s.d. Pasal 11 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Pasal 9 s.d. Pasal 11"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Penilai baru saja menyelesaikan pengumpulan data objek dan data pendukung Penilaian. Berdasarkan Pasal 7 PMK-79/2023, tahap selanjutnya yang harus dilakukan adalah...",
+    "opsi": {
+      "A": "Penyiapan bahan Penilaian",
+      "B": "Analisis data objek dan data pendukung Penilaian",
+      "C": "Penerapan Pendekatan Penilaian yang sesuai dengan objek Penilaian",
+      "D": "Penyusunan Laporan Penilaian"
+    },
+    "kunci": "B",
+    "pembahasan": "Setelah pengumpulan data selesai, tahap berikutnya pada bagan Pasal 7 adalah analisis data objek dan data pendukung Penilaian, sebelum penerapan pendekatan Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Analisis data objek dan data pendukung Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan tahapan dalam tata cara Penilaian untuk tujuan perpajakan menurut Pasal 7 PMK-79/2023, KECUALI...",
+    "opsi": {
+      "A": "Penyiapan bahan Penilaian",
+      "B": "Analisis data objek dan data pendukung Penilaian",
+      "C": "Bantuan Penilaian dan/atau bantuan Penilai",
+      "D": "Penyusunan Laporan Penilaian"
+    },
+    "kunci": "C",
+    "pembahasan": "Lima tahapan pada bagan Pasal 7 adalah penyiapan bahan, pengumpulan data, analisis data, penerapan pendekatan, dan penyusunan laporan Penilaian. Bantuan Penilaian dan/atau bantuan Penilai diatur terpisah dalam Pasal 32 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Penyusunan Laporan Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian",
+      "Pasal 32 PMK-79/2023"
+    ]
+  },
+  {
+    "id": "POT-03-008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tahap akhir 'Penyusunan Laporan Penilaian' dalam Pasal 7 PMK-79/2023 diatur lebih lanjut dalam...",
+    "opsi": {
+      "A": "Pasal 12",
+      "B": "Pasal 13 s.d. Pasal 28",
+      "C": "Pasal 32",
+      "D": "Pasal 29 s.d. Pasal 31"
+    },
+    "kunci": "D",
+    "pembahasan": "Tahap penyusunan laporan Penilaian, sebagai tahap akhir pada bagan Pasal 7, dirujuk pada Pasal 29 s.d. Pasal 31 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Pasal 29 s.d. Pasal 31"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tahap terakhir dalam tata cara Penilaian untuk tujuan perpajakan menurut Pasal 7 PMK-79/2023 adalah...",
+    "opsi": {
+      "A": "Penyusunan Laporan Penilaian",
+      "B": "Analisis data objek dan data pendukung Penilaian",
+      "C": "Penerapan Pendekatan Penilaian yang sesuai dengan objek Penilaian",
+      "D": "Pengumpulan data objek dan data pendukung Penilaian"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan Pasal 7 PMK-79/2023 menempatkan penyusunan laporan Penilaian sebagai tahap kelima atau tahap terakhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Penyusunan Laporan Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tahap 'Analisis data objek dan data pendukung Penilaian' sebagaimana diatur Pasal 7 PMK-79/2023 dirujuk pada...",
+    "opsi": {
+      "A": "Pasal 9 s.d. Pasal 11",
+      "B": "Pasal 12",
+      "C": "Pasal 13 s.d. Pasal 28",
+      "D": "Pasal 29 s.d. Pasal 31"
+    },
+    "kunci": "B",
+    "pembahasan": "Tahap analisis data objek dan data pendukung Penilaian, yaitu tahap ketiga pada bagan, dirujuk pada Pasal 12 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 52,
+        "kutipan": "Pasal 12"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 7 PMK-79/2023",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Bantuan Penilaian dan/atau Bantuan Penilai Pasal 32",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Ketentuan mengenai bantuan Penilaian dan/atau bantuan Penilai antarunit yang memiliki tugas dan fungsi di bidang Penilaian diatur dalam...",
+    "opsi": {
+      "A": "Pasal 7 PMK-79/2023",
+      "B": "Pasal 8 PMK-79/2023",
+      "C": "Pasal 32 PMK-79/2023",
+      "D": "Pasal 29 PMK-79/2023"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan mengenai bantuan Penilaian dan/atau bantuan Penilai diatur dalam Pasal 32 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 53,
+        "kutipan": "BANTUAN PENILAIAN DAN/ATAU BANTUAN PENILAI (Pasal 32)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 32 PMK-79/2023",
+      "Bantuan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Bantuan Penilaian dan/atau Bantuan Penilai Pasal 32",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Pihak yang dapat mengajukan permintaan bantuan Penilaian dan/atau bantuan Penilai sebagaimana dimaksud Pasal 32 PMK-79/2023 adalah...",
+    "opsi": {
+      "A": "Wajib Pajak yang menjadi objek Penilaian",
+      "B": "Kepala Kantor Wilayah DJP setempat",
+      "C": "Kepala unit yang memiliki tugas dan fungsi di bidang pengawasan",
+      "D": "Kepala unit yang memiliki tugas dan fungsi di bidang Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 32 menyebutkan kepala unit yang memiliki tugas dan fungsi di bidang Penilaian dapat mengajukan permintaan bantuan Penilaian dan/atau bantuan Penilai kepada kepala unit Penilaian lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 53,
+        "kutipan": "kepala unit yang memiliki tugas dan fungsi di bidang Penilaian dapat mengajukan permintaan bantuan Penilaian dan/atau bantuan Penilai"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 32 PMK-79/2023",
+      "Bantuan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-013",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Bantuan Penilaian dan/atau Bantuan Penilai Pasal 32",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan Pasal 32 PMK-79/2023, permintaan bantuan Penilaian dan/atau bantuan Penilai harus dilengkapi dengan hal-hal berikut, KECUALI...",
+    "opsi": {
+      "A": "Laporan keuangan Wajib Pajak yang telah diaudit",
+      "B": "Latar belakang perlunya dilakukan Penilaian",
+      "C": "Tujuan Penilaian",
+      "D": "Data dan informasi terkait objek Penilaian"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 32 mensyaratkan permintaan bantuan dilengkapi latar belakang perlunya Penilaian, tujuan Penilaian, serta data dan informasi terkait objek Penilaian. Laporan keuangan audited Wajib Pajak tidak disebutkan sebagai kelengkapan wajib.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 53,
+        "kutipan": "harus dilengkapi dengan latar belakang perlunya dilakukan Penilaian, tujuan Penilaian, serta data dan informasi terkait objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 32 PMK-79/2023",
+      "Bantuan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-014",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Bantuan Penilaian dan/atau Bantuan Penilai Pasal 32",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Unit Penilaian di suatu kantor wilayah memerlukan keahlian khusus yang tidak dimilikinya untuk menilai suatu objek. Sesuai Pasal 32 PMK-79/2023, langkah yang dapat ditempuh adalah...",
+    "opsi": {
+      "A": "Menolak permintaan Penilaian karena keterbatasan sumber daya",
+      "B": "Mengajukan permintaan bantuan Penilaian dan/atau bantuan Penilai",
+      "C": "Mendelegasikan seluruh proses Penilaian kepada Wajib Pajak",
+      "D": "Mengalihkan objek Penilaian ke unit pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam hal diperlukan, kepala unit Penilaian dapat mengajukan permintaan bantuan Penilaian dan/atau bantuan Penilai kepada kepala unit yang memiliki tugas dan fungsi di bidang Penilaian lainnya untuk melaksanakan Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 53,
+        "kutipan": "dapat mengajukan permintaan bantuan Penilaian dan/atau bantuan Penilai kepada kepala unit yang memiliki tugas dan fungsi di bidang Penilaian lainnya"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 32 PMK-79/2023",
+      "Bantuan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-015",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Bantuan Penilaian dan/atau Bantuan Penilai Pasal 32",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Tujuan diajukannya permintaan bantuan Penilaian dan/atau bantuan Penilai sebagaimana dimaksud Pasal 32 PMK-79/2023 adalah untuk...",
+    "opsi": {
+      "A": "Menyusun kebijakan Penilaian nasional",
+      "B": "Menetapkan tarif pajak atas objek Penilaian",
+      "C": "Melaksanakan Penilaian",
+      "D": "Mengganti seluruh anggota Tim Penilai yang bertugas"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 32 menyatakan permintaan bantuan diajukan kepada kepala unit Penilaian lainnya untuk melaksanakan Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 53,
+        "kutipan": "untuk melaksanakan Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pasal 32 PMK-79/2023",
+      "Bantuan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-03-016",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan sumber data DJP, Sumber Data terbagi menjadi berapa kategori utama?",
+    "opsi": {
+      "A": "1 (satu) kategori data",
+      "B": "3 (tiga) kategori data",
+      "C": "4 (empat) kategori data",
+      "D": "2 (dua) kategori data"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan sumber data pada SE-05/PJ/2022 membagi Sumber Data menjadi dua kategori utama, yaitu Data Eksternal/Pihak Ketiga dan Data Internal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "DATA INTERNAL"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-017",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Data ILAP ber-PMK sebagaimana termuat dalam bagan sumber data DJP merujuk pada ketentuan...",
+    "opsi": {
+      "A": "Pasal 35A ayat (1)",
+      "B": "Pasal 35A ayat (2)",
+      "C": "Pasal 35 ayat (1)",
+      "D": "Pasal 36 ayat (1)"
+    },
+    "kunci": "A",
+    "pembahasan": "Data ILAP ber-PMK pada kelompok data eksternal dalam negeri merujuk pada Pasal 35A ayat (1).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data ILAP ber-PMK (Pasal 35A ayat 1)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-018",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Data ILAP non-PMK sebagaimana termuat dalam bagan sumber data DJP merujuk pada ketentuan...",
+    "opsi": {
+      "A": "Pasal 35A ayat (1)",
+      "B": "Pasal 35A ayat (2)",
+      "C": "Pasal 35 ayat (2)",
+      "D": "Pasal 34 ayat (2)"
+    },
+    "kunci": "B",
+    "pembahasan": "Data ILAP non-PMK pada kelompok data eksternal dalam negeri merujuk pada Pasal 35A ayat (2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data ILAP non PMK (Pasal 35A ayat 2)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-019",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pihak yang menjadi sumber Data ILAP, baik ber-PMK maupun non-PMK, pada bagan sumber data DJP adalah...",
+    "opsi": {
+      "A": "Competent Authority negara mitra",
+      "B": "Direktorat Jenderal Pajak",
+      "C": "Instansi, Lembaga, Asosiasi, Pihak Lain",
+      "D": "Wajib Pajak pelapor SPT"
+    },
+    "kunci": "C",
+    "pembahasan": "Data ILAP dalam negeri, baik ber-PMK maupun non-PMK, bersumber dari Instansi, Lembaga, Asosiasi, dan Pihak Lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Instansi, Lembaga, Asosiasi, Pihak Lain"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-020",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada bagan sumber data DJP, Data Eksternal Luar Negeri bersumber dari...",
+    "opsi": {
+      "A": "Instansi, Lembaga, Asosiasi, Pihak Lain",
+      "B": "Direktorat Jenderal Pajak",
+      "C": "Wajib Pajak",
+      "D": "Competent Authority"
+    },
+    "kunci": "D",
+    "pembahasan": "Data Eksternal Luar Negeri pada kelompok data eksternal/pihak ketiga bersumber dari Competent Authority.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Competent Authority"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-021",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada bagan sumber data DJP, Data Produksi Unit Kerja DJP bersumber dari...",
+    "opsi": {
+      "A": "DJP",
+      "B": "Wajib Pajak",
+      "C": "Competent Authority",
+      "D": "Instansi, Lembaga, Asosiasi, Pihak Lain"
+    },
+    "kunci": "A",
+    "pembahasan": "Data Produksi Unit Kerja DJP, sebagai bagian Data Internal, bersumber dari DJP sendiri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data Produksi Unit Kerja DJP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-022",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan sumber data DJP, Data Internal yang bersumber dari Wajib Pajak terdiri dari berapa jenis data?",
+    "opsi": {
+      "A": "1 (satu) jenis data",
+      "B": "3 (tiga) jenis data",
+      "C": "2 (dua) jenis data",
+      "D": "4 (empat) jenis data"
+    },
+    "kunci": "B",
+    "pembahasan": "Data Internal yang bersumber dari Wajib Pajak terdiri dari tiga jenis data, yaitu Data SPT WP, Data SPT Lawan Transaksi, dan Data elektronik pendukung SPT.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data SPT Lawan Transaksi"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-023",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tahap pertama dalam siklus pengelolaan sumber data DJP sebagaimana digambarkan pada bagan adalah...",
+    "opsi": {
+      "A": "Pemanfaatan Data",
+      "B": "Pengolahan Data SPT",
+      "C": "Pembangunan Data",
+      "D": "Produksi Data"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan menunjukkan alur Pencarian Data Eksternal, Produksi Data, dan Pengolahan Data SPT bermuara pada tahap 1. Pembangunan Data, sebelum tahap Pemanfaatan Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "1. PEMBANGUNAN DATA"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-024",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tahap yang dilakukan setelah Pembangunan Data pada bagan sumber data DJP adalah...",
+    "opsi": {
+      "A": "Pencarian Data Eksternal",
+      "B": "Produksi Data",
+      "C": "Pengolahan Data SPT",
+      "D": "Pemanfaatan Data"
+    },
+    "kunci": "D",
+    "pembahasan": "Setelah tahap 1. Pembangunan Data, bagan menunjukkan tahap 2. Pemanfaatan Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "2. PEMANFAATAN DATA"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-025",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada tahap Pemanfaatan Data dalam bagan sumber data DJP, data dimanfaatkan oleh...",
+    "opsi": {
+      "A": "DJP dan Pihak Luar DJP",
+      "B": "Hanya DJP",
+      "C": "Hanya Pihak Luar DJP",
+      "D": "Hanya Competent Authority"
+    },
+    "kunci": "A",
+    "pembahasan": "Tahap Pemanfaatan Data pada bagan menunjukkan hubungan dua arah antara DJP dan Pihak Luar DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "PIHAK LUAR DJP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-026",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan sumber data DJP, Data Eksternal/Pihak Ketiga Dalam Negeri terbagi menjadi berapa jenis Data ILAP?",
+    "opsi": {
+      "A": "1 (satu) jenis",
+      "B": "2 (dua) jenis",
+      "C": "3 (tiga) jenis",
+      "D": "4 (empat) jenis"
+    },
+    "kunci": "B",
+    "pembahasan": "Data ILAP Dalam Negeri terbagi menjadi dua jenis, yaitu Data ILAP ber-PMK (Pasal 35A ayat 1) dan Data ILAP non PMK (Pasal 35A ayat 2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data ILAP non PMK (Pasal 35A ayat 2)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-027",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "DJP menerima data perbankan dari suatu instansi pemerintah dalam negeri berdasarkan kewajiban pelaporan sesuai Pasal 35A ayat (1). Data tersebut dikategorikan sebagai...",
+    "opsi": {
+      "A": "Data ILAP non PMK",
+      "B": "Data Eksternal Luar Negeri",
+      "C": "Data ILAP ber-PMK",
+      "D": "Data Produksi Unit Kerja DJP"
+    },
+    "kunci": "C",
+    "pembahasan": "Data yang bersumber dari kewajiban pelaporan berdasarkan Pasal 35A ayat (1) dikategorikan sebagai Data ILAP ber-PMK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data ILAP ber-PMK (Pasal 35A ayat 1)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-028",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "DJP memperoleh data keuangan Wajib Pajak dari otoritas pajak negara mitra melalui mekanisme pertukaran informasi. Berdasarkan bagan sumber data DJP, data tersebut termasuk...",
+    "opsi": {
+      "A": "Data ILAP ber-PMK yang bersumber dari Instansi dalam negeri",
+      "B": "Data Produksi Unit Kerja DJP yang bersumber dari DJP",
+      "C": "Data SPT Lawan Transaksi yang bersumber dari Wajib Pajak",
+      "D": "Data Eksternal Luar Negeri yang bersumber dari Competent Authority"
+    },
+    "kunci": "D",
+    "pembahasan": "Data dari otoritas pajak negara mitra (Competent Authority) dikategorikan sebagai Data Eksternal Luar Negeri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Competent Authority"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-029",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk dalam kelompok Data Eksternal/Pihak Ketiga Dalam Negeri pada bagan sumber data DJP, KECUALI...",
+    "opsi": {
+      "A": "Data Produksi Unit Kerja DJP",
+      "B": "Data ILAP ber-PMK (Pasal 35A ayat 1)",
+      "C": "Data ILAP non PMK (Pasal 35A ayat 2)",
+      "D": "Data yang bersumber dari Instansi, Lembaga, Asosiasi, Pihak Lain"
+    },
+    "kunci": "A",
+    "pembahasan": "Kelompok Dalam Negeri pada Data Eksternal/Pihak Ketiga hanya mencakup Data ILAP ber-PMK dan non-PMK. Data Produksi Unit Kerja DJP merupakan bagian dari Data Internal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data Produksi Unit Kerja DJP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-030",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan aktivitas yang bermuara pada tahap '1. Pembangunan Data' pada bagan sumber data DJP, KECUALI...",
+    "opsi": {
+      "A": "Pencarian Data Eksternal",
+      "B": "Pemanfaatan Data oleh Pihak Luar DJP",
+      "C": "Produksi Data",
+      "D": "Pengolahan Data SPT"
+    },
+    "kunci": "B",
+    "pembahasan": "Tahap Pembangunan Data terbentuk dari Pencarian Data Eksternal, Produksi Data, dan Pengolahan Data SPT. Pemanfaatan Data oleh Pihak Luar DJP merupakan bagian tahap 2. Pemanfaatan Data, bukan Pembangunan Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "PENCARIAN DATA EKSTERNAL"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-031",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pembagian Data ILAP menjadi ber-PMK dan non-PMK pada bagan sumber data DJP didasarkan pada perbedaan...",
+    "opsi": {
+      "A": "Jenis mata uang pelaporan data",
+      "B": "Wilayah domisili instansi pelapor",
+      "C": "Ayat pada Pasal 35A yang menjadi rujukan",
+      "D": "Jangka waktu penyampaian data"
+    },
+    "kunci": "C",
+    "pembahasan": "Data ILAP ber-PMK merujuk Pasal 35A ayat (1), sedangkan Data ILAP non PMK merujuk Pasal 35A ayat (2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "Data ILAP ber-PMK (Pasal 35A ayat 1)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-032",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada bagan sumber data DJP, Data Eksternal Luar Negeri merupakan bagian dari kelompok...",
+    "opsi": {
+      "A": "Data Internal",
+      "B": "Data Produksi Unit Kerja DJP",
+      "C": "Data ILAP Dalam Negeri",
+      "D": "Data Eksternal/Pihak Ketiga"
+    },
+    "kunci": "D",
+    "pembahasan": "Data Eksternal Luar Negeri berada di bawah cabang Luar Negeri yang merupakan bagian dari kelompok Data Eksternal/Pihak Ketiga, bukan Data Internal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "DATA EKSTERNAL/ PIHAK KETIGA"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-033",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Data SPT WP, Data SPT Lawan Transaksi, dan Data elektronik pendukung SPT yang bersumber dari Wajib Pajak, pada tahap Pembangunan Data diolah melalui proses...",
+    "opsi": {
+      "A": "Pengolahan Data SPT",
+      "B": "Pencarian Data Eksternal",
+      "C": "Produksi Data",
+      "D": "Pemanfaatan Data"
+    },
+    "kunci": "A",
+    "pembahasan": "Data dari Wajib Pajak (Data SPT WP, Data SPT Lawan Transaksi, Data elektronik pendukung SPT) masuk melalui proses Pengolahan Data SPT menuju tahap Pembangunan Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "PENGOLAHAN DATA SPT"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-034",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Data Produksi Unit Kerja DJP pada bagan sumber data DJP masuk ke tahap Pembangunan Data melalui proses...",
+    "opsi": {
+      "A": "Pencarian Data Eksternal",
+      "B": "Produksi Data",
+      "C": "Pengolahan Data SPT",
+      "D": "Pemanfaatan Data"
+    },
+    "kunci": "B",
+    "pembahasan": "Data Produksi Unit Kerja DJP mengalir ke tahap Pembangunan Data melalui proses Produksi Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "PRODUKSI DATA"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-035",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan sumber data DJP, Data Eksternal/Pihak Ketiga terbagi menjadi berapa kelompok berdasarkan asal datanya?",
+    "opsi": {
+      "A": "1 (satu) kelompok data gabungan",
+      "B": "3 (tiga) kelompok data",
+      "C": "2 (dua) kelompok, yaitu Dalam Negeri dan Luar Negeri",
+      "D": "4 (empat) kelompok data"
+    },
+    "kunci": "C",
+    "pembahasan": "Data Eksternal/Pihak Ketiga pada bagan terbagi menjadi dua kelompok berdasarkan asal datanya, yaitu Dalam Negeri dan Luar Negeri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 56,
+        "kutipan": "LUAR NEGERI"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Pasal 35A KUP",
+      "Sumber Data DJP"
+    ]
+  },
+  {
+    "id": "POT-03-036",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data mengenai Identitas WP pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Pelaporan",
+      "B": "Pembayaran",
+      "C": "Layanan Perpajakan",
+      "D": "Registrasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Identitas WP merupakan salah satu jenis data pada kategori Registrasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "1) Identitas WP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-037",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data SPOP PBB pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Pelaporan",
+      "B": "Registrasi",
+      "C": "Pembayaran",
+      "D": "Knowledge Management"
+    },
+    "kunci": "A",
+    "pembahasan": "SPOP PBB merupakan salah satu jenis data pada kategori Pelaporan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "3) SPOP PBB"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-038",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data Pengukuhan PKP pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Pelaporan",
+      "B": "Registrasi",
+      "C": "Pembayaran",
+      "D": "Layanan Perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengukuhan PKP merupakan salah satu jenis data pada kategori Registrasi, bersama Identitas WP, Penghapusan NPWP, WP NE, dan Pencabutan PKP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "4) Pengukuhan PKP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-039",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan bagan data di Sistem Informasi DJP, kategori Registrasi terdiri dari berapa jenis data?",
+    "opsi": {
+      "A": "3 (tiga) jenis",
+      "B": "4 (empat) jenis",
+      "C": "5 (lima) jenis",
+      "D": "6 (enam) jenis"
+    },
+    "kunci": "C",
+    "pembahasan": "Kategori Registrasi mencakup lima jenis data, yaitu Identitas WP, Penghapusan NPWP, WP NE, Pengukuhan PKP, dan Pencabutan PKP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "5) Pencabutan PKP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-040",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data SPMIB pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Pelaporan",
+      "B": "Registrasi",
+      "C": "Layanan Perpajakan",
+      "D": "Pembayaran"
+    },
+    "kunci": "D",
+    "pembahasan": "SPMIB merupakan salah satu jenis data pada kategori Pembayaran, bersama Pemindahbukuan, MPN, Perintah Membayar Kelebihan Pajak, dan Pengembalian Kelebihan Pembayaran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "5) SPMIB"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-041",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data Surat Keterangan Fiskal (SKF) pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Layanan Perpajakan",
+      "B": "Registrasi",
+      "C": "Pembayaran",
+      "D": "Knowledge Management"
+    },
+    "kunci": "A",
+    "pembahasan": "SKF merupakan salah satu jenis data pada kategori Layanan Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "2) SKF"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-042",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data Nomor Seri Faktur Pajak pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Pelaporan",
+      "B": "Layanan Perpajakan",
+      "C": "Pembayaran",
+      "D": "Registrasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Nomor Seri FP merupakan salah satu jenis data pada kategori Layanan Perpajakan, bersama SKB, SKF, Pemusatan PPN, dan Layanan Bea Materai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "5) Nomor Seri FP"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-043",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data TKB pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Layanan Perpajakan",
+      "B": "Pembayaran",
+      "C": "Knowledge Management",
+      "D": "Registrasi"
+    },
+    "kunci": "C",
+    "pembahasan": "TKB merupakan jenis data yang dicontohkan pada kategori Knowledge Management.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "1) TKB"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-044",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk data pada kategori Pelaporan di Sistem Informasi DJP, KECUALI...",
+    "opsi": {
+      "A": "SPT Masa",
+      "B": "SPT Tahunan",
+      "C": "SPOP PBB",
+      "D": "Pemindahbukuan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kategori Pelaporan mencakup SPT Masa, SPT Tahunan, SPOP PBB, Pelaporan Bea Materai, dan Register Penerimaan. Pemindahbukuan termasuk kategori Pembayaran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "1) SPT Masa"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-045",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak mengajukan permohonan pemusatan tempat terutang PPN. Data permohonan tersebut tercatat dalam kategori data Sistem Informasi DJP yaitu...",
+    "opsi": {
+      "A": "Layanan Perpajakan",
+      "B": "Registrasi",
+      "C": "Pelaporan",
+      "D": "Pembayaran"
+    },
+    "kunci": "A",
+    "pembahasan": "Pemusatan PPN merupakan salah satu jenis data pada kategori Layanan Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "3) Pemusatan PPN"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-046",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan bagan data di Sistem Informasi DJP, terdapat berapa kategori data utama yang digambarkan?",
+    "opsi": {
+      "A": "3 (tiga) kategori",
+      "B": "5 (lima) kategori",
+      "C": "4 (empat) kategori",
+      "D": "6 (enam) kategori"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan menggambarkan lima kategori data, yaitu Registrasi, Pelaporan, Pembayaran, Layanan Perpajakan, dan Knowledge Management.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "Knowledge Management"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-047",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk data pada kategori Pembayaran di Sistem Informasi DJP, KECUALI...",
+    "opsi": {
+      "A": "Pemindahbukuan",
+      "B": "MPN",
+      "C": "Pengukuhan PKP",
+      "D": "SPMIB"
+    },
+    "kunci": "C",
+    "pembahasan": "Kategori Pembayaran mencakup Pemindahbukuan, MPN, Perintah Membayar Kelebihan Pajak, Pengembalian Kelebihan Pembayaran, dan SPMIB. Pengukuhan PKP termasuk kategori Registrasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 57,
+        "kutipan": "2) MPN"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Registrasi"
+    ]
+  },
+  {
+    "id": "POT-03-048",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data EOI (Exchange of Information) pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Ekstensifikasi",
+      "B": "Pengawasan",
+      "C": "Penagihan",
+      "D": "Pihak Ketiga"
+    },
+    "kunci": "D",
+    "pembahasan": "EOI merupakan salah satu jenis data pada kategori Pihak Ketiga.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "3) EOI"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-049",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data DSE pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Ekstensifikasi",
+      "B": "Pihak Ketiga",
+      "C": "Pengawasan",
+      "D": "Sengketa Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "DSE merupakan salah satu jenis data pada kategori Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "1) DSE"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-050",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data Indikasi Potensi Perpajakan pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Ekstensifikasi",
+      "B": "Pengawasan",
+      "C": "Pihak Ketiga",
+      "D": "Penagihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Indikasi Potensi Perpajakan merupakan salah satu jenis data pada kategori Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "1) Indikasi Potensi Perpajakan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-051",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data LHA (Laporan Hasil Analisis) dan LHPt (Laporan Hasil Penelitian) pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Ekstensifikasi",
+      "B": "Pihak Ketiga",
+      "C": "Pengawasan",
+      "D": "Non Keberatan"
+    },
+    "kunci": "C",
+    "pembahasan": "LHA dan LHPt merupakan salah satu jenis data pada kategori Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "2) LHA dan LHPt"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-052",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data Piutang Pajak pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Sengketa Pajak",
+      "B": "Non Keberatan",
+      "C": "Pengawasan",
+      "D": "Penagihan"
+    },
+    "kunci": "D",
+    "pembahasan": "Piutang Pajak merupakan salah satu jenis data pada kategori Penagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "1) Piutang Pajak"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-053",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data Gugatan pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Sengketa Pajak",
+      "B": "Non Keberatan",
+      "C": "Penagihan",
+      "D": "Pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Gugatan merupakan salah satu jenis data pada kategori Sengketa Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "3) Gugatan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-054",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data Pembatalan Ketetapan yang Tidak Benar pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Sengketa Pajak",
+      "B": "Non Keberatan",
+      "C": "Penagihan",
+      "D": "Pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pembatalan Ketetapan yang Tidak Benar merupakan salah satu jenis data pada kategori Non Keberatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "2) Pembatalan Ketetapan yang Tidak Benar"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-055",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan bagan data di Sistem Informasi DJP, kategori Sengketa Pajak mencakup berapa jenis upaya hukum?",
+    "opsi": {
+      "A": "2 (dua) jenis",
+      "B": "3 (tiga) jenis",
+      "C": "4 (empat) jenis",
+      "D": "5 (lima) jenis"
+    },
+    "kunci": "C",
+    "pembahasan": "Kategori Sengketa Pajak mencakup empat jenis, yaitu Keberatan, Banding, Gugatan, dan PK (Peninjauan Kembali).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "4) PK"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-056",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk data pada kategori Ekstensifikasi di Sistem Informasi DJP, KECUALI...",
+    "opsi": {
+      "A": "DSE",
+      "B": "Penugasan Ekstensifikasi",
+      "C": "Himbauan",
+      "D": "Teguran SPT"
+    },
+    "kunci": "D",
+    "pembahasan": "Kategori Ekstensifikasi mencakup DSE, Penugasan Ekstensifikasi, Himbauan, Hasil Survey Lapangan, dan Usul Pemeriksaan Tujuan Lain. Teguran SPT termasuk kategori Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "3) Himbauan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-057",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak tidak menyampaikan SPT sesuai batas waktu sehingga DJP mengirimkan surat peringatan. Data tersebut tercatat dalam kategori data Sistem Informasi DJP yaitu...",
+    "opsi": {
+      "A": "Pengawasan",
+      "B": "Ekstensifikasi",
+      "C": "Penagihan",
+      "D": "Non Keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Teguran SPT merupakan salah satu jenis data pada kategori Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "5) Teguran SPT"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-058",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk data pada kategori Non Keberatan di Sistem Informasi DJP, KECUALI...",
+    "opsi": {
+      "A": "Pembetulan Ketetapan",
+      "B": "Banding",
+      "C": "Pengurangan/Penghapusan Sanksi Administrasi",
+      "D": "Keputusan Pengurangan PBB"
+    },
+    "kunci": "B",
+    "pembahasan": "Kategori Non Keberatan mencakup Pembetulan Ketetapan, Pembatalan Ketetapan yang Tidak Benar, Pengurangan/Penghapusan Sanksi Administrasi, Keputusan Pengurangan PBB, dan Register Penerimaan Keputusan. Banding termasuk kategori Sengketa Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "1) Pembetulan Ketetapan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-059",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Data PK (Peninjauan Kembali) pada bagan data di Sistem Informasi DJP termasuk dalam kategori...",
+    "opsi": {
+      "A": "Non Keberatan",
+      "B": "Penagihan",
+      "C": "Sengketa Pajak",
+      "D": "Pengawasan"
+    },
+    "kunci": "C",
+    "pembahasan": "PK merupakan salah satu jenis data pada kategori Sengketa Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "4) PK"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  },
+  {
+    "id": "POT-03-060",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Masyarakat menyampaikan laporan mengenai dugaan transaksi mencurigakan seorang Wajib Pajak, yang kemudian dicatat DJP sebagai Alat Keterangan. Data tersebut termasuk kategori...",
+    "opsi": {
+      "A": "Ekstensifikasi",
+      "B": "Pengawasan",
+      "C": "Penagihan",
+      "D": "Pihak Ketiga"
+    },
+    "kunci": "D",
+    "pembahasan": "Alat Keterangan merupakan salah satu jenis data pada kategori Pihak Ketiga.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 58,
+        "kutipan": "2) Alat Keterangan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Sistem Informasi DJP",
+      "Data Pengawasan"
+    ]
+  }
+]

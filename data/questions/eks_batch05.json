@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "EKS-05-001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Apa tujuan Monitoring dan Evaluasi dalam kegiatan ekstensifikasi?",
+    "opsi": {
+      "A": "Menggantikan seluruh fungsi pemeriksaan pajak terhadap Wajib Pajak",
+      "B": "Memantau proses perencanaan, pelaksanaan, dan tindak lanjut ekstensifikasi",
+      "C": "Menetapkan besaran sanksi administrasi bagi Wajib Pajak nakal",
+      "D": "Menentukan jumlah NPWP baru yang wajib diterbitkan tiap tahun"
+    },
+    "kunci": "B",
+    "pembahasan": "Monitoring dan Evaluasi bertujuan memantau proses pada tahap perencanaan, pelaksanaan, dan tindak lanjut ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Monitoring dan Evaluasi untuk memantau proses yang dilakukan dalam tahap perencanaan, pelaksanaan, dan tindak lanjut ekstensifikasi."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Monitoring dan evaluasi ekstensifikasi memantau proses yang berlangsung secara berurutan pada tahap...",
+    "opsi": {
+      "A": "Pelaksanaan, tindak lanjut, kemudian perencanaan",
+      "B": "Tindak lanjut, perencanaan, kemudian pelaksanaan",
+      "C": "Pelaksanaan, perencanaan, kemudian tindak lanjut",
+      "D": "Perencanaan, pelaksanaan, kemudian tindak lanjut"
+    },
+    "kunci": "D",
+    "pembahasan": "Tahapan yang dipantau disebutkan berurutan: perencanaan, pelaksanaan, dan tindak lanjut ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Monitoring dan Evaluasi untuk memantau proses yang dilakukan dalam tahap perencanaan, pelaksanaan, dan tindak lanjut ekstensifikasi."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Bagaimana setiap input, progress pekerjaan, dan output atas aktivitas ekstensifikasi dicatat?",
+    "opsi": {
+      "A": "Tercatat dan termonitor otomatis oleh sistem, disajikan sebagai report atau dashboard",
+      "B": "Dicatat secara manual oleh Account Representative setiap akhir bulan kerja",
+      "C": "Dilaporkan langsung ke Direktorat Jenderal Pajak melalui surat tertulis resmi",
+      "D": "Direkap oleh Kantor Pusat DJP setiap akhir tahun pajak berjalan"
+    },
+    "kunci": "A",
+    "pembahasan": "Seluruh input, progress, dan output aktivitas ekstensifikasi tercatat otomatis oleh sistem dan disajikan sebagai report atau dashboard.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Setiap input, progress pekerjaan, dan output atas setiap aktifitas tercatat dan termonitor oleh sistem secara otomatis serta disajikan ke dalam bentuk report atau dashboard."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Kepala Kantor Wilayah DJP ingin melihat progres input, proses, dan output kegiatan ekstensifikasi seluruh KPP di wilayahnya secara otomatis tanpa menunggu laporan manual. Sarana yang tepat untuk kebutuhan tersebut adalah...",
+    "opsi": {
+      "A": "Laporan Evaluasi Ekstensifikasi yang disusun tahunan",
+      "B": "Berita Acara Pembahasan Akhir P2DK",
+      "C": "Sistem aplikasi SIAP yang menyajikan report atau dashboard",
+      "D": "Surat Permintaan Penjelasan Data dan/atau Keterangan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pencatatan otomatis dan penyajian report/dashboard dilakukan melalui sistem aplikasi SIAP yang memantau setiap level KPP, Kanwil, dan Kantor Pusat DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "tercatat dan termonitor oleh sistem secara otomatis serta disajikan ke dalam bentuk report atau dashboard."
+      },
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Pemantauan dilakukan di setiap level di KPP, Kantor Wilayah DJP, dan Kantor Pusat DJP melalui sistem aplikasi SIAP"
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi",
+      "SIAP"
+    ]
+  },
+  {
+    "id": "EKS-05-005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pemantauan ekstensifikasi melalui sistem aplikasi SIAP dilakukan di setiap level pada unit kerja...",
+    "opsi": {
+      "A": "KPP, Kantor Pelayanan, dan Pengadilan Pajak",
+      "B": "KPP, Kantor Wilayah DJP, dan Kantor Pusat DJP",
+      "C": "Kantor Wilayah DJP, Kementerian Keuangan, dan KPP",
+      "D": "KPP Madya, KPP Pratama, dan Kantor Pusat DJP"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemantauan dilakukan di setiap level di KPP, Kantor Wilayah DJP, dan Kantor Pusat DJP melalui sistem aplikasi SIAP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Pemantauan dilakukan di setiap level di KPP, Kantor Wilayah DJP, dan Kantor Pusat DJP melalui sistem aplikasi SIAP"
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi",
+      "SIAP"
+    ]
+  },
+  {
+    "id": "EKS-05-006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Nama sistem aplikasi yang digunakan untuk memantau kegiatan ekstensifikasi di setiap level KPP, Kanwil DJP, dan Kantor Pusat DJP adalah...",
+    "opsi": {
+      "A": "SIAP",
+      "B": "SIDJP",
+      "C": "e-SPT",
+      "D": "SIKKA"
+    },
+    "kunci": "A",
+    "pembahasan": "Sistem aplikasi yang digunakan untuk pemantauan ekstensifikasi di setiap level disebut SIAP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "melalui sistem aplikasi SIAP"
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi",
+      "SIAP"
+    ]
+  },
+  {
+    "id": "EKS-05-007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Pemantauan melalui sistem aplikasi SIAP berada di luar tugas pokok dan fungsi unit berikut, yaitu...",
+    "opsi": {
+      "A": "Seksi Pengawasan",
+      "B": "Account Representative",
+      "C": "Kantor Wilayah DJP",
+      "D": "Komite Kepatuhan WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menegaskan pemantauan melalui SIAP berada di luar tupoksi Komite Kepatuhan WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "melalui sistem aplikasi SIAP (diluar tupoksi Komite Kepatuhan WP)"
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi",
+      "SIAP"
+    ]
+  },
+  {
+    "id": "EKS-05-008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Evaluasi ekstensifikasi dilakukan secara periodik dan dirangkum menjadi dokumen yang disebut...",
+    "opsi": {
+      "A": "Laporan Hasil Pemeriksaan",
+      "B": "Berita Acara Pembahasan Akhir",
+      "C": "Laporan Evaluasi Ekstensifikasi",
+      "D": "Laporan Hasil Klarifikasi SP2DK"
+    },
+    "kunci": "C",
+    "pembahasan": "Evaluasi dilakukan secara periodik dan dirangkum menjadi Laporan Evaluasi Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Evaluasi dilakukan secara periodik dan dirangkum menjadi Laporan Evaluasi Ekstensifikasi."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi",
+      "Laporan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Hasil evaluasi ekstensifikasi berupa rangkuman atas aktivitas pelaksanaan ekstensifikasi serta...",
+    "opsi": {
+      "A": "Daftar sanksi administrasi yang harus dibayar Wajib Pajak",
+      "B": "Perbaikan proses bisnis, usulan, dan masukan ke proses bisnis lainnya",
+      "C": "Rekomendasi penerbitan Surat Ketetapan Pajak secara jabatan",
+      "D": "Jadwal pelaksanaan pemeriksaan pajak tahun berikutnya"
+    },
+    "kunci": "B",
+    "pembahasan": "Hasil evaluasi berupa rangkuman atas aktifitas pelaksanaan ekstensifikasi, perbaikan proses bisnis, serta usulan dan masukan ke proses bisnis lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Hasil evaluasi berupa rangkuman atas aktifitas pelaksanaan Ekstensifikasi, perbaikan proses bisnis, usulan dan masukan ke proses bisnis lainnya"
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini adalah proses bisnis lain yang menerima usulan dan masukan dari hasil evaluasi ekstensifikasi, KECUALI...",
+    "opsi": {
+      "A": "Pemeriksaan Bukti Permulaan",
+      "B": "Pengolahan Data Pihak Ketiga",
+      "C": "Compliance Risk Management",
+      "D": "Perumus Kebijakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Proses bisnis yang disebutkan menerima masukan adalah Pengolahan Data Pihak Ketiga, Compliance Risk Management, Perumus Kebijakan, Organisasi, dan SDM; Pemeriksaan Bukti Permulaan tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "usulan dan masukan ke proses bisnis lainnya, seperti Pengolahan Data Pihak Ketiga, Compliance Risk Management, Perumus Kebijakan, Organisasi maupun SDM."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Tim perumus kebijakan menerima masukan dari hasil evaluasi periodik ekstensifikasi untuk memperbaiki metode penilaian risiko kepatuhan Wajib Pajak. Proses bisnis yang dimaksud adalah...",
+    "opsi": {
+      "A": "Pengkreditan Pajak Masukan",
+      "B": "Pembetulan Surat Ketetapan Pajak",
+      "C": "Penyegelan Tempat Usaha",
+      "D": "Compliance Risk Management"
+    },
+    "kunci": "D",
+    "pembahasan": "Hasil evaluasi ekstensifikasi memberikan usulan dan masukan ke proses bisnis lain, salah satunya Compliance Risk Management.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "usulan dan masukan ke proses bisnis lainnya, seperti Pengolahan Data Pihak Ketiga, Compliance Risk Management, Perumus Kebijakan, Organisasi maupun SDM."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Bentuk penyajian hasil pencatatan otomatis atas aktivitas ekstensifikasi oleh sistem adalah...",
+    "opsi": {
+      "A": "Surat Ketetapan Pajak",
+      "B": "Berita Acara Pemeriksaan",
+      "C": "Report atau dashboard",
+      "D": "Nota Dinas Pengawasan"
+    },
+    "kunci": "C",
+    "pembahasan": "Setiap input, progress, dan output aktivitas ekstensifikasi disajikan dalam bentuk report atau dashboard.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "disajikan ke dalam bentuk report atau dashboard."
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-05-013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Seorang Account Representative di KPP Pratama ingin memantau capaian kegiatan ekstensifikasi di kantornya secara real time berupa report dan dashboard. Sistem yang digunakan untuk keperluan tersebut adalah...",
+    "opsi": {
+      "A": "e-Faktur",
+      "B": "SIAP",
+      "C": "e-Bupot",
+      "D": "SIDJP Nine"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemantauan ekstensifikasi di setiap level, termasuk KPP, dilakukan melalui sistem aplikasi SIAP yang menyajikan report atau dashboard.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 104,
+        "kutipan": "Pemantauan dilakukan di setiap level di KPP, Kantor Wilayah DJP, dan Kantor Pusat DJP melalui sistem aplikasi SIAP"
+      }
+    ],
+    "tags": [
+      "Monitoring dan Evaluasi Ekstensifikasi",
+      "SIAP"
+    ]
+  },
+  {
+    "id": "EKS-05-014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Dasar Hukum WP NA (UU KUP, PER-07/PJ/2025)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "UU Ketentuan Umum dan Tata Cara Perpajakan (UU KUP) merupakan UU Nomor berapa Tahun berapa?",
+    "opsi": {
+      "A": "UU Nomor 6 Tahun 1983",
+      "B": "UU Nomor 7 Tahun 2021",
+      "C": "UU Nomor 7 Tahun 1983",
+      "D": "UU Nomor 6 Tahun 2021"
+    },
+    "kunci": "A",
+    "pembahasan": "Dasar hukum menyebutkan UU Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 106,
+        "kutipan": "UU Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Dasar Hukum WP Non Aktif"
+    ]
+  },
+  {
+    "id": "EKS-05-015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Dasar Hukum WP NA (UU KUP, PER-07/PJ/2025)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "UU KUP terakhir diubah dengan UU Nomor berapa tentang Harmonisasi Peraturan Perpajakan (UU HPP)?",
+    "opsi": {
+      "A": "UU Nomor 6 Tahun 1983",
+      "B": "UU Nomor 11 Tahun 2020",
+      "C": "UU Nomor 36 Tahun 2008",
+      "D": "UU Nomor 7 Tahun 2021"
+    },
+    "kunci": "D",
+    "pembahasan": "UU KUP s.t.t.d. UU Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 106,
+        "kutipan": "s.t.t.d. UU Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan;"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "UU HPP",
+      "Dasar Hukum WP Non Aktif"
+    ]
+  },
+  {
+    "id": "EKS-05-016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Dasar Hukum WP NA (UU KUP, PER-07/PJ/2025)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Dasar hukum teknis yang mengatur administrasi NPWP, PKP, dan Objek Pajak PBB terkait penyelesaian WP Non Aktif adalah...",
+    "opsi": {
+      "A": "PER-07/PJ/2024",
+      "B": "PMK-147/PMK.03/2017",
+      "C": "PER-07/PJ/2025",
+      "D": "SE-27/PJ/2020"
+    },
+    "kunci": "C",
+    "pembahasan": "Dasar hukum teknis yang disebutkan adalah PER-07/PJ/2025 tentang Petunjuk Pelaksanaan Administrasi NPWP, PKP, dan Objek Pajak PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 106,
+        "kutipan": "PER-07/PJ/2025 tentang Petunjuk Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Pengusaha Kena Pajak, Objek Pajak"
+      }
+    ],
+    "tags": [
+      "PER-07/PJ/2025",
+      "Dasar Hukum WP Non Aktif"
+    ]
+  },
+  {
+    "id": "EKS-05-017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Dasar Hukum WP NA (UU KUP, PER-07/PJ/2025)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "PER-07/PJ/2025 mengatur petunjuk pelaksanaan administrasi mengenai hal-hal berikut, KECUALI...",
+    "opsi": {
+      "A": "Nomor Pokok Wajib Pajak",
+      "B": "Pengampunan sanksi administrasi perpajakan",
+      "C": "Pengusaha Kena Pajak",
+      "D": "Objek Pajak Pajak Bumi dan Bangunan"
+    },
+    "kunci": "B",
+    "pembahasan": "PER-07/PJ/2025 mengatur administrasi NPWP, Pengusaha Kena Pajak, dan Objek Pajak PBB; pengampunan sanksi administrasi tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 106,
+        "kutipan": "PER-07/PJ/2025 tentang Petunjuk Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Pengusaha Kena Pajak, Objek Pajak Pajak Bumi Dan Bangunan"
+      }
+    ],
+    "tags": [
+      "PER-07/PJ/2025",
+      "Dasar Hukum WP Non Aktif"
+    ]
+  },
+  {
+    "id": "EKS-05-018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Dasar Hukum WP NA (UU KUP, PER-07/PJ/2025)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "PER-07/PJ/2025 mengatur Petunjuk Pelaksanaan Administrasi NPWP, PKP, dan Objek Pajak PBB serta perincian jenis, dokumen, dan saluran untuk...",
+    "opsi": {
+      "A": "Pelaksanaan hak dan pemenuhan kewajiban perpajakan",
+      "B": "Pelaksanaan pemeriksaan dan penyidikan pajak",
+      "C": "Pelaksanaan penagihan dan pelelangan pajak",
+      "D": "Pelaksanaan keberatan dan banding pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Judul lengkap PER-07/PJ/2025 mencakup perincian jenis, dokumen, dan saluran untuk pelaksanaan hak dan pemenuhan kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 106,
+        "kutipan": "Saluran Untuk Pelaksanaan Hak Dan Pemenuhan Kewajiban Perpajakan."
+      }
+    ],
+    "tags": [
+      "PER-07/PJ/2025",
+      "Dasar Hukum WP Non Aktif"
+    ]
+  },
+  {
+    "id": "EKS-05-019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria huruf a WP Non Aktif menurut PER-07/PJ/2025 adalah WP OP yang melakukan kegiatan usaha atau pekerjaan bebas namun tidak memenuhi syarat objektif karena...",
+    "opsi": {
+      "A": "Belum memperoleh penghasilan di atas PTKP",
+      "B": "Berniat menjadi Subjek Pajak Luar Negeri",
+      "C": "Memilih status pajak digabung dengan suami",
+      "D": "Menghentikan usahanya atau pekerjaan bebasnya"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria huruf a adalah WP OP yang menghentikan usaha atau pekerjaan bebasnya sehingga tidak memenuhi syarat objektif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP OP yang melakukan kegiatan usaha atau pekerjaan bebas namun tidak memenuhi syarat objektif karena menghentikan usahanya atau pekerjaan bebasnya"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas digolongkan sebagai WP Non Aktif apabila...",
+    "opsi": {
+      "A": "Telah menghentikan usahanya secara permanen sejak awal tahun",
+      "B": "Berstatus sebagai Subjek Pajak Luar Negeri penuh dan sah",
+      "C": "Belum/tidak memperoleh penghasilan, atau penghasilan di bawah PTKP",
+      "D": "Memiliki NPWP yang telah digabung dengan NPWP suaminya"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria huruf b adalah WP OP tanpa kegiatan usaha/pekerjaan bebas yang belum/tidak memperoleh penghasilan atau berpenghasilan di bawah PTKP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas namun tidak memenuhi syarat objektif karena belum atau tidak memperoleh penghasilan, atau memiliki penghasilan di bawah PTKP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "WP OP WNI berstatus Penduduk yang berniat menjadi Subjek Pajak Luar Negeri namun belum memenuhi syarat sebagai SPLN termasuk kriteria WP Non Aktif huruf...",
+    "opsi": {
+      "A": "a",
+      "B": "c",
+      "C": "e",
+      "D": "g"
+    },
+    "kunci": "B",
+    "pembahasan": "Kriteria huruf c adalah WP OP WNI Penduduk yang berniat menjadi SPLN namun belum memenuhi syaratnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP OP yang merupakan WNI berstatus sebagai Penduduk yang berniat menjadi SP LN namun belum memenuhi syarat sebagai SPLN"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-022",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Perbedaan antara kriteria WP Non Aktif huruf d dan huruf e pada PER-07/PJ/2025 adalah...",
+    "opsi": {
+      "A": "Huruf d menyebut penyebab 'telah menjadi SPLN', huruf e tidak menyebutkannya",
+      "B": "Huruf d berlaku khusus untuk WP Badan, huruf e untuk WP OP",
+      "C": "Huruf d mensyaratkan penghasilan di bawah PTKP, huruf e tidak",
+      "D": "Huruf d berlaku untuk Instansi Pemerintah, huruf e untuk WP OP"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf d menegaskan tidak lagi memenuhi syarat subjektif dan objektif karena telah menjadi SPLN, sedangkan huruf e menyebut kondisi serupa tanpa penyebab spesifik tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "yang tidak lagi memenuhi persyaratan subjektif dan objektif karena telah menjadi SPLN"
+      },
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "yang tidak lagi memenuhi persyaratan subjektif dan objektif"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-023",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP OP WNI berstatus Penduduk telah menetap di luar negeri dan telah memenuhi seluruh persyaratan sebagai Subjek Pajak Luar Negeri, sehingga tidak lagi memenuhi persyaratan subjektif dan objektif di Indonesia karena telah menjadi SPLN. Kondisi ini sesuai dengan kriteria WP Non Aktif huruf...",
+    "opsi": {
+      "A": "c",
+      "B": "f",
+      "C": "h",
+      "D": "d"
+    },
+    "kunci": "D",
+    "pembahasan": "Kondisi WNI Penduduk yang tidak lagi memenuhi syarat subjektif dan objektif karena telah menjadi SPLN sesuai kriteria huruf d.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP OP yang merupakan WNI berstatus sebagai Penduduk yang tidak lagi memenuhi persyaratan subjektif dan objektif karena telah menjadi SPLN"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-024",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "WP OP wanita kawin yang telah memiliki NPWP dapat dikategorikan WP Non Aktif apabila...",
+    "opsi": {
+      "A": "Telah bercerai dengan suaminya dan belum menikah kembali",
+      "B": "Memiliki penghasilan di atas PTKP namun belum pernah lapor SPT",
+      "C": "Digabung dengan NPWP suami, namun masih memiliki Nomor Induk Kependudukan",
+      "D": "Menjadi Subjek Pajak Luar Negeri sejak tanggal pernikahannya"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria huruf f adalah WP OP wanita kawin yang NPWP-nya digabung dengan suami namun masih memiliki NIK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "memilih untuk melaksanakan hak dan memenuhi kewajiban perpajakannya secara digabung dengan suaminya, namun masih memiliki Nomor Induk Kependudukan"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-025",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria WP Non Aktif untuk Wajib Pajak Badan menurut PER-07/PJ/2025 adalah badan yang...",
+    "opsi": {
+      "A": "Telah dibubarkan resmi dan dihapus dari daftar perusahaan negara",
+      "B": "Tidak penuhi syarat subjektif-objektif, namun masih proses/belum hapus NPWP",
+      "C": "Tidak memiliki laporan keuangan audited selama 5 tahun terakhir",
+      "D": "Belum pernah melakukan kegiatan usaha apa pun sejak terdaftar"
+    },
+    "kunci": "B",
+    "pembahasan": "Kriteria huruf g adalah WP Badan yang tidak memenuhi syarat subjektif dan objektif namun masih proses atau belum dihapus NPWP-nya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP Badan yang tidak memenuhi persyaratan subjektif dan objektif namun masih dalam proses atau belum dilakukan penghapusan NPWP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-026",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Instansi Pemerintah dapat dikategorikan sebagai WP Non Aktif apabila...",
+    "opsi": {
+      "A": "Tidak penuhi syarat pemotong/pemungut pajak, NPWP belum dihapus",
+      "B": "Tidak memiliki anggaran belanja pegawai pada tahun berjalan",
+      "C": "Belum ditetapkan secara resmi sebagai Bendahara Pengeluaran",
+      "D": "Tidak melakukan pemotongan pajak selama 3 tahun berturut-turut"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria huruf h adalah Instansi Pemerintah yang tidak memenuhi syarat sebagai pemotong/pemungut pajak namun belum dihapus NPWP-nya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "Instansi Pemerintah yang tidak memenuhi persyaratan sebagai pemotong dan/atau pemungut pajak namun belum dilakukan penghapusan NPWP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-027",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk kriteria WP Non Aktif menurut PER-07/PJ/2025, KECUALI...",
+    "opsi": {
+      "A": "WP OP yang menghentikan usaha atau pekerjaan bebasnya",
+      "B": "WP OP yang berpenghasilan di bawah PTKP",
+      "C": "Instansi Pemerintah yang belum dilakukan penghapusan NPWP meski tidak lagi memenuhi syarat pemotong/pemungut",
+      "D": "WP Badan yang telah dinyatakan pailit oleh pengadilan niaga"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria WP Non Aktif yang disebutkan tidak mencakup status pailit WP Badan; kriteria yang ada antara lain penghentian usaha, penghasilan di bawah PTKP, dan Instansi Pemerintah yang belum dihapus NPWP-nya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "menghentikan usahanya atau pekerjaan bebasnya"
+      },
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "memiliki penghasilan di bawah PTKP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "Instansi Pemerintah yang tidak memenuhi persyaratan sebagai pemotong dan/atau pemungut pajak namun belum dilakukan penghapusan NPWP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-028",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bu Siti terdaftar sebagai WP OP sejak lama, namun sejak awal tidak pernah melakukan kegiatan usaha atau pekerjaan bebas, dan penghasilannya tahun ini berada di bawah PTKP. Kondisi Bu Siti sesuai dengan kriteria WP Non Aktif huruf...",
+    "opsi": {
+      "A": "a",
+      "B": "f",
+      "C": "b",
+      "D": "h"
+    },
+    "kunci": "C",
+    "pembahasan": "WP OP tanpa kegiatan usaha/pekerjaan bebas dengan penghasilan di bawah PTKP sesuai kriteria huruf b.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas namun tidak memenuhi syarat objektif karena belum atau tidak memperoleh penghasilan, atau memiliki penghasilan di bawah PTKP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-029",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dinas Pendidikan Kabupaten X memiliki NPWP sebagai pemotong PPh Pasal 21 ASN. Sejak reorganisasi, kewenangan pemotongan pajak tersebut dialihkan ke instansi lain sehingga Dinas tersebut tidak lagi memenuhi persyaratan sebagai pemotong/pemungut pajak, namun NPWP-nya belum dihapus. Kondisi ini sesuai kriteria WP Non Aktif huruf...",
+    "opsi": {
+      "A": "g",
+      "B": "h",
+      "C": "e",
+      "D": "b"
+    },
+    "kunci": "B",
+    "pembahasan": "Instansi Pemerintah yang tidak lagi memenuhi syarat pemotong/pemungut pajak namun NPWP-nya belum dihapus sesuai kriteria huruf h.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "Instansi Pemerintah yang tidak memenuhi persyaratan sebagai pemotong dan/atau pemungut pajak namun belum dilakukan penghapusan NPWP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-030",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Kondisi berikut BUKAN merupakan kriteria WP Non Aktif Orang Pribadi menurut PER-07/PJ/2025, yaitu...",
+    "opsi": {
+      "A": "WP OP yang berstatus sebagai Subjek Pajak Luar Negeri penuh dan telah menghapus NPWP-nya",
+      "B": "WP OP yang menghentikan usaha atau pekerjaan bebasnya",
+      "C": "WP OP yang berniat menjadi SPLN namun belum memenuhi syaratnya",
+      "D": "WP OP wanita kawin yang NPWP-nya digabung dengan suami namun masih memiliki NIK"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria WP Non Aktif OP yang disebutkan masih berstatus terdaftar (NPWP belum dihapus); WP yang NPWP-nya sudah dihapus bukan termasuk kriteria ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "menghentikan usahanya atau pekerjaan bebasnya"
+      },
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "berniat menjadi SP LN namun belum memenuhi syarat sebagai SPLN"
+      },
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "memilih untuk melaksanakan hak dan memenuhi kewajiban perpajakannya secara digabung dengan suaminya, namun masih memiliki Nomor Induk Kependudukan"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-031",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kesamaan antara kriteria huruf g dan huruf h pada WP Non Aktif adalah keduanya mensyaratkan...",
+    "opsi": {
+      "A": "Telah terbit Surat Ketetapan Pajak Nihil atas keduanya",
+      "B": "Sudah melewati jangka waktu 5 tahun sejak terdaftar",
+      "C": "Telah mendapat izin pembubaran dari instansi berwenang",
+      "D": "NPWP belum dihapus meski syarat yang ditentukan sudah tidak terpenuhi"
+    },
+    "kunci": "D",
+    "pembahasan": "Baik huruf g (WP Badan) maupun huruf h (Instansi Pemerintah) mensyaratkan NPWP masih dalam proses atau belum dilakukan penghapusan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "masih dalam proses atau belum dilakukan penghapusan NPWP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "namun belum dilakukan penghapusan NPWP"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-032",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Seluruh kriteria WP Non Aktif pada materi ini disusun berdasarkan peraturan...",
+    "opsi": {
+      "A": "PER-04/PJ/2020",
+      "B": "PMK-147/PMK.03/2017",
+      "C": "PER-07/PJ/2025",
+      "D": "UU Nomor 7 Tahun 2021"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria WP Non Aktif pada materi ini disebutkan sesuai dengan PER-07/PJ/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "KRITERIA WP NON AKTIF (sesuai PER-07/PJ/2025)"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-033",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP OP sejak beberapa tahun terakhir tinggal permanen di luar negeri dan telah melepaskan seluruh persyaratan subjektif dan objektif sebagai WP dalam negeri karena berstatus Subjek Pajak Luar Negeri, tanpa keterangan penyebab tambahan lain. Kondisi WP tersebut sesuai kriteria huruf...",
+    "opsi": {
+      "A": "c",
+      "B": "e",
+      "C": "g",
+      "D": "h"
+    },
+    "kunci": "B",
+    "pembahasan": "Kondisi WNI Penduduk yang tidak lagi memenuhi persyaratan subjektif dan objektif (tanpa penyebab spesifik) sesuai kriteria huruf e.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 107,
+        "kutipan": "WP OP yang merupakan WNI berstatus sebagai Penduduk yang tidak lagi memenuhi persyaratan subjektif dan objektif"
+      }
+    ],
+    "tags": [
+      "Kriteria WP Non Aktif",
+      "PER-07/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-034",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf a Penetapan WP Non Aktif secara jabatan adalah Wajib Pajak tidak melaporkan...",
+    "opsi": {
+      "A": "SPT Masa atau SPT Tahunan berturut-turut dalam 5 tahun terakhir",
+      "B": "Surat Setoran Pajak secara berturut-turut selama 3 tahun terakhir",
+      "C": "Laporan Keuangan Tahunan secara berturut-turut kepada instansi pajak",
+      "D": "Surat Keberatan atas ketetapan pajak yang telah diterbitkan KPP"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat huruf a adalah WP tidak melaporkan SPT Masa atau SPT Tahunan secara berturut-turut dalam 5 tahun terakhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak melaporkan Surat Pemberitahuan Masa atau Surat Pemberitahuan Tahunan secara berturut-turut dalam 5 (lima) tahun terakhir"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-035",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa tahun berturut-turut syarat 'tidak melaporkan SPT' berlaku sebagai salah satu syarat Penetapan WP Non Aktif secara jabatan?",
+    "opsi": {
+      "A": "3 (tiga) tahun terakhir",
+      "B": "10 (sepuluh) tahun terakhir",
+      "C": "2 (dua) tahun terakhir",
+      "D": "5 (lima) tahun terakhir"
+    },
+    "kunci": "D",
+    "pembahasan": "Syarat tidak melaporkan SPT berlaku untuk jangka waktu 5 (lima) tahun terakhir secara berturut-turut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak melaporkan Surat Pemberitahuan Masa atau Surat Pemberitahuan Tahunan secara berturut-turut dalam 5 (lima) tahun terakhir"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-036",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf b Penetapan WP Non Aktif secara jabatan berkaitan dengan kondisi Wajib Pajak yang...",
+    "opsi": {
+      "A": "Tidak pernah dikukuhkan sebagai Pengusaha Kena Pajak sejak awal",
+      "B": "Tidak memiliki NPWP cabang di wilayah kerja KPP lainnya",
+      "C": "Tidak dipotong atau dipungut pajak oleh pihak ketiga, berturut-turut 5 tahun",
+      "D": "Tidak pernah menyampaikan SPT Masa PPN selama terdaftar"
+    },
+    "kunci": "C",
+    "pembahasan": "Syarat huruf b adalah WP tidak dilakukan pemotongan/pemungutan pajak oleh pihak ketiga/lain secara berturut-turut dalam 5 tahun terakhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak dilakukan pemotongan atau pemungutan pajak oleh pihak ketiga atau pihak lain secara berturut-turut dalam 5 (lima) tahun terakhir"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-037",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf c Penetapan WP Non Aktif secara jabatan adalah Wajib Pajak tidak...",
+    "opsi": {
+      "A": "Memperoleh penghasilan di atas PTKP selama 5 tahun terakhir",
+      "B": "Membayar pajak secara berturut-turut dalam 5 tahun terakhir",
+      "C": "Memiliki hubungan istimewa dengan pihak lain yang terafiliasi",
+      "D": "Menyampaikan laporan keuangan audited kepada otoritas pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Syarat huruf c adalah WP tidak melakukan pembayaran pajak secara berturut-turut dalam 5 tahun terakhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak melakukan pembayaran pajak secara berturut-turut dalam 5 (lima) tahun terakhir"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-038",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat yang mensyaratkan jangka waktu '5 (lima) tahun terakhir secara berturut-turut' berlaku untuk kondisi berikut, KECUALI...",
+    "opsi": {
+      "A": "Wajib Pajak tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum",
+      "B": "Wajib Pajak tidak melaporkan SPT Masa atau SPT Tahunan",
+      "C": "Wajib Pajak tidak dilakukan pemotongan atau pemungutan pajak oleh pihak ketiga",
+      "D": "Wajib Pajak tidak melakukan pembayaran pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat jangka waktu 5 tahun berturut-turut berlaku pada syarat a, b, dan c; syarat tunggakan pajak dan upaya hukum (huruf d) tidak disertai jangka waktu tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak melaporkan Surat Pemberitahuan Masa atau Surat Pemberitahuan Tahunan secara berturut-turut dalam 5 (lima) tahun terakhir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak dilakukan pemotongan atau pemungutan pajak oleh pihak ketiga atau pihak lain secara berturut-turut dalam 5 (lima) tahun terakhir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak melakukan pembayaran pajak secara berturut-turut dalam 5 (lima) tahun terakhir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-039",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf d Penetapan WP Non Aktif secara jabatan mensyaratkan Wajib Pajak...",
+    "opsi": {
+      "A": "Telah melunasi seluruh Surat Tagihan Pajak yang terbit",
+      "B": "Tidak memiliki NPWP cabang di wilayah kerja lain",
+      "C": "Telah mengajukan permohonan penghapusan NPWP ke KPP",
+      "D": "Tidak punya tunggakan pajak dan/atau tidak sedang berupaya hukum"
+    },
+    "kunci": "D",
+    "pembahasan": "Syarat huruf d adalah WP tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-040",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf e Penetapan WP Non Aktif secara jabatan mensyaratkan Wajib Pajak tidak sedang dilakukan...",
+    "opsi": {
+      "A": "Penyegelan tempat usaha oleh petugas pajak berwenang",
+      "B": "Proses keberatan atau banding di Pengadilan Pajak terkait",
+      "C": "Pemeriksaan pajak, bukti permulaan, dan/atau penyidikan pidana pajak",
+      "D": "Penagihan aktif melalui penerbitan Surat Paksa"
+    },
+    "kunci": "C",
+    "pembahasan": "Syarat huruf e adalah WP tidak sedang dilakukan pemeriksaan pajak, pemeriksaan bukti permulaan, dan/atau penyidikan tindak pidana perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak sedang dilakukan pemeriksaan pajak, pemeriksaan bukti permulaan, dan/atau penyidikan tindak pidana perpajakan"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-041",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf f Penetapan WP Non Aktif secara jabatan adalah Wajib Pajak tidak...",
+    "opsi": {
+      "A": "Memiliki kewajiban PPh Pasal 25",
+      "B": "Mendapatkan fasilitas atau insentif perpajakan",
+      "C": "Berstatus sebagai Pengusaha Kena Pajak",
+      "D": "Memiliki cabang usaha di luar wilayah KPP terdaftar"
+    },
+    "kunci": "B",
+    "pembahasan": "Syarat huruf f adalah WP tidak mendapatkan fasilitas atau insentif perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak mendapatkan fasilitas atau insentif perpajakan"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-042",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk syarat Penetapan WP Non Aktif secara jabatan menurut PER-7/PJ/2025, KECUALI...",
+    "opsi": {
+      "A": "WP sedang mengajukan permohonan restitusi kelebihan bayar pajak",
+      "B": "Wajib Pajak tidak memiliki tunggakan pajak terutang",
+      "C": "Wajib Pajak tidak mendapatkan fasilitas atau insentif perpajakan",
+      "D": "Wajib Pajak tidak sedang dilakukan pemeriksaan bukti permulaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat yang disebutkan adalah tidak memiliki tunggakan pajak, tidak mendapat fasilitas/insentif, dan tidak sedang diperiksa bukper; permohonan restitusi tidak disebutkan sebagai syarat.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak mendapatkan fasilitas atau insentif perpajakan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak sedang dilakukan pemeriksaan pajak, pemeriksaan bukti permulaan, dan/atau penyidikan tindak pidana perpajakan"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-043",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PT Sumber Makmur tidak pernah melaporkan SPT Masa maupun SPT Tahunan selama 6 tahun terakhir, tidak pernah dipotong/dipungut pajak oleh pihak ketiga selama 6 tahun terakhir, tidak membayar pajak apa pun selama 6 tahun terakhir, tidak memiliki tunggakan pajak, tidak sedang diperiksa maupun disidik, dan tidak menerima fasilitas perpajakan apa pun. Berdasarkan PER-7/PJ/2025, status PT Sumber Makmur yang paling tepat adalah...",
+    "opsi": {
+      "A": "Tetap berstatus aktif karena jangka waktu 6 tahun melebihi ketentuan 5 tahun",
+      "B": "Wajib diperiksa terlebih dahulu sebelum dapat dinonaktifkan",
+      "C": "Hanya dapat dinonaktifkan atas permohonan sendiri, bukan secara jabatan",
+      "D": "Memenuhi seluruh syarat Penetapan WP Non Aktif secara jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Seluruh syarat huruf a sampai f (tidak lapor SPT, tidak dipotong/dipungut, tidak bayar pajak selama 5 tahun berturut-turut, tidak ada tunggakan, tidak sedang diperiksa, tidak menerima fasilitas) terpenuhi oleh PT Sumber Makmur.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak melaporkan Surat Pemberitahuan Masa atau Surat Pemberitahuan Tahunan secara berturut-turut dalam 5 (lima) tahun terakhir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum"
+      },
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak mendapatkan fasilitas atau insentif perpajakan"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-044",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP OP tidak melaporkan SPT selama 5 tahun terakhir dan tidak membayar pajak selama 5 tahun terakhir, namun saat ini sedang menjalani pemeriksaan bukti permulaan atas dugaan tindak pidana perpajakan. Apakah WP tersebut dapat ditetapkan Non Aktif secara jabatan?",
+    "opsi": {
+      "A": "Dapat, karena dua syarat utama (tidak lapor dan tidak bayar) sudah terpenuhi",
+      "B": "Dapat, karena pemeriksaan bukti permulaan tidak termasuk syarat yang disebutkan",
+      "C": "Tidak dapat, karena salah satu syarat mensyaratkan WP tidak sedang dilakukan pemeriksaan bukti permulaan",
+      "D": "Tidak dapat, karena jangka waktu belum mencapai 5 tahun"
+    },
+    "kunci": "C",
+    "pembahasan": "Syarat huruf e mensyaratkan WP tidak sedang dilakukan pemeriksaan bukti permulaan, sehingga WP yang sedang diperiksa bukper belum dapat ditetapkan Non Aktif secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak sedang dilakukan pemeriksaan pajak, pemeriksaan bukti permulaan, dan/atau penyidikan tindak pidana perpajakan"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-045",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penetapan WP Non Aktif secara jabatan sebagaimana diatur pada materi ini mengacu pada peraturan...",
+    "opsi": {
+      "A": "PER-07/PJ/2024",
+      "B": "PER-7/PJ/2025",
+      "C": "PMK-147/PMK.03/2017",
+      "D": "SE-27/PJ/2020"
+    },
+    "kunci": "B",
+    "pembahasan": "Penetapan WP Non Aktif secara jabatan disebutkan sesuai dengan PER-7/PJ/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "PENETAPAN WP NON AKTIF SECARA JABATAN (sesuai PER-7/PJ/2025)"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-046",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat huruf b Penetapan WP Non Aktif secara jabatan mensyaratkan Wajib Pajak tidak dipotong/dipungut pajak oleh pihak ketiga secara berturut-turut selama...",
+    "opsi": {
+      "A": "5 (lima) tahun terakhir",
+      "B": "3 (tiga) tahun terakhir",
+      "C": "7 (tujuh) tahun terakhir",
+      "D": "1 (satu) tahun terakhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat huruf b mensyaratkan tidak adanya pemotongan/pemungutan pajak oleh pihak ketiga secara berturut-turut selama 5 tahun terakhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak dilakukan pemotongan atau pemungutan pajak oleh pihak ketiga atau pihak lain secara berturut-turut dalam 5 (lima) tahun terakhir"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-047",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Account Representative akan mengusulkan Penetapan WP Non Aktif secara jabatan atas seorang Wajib Pajak Badan. Berdasarkan PER-7/PJ/2025, manakah kondisi berikut yang TIDAK memenuhi syarat Penetapan WP Non Aktif secara jabatan?",
+    "opsi": {
+      "A": "Tidak lapor SPT, tidak dipotong, dan tidak bayar pajak masing-masing 5 tahun; tidak ada tunggakan; tidak diperiksa; tidak dapat fasilitas",
+      "B": "Tidak lapor SPT, tidak dipotong, dan tidak bayar pajak masing-masing 6 tahun; tidak ada tunggakan; tidak diperiksa; tidak dapat fasilitas",
+      "C": "Tidak lapor SPT, tidak dipotong, dan tidak bayar pajak masing-masing 5 tahun; tidak ada tunggakan; tidak diperiksa bukper; tidak dapat fasilitas",
+      "D": "Tidak lapor SPT & tidak bayar pajak 5 tahun, namun masih menerima fasilitas insentif"
+    },
+    "kunci": "D",
+    "pembahasan": "Syarat huruf f mensyaratkan WP tidak mendapatkan fasilitas atau insentif perpajakan; jika WP masih menerima fasilitas insentif, syarat Penetapan WP Non Aktif secara jabatan tidak terpenuhi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak mendapatkan fasilitas atau insentif perpajakan"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  },
+  {
+    "id": "EKS-05-048",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat Penetapan WP Non Aktif secara jabatan yang berkaitan dengan status tunggakan pajak dan upaya hukum Wajib Pajak termuat pada huruf...",
+    "opsi": {
+      "A": "a",
+      "B": "e",
+      "C": "d",
+      "D": "f"
+    },
+    "kunci": "C",
+    "pembahasan": "Syarat huruf d mensyaratkan WP tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 108,
+        "kutipan": "Wajib Pajak tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum"
+      }
+    ],
+    "tags": [
+      "Penetapan WP Non Aktif Secara Jabatan",
+      "PER-7/PJ/2025"
+    ]
+  }
+]

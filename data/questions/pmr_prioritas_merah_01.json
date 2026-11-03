@@ -1,0 +1,2218 @@
+[
+  {
+    "id": "PMR-0001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kewenangan Pemeriksaan",
+    "subtopik": "Dasar Hukum Kewenangan Pemeriksaan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 29 ayat (1) UU KUP, siapa yang berwenang melakukan pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan Wajib Pajak?",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Kepala Kantor Wilayah DJP",
+      "C": "Kepala Kantor Pelayanan Pajak",
+      "D": "Menteri Keuangan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 29 ayat (1) UU KUP menyatakan Direktur Jenderal Pajak berwenang melakukan pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan Wajib Pajak dan/atau untuk tujuan lain.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 4,
+        "kutipan": "Direktur Jenderal Pajak berwenang melakukan pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan Wajib Pajak dan untuk tujuan lain"
+      }
+    ],
+    "tags": [
+      "Pasal 29 UU KUP",
+      "KEP-305/PJ/2024"
+    ]
+  },
+  {
+    "id": "PMR-0002",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kewenangan Pemeriksaan",
+    "subtopik": "Dasar Hukum Kewenangan Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Keputusan Direktur Jenderal Pajak Nomor KEP-305/PJ/2024 yang menjadi dasar pendelegasian kewenangan pemeriksaan mengatur tentang...",
+    "opsi": {
+      "A": "standar pelaksanaan pemeriksaan pajak",
+      "B": "pelimpahan kewenangan Direktur Jenderal Pajak kepada para pejabat di lingkungan Direktorat Jenderal Pajak",
+      "C": "tata cara penyegelan dalam pemeriksaan",
+      "D": "jangka waktu pemeriksaan untuk menguji kepatuhan"
+    },
+    "kunci": "B",
+    "pembahasan": "KEP-305/PJ/2024 adalah Keputusan Direktur Jenderal Pajak tentang Pelimpahan Kewenangan Direktur Jenderal Pajak kepada Para Pejabat di Lingkungan Direktorat Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 4,
+        "kutipan": "KEPUTUSAN DIREKTUR JENDERAL PAJAK NOMOR KEP-305/PJ/2024 TENTANG PELIMPAHAN KEWENANGAN DIREKTUR JENDERAL PAJAK KEPADA PARA PEJABAT DI LINGKUNGAN DIREKTORAT JENDERAL PAJAK"
+      }
+    ],
+    "tags": [
+      "KEP-305/PJ/2024",
+      "Pasal 29 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kewenangan Pemeriksaan",
+    "subtopik": "Dasar Hukum Kewenangan Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Melalui KEP-305/PJ/2024 (nomor urut 40), kewenangan Direktur Jenderal Pajak untuk melakukan pemeriksaan guna menguji kepatuhan didelegasikan kepada...",
+    "opsi": {
+      "A": "Account Representative",
+      "B": "Juru Sita Pajak",
+      "C": "Pemeriksa Pajak",
+      "D": "Kepala Seksi Pengawasan dan Konsultasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam tabel pendelegasian KEP-305/PJ/2024 nomor urut 40, kewenangan melakukan pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan didelegasikan kepada Pemeriksa Pajak di lingkungan KPP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 4,
+        "kutipan": "Pemeriksa Pajak"
+      }
+    ],
+    "tags": [
+      "KEP-305/PJ/2024"
+    ]
+  },
+  {
+    "id": "PMR-0004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Definisi dan Tujuan Pemeriksaan",
+    "subtopik": "Pengertian Pemeriksaan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Secara umum, Pemeriksaan pada dasarnya merupakan serangkaian kegiatan untuk...",
+    "opsi": {
+      "A": "menagih dan mencairkan tunggakan pajak",
+      "B": "menyita dan melelang harta Wajib Pajak",
+      "C": "menyusun laporan keuangan Wajib Pajak",
+      "D": "menghimpun dan mengolah data, keterangan, dan/atau bukti"
+    },
+    "kunci": "D",
+    "pembahasan": "Definisi inti Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti yang dilaksanakan secara objektif dan profesional berdasarkan suatu standar pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 8,
+        "kutipan": "MENGHIMPUN + MENGOLAH\nDATA + KETERANGAN + BUKTI"
+      }
+    ],
+    "tags": [
+      "Pengertian Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Definisi dan Tujuan Pemeriksaan",
+    "subtopik": "Pengertian Pemeriksaan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan dilaksanakan secara objektif dan profesional berdasarkan suatu...",
+    "opsi": {
+      "A": "Standar Pemeriksaan",
+      "B": "Surat Edaran Direktur Jenderal Pajak",
+      "C": "Putusan Pengadilan Pajak",
+      "D": "kebijakan internal unit kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan bahwa pemeriksaan dilakukan secara objektif dan profesional berdasarkan Standar Pemeriksaan, menggunakan metode dan teknik tertentu.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 8,
+        "kutipan": "OBJEKTIF + PROFESIONAL\nSTANDAR PEMERIKSAAN"
+      }
+    ],
+    "tags": [
+      "Pengertian Pemeriksaan",
+      "PER-23/PJ/2013"
+    ]
+  },
+  {
+    "id": "PMR-0006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Definisi dan Tujuan Pemeriksaan",
+    "subtopik": "Pengertian Pemeriksaan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tujuan akhir pelaksanaan Pemeriksaan sebagaimana digambarkan dalam materi adalah...",
+    "opsi": {
+      "A": "menerbitkan Surat Tagihan Pajak semata",
+      "B": "menerbitkan Surat Ketetapan Pajak (SKP) dan/atau untuk tujuan lain",
+      "C": "melakukan penagihan aktif atas tunggakan pajak",
+      "D": "menerbitkan putusan keberatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksaan pada akhirnya ditujukan untuk menerbitkan Surat Ketetapan Pajak (SKP) atau untuk tujuan lain sesuai ketentuan KUP, PPh, PPN, dan peraturan terkait lainnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 8,
+        "kutipan": "MENERBITKAN SKP + TUJUAN LAIN"
+      }
+    ],
+    "tags": [
+      "Pengertian Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Jangka Waktu Pemeriksaan",
+    "subtopik": "Jangka Waktu Pengujian - Menguji Kepatuhan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 6 PMK 15 Tahun 2025, jangka waktu pengujian untuk Pemeriksaan Lengkap dalam rangka menguji kepatuhan ditetapkan paling lama...",
+    "opsi": {
+      "A": "3 bulan",
+      "B": "1 bulan",
+      "C": "5 bulan",
+      "D": "10 hari kerja"
+    },
+    "kunci": "C",
+    "pembahasan": "Jangka waktu pengujian paling lama untuk Pemeriksaan untuk Menguji Kepatuhan adalah: Lengkap 5 bulan, Terfokus 3 bulan, Spesifik 1 bulan, dan Data Konkret (Dakon) 10 hari kerja, terhitung sejak Surat Pemberitahuan Pemeriksaan disampaikan sampai SPHP disampaikan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 12,
+        "kutipan": ": 5 Bulan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 12,
+        "kutipan": "Jangka Waktu\nPengujian"
+      }
+    ],
+    "tags": [
+      "PMK 15/2025",
+      "Pasal 6 PMK 15/2025"
+    ]
+  },
+  {
+    "id": "PMR-0008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Jangka Waktu Pemeriksaan",
+    "subtopik": "Jangka Waktu Pengujian - Menguji Kepatuhan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam jangka waktu pengujian untuk menguji kepatuhan, Pemeriksaan dengan Data Konkret (Dakon) ditetapkan paling lama...",
+    "opsi": {
+      "A": "5 bulan",
+      "B": "3 bulan",
+      "C": "30 hari kerja",
+      "D": "10 hari kerja"
+    },
+    "kunci": "D",
+    "pembahasan": "Jangka waktu pengujian Pemeriksaan Data Konkret (Dakon) paling lama 10 Hari Kerja, berbeda dengan Lengkap (5 bulan), Terfokus (3 bulan), dan Spesifik (1 bulan) yang dihitung dalam satuan bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 12,
+        "kutipan": ": 10 HK"
+      }
+    ],
+    "tags": [
+      "PMK 15/2025",
+      "Pasal 6 PMK 15/2025"
+    ]
+  },
+  {
+    "id": "PMR-0009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Jangka Waktu Pemeriksaan",
+    "subtopik": "Jangka Waktu PAHP dan Pelaporan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu PAHP dan Pelaporan untuk Pemeriksaan Lengkap, Terfokus, dan Spesifik ditetapkan paling lama 30 Hari Kerja, sedangkan untuk Pemeriksaan Data Konkret (Dakon) ditetapkan paling lama...",
+    "opsi": {
+      "A": "10 Hari Kerja",
+      "B": "20 Hari Kerja",
+      "C": "15 Hari Kerja",
+      "D": "5 Hari Kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Jangka waktu PAHP & Pelaporan paling lama 30 Hari Kerja untuk Pemeriksaan Lengkap/Terfokus/Spesifik, dan 10 Hari Kerja untuk Data Konkret (Dakon), terhitung sejak SPHP disampaikan sampai tanggal LHP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 12,
+        "kutipan": "Jangka Waktu\nPAHP & Pelaporan\nHari Kerja\nHari Kerja\nPaling Lama"
+      }
+    ],
+    "tags": [
+      "PMK 15/2025",
+      "Pasal 6 PMK 15/2025"
+    ]
+  },
+  {
+    "id": "PMR-0010",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria Pemeriksaan Efektif",
+    "subtopik": "SE-15/PJ/2018",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan SE-15/PJ/2018, berikut ini yang termasuk salah satu dari 4 kriteria Pemeriksaan yang efektif adalah...",
+    "opsi": {
+      "A": "tunggakan pemeriksaan meningkat",
+      "B": "restitusi terkendali",
+      "C": "upaya hukum maksimal",
+      "D": "pemeriksaan berlarut-larut"
+    },
+    "kunci": "B",
+    "pembahasan": "SE-15/PJ/2018 menetapkan 4 kriteria pemeriksaan efektif: pemeriksaan selesai dan pencairan optimal, upaya hukum minimal, restitusi terkendali, dan menciptakan kepatuhan berkelanjutan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 15,
+        "kutipan": "Pemeriksaan selesai dan pencairan optimal\nUpaya hukum minimal\nRestitusi terkendali\nMenciptakan kepatuhan berkelanjutan"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-0011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria Pemeriksaan Efektif",
+    "subtopik": "SE-15/PJ/2018",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pengendalian restitusi sebagai salah satu kriteria pemeriksaan efektif dilakukan melalui optimalisasi pengembalian pendahuluan sesuai dengan ketentuan...",
+    "opsi": {
+      "A": "Pasal 25 dan 27 UU KUP",
+      "B": "Pasal 13 dan 14 UU KUP",
+      "C": "Pasal 17C dan 17D UU KUP serta Pasal 9 ayat (4c) UU PPN",
+      "D": "Pasal 36 UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengendalian restitusi dilakukan melalui optimalisasi pengembalian pendahuluan kelebihan pembayaran pajak bagi WP yang memenuhi kriteria sebagaimana ditetapkan dalam Pasal 17C dan 17D UU KUP serta Pasal 9 ayat (4c) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 15,
+        "kutipan": "kriteria sebagaimana ditetapkan dalam Pasal 17C dan 17D Undang-Undang\nKUP serta Pasal 9 ayat (4c) Undang-Undang PPN."
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018",
+      "Pasal 17C UU KUP",
+      "Pasal 17D UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria Pemeriksaan Efektif",
+    "subtopik": "SE-15/PJ/2018",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kepatuhan Wajib Pajak yang berkelanjutan sebagai salah satu kriteria pemeriksaan efektif dapat terlihat dari...",
+    "opsi": {
+      "A": "jumlah SKPKB yang diterbitkan pada tahun berjalan",
+      "B": "banyaknya keberatan yang diajukan Wajib Pajak",
+      "C": "nilai restitusi yang dikabulkan DJP",
+      "D": "dinamisasi SPT pada tahun-tahun setelah dilakukan pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pemeriksaan yang efektif harus mampu menciptakan kepatuhan Wajib Pajak yang berkelanjutan, tidak hanya kepatuhan sesaat; kepatuhan berkelanjutan ini terlihat dari dinamisasi SPT untuk tahun-tahun setelah dilakukan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 15,
+        "kutipan": "Kepatuhan berkelanjutan dapat terlihat dari dinamisasi SPT untuk\ntahun-tahun setelah dilakukan pemeriksaan."
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-0013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan",
+    "subtopik": "Jenis Standar Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Standar Pemeriksaan sebagaimana diatur dalam PER-23/PJ/2013 terdiri atas tiga jenis, yaitu...",
+    "opsi": {
+      "A": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan",
+      "B": "Standar Umum, Standar Teknis, dan Standar Administrasi",
+      "C": "Standar Persiapan, Standar Pelaksanaan, dan Standar Pengawasan",
+      "D": "Standar Perencanaan, Standar Pelaksanaan, dan Standar Evaluasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Standar Pemeriksaan terdiri atas Standar Umum Pemeriksaan, Standar Pelaksanaan Pemeriksaan, dan Standar Pelaporan Hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "Standar Umum\nPemeriksaan\nStandar Pelaksanaan\nPemeriksaan\nStandar Pelaporan\nHasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013"
+    ]
+  },
+  {
+    "id": "PMR-0014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan",
+    "subtopik": "Standar Pelaksanaan Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu unsur Standar Pelaksanaan Pemeriksaan adalah mendasarkan hasil temuan Pemeriksaan pada...",
+    "opsi": {
+      "A": "keterangan sepihak dari Wajib Pajak tanpa verifikasi",
+      "B": "bukti yang kuat dan berkaitan serta berlandaskan ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "C": "asumsi dan estimasi Pemeriksa Pajak",
+      "D": "data pembanding Wajib Pajak lain tanpa pengujian"
+    },
+    "kunci": "B",
+    "pembahasan": "Standar Pelaksanaan Pemeriksaan mensyaratkan hasil temuan Pemeriksaan didasarkan pada bukti yang kuat dan berkaitan serta berlandaskan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "mendasarkan hasil temuan Pemeriksaan pada bukti\nyang kuat dan berkaitan serta berlandaskan\nketentuan peraturan perundang-undangan di bidang\nperpajakan"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013"
+    ]
+  },
+  {
+    "id": "PMR-0015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan",
+    "subtopik": "Dasar Hukum Standar Pemeriksaan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Standar Pemeriksaan yang digunakan Pemeriksa Pajak sebagai acuan dalam melaksanakan pemeriksaan diatur dalam...",
+    "opsi": {
+      "A": "PER-18/PJ/2021",
+      "B": "SE-15/PJ/2018",
+      "C": "PER-23/PJ/2013",
+      "D": "PMK 15 Tahun 2025"
+    },
+    "kunci": "C",
+    "pembahasan": "Standar Pemeriksaan adalah standar yang digunakan oleh Pemeriksa Pajak sebagai acuan melaksanakan Pemeriksaan sebagaimana diatur dalam PER-23/PJ/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "PER 23/PJ/2013"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013"
+    ]
+  },
+  {
+    "id": "PMR-0016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan Pemeriksaan",
+    "subtopik": "Tahapan Persiapan Pemeriksaan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Urutan tahapan persiapan pemeriksaan yang benar adalah...",
+    "opsi": {
+      "A": "Rencana Pemeriksaan - KKP Identifikasi Masalah - Prosedur Pemeriksaan - Program Pemeriksaan",
+      "B": "Program Pemeriksaan - Prosedur Pemeriksaan - KKP Identifikasi Masalah - Rencana Pemeriksaan",
+      "C": "Prosedur Pemeriksaan - Rencana Pemeriksaan - Program Pemeriksaan - KKP Identifikasi Masalah",
+      "D": "KKP Identifikasi Masalah - Rencana Pemeriksaan - Program Pemeriksaan - Prosedur Pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Persiapan pemeriksaan diawali dengan membuat KKP Identifikasi Masalah, dilanjutkan membuat usulan Rencana Pemeriksaan, menyusun Program Pemeriksaan berdasarkan Rencana Pemeriksaan, dan diakhiri dengan menyusun Prosedur Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Membuat KKP Identifikasi Masalah berisikan :\n• Pos SPT atau\n• Turunan yang akan diperiksa\nBuat Usulan Rencana Pemeriksaan\nMenyusun Program Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan Pemeriksaan",
+    "subtopik": "KKP Identifikasi Masalah",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "KKP Identifikasi Masalah yang dibuat pada tahap awal persiapan pemeriksaan berisikan...",
+    "opsi": {
+      "A": "Pos SPT atau turunan yang akan diperiksa",
+      "B": "daftar sanksi administratif yang akan dikenakan",
+      "C": "susunan tim Quality Assurance",
+      "D": "jadwal pembahasan akhir hasil pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Tahap pertama persiapan pemeriksaan adalah membuat KKP Identifikasi Masalah yang berisikan Pos SPT atau turunan yang akan diperiksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Membuat KKP Identifikasi Masalah berisikan :\n• Pos SPT atau\n• Turunan yang akan diperiksa"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan Pemeriksaan",
+    "subtopik": "Program Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Program Pemeriksaan yang disusun berdasarkan Rencana Pemeriksaan berisikan...",
+    "opsi": {
+      "A": "daftar saksi yang akan dimintai keterangan",
+      "B": "teknik pemeriksaan serta buku, catatan, dan dokumen yang harus dipinjam",
+      "C": "besaran sanksi administratif yang akan diterbitkan",
+      "D": "susunan Risalah Pembahasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Program Pemeriksaan disusun berdasarkan Rencana Pemeriksaan dan berisikan teknik pemeriksaan serta buku, catatan, dan dokumen yang harus dipinjam dari Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Menyusun Program Pemeriksaan berdasarkan Rencana \nPemeriksaan. Berisikan\n•Teknik Pemeriksaan dan\n•buku, catatan dan dokumen yang harus dipinjam"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung - Teknik Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dari sekian banyak teknik pemeriksaan dalam Metode Langsung, materi ini menekankan secara khusus empat teknik, yaitu...",
+    "opsi": {
+      "A": "Inspeksi, Sampling, TABK, dan Evaluasi",
+      "B": "Penelusuran angka, Penelusuran bukti, Pengujian fisik, dan Pengujian keterkaitan",
+      "C": "Pemanfaatan data/informasi, Ekualisasi/rekonsiliasi, Konfirmasi, dan Wawancara",
+      "D": "Pengujian keabsahan, Analisis angka, Permintaan keterangan, dan Pengujian penghitungan"
+    },
+    "kunci": "C",
+    "pembahasan": "Dari lebih dari 16 teknik pemeriksaan Metode Langsung, empat teknik ditekankan secara khusus: Pemanfaatan data/informasi, Ekualisasi/rekonsiliasi, Konfirmasi, dan Wawancara.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "Pemanfaatan \ndata/informasi"
+      },
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "Ekualisasi/rekonsiliasi\nPermintaan keterangan\nKonfirmasi\nInspeksi\nPengujian fisik\nPengujian \npenghitungan\nWawancara"
+      }
+    ],
+    "tags": [
+      "Metode Langsung"
+    ]
+  },
+  {
+    "id": "PMR-0020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung - Teknik Pemeriksaan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang BUKAN merupakan salah satu teknik pemeriksaan dalam Metode Langsung yang disebutkan dalam materi adalah...",
+    "opsi": {
+      "A": "Konfirmasi",
+      "B": "Inspeksi",
+      "C": "Sampling",
+      "D": "pemeriksaan bersama (joint audit) dengan otoritas pajak negara lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan 16+ teknik pemeriksaan Metode Langsung seperti pengujian keabsahan, evaluasi, analisis angka, penelusuran angka/bukti, pengujian keterkaitan, ekualisasi/rekonsiliasi, permintaan keterangan, konfirmasi, inspeksi, pengujian fisik/penghitungan, wawancara, sampling, dan TABK; joint audit lintas negara tidak termasuk dalam daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "16+"
+      },
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "Teknik-teknik lainnya"
+      }
+    ],
+    "tags": [
+      "Metode Langsung"
+    ]
+  },
+  {
+    "id": "PMR-0021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung - Teknik Pemeriksaan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan materi, Metode Langsung memiliki jumlah teknik pemeriksaan sebanyak...",
+    "opsi": {
+      "A": "lebih dari 16 teknik (16+)",
+      "B": "tepat 10 teknik",
+      "C": "tepat 4 teknik",
+      "D": "tepat 12 teknik"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan bahwa Metode Langsung memiliki 16+ (lebih dari 16) teknik pemeriksaan, mulai dari pemanfaatan data/informasi hingga teknik-teknik lainnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "16+"
+      }
+    ],
+    "tags": [
+      "Metode Langsung"
+    ]
+  },
+  {
+    "id": "PMR-0022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Pemanfaatan Data/Informasi - SIDJP & Portal DJP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam SIDJP, fitur yang digunakan Pemeriksa Pajak untuk melihat informasi dan rekapitulasi SPT Tahunan serta SPT Masa yang telah dilaporkan Wajib Pajak disebut...",
+    "opsi": {
+      "A": "Informasi Wajib Pajak",
+      "B": "Data SPT",
+      "C": "Pengawasan kepatuhan",
+      "D": "Manajemen kasus"
+    },
+    "kunci": "B",
+    "pembahasan": "Fitur Data SPT pada SIDJP digunakan untuk melihat informasi dan rekapitulasi SPT Tahunan serta SPT Masa yang telah dilaporkan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 23,
+        "kutipan": "Data SPT\nMelihat informasi dan rekapitulasi SPT Tahunan \nserta SPT Masa yang telah dilaporkan."
+      }
+    ],
+    "tags": [
+      "SIDJP"
+    ]
+  },
+  {
+    "id": "PMR-0023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Pemanfaatan Data/Informasi - SIDJP & Portal DJP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Fitur SIDJP yang mendukung pencatatan atau pengelolaan administrasi penagihan, termasuk proses yang berkaitan dengan Surat Paksa, adalah...",
+    "opsi": {
+      "A": "Administrasi ketetapan pajak",
+      "B": "Manajemen kasus",
+      "C": "Administrasi penagihan",
+      "D": "Pengawasan kepatuhan"
+    },
+    "kunci": "C",
+    "pembahasan": "Fitur Administrasi Penagihan pada SIDJP mendukung pencatatan atau pengelolaan administrasi penagihan, termasuk proses yang berkaitan dengan Surat Paksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 23,
+        "kutipan": "Administrasi\npenagihan\nMendukung pencatatan atau pengelolaan\nadministrasi penagihan, termasuk proses yang \nberkaitan dengan Surat Paksa."
+      }
+    ],
+    "tags": [
+      "SIDJP"
+    ]
+  },
+  {
+    "id": "PMR-0024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Pemanfaatan Data/Informasi - SIDJP & Portal DJP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Aplikasi Portal DJP yang mendukung konfirmasi penyetoran pajak dengan pihak terkait, termasuk bank, disebut...",
+    "opsi": {
+      "A": "Aplikasi Online",
+      "B": "Data Pihak Ketiga",
+      "C": "Data Penerimaan",
+      "D": "Aplikasi Konfirmasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Aplikasi Konfirmasi pada Portal DJP mendukung konfirmasi penyetoran pajak dengan pihak terkait, termasuk bank.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 23,
+        "kutipan": "Aplikasi\nKonfirmasi\nMendukung konfirmasi penyetoran pajak dengan pihak terkait, \ntermasuk bank."
+      }
+    ],
+    "tags": [
+      "Portal DJP"
+    ]
+  },
+  {
+    "id": "PMR-0025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Pemanfaatan Data/Informasi - Approweb & DMS",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Fitur Approweb yang memberikan gambaran kemampuan membayar Wajib Pajak berdasarkan indikator yang tersedia disebut...",
+    "opsi": {
+      "A": "Ability to Pay (ATP)",
+      "B": "Profil CRM Wajib Pajak",
+      "C": "Data Pemicu",
+      "D": "Notifikasi Data"
+    },
+    "kunci": "A",
+    "pembahasan": "Fitur Ability to Pay (ATP) pada Approweb memberikan gambaran kemampuan membayar Wajib Pajak berdasarkan indikator yang tersedia.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 24,
+        "kutipan": "Ability to \nPay (ATP)\nMemberikan gambaran kemampuan membayar\nWajib Pajak berdasarkan indikator yang tersedia"
+      }
+    ],
+    "tags": [
+      "Approweb"
+    ]
+  },
+  {
+    "id": "PMR-0026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Pemanfaatan Data/Informasi - Approweb & DMS",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Fitur Approweb yang digunakan untuk menemukan data atau indikasi yang perlu diteliti lebih lanjut dalam pemeriksaan disebut...",
+    "opsi": {
+      "A": "LHA",
+      "B": "Data pemicu",
+      "C": "KKPt dan LHPt",
+      "D": "SP2DK dan LHP2DK"
+    },
+    "kunci": "B",
+    "pembahasan": "Fitur Data Pemicu pada Approweb digunakan untuk menemukan data atau indikasi yang perlu diteliti lebih lanjut oleh Pemeriksa Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 24,
+        "kutipan": "Data pemicu\nMenemukan data atau indikasi yang perlu diteliti\nlebih lanjut."
+      }
+    ],
+    "tags": [
+      "Approweb"
+    ]
+  },
+  {
+    "id": "PMR-0027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Pemanfaatan Data/Informasi - Approweb & DMS",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam Document Management System (DMS), fitur yang digunakan untuk melihat gambar atau hasil pemindaian dokumen SPT disebut...",
+    "opsi": {
+      "A": "Pencarian dokumen",
+      "B": "Informasi dokumen",
+      "C": "Viewer dokumen",
+      "D": "Arsip digital"
+    },
+    "kunci": "C",
+    "pembahasan": "Fitur Viewer Dokumen pada DMS digunakan untuk melihat gambar atau hasil pemindaian dokumen SPT.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 24,
+        "kutipan": "Viewer \ndokumen\nMelihat gambar atau hasil pemindaian dokumen SPT."
+      }
+    ],
+    "tags": [
+      "DMS"
+    ]
+  },
+  {
+    "id": "PMR-0028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Metode dan Teknik Pemeriksaan",
+    "subtopik": "Perbandingan Metode Langsung dan Tidak Langsung",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Metode Tidak Langsung digunakan oleh Pemeriksa Pajak dalam hal...",
+    "opsi": {
+      "A": "Wajib Pajak mengajukan keberatan",
+      "B": "Wajib Pajak meminta restitusi",
+      "C": "jangka waktu pemeriksaan telah habis",
+      "D": "Metode Langsung tidak dapat diterapkan"
+    },
+    "kunci": "D",
+    "pembahasan": "Metode Tidak Langsung digunakan dalam hal Metode Langsung tidak dapat diterapkan dalam pelaksanaan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 25,
+        "kutipan": "Digunakan dalam hal \nMetode Langsung tidak \ndapat diterapkan"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-0031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kewenangan dan Upaya Paksa Pemeriksaan",
+    "subtopik": "Penyegelan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penyegelan dalam pelaksanaan pemeriksaan pajak diatur dalam...",
+    "opsi": {
+      "A": "Pasal 29 ayat (1) UU KUP",
+      "B": "Pasal 32 ayat (3) UU KUP",
+      "C": "Pasal 30 ayat (1) UU KUP",
+      "D": "Pasal 36 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyegelan merupakan upaya terakhir pemeriksa untuk mengamankan buku, catatan, dokumen, dan benda lain, sebagaimana diatur dalam Pasal 30 ayat (1) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "PENYEGELAN\nPasal 30 ayat (1) UU KUP"
+      }
+    ],
+    "tags": [
+      "Pasal 30 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kewenangan dan Upaya Paksa Pemeriksaan",
+    "subtopik": "Penyegelan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Objek yang dapat disegel oleh Pemeriksa Pajak dalam pelaksanaan penyegelan meliputi...",
+    "opsi": {
+      "A": "hanya ruang kerja direksi Wajib Pajak",
+      "B": "hanya benda bergerak milik Wajib Pajak",
+      "C": "seluruh rekening bank Wajib Pajak",
+      "D": "tempat, ruang, serta benda bergerak dan/atau tidak bergerak"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek penyegelan dalam pemeriksaan meliputi tempat, ruang, serta benda bergerak dan/atau tidak bergerak yang dapat memberi petunjuk tentang kegiatan usaha atau pekerjaan bebas Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Tempat / Ruang / Benda bergerak dan/atau tidak bergerak"
+      }
+    ],
+    "tags": [
+      "Pasal 30 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0033",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kewenangan dan Upaya Paksa Pemeriksaan",
+    "subtopik": "Penyegelan",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Penyegelan terhadap data elektronik dilakukan dengan syarat khusus, yaitu...",
+    "opsi": {
+      "A": "sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan masyarakat",
+      "B": "harus mendapat izin pengadilan terlebih dahulu",
+      "C": "hanya dapat dilakukan pada hari kerja",
+      "D": "harus disaksikan oleh aparat kepolisian"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan masyarakat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan Masyarakat."
+      }
+    ],
+    "tags": [
+      "Pasal 30 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0034",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan Ulang",
+    "subtopik": "Dasar Pemeriksaan Ulang",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan Ulang dilakukan berdasarkan...",
+    "opsi": {
+      "A": "permohonan Wajib Pajak",
+      "B": "instruksi atau persetujuan Direktur Jenderal Pajak",
+      "C": "putusan Pengadilan Pajak",
+      "D": "keputusan Kepala Kantor Pelayanan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksaan Ulang dilakukan atas instruksi atau persetujuan Direktur Jenderal Pajak berdasarkan adanya data baru.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "PEMERIKSAAN\nULANG\ninstruksi atau\npersetujuan Direktur\nJenderal Pajak"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-0035",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan Ulang",
+    "subtopik": "Hasil Pemeriksaan Ulang",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan Ulang dapat menghasilkan tiga kemungkinan produk hukum, yaitu...",
+    "opsi": {
+      "A": "SKPKB, SKPN, atau SKPLB",
+      "B": "STP, SKPKB, atau SKPN",
+      "C": "SKPKBT, LHP Sumir, atau Keputusan Rugi Fiskal",
+      "D": "SK Keberatan, Putusan Banding, atau SKPKBT"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksaan Ulang dapat menghasilkan tiga kemungkinan hasil: SKPKBT (ada tambahan pajak), LHP Sumir (tidak ada tambahan pajak), atau Keputusan Rugi Fiskal (tidak ada tambahan pajak namun terdapat perubahan jumlah rugi fiskal).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "SKPKBT"
+      },
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "LHP SUMIR"
+      },
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "KEP RUGI FISKAL"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-0036",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pemeriksaan Ulang",
+    "subtopik": "Definisi Data Baru",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Yang dimaksud dengan 'data baru' sebagai dasar Pemeriksaan Ulang adalah...",
+    "opsi": {
+      "A": "seluruh data perpajakan yang tersimpan dalam SIDJP",
+      "B": "data hasil konfirmasi dari instansi pemerintah lain tanpa syarat apapun",
+      "C": "data yang telah diungkapkan Wajib Pajak dalam SPT sebelumnya",
+      "D": "data atau keterangan mengenai segala sesuatu yang diperlukan untuk menghitung besarnya jumlah pajak terutang yang oleh Wajib Pajak belum diberitahukan pada waktu penetapan semula"
+    },
+    "kunci": "D",
+    "pembahasan": "Data baru adalah data atau keterangan mengenai segala sesuatu yang diperlukan untuk menghitung besarnya jumlah pajak yang terutang, yang oleh Wajib Pajak belum diberitahukan pada waktu penetapan semula, baik dalam SPT dan lampirannya maupun dalam pembukuan yang diserahkan pada waktu pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "Data atau keterangan mengenai segala\nsesuatu yang diperlukan untuk\nmenghitung besarnya jumlah pajak yang\nterutang yang oleh Wajib Pajak belum\ndiberitahukan pada waktu penetapan\nsemula"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-0037",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Alur Proses Pemeriksaan",
+    "subtopik": "Jangka Waktu dan Tahapan Pelaksanaan Pemeriksaan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu pengujian pemeriksaan untuk menguji kepatuhan dapat diperpanjang paling lama 4 bulan apabila...",
+    "opsi": {
+      "A": "Wajib Pajak merupakan WP Grup atau WP yang melakukan transaksi dengan pihak yang mempunyai hubungan istimewa (WP TP)",
+      "B": "Wajib Pajak mengajukan keberatan atas SKP sebelumnya",
+      "C": "Wajib Pajak tidak dapat dihubungi oleh Pemeriksa Pajak",
+      "D": "Pemeriksa Pajak belum menerima tanggapan SPHP dari WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam alur proses pemeriksaan, jangka waktu pengujian dapat diperpanjang 4 bulan khusus untuk WP Grup atau WP yang terkait Transfer Pricing (WP TP).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Jangka waktu pengujian dapat diperpanjang 4\nbulan untuk WP Grup/WP TP"
+      }
+    ],
+    "tags": [
+      "Alur Proses Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0038",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Alur Proses Pemeriksaan",
+    "subtopik": "Jangka Waktu dan Tahapan Pelaksanaan Pemeriksaan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam alur proses pemeriksaan, Wajib Pajak diberikan jangka waktu untuk menyampaikan tanggapan tertulis atas SPHP selama...",
+    "opsi": {
+      "A": "3 hari kerja",
+      "B": "5 hari kerja",
+      "C": "10 hari kerja",
+      "D": "7 hari kerja"
+    },
+    "kunci": "B",
+    "pembahasan": "Setelah SPHP disampaikan kepada WP, Wajib Pajak diberikan jangka waktu 5 Hari Kerja untuk memberikan tanggapan tertulis atas SPHP sebelum dilanjutkan ke tahap PAHP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "WP\n5 HK\n30 HK\nDakon: 10 HK\n4 bulan"
+      }
+    ],
+    "tags": [
+      "Alur Proses Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0039",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Alur Proses Pemeriksaan",
+    "subtopik": "Pembahasan Temuan Sementara",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pembahasan Temuan Sementara dalam alur proses pemeriksaan dilakukan paling lambat 1 bulan sebelum Quality Assurance (QA), dan tahap ini dikecualikan (tidak dilakukan) untuk...",
+    "opsi": {
+      "A": "Pemeriksaan Lengkap",
+      "B": "Pemeriksaan Terfokus",
+      "C": "Pemeriksaan Spesifik",
+      "D": "Pemeriksaan Data Konkret (Dakon)"
+    },
+    "kunci": "C",
+    "pembahasan": "Pembahasan Temuan Sementara dilakukan paling lambat 1 bulan sebelum QA, namun dikecualikan untuk Pemeriksaan Spesifik sehingga Pembahasan Temuan Sementara tidak dilakukan untuk jenis pemeriksaan tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "dikecualikan\nuntuk\nPemeriksaan\nSpesifik,\nPembahasan\nTemuan\nSementara tidak dilakukan"
+      }
+    ],
+    "tags": [
+      "Alur Proses Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-0040",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Kewajiban Penyimpanan Dokumen",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Buku, catatan, dan dokumen (termasuk hasil pengolahan data secara elektronik) wajib disimpan Wajib Pajak selama...",
+    "opsi": {
+      "A": "5 tahun di Indonesia",
+      "B": "7 tahun di Indonesia",
+      "C": "3 tahun di Indonesia",
+      "D": "10 tahun di Indonesia"
+    },
+    "kunci": "D",
+    "pembahasan": "Buku, catatan, dan dokumen termasuk hasil pengolahan data secara elektronik/aplikasi daring wajib disimpan selama 10 tahun di Indonesia.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "Disimpan 10 tahun di\nIndonesia"
+      }
+    ],
+    "tags": [
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-0041",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Pengecualian Kewajiban Pembukuan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang TIDAK termasuk pihak yang dikecualikan dari kewajiban pembukuan menurut materi adalah...",
+    "opsi": {
+      "A": "WP Badan yang menyelenggarakan kegiatan usaha dengan peredaran bruto besar",
+      "B": "WP OP yang dapat memilih menggunakan NPPN",
+      "C": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas",
+      "D": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengecualian kewajiban pembukuan hanya berlaku bagi: WP OP yang memilih menggunakan NPPN, WP OP yang tidak melakukan kegiatan usaha/pekerjaan bebas, dan WP OP dengan kriteria tertentu berdasarkan peredaran bruto; WP Badan tetap wajib menyelenggarakan pembukuan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "WP OP kegiatan\nusaha/pekerjaan\nbebas & Badan wajib\nmenyelenggarakan\npembukuan"
+      }
+    ],
+    "tags": [
+      "Pembukuan dan Pencatatan",
+      "PMK 54/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "PMR-0042",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Pengecualian Kewajiban Pembukuan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria WP Orang Pribadi tertentu berdasarkan peredaran bruto yang dikecualikan dari kewajiban pembukuan diatur lebih lanjut dalam...",
+    "opsi": {
+      "A": "PMK 15 Tahun 2025",
+      "B": "PMK 54/PMK.03/2021",
+      "C": "PER-23/PJ/2013",
+      "D": "SE-15/PJ/2018"
+    },
+    "kunci": "B",
+    "pembahasan": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto yang dikecualikan dari kewajiban pembukuan diatur lebih lanjut dalam PMK 54/PMK.03/2021.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto yang diatur lebih lanjut dalam PMK (PMK\n54/PMK.03/2021)"
+      }
+    ],
+    "tags": [
+      "PMK 54/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "PMR-0043",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Prinsip Self-Assessment",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Prinsip self-assessment dalam sistem perpajakan Indonesia diatur dalam...",
+    "opsi": {
+      "A": "Pasal 29 UU KUP",
+      "B": "Pasal 13 UU KUP",
+      "C": "Pasal 12 UU KUP",
+      "D": "Pasal 14 UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Prinsip self-assessment diatur dalam Pasal 12 UU KUP, di mana setiap Wajib Pajak wajib membayar pajak terutang tanpa menggantungkan pada adanya surat ketetapan pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "PASAL 12 UU KUP"
+      }
+    ],
+    "tags": [
+      "Pasal 12 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0044",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Prinsip Self-Assessment",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Prinsip self-assessment memberikan kewenangan penuh kepada Wajib Pajak untuk...",
+    "opsi": {
+      "A": "menentukan sendiri tarif pajak yang berlaku baginya",
+      "B": "menunda pembayaran pajak tanpa batas waktu",
+      "C": "mengajukan keberatan tanpa syarat administratif",
+      "D": "menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang yang menjadi kewajibannya"
+    },
+    "kunci": "D",
+    "pembahasan": "Prinsip self-assessment memberikan kewenangan penuh kepada Wajib Pajak untuk menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang yang menjadi kewajibannya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "Wajib Pajak diberi kewenangan penuh untuk\nmenghitung, memperhitungkan, melaporkan, dan\nmembayar sendiri pajak terutang yang menjadi\nkewajibannya."
+      }
+    ],
+    "tags": [
+      "Pasal 12 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0045",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Prinsip Self-Assessment",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Perhitungan, pembayaran, dan pelaporan yang dilakukan Wajib Pajak dianggap benar sepanjang...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak tidak dapat membuktikan atau memiliki data sebaliknya",
+      "B": "Wajib Pajak telah mendapat Surat Keterangan Fiskal",
+      "C": "belum diterbitkan Surat Ketetapan Pajak atas Wajib Pajak tersebut",
+      "D": "Wajib Pajak belum pernah diperiksa oleh DJP"
+    },
+    "kunci": "A",
+    "pembahasan": "Perhitungan, pembayaran, dan pelaporan yang dilakukan Wajib Pajak dianggap benar sepanjang Direktur Jenderal Pajak tidak dapat membuktikan atau memiliki data sebaliknya (Pasal 12 ayat 3 UU KUP).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "Perhitungan, pembayaran, dan pelaporan yang\ndilakukan Wajib Pajak tersebut dianggap benar\nsepanjang Direktur Jenderal Pajak tidak dapat\nmembuktikan atau memiliki data sebaliknya"
+      }
+    ],
+    "tags": [
+      "Pasal 12 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0046",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Jenis Surat Ketetapan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Direktur Jenderal Pajak berwenang menerbitkan empat jenis Surat Ketetapan Pajak, yaitu...",
+    "opsi": {
+      "A": "SKPKB, STP, SKPLB, dan SKPN",
+      "B": "SKPKB, SKPKBT, SKPLB, dan SKPN",
+      "C": "SKPKB, SKPKBT, STP, dan SKPN",
+      "D": "SKPKBT, SKPLB, SKPN, dan SK Keberatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Direktur Jenderal Pajak berwenang menerbitkan Surat Ketetapan Pajak Kurang Bayar (SKPKB), Surat Ketetapan Pajak Kurang Bayar Tambahan (SKPKBT), Surat Ketetapan Pajak Lebih Bayar (SKPLB), dan Surat Ketetapan Pajak Nihil (SKPN).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "DIREKTUR JENDERAL PAJAK\nberwenang menerbitkan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "SURAT KETETAPAN PAJAK"
+      }
+    ],
+    "tags": [
+      "Jenis Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0047",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Jenis Surat Ketetapan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SKPKBT (Surat Ketetapan Pajak Kurang Bayar Tambahan) diterbitkan berdasarkan...",
+    "opsi": {
+      "A": "Hasil Pemeriksaan biasa",
+      "B": "Hasil Penelitian",
+      "C": "Hasil Pemeriksaan Ulang",
+      "D": "Hasil Analisis Risiko"
+    },
+    "kunci": "C",
+    "pembahasan": "Berbeda dengan SKPKB yang berdasarkan Hasil Pemeriksaan, SKPKBT secara khusus diterbitkan berdasarkan Hasil Pemeriksaan Ulang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Kurang Bayar Tambahan\n(SKPKBT)\nBerdasarkan:\nHasil Pemeriksaan Ulang"
+      }
+    ],
+    "tags": [
+      "Jenis Ketetapan Pajak",
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-0048",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Jenis Surat Ketetapan Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SKPLB (Surat Ketetapan Pajak Lebih Bayar) dapat diterbitkan berdasarkan...",
+    "opsi": {
+      "A": "Hasil Pemeriksaan Ulang semata",
+      "B": "permohonan tertulis Wajib Pajak tanpa verifikasi",
+      "C": "Hasil Analisis Risiko Kepatuhan",
+      "D": "Hasil Pemeriksaan atau Hasil Penelitian"
+    },
+    "kunci": "D",
+    "pembahasan": "SKPLB dapat diterbitkan berdasarkan dua dasar, yaitu Hasil Pemeriksaan atau Hasil Penelitian, berbeda dengan SKPKB dan SKPN yang hanya berdasarkan Hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Lebih Bayar\n(SKPLB)\nBerdasarkan:\n1. Hasil Pemeriksaan\n2. Hasil Penelitian"
+      }
+    ],
+    "tags": [
+      "Jenis Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0049",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "SKPKB (Pasal 13 ayat 1 UU KUP)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 13 ayat (1) UU KUP, SKPKB diterbitkan berdasarkan hasil Pemeriksaan dalam jangka waktu paling lama...",
+    "opsi": {
+      "A": "5 tahun setelah saat terutangnya pajak",
+      "B": "10 tahun setelah saat terutangnya pajak",
+      "C": "3 tahun setelah saat terutangnya pajak",
+      "D": "2 tahun setelah saat terutangnya pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 13 ayat (1) UU KUP menetapkan bahwa SKPKB diterbitkan dalam jangka waktu paling lama 5 tahun setelah saat terutangnya pajak, berdasarkan hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "Pasal 13 ayat (1) UU KUP: SKPKB diterbitkan dalam jangka waktu 5 tahun setelah\nsaat terutangnya pajak berdasarkan hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0050",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "SKPKB (Pasal 13 ayat 1 UU KUP)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Untuk kondisi pajak terutang tidak atau kurang dibayar (huruf a), sanksi bunga SKPKB dikenakan sebesar suku bunga acuan ditambah uplift factor sebesar..., dengan maksimal pengenaan 24 bulan.",
+    "opsi": {
+      "A": "20%, dibagi 12",
+      "B": "15%, dibagi 12",
+      "C": "10%, dibagi 12",
+      "D": "5%, dibagi 12"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk kondisi a, e, dan f (antara lain pajak terutang tidak/kurang dibayar), sanksi bunga SKPKB dikenakan sebesar suku bunga acuan ditambah uplift factor 15% dibagi 12, dengan pengenaan maksimal 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "sanksi bunga per bulan sebesar\nsuku bunga acuan + uplift factor\n15% : 12\n(max. 24 bulan)"
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0051",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "SKPKB (Pasal 13 ayat 1 UU KUP)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi kenaikan sebesar 75% dalam penerbitan SKPKB dikenakan antara lain pada kondisi...",
+    "opsi": {
+      "A": "SPT tidak disampaikan setelah ditegur secara tertulis",
+      "B": "Wajib Pajak diterbitkan NPWP secara jabatan",
+      "C": "PPh yang dipotong/dipungut tetapi tidak disetor, serta PPN dan PPnBM yang kurang dibayar",
+      "D": "PKP tidak melakukan penyerahan BKP/JKP"
+    },
+    "kunci": "C",
+    "pembahasan": "Sanksi kenaikan 75% dikenakan untuk kondisi PPh yang dipotong/dipungut tetapi tidak disetor, dan PPN & PPnBM yang kurang dibayar, sebagai konsekuensi hasil pemeriksaan SKPKB.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "PPh dipotong/dipungut tetapi tidak disetor: kenaikan 75%\nPPN & PPnBM kurang dibayar: kenaikan 75%"
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0052",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Surat Tagihan Pajak (Pasal 14 UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Surat Tagihan Pajak (STP) diterbitkan oleh Direktur Jenderal Pajak berdasarkan...",
+    "opsi": {
+      "A": "Pasal 13 UU KUP",
+      "B": "Pasal 12 UU KUP",
+      "C": "Pasal 29 UU KUP",
+      "D": "Pasal 14 UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Surat Tagihan Pajak diterbitkan Direktur Jenderal Pajak dalam 7 kondisi (a-g) sebagaimana diatur dalam Pasal 14 UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "SURAT TAGIHAN PAJAK (Pasal 14 UU KUP)"
+      }
+    ],
+    "tags": [
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0053",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Surat Tagihan Pajak (Pasal 14 UU KUP)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sanksi bunga atas STP yang diterbitkan karena PPh dalam tahun berjalan tidak/kurang dibayar dikenakan sebesar suku bunga acuan ditambah uplift factor sebesar...",
+    "opsi": {
+      "A": "5%, maksimal 24 bulan",
+      "B": "15%, maksimal 24 bulan",
+      "C": "20%, maksimal 24 bulan",
+      "D": "5%, maksimal 12 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Sanksi bunga atas STP kondisi a-b (antara lain PPh tahun berjalan tidak/kurang dibayar) dikenakan sebesar suku bunga acuan ditambah uplift factor 5%, dengan maksimal pengenaan 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "ditambah dengan sanksi bunga per bulan sebesar\nsuku bunga acuan + uplift factor 5% (max. 24 bulan)"
+      }
+    ],
+    "tags": [
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0054",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak",
+    "subtopik": "Surat Tagihan Pajak (Pasal 14 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu kondisi diterbitkannya STP adalah PKP yang telah dikukuhkan namun Faktur Pajaknya tidak diisi secara lengkap. Selain wajib menyetor pajak yang terutang, PKP tersebut dikenai...",
+    "opsi": {
+      "A": "sanksi denda 2% dari Dasar Pengenaan Pajak (DPP)",
+      "B": "sanksi denda 1% dari Dasar Pengenaan Pajak (DPP)",
+      "C": "sanksi kenaikan 75%",
+      "D": "sanksi bunga 15% per bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "PKP yang Faktur Pajaknya tidak diisi secara lengkap, selain wajib menyetor pajak yang terutang, dikenai sanksi denda sebesar 1% dari Dasar Pengenaan Pajak (DPP).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "selain wajib menyetor pajak yang terutang, dikenai\nsanksi denda 1% dari DPP"
+      }
+    ],
+    "tags": [
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0055",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Denda",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda atas keterlambatan pelaporan SPT Masa PPN berdasarkan Pasal 7 ayat (1) UU KUP ditetapkan sebesar...",
+    "opsi": {
+      "A": "Rp100.000",
+      "B": "Rp1.000.000",
+      "C": "Rp500.000",
+      "D": "Rp200.000"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 7 ayat (1) UU KUP menetapkan sanksi denda keterlambatan pelaporan SPT Masa PPN sebesar Rp500.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keterlambatan pelaporan SPT\nMasa PPN | Denda sebesar Rp500.000"
+      }
+    ],
+    "tags": [
+      "Pasal 7 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0056",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Denda",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda atas keterlambatan pelaporan SPT Tahunan Wajib Pajak badan berdasarkan Pasal 7 ayat (1) UU KUP ditetapkan sebesar...",
+    "opsi": {
+      "A": "Rp500.000",
+      "B": "Rp100.000",
+      "C": "Rp250.000",
+      "D": "Rp1.000.000"
+    },
+    "kunci": "D",
+    "pembahasan": "Sanksi denda keterlambatan pelaporan SPT Tahunan Wajib Pajak badan sebesar Rp1.000.000, lebih tinggi dari SPT Tahunan OP dan SPT Masa lainnya yang masing-masing Rp100.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keterlambatan pelaporan SPT\nTahunan Wajib Pajak badan | Denda sebesar\nRp1.000.000"
+      }
+    ],
+    "tags": [
+      "Pasal 7 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0057",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Denda",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal permohonan banding Wajib Pajak ditolak atau dikabulkan sebagian, atau Putusan Peninjauan Kembali menyebabkan jumlah pajak yang masih harus dibayar bertambah, dikenakan sanksi denda sebesar...",
+    "opsi": {
+      "A": "60%",
+      "B": "30%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "kunci": "A",
+    "pembahasan": "Berdasarkan Pasal 27 ayat (5d) dan (5f) UU KUP, permohonan banding yang ditolak/dikabulkan sebagian atau Putusan PK yang menambah jumlah pajak yang masih harus dibayar dikenai sanksi denda 60%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "permohonan banding ditolak\natau dikabulkan sebagian atau\nPutusan Peninjauan Kembali\nyang menyebabkan jumlah\npajak yang masih harus dibayar\nbertambah | Denda sebesar 60%"
+      }
+    ],
+    "tags": [
+      "Pasal 27 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0058",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Bunga",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 13 ayat (2) UU KUP, pajak terutang yang tidak atau kurang dibayar berdasarkan hasil pemeriksaan dikenai sanksi bunga per bulan sebesar suku bunga acuan ditambah...",
+    "opsi": {
+      "A": "20%, dibagi 12",
+      "B": "15%, dibagi 12",
+      "C": "10%, dibagi 12",
+      "D": "5%, dibagi 12"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 13 ayat (2) UU KUP menetapkan bahwa pajak terutang yang tidak/kurang dibayar berdasarkan hasil pemeriksaan dikenai bunga per bulan sebesar suku bunga acuan ditambah 15%, dibagi 12.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Berdasarkan hasil\npemeriksaan, pajak\nterutang yang tidak/kurang\ndibayar"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "ditambah\n15%, dibagi 12."
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0059",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Bunga",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pasal 13 ayat (2b) UU KUP mengatur sanksi bunga dengan tarif yang sama dengan Pasal 13 ayat (2) atas...",
+    "opsi": {
+      "A": "keterlambatan pengangsuran SKPKB",
+      "B": "keterlambatan pembayaran SPT Masa",
+      "C": "pengembalian Pajak Masukan dari PKP yang tidak berproduksi",
+      "D": "pengungkapan ketidakbenaran pengisian SPT"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 13 ayat (2b) UU KUP mengenakan sanksi bunga dengan tarif yang sama (acuan + 15% dibagi 12) atas pengembalian Pajak Masukan dari PKP yang tidak berproduksi.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Pengembalian Pajak\nMasukan (PM) dari PKP\nyang tidak berproduksi"
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0060",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Bunga",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 13 ayat (3b) UU KUP, PPh yang tidak atau kurang dibayar/dipotong/dipungut dalam 1 Tahun Pajak dikenai sanksi bunga per bulan sebesar suku bunga acuan ditambah...",
+    "opsi": {
+      "A": "15%, dibagi 12",
+      "B": "10%, dibagi 12",
+      "C": "25%, dibagi 12",
+      "D": "20%, dibagi 12"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 13 ayat (3b) UU KUP menetapkan sanksi bunga atas PPh yang tidak/kurang dibayar dalam 1 Tahun Pajak atau tidak/kurang dipotong/dipungut sebesar suku bunga acuan ditambah 20%, dibagi 12.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "PPh yang\ntidak atau kurang dibayar\ndalam 1 Tahun Pajak atau\nPPh yang tidak atau kurang\ndipotong/dipungut"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "ditambah\n20%, dibagi 12."
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0061",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Kenaikan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 13 ayat (3) huruf c dan d UU KUP, sanksi kenaikan yang dikenakan atas hasil pemeriksaan PPN/PPnBM yang tidak/kurang dibayar atau PPh yang dipotong/dipungut tetapi tidak/kurang disetor adalah sebesar...",
+    "opsi": {
+      "A": "75%",
+      "B": "50%",
+      "C": "100%",
+      "D": "60%"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 13 ayat (3) huruf c dan d UU KUP menetapkan sanksi kenaikan 75% untuk hasil pemeriksaan PPN/PPnBM yang tidak/kurang dibayar atau PPh yang dipotong/dipungut tetapi tidak/kurang disetor.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Berdasarkan hasil pemeriksaan\nPPN dan PPnBM yang tidak atau\nkurang dibayar | Kenaikan sebesar 75%"
+      }
+    ],
+    "tags": [
+      "Pasal 13 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0062",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Kenaikan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi kenaikan sebesar 100% dikenakan atas jumlah kekurangan pajak yang terutang dalam...",
+    "opsi": {
+      "A": "SKPKB (Pasal 13 ayat 1 UU KUP)",
+      "B": "SKPKBT (Pasal 15 ayat 2 UU KUP)",
+      "C": "STP (Pasal 14 UU KUP)",
+      "D": "SKPN (Pasal 17A UU KUP)"
+    },
+    "kunci": "B",
+    "pembahasan": "Jumlah kekurangan pajak yang terutang dalam SKPKBT dikenai sanksi kenaikan sebesar 100% berdasarkan Pasal 15 ayat (2) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Jumlah kekurangan pajak yang\nterutang dalam SKPKBT | Kenaikan sebesar 100%"
+      }
+    ],
+    "tags": [
+      "Pasal 15 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0063",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sanksi Administratif",
+    "subtopik": "Sanksi Kenaikan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kenaikan sebesar 100% berdasarkan Pasal 17C ayat (5) dan Pasal 17D ayat (5) UU KUP dikenakan dalam hal...",
+    "opsi": {
+      "A": "Wajib Pajak terlambat menyampaikan SPT Tahunan",
+      "B": "Wajib Pajak mengajukan keberatan yang ditolak",
+      "C": "Wajib Pajak tidak seharusnya diberikan pengembalian pendahuluan",
+      "D": "PKP tidak membuat Faktur Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Sanksi kenaikan 100% dikenakan dalam hal Wajib Pajak tidak seharusnya diberikan pengembalian pendahuluan sebagaimana diatur dalam Pasal 17C ayat (5) dan Pasal 17D ayat (5) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Dalam hal Wajib Pajak tidak\nseharusnya diberikan\npengembalian pendahuluan | Kenaikan sebesar 100%"
+      }
+    ],
+    "tags": [
+      "Pasal 17C UU KUP",
+      "Pasal 17D UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0064",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Wajib Pajak",
+    "subtopik": "Keberatan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak dapat mengajukan keberatan kepada Direktur Jenderal Pajak atas suatu SKP dalam jangka waktu paling lama...",
+    "opsi": {
+      "A": "12 bulan",
+      "B": "1 bulan",
+      "C": "6 bulan",
+      "D": "3 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Wajib Pajak dapat mengajukan keberatan atas SKPKB/SKPN/SKPLB/SKPKBT/pemotongan pihak ketiga kepada Direktur Jenderal Pajak dalam jangka waktu paling lama 3 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "dalam jangka waktu\n3 bulan"
+      }
+    ],
+    "tags": [
+      "Pasal 25 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0065",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Wajib Pajak",
+    "subtopik": "Keberatan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Direktur Jenderal Pajak wajib memberikan keputusan atas keberatan yang diajukan Wajib Pajak (melalui SPUH hingga terbit SK Keberatan) dalam jangka waktu paling lama...",
+    "opsi": {
+      "A": "12 bulan",
+      "B": "3 bulan",
+      "C": "6 bulan",
+      "D": "9 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Proses penyelesaian keberatan oleh Direktur Jenderal Pajak, mulai dari penerbitan SPUH hingga terbitnya SK Keberatan, diselesaikan dalam jangka waktu paling lama 12 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "12 bulan"
+      }
+    ],
+    "tags": [
+      "Pasal 26 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0066",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Wajib Pajak",
+    "subtopik": "Keberatan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu persyaratan pengajuan keberatan adalah Wajib Pajak melunasi pajak yang masih harus dibayar paling sedikit sejumlah...",
+    "opsi": {
+      "A": "50% dari jumlah pajak terutang dalam SKP",
+      "B": "yang telah disetujui Wajib Pajak dalam pembahasan akhir hasil pemeriksaan",
+      "C": "seluruh jumlah pajak yang tertera dalam SKP",
+      "D": "yang ditetapkan oleh Pemeriksa Pajak secara sepihak"
+    },
+    "kunci": "B",
+    "pembahasan": "Syarat keberatan antara lain Wajib Pajak melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui Wajib Pajak dalam pembahasan akhir hasil pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui WP\ndalam pembahasan akhir hasil pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Pasal 25 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0067",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Wajib Pajak",
+    "subtopik": "Banding",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan banding diajukan Wajib Pajak kepada Badan Peradilan Pajak paling lama...",
+    "opsi": {
+      "A": "1 bulan sejak Surat Keputusan Keberatan diterima",
+      "B": "6 bulan sejak Surat Keputusan Keberatan diterima",
+      "C": "3 bulan sejak Surat Keputusan Keberatan diterima",
+      "D": "12 bulan sejak Surat Keputusan Keberatan diterima"
+    },
+    "kunci": "C",
+    "pembahasan": "Permohonan banding diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima, dengan dilampiri salinan Surat Keputusan Keberatan tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima dan\ndilampiri dengan salinan Surat Keputusan Keberatan tersebut."
+      }
+    ],
+    "tags": [
+      "UU Pengadilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0068",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Wajib Pajak",
+    "subtopik": "Banding",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding...",
+    "opsi": {
+      "A": "langsung menjadi utang pajak yang dapat ditagih seketika",
+      "B": "dianggap telah disetujui Wajib Pajak",
+      "C": "harus dilunasi sebelum banding diperiksa",
+      "D": "belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan"
+    },
+    "kunci": "D",
+    "pembahasan": "Jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding belum\nmerupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan."
+      }
+    ],
+    "tags": [
+      "UU Pengadilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0069",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Wajib Pajak",
+    "subtopik": "Banding",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika permohonan banding Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar...",
+    "opsi": {
+      "A": "60%",
+      "B": "30%",
+      "C": "75%",
+      "D": "100%"
+    },
+    "kunci": "A",
+    "pembahasan": "Permohonan banding yang ditolak atau dikabulkan sebagian dikenai sanksi administratif berupa denda sebesar 60%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Sanksi Administratif\nDenda 60%"
+      }
+    ],
+    "tags": [
+      "Pasal 27 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0070",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sengketa Pajak",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan UU Pengadilan Pajak, Majelis Hakim dalam membuat putusan wajib mempertimbangkan sekurang-kurangnya...",
+    "opsi": {
+      "A": "1 (satu) alat bukti yang sah",
+      "B": "2 (dua) alat bukti yang sah",
+      "C": "3 (tiga) alat bukti yang sah",
+      "D": "4 (empat) alat bukti yang sah"
+    },
+    "kunci": "B",
+    "pembahasan": "Majelis Hakim Pengadilan Pajak wajib mempertimbangkan sekurang-kurangnya 2 (dua) alat bukti yang sah dalam membuat putusan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Majelis Hakim dalam membuat putusan\nwajib mempertimbangkan sekurang-kurangnya\n2 (dua) alat bukti yang sah."
+      }
+    ],
+    "tags": [
+      "UU Pengadilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0071",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sengketa Pajak",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini yang TIDAK termasuk salah satu dari 6 jenis alat bukti dalam sengketa pajak berdasarkan UU Pengadilan Pajak adalah...",
+    "opsi": {
+      "A": "keterangan ahli",
+      "B": "pengakuan para pihak",
+      "C": "hasil audit investigatif oleh auditor eksternal",
+      "D": "alat bukti elektronik"
+    },
+    "kunci": "C",
+    "pembahasan": "Enam jenis alat bukti dalam sengketa pajak adalah surat atau tulisan, keterangan saksi, keterangan ahli, pengakuan para pihak, pengetahuan hakim, dan alat bukti elektronik; hasil audit investigatif auditor eksternal tidak termasuk dalam daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Surat atau\ntulisan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Keterangan\nsaksi"
+      },
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Keterangan\nahli"
+      },
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Pengakuan\npara pihak"
+      },
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Pengetahuan\nhakim"
+      },
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Alat bukti\nelektronik"
+      }
+    ],
+    "tags": [
+      "UU Pengadilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0072",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Sengketa Pajak",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan bahwa Majelis Hakim wajib mempertimbangkan sekurang-kurangnya 2 (dua) alat bukti yang sah dalam membuat putusan diatur dalam...",
+    "opsi": {
+      "A": "Pasal 25 dan Pasal 27 UU KUP",
+      "B": "Pasal 29 dan Pasal 30 UU KUP",
+      "C": "Pasal 36 UU KUP tentang Pengadilan Pajak",
+      "D": "Pasal 86 dan Pasal 88 ayat (1) UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Dasar hukum jumlah minimal alat bukti dalam putusan Pengadilan Pajak adalah Pasal 86 ayat (1) dan Pasal 88 ayat (1) UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Pasal 86 ayat (1) UU Nomor 14 Tahun 2002\ntentang Pengadilan Pajak"
+      },
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Pasal 88 ayat (1) UU Nomor 14 Tahun 2002\ntentang Pengadilan Pajak"
+      }
+    ],
+    "tags": [
+      "UU Pengadilan Pajak",
+      "Pasal 86 UU Pengadilan Pajak",
+      "Pasal 88 UU Pengadilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-0073",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus",
+    "subtopik": "Wakil Wajib Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 32 UU KUP, dalam hal Wajib Pajak berbentuk badan yang dinyatakan pailit, yang bertindak sebagai wakil Wajib Pajak adalah...",
+    "opsi": {
+      "A": "kurator",
+      "B": "likuidator",
+      "C": "pemberes",
+      "D": "wali"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 32 UU KUP menetapkan bahwa badan yang dinyatakan pailit diwakili oleh kurator, berbeda dengan badan dalam pembubaran (diwakili pemberes) atau badan dalam likuidasi (diwakili likuidator).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 64,
+        "kutipan": "badan yang dinyatakan pailit oleh kurator"
+      }
+    ],
+    "tags": [
+      "Pasal 32 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0074",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus",
+    "subtopik": "Wakil Wajib Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Untuk Wajib Pajak berupa warisan yang belum terbagi, yang bertindak sebagai wakil Wajib Pajak adalah...",
+    "opsi": {
+      "A": "kurator yang ditunjuk pengadilan",
+      "B": "salah seorang ahli warisnya, pelaksana wasiatnya, atau yang mengurus harta peninggalannya",
+      "C": "likuidator yang ditugasi membubarkan badan",
+      "D": "wali atau pengampu anak tersebut"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk warisan yang belum terbagi, wakil Wajib Pajak adalah salah seorang ahli warisnya, pelaksana wasiatnya, atau yang mengurus harta peninggalannya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 64,
+        "kutipan": "suatu warisan yang belum terbagi oleh salah seorang ahli warisnya, pelaksana\nwasiatnya atau yang mengurus harta peninggalannya"
+      }
+    ],
+    "tags": [
+      "Pasal 32 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0075",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus",
+    "subtopik": "Wakil Wajib Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Wakil Wajib Pajak bertanggung jawab secara pribadi dan/atau secara renteng atas pembayaran pajak yang terutang, kecuali...",
+    "opsi": {
+      "A": "telah mengajukan permohonan pengurangan sanksi administratif",
+      "B": "Wajib Pajak yang diwakilinya telah dinyatakan pailit",
+      "C": "dapat membuktikan dan meyakinkan Direktur Jenderal Pajak bahwa mereka dalam kedudukannya benar-benar tidak mungkin dibebani tanggung jawab tersebut",
+      "D": "wakil tersebut bukan warga negara Indonesia"
+    },
+    "kunci": "C",
+    "pembahasan": "Wakil bertanggung jawab secara pribadi dan/atau secara renteng atas pembayaran pajak yang terutang, kecuali dapat membuktikan dan meyakinkan Direktur Jenderal Pajak bahwa mereka dalam kedudukannya benar-benar tidak mungkin dibebani tanggung jawab tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 64,
+        "kutipan": "Wakil bertanggung jawab secara pribadi dan/atau secara renteng atas pembayaran pajak yang terutang,\nkecuali apabila dapat membuktikan dan meyakinkan Direktur Jenderal Pajak bahwa mereka dalam keduduka"
+      }
+    ],
+    "tags": [
+      "Pasal 32 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0076",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus",
+    "subtopik": "Kuasa Wajib Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa Wajib Pajak dapat menunjuk seorang kuasa dengan surat kuasa khusus untuk menjalankan hak dan memenuhi kewajiban perpajakannya diatur dalam...",
+    "opsi": {
+      "A": "Pasal 32 ayat (1) UU KUP",
+      "B": "Pasal 29 ayat (3) UU KUP",
+      "C": "Pasal 2 ayat (3) UU KUP",
+      "D": "Pasal 32 ayat (3) UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 32 ayat (3) UU KUP mengatur bahwa orang pribadi atau badan dapat menunjuk seorang kuasa dengan surat kuasa khusus untuk menjalankan hak dan memenuhi kewajiban sesuai ketentuan peraturan perundang-undangan perpajakan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "PASAL 32 ayat (3) UU KUP"
+      },
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "Orang pribadi atau badan dapat menunjuk seorang kuasa dengan surat kuasa khusus untuk menjalankan\nhak dan memenuhi kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan."
+      }
+    ],
+    "tags": [
+      "Pasal 32 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0077",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus",
+    "subtopik": "Kuasa Wajib Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kuasa Wajib Pajak dari kalangan keluarga meliputi suami, istri, atau keluarga sedarah atau semenda sampai dengan...",
+    "opsi": {
+      "A": "derajat kedua",
+      "B": "derajat ketiga",
+      "C": "derajat pertama",
+      "D": "derajat keempat"
+    },
+    "kunci": "A",
+    "pembahasan": "Kuasa Wajib Pajak dari kalangan keluarga meliputi suami, istri, atau keluarga sedarah atau semenda sampai dengan derajat kedua.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "Suami, istri, atau keluarga sedarah atau\nsemenda s.d. derajat kedua"
+      }
+    ],
+    "tags": [
+      "Pasal 32 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-0078",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Ketentuan Khusus",
+    "subtopik": "Kuasa Wajib Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Kuasa Wajib Pajak TIDAK dapat menjalankan hak dan kewajiban perpajakan Wajib Pajak yang dikuasakan kepadanya apabila...",
+    "opsi": {
+      "A": "kuasa tersebut berasal dari pihak di luar keluarga",
+      "B": "menghalang-halangi pelaksanaan ketentuan UU di bidang perpajakan, atau dipidana karena tindak pidana perpajakan/lainnya",
+      "C": "surat kuasa khusus belum diperbarui dalam 1 tahun terakhir",
+      "D": "kuasa tersebut adalah konsultan pajak yang belum terdaftar di IKPI"
+    },
+    "kunci": "B",
+    "pembahasan": "Kuasa tidak dapat menjalankan hak dan kewajiban perpajakan WP yang dikuasakan kepadanya apabila menghalang-halangi pelaksanaan ketentuan UU di bidang perpajakan, atau dipidana karena tindak pidana perpajakan atau tindak pidana lainnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 65,
+        "kutipan": "Kuasa tidak dapat menjalankan hak dan kewajiban\nperpajakan WP yang dikuasakan kepadanya apabila:\nmenghalang-halangi pelaksanaan ketentuan UU di\nbidang perpajakan; atau\ndipidana karena tindak pidana pe"
+      }
+    ],
+    "tags": [
+      "Pasal 32 UU KUP"
+    ]
+  }
+]

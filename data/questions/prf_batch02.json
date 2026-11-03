@@ -1,0 +1,1471 @@
+[
+  {
+    "id": "PRF-02-001",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Continuous Supervision - Fasilitas Action Selection: Tindak Lanjut Jabatan (Update Data, PKP, NIK/NPWP, dst) & Contoh Kasus",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pada materi Continuous Supervision KPD Kewilayahan & KPD Analisis, kegiatan tindak lanjut atas update data profil WP atau action lain yang ditemukan selama KPD secara jabatan disebut sebagai...?",
+    "opsi": {
+      "A": "Fasilitas Validasi Data",
+      "B": "Fasilitas Action Selection",
+      "C": "Fasilitas Continuous Monitoring",
+      "D": "Fasilitas Pengamatan Lapangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menegaskan KPD tidak hanya mengumpulkan data, namun dilengkapi 'Fasilitas Action Selection' untuk menindaklanjuti temuan secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 144,
+        "kutipan": "Fasilitas Action Selection"
+      }
+    ],
+    "tags": [
+      "Continuous Supervision",
+      "KPD",
+      "Fasilitas Action Selection"
+    ]
+  },
+  {
+    "id": "PRF-02-002",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Continuous Supervision - Fasilitas Action Selection: Tindak Lanjut Jabatan (Update Data, PKP, NIK/NPWP, dst) & Contoh Kasus",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila dalam kegiatan KPD diketahui bahwa WP seharusnya berstatus Pengusaha Kena Pajak (PKP), tindak lanjut secara jabatan yang sesuai adalah...?",
+    "opsi": {
+      "A": "Perubahan Status Wajib Pajak secara Jabatan",
+      "B": "Aktivasi NIK/Pendaftaran NPWP secara Jabatan",
+      "C": "Pendaftaran PBB secara Jabatan",
+      "D": "Pengukuhan PKP secara Jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kondisi 'Diketahui WP seharusnya PKP' ditindaklanjuti dengan Pengukuhan PKP secara Jabatan sesuai skema Fasilitas Action Selection.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 144,
+        "kutipan": "Pengukuhan PKP secara Jabatan"
+      }
+    ],
+    "tags": [
+      "Continuous Supervision",
+      "KPD",
+      "Tindak Lanjut Jabatan"
+    ]
+  },
+  {
+    "id": "PRF-02-003",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Continuous Supervision - Fasilitas Action Selection: Tindak Lanjut Jabatan (Update Data, PKP, NIK/NPWP, dst) & Contoh Kasus",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema Fasilitas Action Selection, apabila AR menemukan data namun subjek (Wajib Pajak)-nya tidak dapat ditemukan, tindak lanjut yang dilakukan adalah mengajukan...?",
+    "opsi": {
+      "A": "Permintaan Bantuan Pengamatan/Intelijen",
+      "B": "Permintaan Bantuan Penilaian",
+      "C": "Usulan Pencabutan dan/atau Perubahan Fasilitas Wajib Pajak",
+      "D": "Perubahan Data Wajib Pajak secara Jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kondisi lain 'Ditemukan data namun subjek tidak ditemukan' ditindaklanjuti dengan Permintaan Bantuan Pengamatan/Intelijen.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 144,
+        "kutipan": "Permintaan Bantuan Pengamatan/Intelijen"
+      }
+    ],
+    "tags": [
+      "Continuous Supervision",
+      "KPD",
+      "Tindak Lanjut Jabatan"
+    ]
+  },
+  {
+    "id": "PRF-02-004",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Continuous Supervision - Fasilitas Action Selection: Tindak Lanjut Jabatan (Update Data, PKP, NIK/NPWP, dst) & Contoh Kasus",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "AR A melakukan KPD berbasis wilayah dan menemukan Toko Semar Jaya dengan penjualan sehari melebihi Rp20 juta sehingga omzet setahun melebihi Rp4,8 Milyar. Selain menginput data objek pendapatan, tindakan yang dilakukan AR A secara jabatan adalah...?",
+    "opsi": {
+      "A": "Mengajukan permintaan bantuan penilaian atas aset Toko Semar Jaya",
+      "B": "Mengusulkan pencabutan fasilitas perpajakan Toko Semar Jaya",
+      "C": "Melakukan pengukuhan PKP secara jabatan atas Toko Semar Jaya",
+      "D": "Melakukan aktivasi NIK/pendaftaran NPWP secara jabatan atas Toko Semar Jaya"
+    },
+    "kunci": "C",
+    "pembahasan": "Contoh kasus menyatakan AR A melakukan pengukuhan PKP secara jabatan karena omzet Toko Semar Jaya setahun telah melebihi Rp4,8 Milyar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 144,
+        "kutipan": "AR A melakukan pengukuhan PKP secara jabatan karena omzet Toko Semar Jaya setahun telah melebihi 4,8 Milyar"
+      }
+    ],
+    "tags": [
+      "Continuous Supervision",
+      "KPD",
+      "Contoh Kasus",
+      "PKP"
+    ]
+  },
+  {
+    "id": "PRF-02-005",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Continuous Supervision - Fasilitas Action Selection: Tindak Lanjut Jabatan (Update Data, PKP, NIK/NPWP, dst) & Contoh Kasus",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan manfaat Fasilitas Action Selection dalam Continuous Supervision KPD, KECUALI...?",
+    "opsi": {
+      "A": "Mempercepat proses update atau action lain secara jabatan",
+      "B": "Data yang diinput sesuai dengan kondisi sebenarnya",
+      "C": "Meng-capture seluruh informasi yang didapatkan tidak hanya data ICALE",
+      "D": "Menggantikan seluruh proses pemeriksaan pajak terhadap Wajib Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Manfaat yang disebutkan materi hanya tiga hal yaitu mempercepat proses update, data sesuai kondisi sebenarnya, dan meng-capture seluruh informasi; menggantikan pemeriksaan pajak tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 144,
+        "kutipan": "Mempercepat proses update atau action lain secara jabatan."
+      }
+    ],
+    "tags": [
+      "Continuous Supervision",
+      "KPD",
+      "Fasilitas Action Selection"
+    ]
+  },
+  {
+    "id": "PRF-02-006",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Sebelum melaksanakan KPDL, pegawai diwajibkan melakukan koordinasi dengan pihak-pihak berikut sebagai dasar kelancaran pelaksanaan di lapangan, yaitu...?",
+    "opsi": {
+      "A": "Pemerintah daerah setempat, Babinsa, dan Bhabinkamtibmas",
+      "B": "Kantor Wilayah DJP dan Kantor Pusat DJP",
+      "C": "Kantor Imigrasi dan Kepolisian Resor",
+      "D": "Notaris dan Pengadilan Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan koordinasi dilakukan dengan pemerintah daerah setempat, Babinsa, Bhabinkamtibmas, pengelola bangunan, dan lain sebagainya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "melakukan koordinasi dengan pemerintah daerah setempat, Babinsa, Bhabinkamtibmas"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-007",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan ketentuan pelaksanaan KPDL, kegiatan tersebut wajib dilaksanakan minimal oleh berapa orang pegawai?",
+    "opsi": {
+      "A": "1 orang",
+      "B": "3 orang",
+      "C": "2 orang",
+      "D": "4 orang"
+    },
+    "kunci": "C",
+    "pembahasan": "KPDL dilaksanakan minimal oleh 2 orang pegawai, dengan menggunakan pakaian kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "dilaksanakan minimal oleh 2 orang pegawai"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-008",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebelum terjun ke lapangan, pegawai yang melaksanakan KPDL perlu membekali diri dengan data dan/atau informasi yang bersumber dari...?",
+    "opsi": {
+      "A": "Approweb dan Modul Ekstensifikasi saja",
+      "B": "SIDJP maupun dari sumber lain",
+      "C": "Hanya dari Data ILAP",
+      "D": "Hanya dari pemberitaan media"
+    },
+    "kunci": "B",
+    "pembahasan": "Pegawai membekali diri dengan data dan/atau informasi yang bersumber dari SIDJP maupun dari sumber lain, guna memperkuat pengenalan wilayah dan/atau WP yang akan didatangi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "membekali diri dengan data dan/atau informasi yang bersumber dari SIDJP maupun dari sumber lain"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-009",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pegawai yang melaksanakan KPDL terlebih dahulu harus dibekali pengetahuan dasar terkait...?",
+    "opsi": {
+      "A": "Prosedur pemeriksaan bukti permulaan",
+      "B": "Teknik audit laporan keuangan",
+      "C": "Tata cara keberatan dan banding",
+      "D": "Teknik dan metode yang menunjang pelaksanaan KPDL di lapangan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pegawai yang melaksanakan KPDL telah dibekali pengetahuan dasar terkait teknik dan metode yang menunjang pelaksanaan KPDL di lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "dibekali pengetahuan dasar terkait teknik dan metode yang menunjang pelaksanaan KPDL di lapangan"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-010",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain menggunakan pakaian kerja, kelengkapan yang wajib dibawa pegawai pelaksana KPDL sebagai dasar legalitas kegiatan di lapangan adalah...?",
+    "opsi": {
+      "A": "Tanda pengenal, Surat Tugas, dan dokumen terkait",
+      "B": "Surat Perintah Pemeriksaan dan Kartu Tanda Penduduk",
+      "C": "Nota Dinas dan Berita Acara Serah Terima",
+      "D": "Surat Keputusan Pengangkatan dan NPWP pribadi"
+    },
+    "kunci": "A",
+    "pembahasan": "KPDL dilaksanakan minimal 2 pegawai dengan pakaian kerja, serta dilengkapi tanda pengenal, Surat Tugas, dan dokumen terkait.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "dilengkapi tanda pengenal, Surat Tugas, dan dokumen terkait"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-011",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut ketentuan dalam materi, KPDL pada dasarnya dilaksanakan pada...?",
+    "opsi": {
+      "A": "Hari libur nasional saja",
+      "B": "Malam hari di luar jam kerja",
+      "C": "Hari dan jam kerja",
+      "D": "Akhir pekan dengan izin khusus"
+    },
+    "kunci": "C",
+    "pembahasan": "KPDL dilakukan pada hari dan jam kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "dilakukan pada hari dan jam kerja"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-012",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pelaksanaan KPDL di luar hari dan jam kerja dapat dilakukan apabila diperlukan, dengan dasar...?",
+    "opsi": {
+      "A": "Permintaan tertulis dari Wajib Pajak",
+      "B": "Penugasan pimpinan unit kerja",
+      "C": "Persetujuan Kepala Kantor Wilayah DJP",
+      "D": "Surat Edaran Direktur Jenderal Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam hal diperlukan, KPDL dapat dilakukan di luar hari dan jam kerja berdasarkan penugasan pimpinan unit kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "KPDL dapat dilakukan di luar hari dan jam kerja berdasarkan penugasan pimpinan unit kerja"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-013",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam pelaksanaan KPDL, pegawai diwajibkan mengutamakan nilai-nilai Kemenkeu serta memperhatikan prinsip kehati-hatian dengan tujuan utama untuk...?",
+    "opsi": {
+      "A": "Mempercepat penerbitan SP2DK kepada Wajib Pajak",
+      "B": "Mengurangi jumlah pegawai yang ditugaskan",
+      "C": "Mempersingkat waktu pelaksanaan di lapangan",
+      "D": "Memitigasi risiko timbulnya konflik kepentingan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pelaksanaan KPDL mengutamakan nilai-nilai Kemenkeu, memperhatikan prinsip kehati-hatian, dan memitigasi risiko timbulnya konflik kepentingan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "mengutamakan nilai-nilai Kemenkeu, memperhatikan prinsip kehati-hatian, dan memitigasi risiko timbulnya konflik kepentingan"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-014",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk hal yang perlu diperhatikan dalam pelaksanaan KPDL, KECUALI...?",
+    "opsi": {
+      "A": "Boleh dilaksanakan sendirian oleh 1 pegawai tanpa surat tugas",
+      "B": "Dilaksanakan minimal oleh 2 orang pegawai dengan pakaian kerja",
+      "C": "Dilakukan pada hari dan jam kerja",
+      "D": "Mengutamakan nilai-nilai Kemenkeu dan prinsip kehati-hatian"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mensyaratkan KPDL minimal 2 orang pegawai dilengkapi tanda pengenal, Surat Tugas, dan dokumen terkait, bukan dilaksanakan sendirian tanpa surat tugas.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "dilaksanakan minimal oleh 2 orang pegawai, dengan menggunakan pakaian kerja"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-015",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+    "subtopik": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang pegawai melaksanakan KPDL seorang diri pada malam hari tanpa penugasan dari pimpinan unit kerja dan tanpa membawa Surat Tugas. Pelaksanaan tersebut menyimpang dari ketentuan KPDL karena...?",
+    "opsi": {
+      "A": "KPDL hanya boleh dilakukan terhadap WP yang telah menyatakan menolak mendaftarkan diri",
+      "B": "KPDL seharusnya dilaksanakan oleh pihak eksternal berdasarkan perjanjian kerja sama",
+      "C": "KPDL seharusnya minimal 2 pegawai, dilengkapi Surat Tugas, serta di luar jam kerja harus berdasarkan penugasan pimpinan",
+      "D": "KPDL seharusnya dilaporkan terlebih dahulu kepada Babinsa dan Bhabinkamtibmas setempat"
+    },
+    "kunci": "C",
+    "pembahasan": "Pelanggaran terjadi karena KPDL wajib minimal 2 orang pegawai dengan kelengkapan Surat Tugas, dan pelaksanaan di luar jam kerja harus berdasarkan penugasan pimpinan unit kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 145,
+        "kutipan": "dilaksanakan minimal oleh 2 orang pegawai"
+      }
+    ],
+    "tags": [
+      "KPDL",
+      "Kegiatan Pengumpulan Data Lapangan"
+    ]
+  },
+  {
+    "id": "PRF-02-016",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut materi, Profil Wajib Pajak adalah...?",
+    "opsi": {
+      "A": "Ringkasan laporan keuangan Wajib Pajak selama satu tahun pajak",
+      "B": "Rangkaian data dan informasi fiskal wajib pajak yang memuat identitas dan kegiatan usaha serta riwayat perpajakan wajib pajak secara berkesinambungan",
+      "C": "Daftar seluruh Wajib Pajak terdaftar pada satu KPP tertentu",
+      "D": "Catatan hasil pemeriksaan pajak yang telah selesai dilaksanakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Profil Wajib Pajak adalah rangkaian data dan informasi fiskal wajib pajak yang memuat identitas dan kegiatan usaha serta riwayat perpajakan wajib pajak secara berkesinambungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "Profil Wajib Pajak adalah rangkaian data dan informasi fiskal wajib pajak yang memuat identitas dan kegiatan usaha serta riwayat perpajakan wajib pajak secara berkesinambungan"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-017",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data dalam Profil Wajib Pajak dapat diklasifikasikan menjadi 3 (tiga) kategori, yaitu...?",
+    "opsi": {
+      "A": "Data primer, data sekunder, dan data tersier",
+      "B": "Data internal, data eksternal, dan data gabungan",
+      "C": "Data formal, data material, dan data pendukung",
+      "D": "Data permanen, data akumulatif, dan data lainnya"
+    },
+    "kunci": "D",
+    "pembahasan": "Profil WP dapat diklasifikasikan atas data permanen, data akumulatif dan data lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "dapat diklasifikasikan atas data permanen, data akumulatif dan data lainnya"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-018",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu tujuan penyusunan profil wajib pajak adalah untuk...?",
+    "opsi": {
+      "A": "Mendapatkan data lengkap dari masing-masing wajib pajak",
+      "B": "Menetapkan besaran sanksi administrasi perpajakan",
+      "C": "Menentukan jadwal pemeriksaan tahunan KPP",
+      "D": "Menerbitkan Surat Ketetapan Pajak secara otomatis"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyusunan profil wajib pajak bertujuan untuk mendapatkan data lengkap dari masing-masing wajib pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "Penyusunan profil wajib pajak bertujuan untuk mendapatkan data lengkap dari masing-masing wajib pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-019",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyusunan profil wajib pajak bertujuan menyempurnakan data wajib pajak yang...?",
+    "opsi": {
+      "A": "Belum pernah dilaporkan sama sekali",
+      "B": "Masih dalam proses pengajuan keberatan",
+      "C": "Sudah diperbarui dan benar",
+      "D": "Sedang diblokir aksesnya oleh sistem"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyusunan profil WP bertujuan menyempurnakan data wajib pajak yang sudah diperbarui dan benar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "menyempurnakan data wajib pajak yang sudah diperbarui dan benar"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-020",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyusunan profil wajib pajak menjadi dasar untuk memperbaiki basis data DJP serta mendukung...?",
+    "opsi": {
+      "A": "Pembatalan kewajiban pelaporan SPT Wajib Pajak",
+      "B": "Pertukaran data internal DJP",
+      "C": "Penghapusan Nomor Pokok Wajib Pajak",
+      "D": "Pemberian insentif pajak otomatis"
+    },
+    "kunci": "B",
+    "pembahasan": "Penyusunan profil WP bertujuan memperbaiki basis data DJP, pertukaran data internal DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "memperbaiki basis data DJP, pertukaran data internal DJP"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-021",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penyusunan profil wajib pajak berfungsi sebagai pemantapan pondasi untuk...?",
+    "opsi": {
+      "A": "Penggalian potensi pajak",
+      "B": "Penyusunan laporan keuangan konsolidasi",
+      "C": "Pembentukan tim pemeriksa pajak",
+      "D": "Pelaksanaan sosialisasi perpajakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyusunan profil WP menjadi pemantapan pondasi penggalian potensi pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "pemantapan pondasi penggalian potensi pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-022",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Account Representative ingin menghitung besarnya selisih antara potensi pajak seharusnya dengan realisasi pembayaran pajak suatu WP dengan mengacu pada standar sektor usaha sejenis. Tujuan penyusunan profil WP yang mendasari kebutuhan tersebut adalah...?",
+    "opsi": {
+      "A": "Mendapatkan data lengkap dari masing-masing wajib pajak",
+      "B": "Memperbaiki basis data DJP",
+      "C": "Pemantapan pondasi penggalian potensi pajak",
+      "D": "Penghitungan potensi dan tax gap wajib pajak dengan menerapkan benchmark"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyusunan profil WP bertujuan untuk penghitungan potensi dan tax gap masing-masing wajib pajak dengan menerapkan benchmark.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "penghitungan potensi dan tax gap masing-masing wajib pajak dengan menerapkan benchmark"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Tax Gap",
+      "Benchmark"
+    ]
+  },
+  {
+    "id": "PRF-02-023",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penyusunan profil WP, penghitungan potensi dan tax gap masing-masing wajib pajak dilakukan dengan menerapkan...?",
+    "opsi": {
+      "A": "Estimasi manual oleh Kepala Seksi Pengawasan",
+      "B": "Rata-rata nasional seluruh jenis usaha",
+      "C": "Benchmark",
+      "D": "Indeks harga konsumen tahun berjalan"
+    },
+    "kunci": "C",
+    "pembahasan": "Penghitungan potensi dan tax gap masing-masing wajib pajak dilakukan dengan menerapkan benchmark.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "dengan menerapkan benchmark"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Tax Gap",
+      "Benchmark"
+    ]
+  },
+  {
+    "id": "PRF-02-024",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Selain sebagai basis data dan alat penggalian potensi, profil wajib pajak juga berfungsi sebagai alat untuk...?",
+    "opsi": {
+      "A": "Menentukan besaran denda administratif",
+      "B": "Mengukur kepatuhan wajib pajak",
+      "C": "Menetapkan tarif pajak progresif",
+      "D": "Menyeleksi calon pegawai pajak baru"
+    },
+    "kunci": "B",
+    "pembahasan": "Profil WP berfungsi sebagai alat untuk mengukur kepatuhan wajib pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "sebagai alat untuk mengukur kepatuhan wajib pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-025",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk tujuan penyusunan profil wajib pajak menurut materi, KECUALI...?",
+    "opsi": {
+      "A": "Memperbaiki basis data DJP",
+      "B": "Pemantapan pondasi penggalian potensi pajak",
+      "C": "Sebagai alat untuk mengukur kepatuhan wajib pajak",
+      "D": "Menggantikan fungsi pemeriksaan pajak secara penuh"
+    },
+    "kunci": "D",
+    "pembahasan": "Tujuan yang disebutkan materi terkait data, basis data, pondasi potensi pajak, tax gap/benchmark, dan alat ukur kepatuhan; tidak disebutkan menggantikan fungsi pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 147,
+        "kutipan": "memperbaiki basis data DJP, pertukaran data internal DJP, pemantapan pondasi penggalian potensi pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Maksud dan Tujuan Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-026",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut materi, Profil Wajib Pajak memuat paling sedikit berapa komponen?",
+    "opsi": {
+      "A": "8 komponen",
+      "B": "5 komponen",
+      "C": "6 komponen",
+      "D": "10 komponen"
+    },
+    "kunci": "A",
+    "pembahasan": "Profil Wajib Pajak memuat paling sedikit 8 komponen: Identitas WP, Kegiatan Usaha WP, Daftar keluarga/Keterkaitan WP, Profil risiko (CRM), Riwayat Pengawasan, Riwayat Pemeriksaan, Riwayat Keberatan dan Banding, serta Profil Risiko Ketertagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Profil Wajib Pajak Memuat (paling sedikit)"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-027",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Komponen Profil Wajib Pajak yang mencatat hubungan kekerabatan/keterkaitan Wajib Pajak dengan pihak lain disebut...?",
+    "opsi": {
+      "A": "Profil risiko (CRM)",
+      "B": "Riwayat Pengawasan",
+      "C": "Daftar keluarga/Keterkaitan Wajib Pajak",
+      "D": "Profil Risiko Ketertagihan"
+    },
+    "kunci": "C",
+    "pembahasan": "Salah satu komponen minimal Profil WP adalah Daftar keluarga/Keterkaitan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Daftar keluarga/Keterkaitan Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-028",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam menyusun profil sebuah WP badan, AR perlu mencantumkan posisi tingkat kepatuhan WP berdasarkan pendekatan Compliance Risk Management. Komponen Profil WP yang sesuai untuk hal tersebut adalah...?",
+    "opsi": {
+      "A": "Riwayat Pemeriksaan",
+      "B": "Profil risiko (CRM)",
+      "C": "Kegiatan Usaha Wajib Pajak",
+      "D": "Riwayat Keberatan dan Banding"
+    },
+    "kunci": "B",
+    "pembahasan": "Komponen Profil risiko (CRM) mencerminkan posisi Compliance Risk Management WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Profil risiko (CRM)"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP",
+      "CRM"
+    ]
+  },
+  {
+    "id": "PRF-02-029",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Riwayat sengketa perpajakan Wajib Pajak yang pernah diajukan ke instansi perpajakan maupun pengadilan pajak tercermin dalam komponen...?",
+    "opsi": {
+      "A": "Riwayat Pengawasan",
+      "B": "Profil Risiko Ketertagihan",
+      "C": "Kegiatan Usaha Wajib Pajak",
+      "D": "Riwayat Keberatan dan Banding"
+    },
+    "kunci": "D",
+    "pembahasan": "Komponen Riwayat Keberatan dan Banding mencatat riwayat sengketa perpajakan WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Riwayat Keberatan dan Banding"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-030",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang AR ingin mengetahui histori kegiatan pengawasan yang pernah dilakukan terhadap seorang WP sebelum menyusun rencana pengawasan berikutnya. Data tersebut seharusnya tercantum pada komponen...?",
+    "opsi": {
+      "A": "Riwayat Pengawasan",
+      "B": "Profil Risiko Ketertagihan",
+      "C": "Daftar keluarga/Keterkaitan Wajib Pajak",
+      "D": "Identitas Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Komponen Riwayat Pengawasan mencatat histori kegiatan pengawasan yang pernah dilakukan terhadap WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Riwayat Pengawasan"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-031",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP memiliki tunggakan pajak yang berpotensi sulit ditagih akibat kondisi keuangan yang memburuk. Informasi mengenai hal tersebut seharusnya tercantum dalam komponen Profil WP berupa...?",
+    "opsi": {
+      "A": "Riwayat Pemeriksaan",
+      "B": "Kegiatan Usaha Wajib Pajak",
+      "C": "Profil Risiko Ketertagihan",
+      "D": "Profil risiko (CRM)"
+    },
+    "kunci": "C",
+    "pembahasan": "Informasi risiko sulitnya penagihan tunggakan pajak tercermin dalam komponen Profil Risiko Ketertagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Profil Risiko Ketertagihan"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-032",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil pemeriksaan pajak yang pernah dilakukan terhadap seorang Wajib Pajak dicatat dalam komponen Profil WP berupa...?",
+    "opsi": {
+      "A": "Riwayat Pengawasan",
+      "B": "Riwayat Pemeriksaan",
+      "C": "Riwayat Keberatan dan Banding",
+      "D": "Profil Risiko Ketertagihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Hasil pemeriksaan pajak WP dicatat dalam komponen Riwayat Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Riwayat Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-033",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dua komponen pertama yang paling mendasar dicantumkan dalam Profil Wajib Pajak menurut materi adalah...?",
+    "opsi": {
+      "A": "Profil risiko (CRM) dan Riwayat Pengawasan",
+      "B": "Riwayat Pemeriksaan dan Riwayat Keberatan dan Banding",
+      "C": "Daftar keluarga dan Profil Risiko Ketertagihan",
+      "D": "Identitas Wajib Pajak dan Kegiatan Usaha Wajib Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Dua komponen pertama yang dicantumkan dalam daftar Profil WP adalah Identitas Wajib Pajak dan Kegiatan Usaha Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Identitas Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-034",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk komponen minimal yang dimuat dalam Profil Wajib Pajak, KECUALI...?",
+    "opsi": {
+      "A": "Riwayat kredit perbankan pribadi pegawai DJP",
+      "B": "Riwayat Keberatan dan Banding",
+      "C": "Profil Risiko Ketertagihan",
+      "D": "Daftar keluarga/Keterkaitan Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Komponen minimal Profil WP terdiri atas Identitas WP, Kegiatan Usaha WP, Daftar keluarga/Keterkaitan WP, Profil risiko (CRM), Riwayat Pengawasan, Riwayat Pemeriksaan, Riwayat Keberatan dan Banding, dan Profil Risiko Ketertagihan; riwayat kredit perbankan pribadi pegawai DJP tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Profil Wajib Pajak Memuat (paling sedikit)"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-035",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+    "subtopik": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang AR ingin memverifikasi jenis dan skala aktivitas bisnis riil seorang WP sebagai bagian dari Profil WP. Informasi tersebut termasuk dalam komponen...?",
+    "opsi": {
+      "A": "Riwayat Pemeriksaan",
+      "B": "Kegiatan Usaha Wajib Pajak",
+      "C": "Profil Risiko Ketertagihan",
+      "D": "Riwayat Pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Aktivitas bisnis riil WP termasuk komponen Kegiatan Usaha Wajib Pajak dalam Profil WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 148,
+        "kutipan": "Kegiatan Usaha Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "Profil Wajib Pajak",
+      "Komponen Profil WP"
+    ]
+  },
+  {
+    "id": "PRF-02-036",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Langkah-Langkah Profiling Approach One & Two (pengumpulan data s.d. ekualisasi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut skema Langkah-Langkah Kegiatan Profiling Approach One, langkah pertama (01) yang dilakukan adalah...?",
+    "opsi": {
+      "A": "Identitas Wajib Pajak",
+      "B": "Proses Bisnis Wajib Pajak",
+      "C": "Pengumpulan data Wajib Pajak",
+      "D": "Teliti Kepatuhan Formal Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Langkah 01 pada Approach One adalah Pengumpulan data Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 150,
+        "kutipan": "Pengumpulan data Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Langkah Profiling",
+      "Approach One"
+    ]
+  },
+  {
+    "id": "PRF-02-037",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Langkah-Langkah Profiling Approach One & Two (pengumpulan data s.d. ekualisasi)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Total langkah-langkah kegiatan profiling yang disajikan dalam skema Approach One dan Approach Two menurut materi berjumlah...?",
+    "opsi": {
+      "A": "5 langkah",
+      "B": "9 langkah",
+      "C": "7 langkah",
+      "D": "12 langkah"
+    },
+    "kunci": "B",
+    "pembahasan": "Skema Langkah-Langkah Kegiatan Profiling menampilkan 9 langkah bernomor 01-09, yaitu 5 langkah pada Approach One dan 4 langkah pada Approach Two.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 150,
+        "kutipan": "Langkah Langkah Kegiatan Profilling"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Langkah Profiling",
+      "Approach One",
+      "Approach Two"
+    ]
+  },
+  {
+    "id": "PRF-02-038",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Langkah-Langkah Profiling Approach One & Two (pengumpulan data s.d. ekualisasi)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Langkah 'Jembreng SPT PPN' pada skema Langkah-Langkah Kegiatan Profiling merupakan langkah bernomor dan termasuk dalam...?",
+    "opsi": {
+      "A": "Langkah 06, Approach Two",
+      "B": "Langkah 03, Approach One",
+      "C": "Langkah 08, Approach Two",
+      "D": "Langkah 01, Approach One"
+    },
+    "kunci": "A",
+    "pembahasan": "Jembreng SPT PPN merupakan langkah nomor 06 yang termasuk dalam Approach Two.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 150,
+        "kutipan": "Jembreng SPT PPN"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Langkah Profiling",
+      "Approach Two"
+    ]
+  },
+  {
+    "id": "PRF-02-039",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Langkah-Langkah Profiling Approach One & Two (pengumpulan data s.d. ekualisasi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam Approach One, setelah meneliti kepatuhan formal Wajib Pajak (langkah 04), langkah berikutnya (05) yang dilakukan adalah...?",
+    "opsi": {
+      "A": "Lakukan Ekualisasi",
+      "B": "Pengumpulan data Wajib Pajak",
+      "C": "Jembreng SPT PPN",
+      "D": "Supplier dan customer utama"
+    },
+    "kunci": "D",
+    "pembahasan": "Setelah meneliti kepatuhan formal WP (langkah 04), langkah 05 pada Approach One adalah Supplier dan customer utama.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 150,
+        "kutipan": "Supplier dan customer utama"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Langkah Profiling",
+      "Approach One"
+    ]
+  },
+  {
+    "id": "PRF-02-040",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Langkah-Langkah Profiling Approach One & Two (pengumpulan data s.d. ekualisasi)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam Approach Two, sebelum melakukan analisis laporan keuangan menyeluruh (langkah 08), langkah yang harus dilakukan terlebih dahulu (07) adalah...?",
+    "opsi": {
+      "A": "Pemanfaatan data eksternal",
+      "B": "Jembreng SPT PPN",
+      "C": "Lakukan Ekualisasi",
+      "D": "Proses Bisnis Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Sebelum analisis laporan keuangan menyeluruh (langkah 08), langkah 07 pada Approach Two adalah Lakukan Ekualisasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 150,
+        "kutipan": "Lakukan Ekualisasi"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Langkah Profiling",
+      "Approach Two"
+    ]
+  },
+  {
+    "id": "PRF-02-041",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pengumpulan Data (riwayat lapor/bayar, lapkeu, data AHU, data eksternal)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam tahap Pengumpulan Data untuk profiling, laporan keuangan yang dikumpulkan mencakup rentang tahun...?",
+    "opsi": {
+      "A": "Y-2, Y-1, dan Y",
+      "B": "Y-1, Y, dan Y+1",
+      "C": "Y dan Y+1 saja",
+      "D": "Y-1 saja"
+    },
+    "kunci": "B",
+    "pembahasan": "Laporan keuangan yang dikumpulkan mencakup Y-1, Y dan Y+1.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 151,
+        "kutipan": "Laporan keuangan Y-1, Y dan Y+1"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Pengumpulan Data"
+    ]
+  },
+  {
+    "id": "PRF-02-042",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pengumpulan Data (riwayat lapor/bayar, lapkeu, data AHU, data eksternal)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Selain data pelaporan dan riwayatnya, data lain yang dikumpulkan terkait kewajiban finansial Wajib Pajak adalah...?",
+    "opsi": {
+      "A": "Data pembayaran dan Riwayat pembayaran",
+      "B": "Data hasil kunjungan (laporan)",
+      "C": "Pemberitaan media",
+      "D": "Data SPT PPN, Potput"
+    },
+    "kunci": "A",
+    "pembahasan": "Data yang dikumpulkan antara lain data pembayaran dan Riwayat pembayaran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 151,
+        "kutipan": "Data pembayaran dan Riwayat pembayaran"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Pengumpulan Data"
+    ]
+  },
+  {
+    "id": "PRF-02-043",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pengumpulan Data (riwayat lapor/bayar, lapkeu, data AHU, data eksternal)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data yang bersumber dari lembaga pengesahan badan hukum (Administrasi Hukum Umum) sebagai dasar verifikasi legalitas dan kepemilikan WP badan disebut...?",
+    "opsi": {
+      "A": "Data SPT tahunan",
+      "B": "Data hasil kunjungan (laporan)",
+      "C": "Data AHU",
+      "D": "Pemberitaan media"
+    },
+    "kunci": "C",
+    "pembahasan": "Data AHU merupakan salah satu data yang dikumpulkan dalam langkah pengumpulan data profiling.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 151,
+        "kutipan": "Data AHU"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Pengumpulan Data",
+      "Data AHU"
+    ]
+  },
+  {
+    "id": "PRF-02-044",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pengumpulan Data (riwayat lapor/bayar, lapkeu, data AHU, data eksternal)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain Data SPT tahunan, jenis SPT lain yang turut dikumpulkan dalam tahap pengumpulan data profiling adalah...?",
+    "opsi": {
+      "A": "Data AHU",
+      "B": "Data SPT PPN, Potput",
+      "C": "Data-data eksternal",
+      "D": "Pemberitaan media"
+    },
+    "kunci": "B",
+    "pembahasan": "Data yang dikumpulkan juga mencakup Data SPT PPN, Potput, selain Data SPT tahunan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 151,
+        "kutipan": "Data SPT PPN, Potput"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Pengumpulan Data"
+    ]
+  },
+  {
+    "id": "PRF-02-045",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pengumpulan Data (riwayat lapor/bayar, lapkeu, data AHU, data eksternal)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk data yang dikumpulkan dalam tahap Pengumpulan Data untuk profiling, KECUALI...?",
+    "opsi": {
+      "A": "Data hasil kunjungan (laporan)",
+      "B": "Pemberitaan media",
+      "C": "Data AHU",
+      "D": "Data riwayat kredit perbankan pribadi pegawai DJP"
+    },
+    "kunci": "D",
+    "pembahasan": "Data yang dikumpulkan meliputi data pelaporan, pembayaran, laporan keuangan, data eksternal, data AHU, data SPT, data hasil kunjungan, dan pemberitaan media; riwayat kredit perbankan pribadi pegawai DJP tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 151,
+        "kutipan": "Data hasil kunjungan (laporan)"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Pengumpulan Data"
+    ]
+  },
+  {
+    "id": "PRF-02-046",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Identitas Wajib Pajak: Alamat, Pemegang Saham, KLU, Pohon Kepemilikan, CRM",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam meneliti identitas Wajib Pajak, alamat yang tercatat di Masterfile perlu dibandingkan dengan...?",
+    "opsi": {
+      "A": "Alamat usaha saat ini WP",
+      "B": "Alamat domisili pemegang saham",
+      "C": "Alamat Kantor Pelayanan Pajak terdaftar",
+      "D": "Alamat yang tercantum pada SPT Tahunan terakhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Alamat di Masterfile dibandingkan dengan alamat usaha saat ini WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 152,
+        "kutipan": "Alamat di Masterfile vs alamat usaha saat ini WP"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Identitas Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PRF-02-047",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Identitas Wajib Pajak: Alamat, Pemegang Saham, KLU, Pohon Kepemilikan, CRM",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "AR menemukan bahwa susunan pemegang saham versi data AHU berbeda dengan susunan pemegang saham versi SPT WP badan. Untuk meneliti identitas WP, hal lanjutan yang perlu ditelusuri adalah...?",
+    "opsi": {
+      "A": "Posisi CRM WP pada periode berjalan",
+      "B": "Struktur organisasi WP secara umum",
+      "C": "Riwayat pengalihan saham WP",
+      "D": "Kewajiban perpajakan WP yang belum dipenuhi"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemegang saham versi AHU dibandingkan dengan versi SPT serta ditelusuri Riwayat pengalihan sahamnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 152,
+        "kutipan": "Pemegang saham versi AHU vs Pemegang saham versi SPT serta Riwayat pengalihan saham"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Identitas Wajib Pajak",
+      "Pohon Kepemilikan"
+    ]
+  },
+  {
+    "id": "PRF-02-048",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Identitas Wajib Pajak: Alamat, Pemegang Saham, KLU, Pohon Kepemilikan, CRM",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Saat membandingkan KLU pada Masterfile dengan jenis usaha WP di lapangan, dokumentasi yang perlu disertakan AR adalah...?",
+    "opsi": {
+      "A": "Salinan akta pendirian perusahaan",
+      "B": "Foto kegiatan usaha",
+      "C": "Rekaman wawancara dengan WP",
+      "D": "Surat pernyataan dari pemda setempat"
+    },
+    "kunci": "B",
+    "pembahasan": "Perbandingan KLU Masterfile dengan jenis usaha WP di lapangan perlu menyertakan foto kegiatan usaha.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 152,
+        "kutipan": "KLU Masterfile vs jenis usaha WP di lapangan (sertakan foto kegiatan usaha)"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Identitas Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PRF-02-049",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Identitas Wajib Pajak: Alamat, Pemegang Saham, KLU, Pohon Kepemilikan, CRM",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Selain alamat, pemegang saham, dan KLU, aspek struktur kepemilikan dan organisasi yang perlu diteliti dalam identitas WP meliputi...?",
+    "opsi": {
+      "A": "Riwayat Pemeriksaan dan Riwayat Keberatan dan Banding",
+      "B": "Profil Risiko Ketertagihan dan Riwayat Pengawasan",
+      "C": "Data AHU dan Data SPT tahunan",
+      "D": "Pohon kepemilikan dan Struktur organisasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Aspek identitas WP yang diteliti juga mencakup Pohon kepemilikan dan Struktur organisasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 152,
+        "kutipan": "Pohon kepemilikan"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Identitas Wajib Pajak",
+      "Pohon Kepemilikan",
+      "Struktur Organisasi"
+    ]
+  },
+  {
+    "id": "PRF-02-050",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Identitas Wajib Pajak: Alamat, Pemegang Saham, KLU, Pohon Kepemilikan, CRM",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam langkah-langkah meneliti identitas Wajib Pajak, pemeriksaan terhadap pemenuhan kewajiban perpajakan termasuk salah satu aspek yang diteliti, yang dalam materi disebut sebagai...?",
+    "opsi": {
+      "A": "Kewajiban perpajakan",
+      "B": "Profil Risiko Ketertagihan",
+      "C": "Riwayat Pemeriksaan",
+      "D": "Data SPT tahunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Salah satu aspek yang diteliti dalam identitas WP adalah Kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 152,
+        "kutipan": "Kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "Profiling",
+      "Identitas Wajib Pajak"
+    ]
+  }
+]

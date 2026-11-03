@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "ADV-02-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Sanksi Administrasi Bunga atas Keterlambatan Pembayaran Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 9 ayat (2a) UU KUP, sanksi administrasi bunga atas keterlambatan pembayaran pajak masa dihitung mulai sejak...",
+    "opsi": {
+      "A": "tanggal diterbitkannya Surat Tagihan Pajak (STP)",
+      "B": "berakhirnya batas waktu penyampaian SPT Tahunan sampai dengan tanggal pembayaran",
+      "C": "tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran",
+      "D": "tanggal dimulainya pemeriksaan pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 9 ayat (2a) UU KUP mengatur sanksi bunga keterlambatan pembayaran pajak masa dihitung setelah tanggal jatuh tempo pembayaran s.d. tanggal pembayaran, berbeda dengan Pasal 9 ayat (2b) yang dihitung sejak berakhirnya batas waktu penyampaian SPT Tahunan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 27,
+        "kutipan": "Dihitung setelah tanggal JT pembayaran s.d. tanggal pembayaran"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2a) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Sanksi Administrasi Bunga atas Keterlambatan Pembayaran Pajak",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tarif bunga per bulan untuk sanksi administrasi atas keterlambatan pembayaran pajak dihitung sebesar suku bunga acuan ditambah uplift factor sebesar...",
+    "opsi": {
+      "A": "15%",
+      "B": "0%",
+      "C": "20%",
+      "D": "5%"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan formula tarif bunga per bulan = suku bunga acuan + uplift factor 5% dibagi 12, berlaku untuk sanksi keterlambatan pembayaran pajak masa maupun SPT Tahunan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 27,
+        "kutipan": "suku bunga acuan + uplift factor 5% dibagi 12"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2a) UU KUP",
+      "Pasal 9 ayat (2b) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Sanksi Administrasi Bunga atas Keterlambatan Pembayaran Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dasar hukum sanksi administrasi bunga atas keterlambatan pembayaran kekurangan pajak berdasarkan SPT Tahunan adalah...",
+    "opsi": {
+      "A": "Pasal 8 UU KUP",
+      "B": "Pasal 9 ayat (2b) UU KUP",
+      "C": "Pasal 9 ayat (2a) UU KUP",
+      "D": "Pasal 13 ayat (2) UU KUP"
+    },
+    "kunci": "B",
+    "pembahasan": "Sanksi bunga atas keterlambatan pembayaran kekurangan pajak berdasarkan SPT Tahunan diatur dalam Pasal 9 ayat (2b) UU KUP, sedangkan Pasal 9 ayat (2a) mengatur untuk pajak masa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 27,
+        "kutipan": "Pasal 9 ayat (2b) UU KUP – SPT Tahunan"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2b) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu Pembayaran Bea Meterai & PBB (SPPT)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai Pasal 11 ayat (1) UU PBB, Surat Pemberitahuan Pajak Terutang (SPPT) wajib dilunasi paling lama...",
+    "opsi": {
+      "A": "12 (dua belas) bulan sejak tanggal diterimanya SPPT",
+      "B": "1 (satu) bulan sejak tanggal diterimanya SPPT",
+      "C": "3 (tiga) bulan sejak tanggal diterimanya SPPT",
+      "D": "6 (enam) bulan sejak tanggal diterimanya SPPT"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 11 ayat (1) UU PBB mengatur SPPT wajib dilunasi paling lama 6 bulan sejak tanggal diterimanya SPPT oleh Wajib Pajak, berbeda dengan Bea Meterai yang wajib dibayar lunas pada saat terutang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 28,
+        "kutipan": "6 (enam) bulan sejak tanggal diterimanya SPPT"
+      }
+    ],
+    "tags": [
+      "Pasal 11 ayat (1) UU PBB"
+    ]
+  },
+  {
+    "id": "ADV-02-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu Pembayaran STP, Ketetapan dan Keputusan (termasuk WP Usaha Kecil)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu pembayaran STP, SKPKB, SKPKBT, SK Keberatan, SK Pembetulan, Putusan Banding, Putusan PK, dan SK Persetujuan Bersama adalah paling lama...",
+    "opsi": {
+      "A": "1 (satu) bulan sejak tanggal diterbitkan",
+      "B": "3 (tiga) bulan sejak tanggal diterbitkan",
+      "C": "24 (dua puluh empat) bulan sejak tanggal diterbitkan",
+      "D": "2 (dua) bulan sejak tanggal diterbitkan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 9 ayat (3) UU KUP mengatur batas waktu pembayaran STP dan ketetapan/keputusan paling lama 1 bulan sejak tanggal diterbitkan, kecuali untuk WP usaha kecil dan WP di daerah tertentu yang dapat diperpanjang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 29,
+        "kutipan": "1 bulan sejak tanggal diterbitkan"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (3) UU KUP",
+      "Pasal 99 PMK 81/2024"
+    ]
+  },
+  {
+    "id": "ADV-02-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu Pembayaran STP, Ketetapan dan Keputusan (termasuk WP Usaha Kecil)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bagi Wajib Pajak usaha kecil atau Wajib Pajak di daerah tertentu, batas waktu pembayaran STP/ketetapan pajak dapat diperpanjang paling lama...",
+    "opsi": {
+      "A": "2 (dua) bulan berdasarkan PMK",
+      "B": "24 (dua puluh empat) bulan berdasarkan PMK",
+      "C": "1 (satu) bulan berdasarkan PMK",
+      "D": "6 (enam) bulan berdasarkan PMK"
+    },
+    "kunci": "A",
+    "pembahasan": "Sebagai pengecualian dari batas waktu umum 1 bulan, Wajib Pajak usaha kecil dan Wajib Pajak di daerah tertentu dapat memperoleh perpanjangan batas waktu pembayaran maksimal 2 bulan berdasarkan PMK.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 29,
+        "kutipan": "dapat diperpanjang maksimal 2 bulan berdasarkan PMK"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (3) UU KUP",
+      "Pasal 99 PMK 81/2024"
+    ]
+  },
+  {
+    "id": "ADV-02-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Pengangsuran/Penundaan Pembayaran Pajak & Sanksi Bunganya",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan pengangsuran pembayaran pajak yang terutang berdasarkan SPT Tahunan Pajak Penghasilan dapat diberikan paling lama sampai dengan...",
+    "opsi": {
+      "A": "24 bulan sejak diterbitkannya keputusan",
+      "B": "12 bulan sejak permohonan diajukan",
+      "C": "batas waktu penyampaian SPT PPh Tahun Pajak berikutnya",
+      "D": "akhir Tahun Pajak yang bersangkutan"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai Pasal 9 ayat (4) UU KUP dan Pasal 113 PMK 81/2024, pengangsuran atas pajak terutang berdasarkan SPT Tahunan PPh diberikan paling lama sampai batas waktu penyampaian SPT PPh Tahun Pajak berikutnya, sedangkan untuk STP/ketetapan diberikan paling lama 24 bulan sejak keputusan diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 30,
+        "kutipan": "Paling lama sampai batas waktu penyampaian SPT PPh Tahun Pajak berikutnya"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (4) UU KUP",
+      "Pasal 113 PMK 81/2024"
+    ]
+  },
+  {
+    "id": "ADV-02-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Pengangsuran/Penundaan Pembayaran Pajak & Sanksi Bunganya",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Tarif bunga per bulan untuk sanksi administrasi karena mengangsur atau menunda pembayaran pajak dihitung sebesar suku bunga acuan ditambah uplift factor sebesar...",
+    "opsi": {
+      "A": "5%",
+      "B": "0%",
+      "C": "20%",
+      "D": "15%"
+    },
+    "kunci": "B",
+    "pembahasan": "Berbeda dengan sanksi keterlambatan pembayaran biasa yang uplift factor-nya 5%, sanksi karena mengangsur atau menunda pembayaran pajak dihitung dengan tarif bunga per bulan = suku bunga acuan + 0%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 31,
+        "kutipan": "tarif bunga per bulan = Suku bunga acuan + 0%"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (4) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu yang Bertepatan dengan Hari Libur",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini TERMASUK pengertian hari libur dalam ketentuan batas waktu pembayaran/penyetoran pajak, KECUALI...",
+    "opsi": {
+      "A": "hari yang diliburkan untuk penyelenggaraan Pemilihan Umum yang ditetapkan oleh Pemerintah",
+      "B": "hari libur nasional",
+      "C": "hari Sabtu",
+      "D": "hari kerja yang padat transaksi perbankan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan hari libur mencakup hari Sabtu, hari libur nasional, hari yang diliburkan untuk Pemilu, dan cuti bersama nasional. 'Hari kerja yang padat transaksi perbankan' tidak termasuk kategori tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 32,
+        "kutipan": "hari libur termasuk hari Sabtu atau hari libur nasional"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Definisi & Fungsi SPT (PPh dan PPN)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Surat Pemberitahuan (SPT) menurut materi adalah surat yang digunakan Wajib Pajak untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau...",
+    "opsi": {
+      "A": "struktur organisasi Wajib Pajak",
+      "B": "daftar aset tetap perusahaan",
+      "C": "rencana bisnis tahun berikutnya",
+      "D": "harta dan kewajiban"
+    },
+    "kunci": "D",
+    "pembahasan": "Definisi SPT dalam materi mencakup pelaporan penghitungan/pembayaran pajak, objek pajak, serta harta dan kewajiban Wajib Pajak sesuai ketentuan peraturan perundang-undangan perpajakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 34,
+        "kutipan": "dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Definisi & Fungsi SPT (PPh dan PPN)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai SPT dan fungsinya dalam materi ini merujuk pada...",
+    "opsi": {
+      "A": "PMK-81/2024",
+      "B": "PMK-243/PMK.03/2014 s.t.d.t.d. PMK-18/PMK.03/2021",
+      "C": "PMK Nomor 80 Tahun 2023",
+      "D": "PMK-17/PMK.03/2013"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi tentang SPT dan fungsinya mencantumkan dasar hukum PMK-243/PMK.03/2014 sebagaimana telah diubah dengan PMK-18/PMK.03/2021.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 33,
+        "kutipan": "PMK-243/PMK.03/2014 s.t.d.t.d. PMK-18/PMK.03/2021"
+      }
+    ],
+    "tags": [
+      "PMK-243/PMK.03/2014"
+    ]
+  },
+  {
+    "id": "ADV-02-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Kewajiban Mengisi, Menandatangani & Menyampaikan SPT",
+    "tipe": "negasi",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 3 ayat (1b) UU KUP, penandatanganan SPT dapat dilakukan dengan cara-cara berikut, KECUALI...",
+    "opsi": {
+      "A": "tanda tangan stempel",
+      "B": "tanda tangan notaris",
+      "C": "tanda tangan biasa",
+      "D": "tanda tangan elektronik atau digital"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 3 ayat (1b) UU KUP mengatur penandatanganan SPT dengan tanda tangan biasa, tanda tangan stempel, atau tanda tangan elektronik/digital, yang seluruhnya memiliki kekuatan hukum sama. Tanda tangan notaris tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 39,
+        "kutipan": "Tanda tangan biasa Tanda tangan stempel Tanda tangan elektronik atau digital"
+      }
+    ],
+    "tags": [
+      "Pasal 3 ayat (1b) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Kewajiban Mengisi, Menandatangani & Menyampaikan SPT",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam kewajiban mengisi SPT, pengertian 'jelas' sesuai materi adalah...",
+    "opsi": {
+      "A": "benar dalam perhitungan termasuk benar dalam penerapan ketentuan perpajakan",
+      "B": "melaporkan asal-usul atau sumber dari objek pajak dan unsur-unsur lain yang harus dilaporkan dalam SPT",
+      "C": "memuat semua unsur-unsur yang berkaitan dengan objek pajak dan unsur-unsur lain yang harus dilaporkan dalam SPT",
+      "D": "ditandatangani oleh wakil Wajib Pajak atau kuasa"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi membedakan tiga unsur pengisian SPT: benar (benar perhitungan dan penerapan ketentuan), lengkap (memuat semua unsur objek pajak), dan jelas (melaporkan asal-usul/sumber objek pajak).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 36,
+        "kutipan": "jelas adalah melaporkan asal-usul atau sumber dari objek pajak dan unsur-unsur lain yang harus dilaporkan dalam SPT"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Kewajiban Mengisi, Menandatangani & Menyampaikan SPT",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian SPT secara langsung oleh Wajib Pajak sesuai materi dapat dilakukan di...",
+    "opsi": {
+      "A": "KPP, KP2KP, atau tempat lain",
+      "B": "melalui pos dengan bukti pengiriman surat",
+      "C": "Portal Wajib Pajak",
+      "D": "melalui jasa ekspedisi dengan bukti pengiriman"
+    },
+    "kunci": "A",
+    "pembahasan": "Cara penyampaian SPT terdiri atas langsung (ke KPP, KP2KP, atau tempat lain), melalui pos/jasa ekspedisi dengan bukti pengiriman surat, dan elektronik melalui Portal Wajib Pajak atau aplikasi lain yang terintegrasi dengan sistem administrasi DJP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 40,
+        "kutipan": "KPP KP2KP Tempat lain"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Jenis & Bentuk SPT serta Isi dan Pengambilan SPT",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Jenis SPT menurut PMK 81/2024, SPT Masa mencakup jenis pajak PPh, PPN, Bea Meterai, dan...",
+    "opsi": {
+      "A": "Retribusi Daerah",
+      "B": "Masa Pajak Karbon",
+      "C": "PPh Final atas pengalihan hak atas tanah",
+      "D": "Tahunan Pajak Karbon"
+    },
+    "kunci": "B",
+    "pembahasan": "SPT Masa mencakup PPh, PPN, Bea Meterai, dan Masa Pajak Karbon, sedangkan Tahunan Pajak Karbon termasuk dalam kelompok SPT Tahunan bersama PPh satu Tahun Pajak dan PPh bagian Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 37,
+        "kutipan": "PPh PPN Bea Meterai Masa Pajak Karbon"
+      }
+    ],
+    "tags": [
+      "PMK 81/2024"
+    ]
+  },
+  {
+    "id": "ADV-02-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Jenis & Bentuk SPT serta Isi dan Pengambilan SPT",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak dapat memperoleh SPT dalam bentuk dokumen elektronik dengan cara...",
+    "opsi": {
+      "A": "mendatangi kantor notaris terdekat",
+      "B": "menunggu dikirim oleh kantor pos",
+      "C": "mengakses atau mengunduh melalui Portal Wajib Pajak, atau laman/aplikasi lain yang terintegrasi dengan sistem administrasi DJP",
+      "D": "mengajukan permohonan tertulis ke Kementerian Keuangan"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai Pasal 3 ayat (2) UU KUP dan PMK-81/2024, SPT dokumen elektronik dapat diakses/diunduh melalui Portal Wajib Pajak atau laman/aplikasi lain yang terintegrasi dengan sistem administrasi DJP, sedangkan SPT hardcopy diambil langsung di KPP atau tempat lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 38,
+        "kutipan": "Dapat diakses atau diunduh melalui Portal Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 3 ayat (2) UU KUP",
+      "PMK-81/2024"
+    ]
+  },
+  {
+    "id": "ADV-02-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Batas Waktu Penyampaian SPT Masa & Tahunan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Masa untuk PPh Pasal 21 dipotong, PPh Pasal 23 dipotong, dan PPh Pasal 25 dibayar sendiri adalah paling lama...",
+    "opsi": {
+      "A": "akhir bulan berikutnya setelah Masa Pajak berakhir",
+      "B": "15 (lima belas) hari setelah Masa Pajak berakhir",
+      "C": "1 (satu) bulan setelah Masa Pajak berakhir",
+      "D": "20 (dua puluh) hari setelah Masa Pajak berakhir"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi mengelompokkan batas waktu 20 hari setelah Masa Pajak berakhir untuk berbagai SPT Masa PPh (Pasal 4 ayat 2, 15, 21, 23, 25, 26, dan Pajak Karbon), berbeda dengan Bea Meterai (15 hari) dan PPN (akhir bulan berikutnya).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 41,
+        "kutipan": "20 (dua puluh) hari setelah Masa Pajak Berakhir"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Batas Waktu Penyampaian SPT Masa & Tahunan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Masa PPN dan PPnBM yang dipungut Pengusaha Kena Pajak adalah paling lama...",
+    "opsi": {
+      "A": "20 hari setelah Masa Pajak berakhir",
+      "B": "akhir bulan berikutnya setelah Masa Pajak berakhir",
+      "C": "15 hari setelah Masa Pajak berakhir",
+      "D": "3 bulan setelah Masa Pajak berakhir"
+    },
+    "kunci": "B",
+    "pembahasan": "SPT Masa PPN dan PPnBM yang dipungut PKP disampaikan paling lama akhir bulan berikutnya setelah Masa Pajak berakhir, berbeda dengan sebagian besar SPT Masa PPh yang batas waktunya 20 hari.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 41,
+        "kutipan": "Akhir bulan berikutnya setelah masa pajak berakhir: PPN dan PPnBM dipungut PKP"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Batas Waktu Penyampaian SPT Masa & Tahunan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyampaian SPT Tahunan PPh Wajib Pajak badan adalah paling lama...",
+    "opsi": {
+      "A": "6 bulan setelah akhir Tahun Pajak",
+      "B": "3 bulan setelah akhir Tahun Pajak",
+      "C": "4 bulan setelah akhir Tahun Pajak",
+      "D": "4 bulan setelah akhir Tahun Kalender"
+    },
+    "kunci": "C",
+    "pembahasan": "SPT Tahunan PPh Wajib Pajak badan disampaikan paling lama 4 bulan setelah akhir Tahun Pajak, sedangkan Wajib Pajak orang pribadi paling lama 3 bulan setelah akhir Tahun Pajak, dan Pajak Karbon 4 bulan setelah akhir Tahun Kalender.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 42,
+        "kutipan": "SPT Tahunan PPh Wajib Pajak badan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Batas Waktu Penyampaian SPT Masa & Tahunan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TERMASUK pihak yang tidak wajib menyampaikan SPT Masa sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "Wajib Pajak badan yang baru berdiri dan belum berproduksi",
+      "B": "PPN atau PPN dan PPnBM yang pemungutannya dilakukan oleh Pemungut apabila tidak ada transaksi",
+      "C": "PPh Pasal 22 atas impor barang atau ekspor komoditas tambang oleh Bank Devisa dan Direktorat Jenderal Bea dan Cukai",
+      "D": "Angsuran PPh Pasal 25 Nihil"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan empat kategori yang tidak wajib lapor SPT: angsuran PPh Pasal 25 Nihil, PPh Pasal 22 atas impor/ekspor komoditas tambang oleh Bank Devisa/DJBC, PPN oleh Pemungut tanpa transaksi, dan pembayaran PPN membangun sendiri yang tervalidasi NTPN. Wajib Pajak badan baru berdiri tidak termasuk daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 41,
+        "kutipan": "Tidak Wajib Lapor:"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Sanksi Administrasi Terlambat/Tidak Lapor SPT & Pengecualian Kewajiban Lapor",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi administrasi berupa denda atas keterlambatan penyampaian SPT Masa PPN sesuai Pasal 7 ayat (1) UU KUP adalah sebesar...",
+    "opsi": {
+      "A": "Rp500.000,-",
+      "B": "Rp100.000,-",
+      "C": "Rp2.000.000,-",
+      "D": "Rp1.000.000,-"
+    },
+    "kunci": "A",
+    "pembahasan": "Denda keterlambatan SPT Masa PPN sebesar Rp500.000, sedangkan SPT Masa lainnya dan SPT Tahunan WP OP masing-masing Rp100.000, dan SPT Tahunan WP Badan Rp1.000.000.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 43,
+        "kutipan": "SPT Masa PPN ... Rp500.000,-"
+      }
+    ],
+    "tags": [
+      "Pasal 7 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Sanksi Administrasi Terlambat/Tidak Lapor SPT & Pengecualian Kewajiban Lapor",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi administrasi berupa denda atas keterlambatan penyampaian SPT Tahunan Wajib Pajak badan sesuai Pasal 7 ayat (1) UU KUP adalah sebesar...",
+    "opsi": {
+      "A": "Rp1.500.000,-",
+      "B": "Rp100.000,-",
+      "C": "Rp1.000.000,-",
+      "D": "Rp500.000,-"
+    },
+    "kunci": "C",
+    "pembahasan": "Denda keterlambatan SPT Tahunan Wajib Pajak badan sebesar Rp1.000.000, lebih besar dibandingkan SPT Tahunan WP OP (Rp100.000) dan SPT Masa lainnya (Rp100.000).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 43,
+        "kutipan": "SPT Tahunan WP Badan ... Rp1.000.000,-"
+      }
+    ],
+    "tags": [
+      "Pasal 7 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Sanksi Administrasi Terlambat/Tidak Lapor SPT & Pengecualian Kewajiban Lapor",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TERMASUK pengecualian kewajiban penyampaian SPT sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "SPT Tahunan & SPT Masa PPh bagi WP OP dengan penghasilan di bawah PTKP",
+      "B": "SPT Masa PPh Pasal 21/26 Nihil selain Masa Pajak Desember",
+      "C": "SPT Tahunan PPh Wajib Pajak badan yang mengalami kerugian",
+      "D": "SPT Masa PPN Nihil bagi pemungut"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan lima pengecualian kewajiban penyampaian SPT, antara lain bagi WP OP berpenghasilan di bawah PTKP, PPh Pasal 25 Nihil tertentu, PPh Pasal 21/26 Nihil selain Desember, dan SPT Masa PPN Nihil bagi pemungut. WP badan rugi tetap wajib lapor SPT Tahunan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 44,
+        "kutipan": "SPT Tahunan & SPT Masa PPh Pasal 25 bagi WP OP dg penghasilan di bawah PTKP"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "SPT Dianggap Tidak Disampaikan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "SPT dianggap tidak disampaikan dalam hal-hal berikut, KECUALI...",
+    "opsi": {
+      "A": "SPT disampaikan setelah dilakukan pemeriksaan atau diterbitkan surat ketetapan pajak",
+      "B": "SPT tidak sepenuhnya dilampiri keterangan dan/atau dokumen yang disyaratkan",
+      "C": "SPT disampaikan sebelum batas waktu penyampaian berakhir",
+      "D": "SPT tidak ditandatangani"
+    },
+    "kunci": "C",
+    "pembahasan": "SPT dianggap tidak disampaikan apabila tidak ditandatangani, tidak dilampiri keterangan/dokumen yang disyaratkan, SPT LB disampaikan setelah 3 tahun dan WP telah ditegur tertulis, atau disampaikan setelah pemeriksaan/penerbitan skp. SPT yang disampaikan tepat waktu tidak termasuk kondisi ini.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 45,
+        "kutipan": "SPT tidak ditandatangani"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "SPT Dianggap Tidak Disampaikan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "SPT Lebih Bayar (LB) dianggap tidak disampaikan apabila disampaikan setelah...",
+    "opsi": {
+      "A": "1 tahun sesudah berakhirnya Masa Pajak dan Wajib Pajak telah ditegur secara tertulis",
+      "B": "2 tahun sejak SPT seharusnya disampaikan",
+      "C": "3 tahun sesudah berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak, dan Wajib Pajak telah ditegur secara tertulis",
+      "D": "5 tahun sesudah berakhirnya Tahun Pajak tanpa teguran tertulis"
+    },
+    "kunci": "C",
+    "pembahasan": "SPT LB dianggap tidak disampaikan apabila disampaikan setelah 3 tahun sesudah berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak, dan Wajib Pajak telah ditegur secara tertulis oleh Direktur Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 45,
+        "kutipan": "SPT LB disampaikan setelah 3 tahun sesudah berakhirnya Masa Pajak, bagian Tahun Pajak atau Tahun Pajak, dan WP telah ditegur secara tertulis"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Pelaporan Beberapa Masa Pajak Sekaligus & Perpanjangan SPT Tahunan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Wajib Pajak dapat memperpanjang jangka waktu penyampaian SPT Tahunan PPh paling lama...",
+    "opsi": {
+      "A": "2 (dua) bulan sejak batas waktu penyampaian SPT Tahunan",
+      "B": "6 (enam) bulan sejak batas waktu penyampaian SPT Tahunan",
+      "C": "3 (tiga) bulan sejak batas waktu penyampaian SPT Tahunan",
+      "D": "1 (satu) bulan sejak batas waktu penyampaian SPT Tahunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Perpanjangan jangka waktu penyampaian SPT Tahunan PPh dapat diberikan paling lama 2 bulan sejak batas waktu penyampaian SPT Tahunan, dengan menyampaikan Pemberitahuan Perpanjangan sebelum batas waktu berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 47,
+        "kutipan": "Untuk paling lama 2 bulan sejak batas waktu penyampaian SPT Tahunan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Pembetulan SPT & Sanksi Bunga karena Pembetulan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat utama agar Wajib Pajak dapat membetulkan SPT dengan menyampaikan pernyataan tertulis adalah belum dilakukan...",
+    "opsi": {
+      "A": "Pemeriksaan atau Pemeriksaan Bukti Permulaan secara terbuka",
+      "B": "Penerbitan NPWP secara jabatan",
+      "C": "Penyegelan tempat usaha",
+      "D": "Pengukuhan PKP secara jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Wajib Pajak dapat membetulkan SPT dengan menyampaikan pernyataan tertulis dengan syarat belum dilakukan Pemeriksaan atau Pemeriksaan Bukti Permulaan secara terbuka.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 48,
+        "kutipan": "Syarat, belum dilakukan: o Pemeriksaan; atau o Pemeriksaan Bukti Permulaan secara terbuka"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Pembetulan SPT & Sanksi Bunga karena Pembetulan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pembetulan SPT yang mengakibatkan rugi atau lebih bayar dapat dilakukan paling lama...",
+    "opsi": {
+      "A": "sampai dengan daluwarsa penetapan",
+      "B": "2 (dua) tahun sebelum daluwarsa penetapan",
+      "C": "1 (satu) tahun sejak SPT disampaikan",
+      "D": "5 (lima) tahun sejak berakhirnya Tahun Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pembetulan SPT yang mengakibatkan rugi atau lebih bayar dibatasi paling lama 2 tahun sebelum daluwarsa penetapan, berbeda dengan pembetulan SPT biasa (tidak rugi/lebih bayar) yang dapat dilakukan sampai daluwarsa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 48,
+        "kutipan": "paling lama 2 (dua) tahun sebelum daluwarsa"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pelaporan Pajak (SPT)",
+    "subtopik": "Pembetulan SPT & Sanksi Bunga karena Pembetulan",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Wajib Pajak menerima SKP, SK Pembetulan, SK Keberatan, Putusan Banding, atau Putusan PK yang menyatakan rugi fiskal berbeda dengan yang telah dikompensasikan, namun Wajib Pajak TIDAK membetulkan SPT, maka...",
+    "opsi": {
+      "A": "SPT Wajib Pajak dianggap tidak disampaikan",
+      "B": "Wajib Pajak dikenai sanksi kenaikan 100%",
+      "C": "Direktur Jenderal Pajak menerbitkan SKPKBT secara otomatis",
+      "D": "Direktur Jenderal Pajak menghitung kembali kompensasi kerugian dalam SPT secara jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Apabila WP tidak membetulkan SPT setelah menerima ketetapan/keputusan/putusan yang menyatakan rugi fiskal berbeda, Direktur Jenderal Pajak akan menghitung kembali kompensasi kerugian dalam SPT secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 50,
+        "kutipan": "Dirjen Pajak menghitung kembali kompensasi kerugian dalam SPT secara jabatan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Gambaran Umum, Tujuan, Jenis & Kriteria Dilakukan Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan pajak dilakukan oleh...",
+    "opsi": {
+      "A": "konsultan pajak bersertifikat",
+      "B": "akuntan publik yang ditunjuk Menteri Keuangan",
+      "C": "PNS DJP atau ahli yang ditunjuk oleh Direktur Jenderal Pajak",
+      "D": "notaris yang terdaftar di KPP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksa pajak adalah PNS DJP atau ahli yang ditunjuk Direktur Jenderal Pajak, yang telah mendapat pendidikan dan pelatihan teknis serta memiliki keterampilan sebagai Pemeriksa Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 52,
+        "kutipan": "PNS DJP/Ahli yang ditunjuk Dirjen Pajak"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Gambaran Umum, Tujuan, Jenis & Kriteria Dilakukan Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan ruang lingkupnya, pemeriksaan pajak dapat dilakukan terhadap...",
+    "opsi": {
+      "A": "seluruh jenis pajak tanpa kecuali",
+      "B": "hanya Pajak Penghasilan badan",
+      "C": "hanya satu jenis pajak dalam satu tahun pajak",
+      "D": "satu jenis pajak, beberapa jenis pajak, atau seluruh jenis pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Ruang lingkup pemeriksaan menurut materi mencakup satu jenis pajak, beberapa jenis pajak, atau seluruh jenis pajak, tergantung kebutuhan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 52,
+        "kutipan": "Satu Jenis Pajak Beberapa Jenis Pajak Seluruh Jenis Pajak"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Gambaran Umum, Tujuan, Jenis & Kriteria Dilakukan Pemeriksaan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan dengan tujuan menguji kepatuhan dapat dilakukan antara lain dalam hal Wajib Pajak mengajukan permohonan pengembalian kelebihan pembayaran pajak sebagaimana dimaksud dalam...",
+    "opsi": {
+      "A": "Pasal 17B UU KUP",
+      "B": "Pasal 29 UU KUP",
+      "C": "Pasal 9 UU KUP",
+      "D": "Pasal 12 UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Salah satu kriteria pemeriksaan untuk menguji kepatuhan adalah permohonan pengembalian kelebihan pembayaran pajak (restitusi) sebagaimana dimaksud dalam Pasal 17B UU KUP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 52,
+        "kutipan": "Permohonan Pengembalian Kelebihan Pembayaran Pajak (Pasal 17B)"
+      }
+    ],
+    "tags": [
+      "Pasal 17B UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Gambaran Umum, Tujuan, Jenis & Kriteria Dilakukan Pemeriksaan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan untuk tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undangan perpajakan dapat dilakukan antara lain dalam hal...",
+    "opsi": {
+      "A": "permohonan pengembalian kelebihan pembayaran pajak Pasal 17B",
+      "B": "Wajib Pajak menyampaikan SPT Rugi",
+      "C": "penerbitan NPWP secara jabatan",
+      "D": "Wajib Pajak telah diberikan pengembalian pendahuluan"
+    },
+    "kunci": "C",
+    "pembahasan": "NPWP Jabatan termasuk kriteria pemeriksaan untuk tujuan lain, bersama penghapusan NPWP, pengukuhan/pencabutan PKP, dan penagihan pajak. Adapun SPT Rugi, pengembalian pendahuluan, dan permohonan Pasal 17B termasuk kriteria pemeriksaan untuk menguji kepatuhan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 52,
+        "kutipan": "NPWP Jabatan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Jangka Waktu Pemeriksaan Lapangan & Pemeriksaan Kantor",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu pengujian pada Pemeriksaan Lapangan untuk menguji kepatuhan pemenuhan kewajiban perpajakan adalah...",
+    "opsi": {
+      "A": "6 bulan dan dapat diperpanjang 2 bulan",
+      "B": "10 hari kerja",
+      "C": "2 bulan dan tidak dapat diperpanjang",
+      "D": "4 bulan dan dapat diperpanjang 2 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengujian pada Pemeriksaan Lapangan untuk menguji kepatuhan memerlukan waktu 6 bulan dan dapat diperpanjang 2 bulan, dilanjutkan tahap pelaporan 2 bulan sampai LHP terbit.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 53,
+        "kutipan": "6 bulan + dapat diperpanjang 2 bulan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Jangka Waktu Pemeriksaan Lapangan & Pemeriksaan Kantor",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu pengujian Pemeriksaan Kantor untuk data konkret adalah...",
+    "opsi": {
+      "A": "4 bulan dan dapat diperpanjang 2 bulan",
+      "B": "2 bulan dan dapat diperpanjang 2 bulan",
+      "C": "10 hari kerja dan tidak dapat diperpanjang",
+      "D": "2 bulan dan tidak dapat diperpanjang"
+    },
+    "kunci": "D",
+    "pembahasan": "Pengujian Pemeriksaan Kantor untuk data konkret memerlukan waktu 2 bulan dan tidak dapat diperpanjang, berbeda dengan pengujian selain data konkret yang 4 bulan dan dapat diperpanjang 2 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 53,
+        "kutipan": "Data konkret: 2 bulan (tidak dapat diperpanjang)"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Jangka Waktu Pemeriksaan Lapangan & Pemeriksaan Kantor",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu Pemeriksaan Lapangan untuk tujuan lain (sejak SPPL disampaikan sampai LHP terbit) adalah...",
+    "opsi": {
+      "A": "4 bulan",
+      "B": "2 bulan",
+      "C": "6 bulan",
+      "D": "14 hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Pemeriksaan Lapangan untuk tujuan lain memiliki jangka waktu 4 bulan sejak SPPL disampaikan sampai LHP terbit, sedangkan Pemeriksaan Kantor untuk tujuan lain hanya 14 hari sejak SPDRK disampaikan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 53,
+        "kutipan": "Tujuan Lain* 4 bulan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Kewajiban Wajib Pajak yang Diperiksa",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban Wajib Pajak yang diperiksa untuk memperlihatkan dan/atau meminjamkan buku, catatan, atau dokumen diatur dalam...",
+    "opsi": {
+      "A": "Pasal 13 ayat (3) PP Nomor 50 Tahun 2022",
+      "B": "Pasal 29 ayat (4) UU KUP",
+      "C": "Pasal 29 ayat (3a) UU KUP",
+      "D": "Pasal 31 ayat (3) UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Kewajiban Wajib Pajak yang diperiksa untuk memperlihatkan/meminjamkan buku, catatan, atau dokumen diatur dalam Pasal 13 ayat (3) PP Nomor 50 Tahun 2022.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 54,
+        "kutipan": "Pasal 13 ayat (3) PP Nomor 50 Tahun 2022"
+      }
+    ],
+    "tags": [
+      "PP Nomor 50 Tahun 2022"
+    ]
+  },
+  {
+    "id": "ADV-02-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Kewajiban Wajib Pajak yang Diperiksa",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Buku, catatan, dokumen, serta data, informasi, dan keterangan lain wajib dipenuhi oleh Wajib Pajak paling lama...",
+    "opsi": {
+      "A": "2 (dua) bulan sejak permintaan disampaikan",
+      "B": "1 (satu) bulan sejak permintaan disampaikan",
+      "C": "10 hari kerja sejak permintaan disampaikan",
+      "D": "14 hari sejak permintaan disampaikan"
+    },
+    "kunci": "B",
+    "pembahasan": "Sesuai Pasal 29 ayat (3a) UU KUP, buku, catatan, dokumen, serta data/informasi/keterangan lain wajib dipenuhi Wajib Pajak paling lama 1 bulan sejak permintaan disampaikan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 55,
+        "kutipan": "dipenuhi oleh Wajib Pajak paling lama satu bulan sejak permintaan disampaikan"
+      }
+    ],
+    "tags": [
+      "Pasal 29 ayat (3a) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Kewajiban Wajib Pajak yang Diperiksa",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Wajib Pajak menyelenggarakan pembukuan secara elektronik (electronic data processing/EDP), Wajib Pajak wajib memberikan kepada petugas pemeriksa berupa...",
+    "opsi": {
+      "A": "salinan cetak seluruh data dalam bentuk hardcopy",
+      "B": "akses untuk mengakses dan/atau mengunduh data dari catatan dan dokumen terkait",
+      "C": "laporan audit dari kantor akuntan publik",
+      "D": "surat pernyataan tidak diaudit"
+    },
+    "kunci": "B",
+    "pembahasan": "Wajib Pajak yang menyelenggarakan pembukuan/pencatatan secara elektronik (EDP) wajib memberikan akses kepada petugas pemeriksa untuk mengakses dan/atau mengunduh data dari catatan dan dokumen terkait.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 56,
+        "kutipan": "Wajib Pajak harus memberikan akses kepada petugas pemeriksa untuk mengakses dan/atau mengunduh data"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan & Peniadaan Kewajiban Merahasiakan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penghasilan kena pajak dapat dihitung secara jabatan apabila Wajib Pajak badan atau orang pribadi yang menjalankan usaha/pekerjaan bebas yang diperiksa...",
+    "opsi": {
+      "A": "tidak memenuhi kewajibannya sehingga tidak dapat dihitung besarnya penghasilan kena pajak",
+      "B": "mengajukan keberatan atas surat ketetapan pajak",
+      "C": "memiliki laporan keuangan yang diaudit akuntan publik",
+      "D": "menyampaikan SPT lebih dari satu kali dalam setahun"
+    },
+    "kunci": "A",
+    "pembahasan": "Apabila Wajib Pajak yang diperiksa tidak memenuhi kewajibannya sehingga penghasilan kena pajak tidak dapat dihitung, penghasilan kena pajak dapat dihitung secara jabatan sesuai ketentuan peraturan perundang-undangan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 58,
+        "kutipan": "tidak memenuhi kewajibannya sehingga tidak dapat dihitung besarnya penghasilan kena pajak, penghasilan kena pajak dapat dihitung secara jabatan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan & Peniadaan Kewajiban Merahasiakan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Peniadaan kewajiban merahasiakan data pembukuan atau pencatatan untuk keperluan pemeriksaan diatur dalam...",
+    "opsi": {
+      "A": "Pasal 31 ayat (3) UU KUP",
+      "B": "Pasal 29 ayat (3a) UU KUP",
+      "C": "Pasal 29 ayat (4) UU KUP",
+      "D": "Pasal 30 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 29 ayat (4) UU KUP mengatur bahwa kewajiban merahasiakan pembukuan, pencatatan, atau dokumen serta keterangan ditiadakan oleh permintaan untuk keperluan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 59,
+        "kutipan": "Pasal 29 ayat (4) Undang-Undang KUP mengatur bahwa"
+      }
+    ],
+    "tags": [
+      "Pasal 29 ayat (4) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Penyegelan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penyegelan merupakan upaya terakhir pemeriksa untuk memperoleh atau mengamankan buku, catatan, dokumen, dan benda-benda lain agar tidak...",
+    "opsi": {
+      "A": "dipublikasikan ke media massa",
+      "B": "diperiksa oleh pihak ketiga yang tidak berwenang",
+      "C": "disita oleh Direktorat Jenderal Bea dan Cukai",
+      "D": "dipindahkan, dihilangkan, dimusnahkan, diubah, dirusak, ditukar, atau dipalsukan"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyegelan adalah upaya terakhir pemeriksa untuk mengamankan buku, catatan, dokumen termasuk data elektronik, dan benda lain agar tidak dipindahkan, dihilangkan, dimusnahkan, diubah, dirusak, ditukar, atau dipalsukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 60,
+        "kutipan": "agar tidak dipindahkan, dihilangkan, dimusnahkan, diubah, dirusak, ditukar, atau dipalsukan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Penyegelan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyegelan oleh pemeriksa pajak sesuai Pasal 30 ayat (1) UU KUP dapat dilakukan dalam hal...",
+    "opsi": {
+      "A": "Wajib Pajak mengajukan keberatan atas surat ketetapan pajak",
+      "B": "Wajib Pajak tidak berada di tempat atau sengaja tidak memberikan kesempatan kepada pemeriksa untuk memasuki tempat/ruang yang dipandang perlu",
+      "C": "Wajib Pajak terlambat menyampaikan SPT Tahunan",
+      "D": "Wajib Pajak belum melunasi Surat Tagihan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Penyegelan dilakukan dalam hal Wajib Pajak tidak berada di tempat atau sengaja tidak memberikan kesempatan kepada pemeriksa untuk memasuki tempat/ruang yang dipandang perlu dan tidak memberi bantuan guna kelancaran pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 60,
+        "kutipan": "Wajib Pajak tidak berada di tempat atau sengaja tidak memberikan kesempatan kepada pemeriksa"
+      }
+    ],
+    "tags": [
+      "Pasal 30 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Pemeriksaan Bukti Permulaan, Ditangguhkan & Pemeriksaan Ulang",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksaan Bukti Permulaan (Bukper) adalah pemeriksaan yang dilakukan untuk mendapat bukti permulaan tentang...",
+    "opsi": {
+      "A": "kebenaran formal SPT Wajib Pajak",
+      "B": "adanya dugaan tindak pidana di bidang perpajakan",
+      "C": "kelengkapan dokumen keberatan",
+      "D": "kesesuaian laporan keuangan dengan standar akuntansi"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksaan Bukti Permulaan adalah pemeriksaan yang dilakukan untuk mendapat bukti permulaan tentang adanya dugaan tindak pidana di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 62,
+        "kutipan": "Pemeriksaan Bukti Permulaan (Bukper) adalah pemeriksaan yang dilakukan untuk mendapat bukti permulaan tentang adanya dugaan tindak pidana di bidang perpajakan"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pemeriksaan Pajak",
+    "subtopik": "Fasilitas WP Terbuka (Bursa Efek) & Pengungkapan Ketidakbenaran Pengisian SPT",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Fasilitas pemeriksaan melalui pemeriksaan kantor dengan jangka waktu lebih singkat sesuai Pasal 29A UU KUP diberikan kepada Wajib Pajak badan yang...",
+    "opsi": {
+      "A": "merupakan Wajib Pajak dengan omzet di atas Rp50 miliar",
+      "B": "memiliki cabang usaha di lebih dari 3 provinsi",
+      "C": "pernyataan pendaftaran emisi sahamnya telah dinyatakan efektif oleh badan pengawas pasar modal dan menyampaikan SPT dilampiri laporan keuangan yang diaudit akuntan publik dengan pendapat wajar tanpa pengecualian",
+      "D": "telah dikukuhkan sebagai PKP lebih dari 5 tahun"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 29A UU KUP memberikan fasilitas pemeriksaan kantor dengan jangka waktu singkat kepada Wajib Pajak badan yang sahamnya telah efektif terdaftar di bursa efek dan menyampaikan SPT dilampiri laporan keuangan audit dengan opini wajar tanpa pengecualian.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 61,
+        "kutipan": "Pasal 29A UU KUP fasilitas diberikan terhadap Wajib Pajak badan yang pernyataan pendaftaran emisi sahamnya telah dinyatakan efektif oleh badan pengawas pasar modal"
+      }
+    ],
+    "tags": [
+      "Pasal 29A UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Jenis Ketetapan Pajak & Prinsip Self-Assessment (Ps.12 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan PMK Nomor 80 Tahun 2023, jenis ketetapan pajak terdiri atas SKPKB, SKPLB, SKPN, SKPKBT, dan...",
+    "opsi": {
+      "A": "Surat Teguran",
+      "B": "Surat Keputusan Keberatan",
+      "C": "Surat Paksa",
+      "D": "Surat Tagihan Pajak (STP)"
+    },
+    "kunci": "D",
+    "pembahasan": "Jenis ketetapan pajak menurut PMK Nomor 80 Tahun 2023 terdiri atas SKPKB, SKPLB, SKPN, SKPKBT, dan Surat Tagihan Pajak (STP).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 65,
+        "kutipan": "SURAT TAGIHAN PAJAK (STP)"
+      }
+    ],
+    "tags": [
+      "PMK Nomor 80 Tahun 2023"
+    ]
+  },
+  {
+    "id": "ADV-02-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Jenis Ketetapan Pajak & Prinsip Self-Assessment (Ps.12 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Surat Ketetapan Pajak Lebih Bayar (SKPLB) diterbitkan oleh Direktur Jenderal Pajak berdasarkan...",
+    "opsi": {
+      "A": "hasil Pemeriksaan Ulang",
+      "B": "hasil Penelitian semata",
+      "C": "hasil Pemeriksaan atau hasil Penelitian",
+      "D": "hasil Pemeriksaan semata"
+    },
+    "kunci": "C",
+    "pembahasan": "Berbeda dengan SKPKB dan SKPN yang hanya berdasarkan hasil Pemeriksaan serta SKPKBT berdasarkan hasil Pemeriksaan Ulang, SKPLB dapat diterbitkan berdasarkan hasil Pemeriksaan maupun hasil Penelitian.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 68,
+        "kutipan": "Berdasarkan: 1. Hasil Pemeriksaan 2. Hasil Penelitian"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-02-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "Jenis Ketetapan Pajak & Prinsip Self-Assessment (Ps.12 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Prinsip bahwa jumlah pajak terutang tidak didasarkan pada surat ketetapan pajak yang diterbitkan fiskus, melainkan pada ketentuan Undang-Undang Pajak material yang dihitung sendiri oleh Wajib Pajak, disebut sebagai prinsip...",
+    "opsi": {
+      "A": "self-assessment",
+      "B": "official assessment",
+      "C": "withholding assessment",
+      "D": "semi self-assessment"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 12 UU KUP mengatur prinsip self-assessment, yaitu jumlah pajak terutang tidak didasarkan pada suatu surat ketetapan pajak yang diterbitkan fiskus, tetapi didasarkan pada ketentuan Undang-Undang Pajak material yang dihitung sendiri oleh Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 67,
+        "kutipan": "Jumlah pajak terutang tidak didasarkan pada suatu surat ketetapan pajak yang diterbitkan oleh fiskus tetapi didasarkan pada ketentuan Undang-Undang Pajak material"
+      }
+    ],
+    "tags": [
+      "Pasal 12 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKB - Kriteria Penerbitan, Jangka Waktu 5 Tahun & Sanksi",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan sesuai...",
+    "opsi": {
+      "A": "Pasal 9 ayat (2a) UU KUP",
+      "B": "Pasal 15 ayat (1) UU KUP",
+      "C": "Pasal 13 ayat (1) UU KUP",
+      "D": "Pasal 17B UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 13 ayat (1) UU KUP mengatur SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan, dalam hal-hal tertentu seperti pajak tidak/kurang dibayar atau SPT tidak disampaikan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 69,
+        "kutipan": "Pasal 13 ayat (1) UU KUP: SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKB - Kriteria Penerbitan, Jangka Waktu 5 Tahun & Sanksi",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi atas PPh yang dipotong/dipungut tetapi tidak disetor dalam penerbitan SKPKB adalah berupa...",
+    "opsi": {
+      "A": "bunga sebesar suku bunga acuan + uplift factor 20% : 12",
+      "B": "bunga sebesar suku bunga acuan + uplift factor 15% : 12",
+      "C": "kenaikan 100%",
+      "D": "kenaikan 75%"
+    },
+    "kunci": "D",
+    "pembahasan": "Untuk PPh yang dipotong/dipungut tetapi tidak disetor serta PPN & PPnBM kurang dibayar, sanksi SKPKB berupa kenaikan 75%, berbeda dengan PPh tidak/kurang dibayar yang dikenai sanksi bunga 20% per tahun dibagi 12.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 69,
+        "kutipan": "PPh dipotong/dipungut tetapi tidak disetor: kenaikan 75%"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKB - Kriteria Penerbitan, Jangka Waktu 5 Tahun & Sanksi",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk kondisi penerbitan SKPKB sesuai Pasal 13 ayat (1) UU KUP, KECUALI...",
+    "opsi": {
+      "A": "pajak yang terutang tidak atau kurang dibayar",
+      "B": "Wajib Pajak mengajukan permohonan pengembalian kelebihan pembayaran pajak (restitusi) dengan SPT Lebih Bayar tanpa indikasi pelanggaran",
+      "C": "SPT tidak disampaikan dan setelah ditegur secara tertulis tidak disampaikan sesuai jangka waktu",
+      "D": "kewajiban Pasal 28 dan Pasal 29 tidak dipenuhi"
+    },
+    "kunci": "B",
+    "pembahasan": "Kondisi penerbitan SKPKB meliputi pajak tidak/kurang dibayar, SPT tidak disampaikan setelah ditegur, PPN/PPnBM yang tidak seharusnya dikompensasikan atau dikenai tarif 0%, kewajiban Pasal 28/29 tidak dipenuhi, serta NPWP/PKP secara jabatan. Permohonan restitusi murni tanpa indikasi pelanggaran bukan kriteria penerbitan SKPKB, melainkan kriteria pemilihan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 69,
+        "kutipan": "pajak yang terutang tidak atau kurang dibayar"
+      },
+      {
+        "pdf": "B",
+        "halaman": 69,
+        "kutipan": "kewajiban Ps. 28 dan Ps. 29 tidak dipenuhi"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-052",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKBT & Pemeriksaan Ulang (Data Baru/Data yang Semula Belum Terungkap)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan Ulang sesuai...",
+    "opsi": {
+      "A": "Pasal 8 UU KUP",
+      "B": "Pasal 13 ayat (1) UU KUP",
+      "C": "Pasal 17B UU KUP",
+      "D": "Pasal 15 ayat (1) UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 15 ayat (1) UU KUP mengatur SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak berdasarkan hasil Pemeriksaan Ulang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 70,
+        "kutipan": "Pasal 15 ayat (1): SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-053",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKBT & Pemeriksaan Ulang (Data Baru/Data yang Semula Belum Terungkap)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila SKPKBT diterbitkan karena data baru yang mengakibatkan penambahan jumlah pajak terutang yang dimiliki Direktur Jenderal Pajak, maka Wajib Pajak dikenai sanksi...",
+    "opsi": {
+      "A": "kenaikan 75%",
+      "B": "kenaikan 100%",
+      "C": "tidak dikenakan sanksi",
+      "D": "bunga paling lama 24 bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksaan Ulang atas data baru yang dimiliki Direktur Jenderal Pajak dan mengakibatkan penambahan jumlah pajak terutang dikenai sanksi kenaikan 100%, berbeda dengan data baru dari pengakuan Wajib Pajak sendiri yang tidak dikenakan sanksi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 70,
+        "kutipan": "sanksi kenaikan 100%"
+      },
+      {
+        "pdf": "B",
+        "halaman": 70,
+        "kutipan": "Dimiliki Dirjen Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-054",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKBT & Pemeriksaan Ulang (Data Baru/Data yang Semula Belum Terungkap)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila data baru untuk penerbitan SKPKBT berasal dari keterangan tertulis Wajib Pajak atas kehendak sendiri, maka Wajib Pajak...",
+    "opsi": {
+      "A": "SPT-nya dianggap tidak disampaikan",
+      "B": "dikenai sanksi kenaikan 100%",
+      "C": "dikenai sanksi bunga paling lama 24 bulan",
+      "D": "sanksi tidak dikenakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Berbeda dengan data baru yang dimiliki Direktur Jenderal Pajak (dikenai sanksi kenaikan 100%), data baru yang berasal dari keterangan tertulis Wajib Pajak atas kehendak sendiri (pengakuan WP) tidak dikenakan sanksi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 70,
+        "kutipan": "sanksi tidak dikenakan"
+      },
+      {
+        "pdf": "B",
+        "halaman": 70,
+        "kutipan": "Keterangan tertulis dari WP atas kehendak sendiri"
+      }
+    ],
+    "tags": [
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-02-055",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+    "subtopik": "SKPKBT & Pemeriksaan Ulang (Data Baru/Data yang Semula Belum Terungkap)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan Ulang yang hasilnya tidak mengakibatkan tambahan jumlah pajak namun terdapat perubahan jumlah rugi fiskal akan dituangkan dalam...",
+    "opsi": {
+      "A": "Keputusan (Kep) Rugi Fiskal",
+      "B": "LHP Sumir",
+      "C": "SKPKBT",
+      "D": "Surat Teguran"
+    },
+    "kunci": "A",
+    "pembahasan": "Hasil Pemeriksaan Ulang dapat dituangkan dalam tiga bentuk: SKPKBT (ada tambahan jumlah pajak), LHP Sumir (tidak ada tambahan dan tidak ada perubahan rugi fiskal), atau Kep Rugi Fiskal (tidak ada tambahan pajak tetapi ada perubahan jumlah rugi fiskal).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 63,
+        "kutipan": "tidak mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya tetapi terdapat perubahan jumlah rugi fiskal"
+      }
+    ],
+    "tags": []
+  }
+]

@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "POT-02-001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Pemicu Penilaian pada PMK-79/2023, Penilaian menurut Pasal 4 dan Pasal 5 digunakan untuk menentukan Nilai Harta Berwujud, Harta Tidak Berwujud, dan?",
+    "opsi": {
+      "A": "Bisnis",
+      "B": "Piutang",
+      "C": "Saham",
+      "D": "Investasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram pemicu Penilaian PMK-79/2023 (Pasal 4 dan Pasal 5) menghasilkan tiga jenis nilai, yaitu Harta Berwujud, Harta Tidak Berwujud, dan Bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "Nilai: Harta Berwujud, Harta Tidak Berwujud, Bisnis"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian",
+      "Harta Tidak Berwujud"
+    ]
+  },
+  {
+    "id": "POT-02-002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam diagram Pemicu Penilaian untuk menentukan Nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis, pemicu bersumber dari tiga Undang-Undang, yaitu UU PPh, UU PPSP, dan?",
+    "opsi": {
+      "A": "UU KUP",
+      "B": "UU PPN",
+      "C": "UU PBB",
+      "D": "UU Bea Meterai"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram tersebut menampilkan tiga kelompok pemicu Penilaian berdasarkan UU PPh, UU PPN, dan UU PPSP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "PPh ... PPN ... PPSP"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "UU PPN",
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "POT-02-003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemicu Penilaian atas nilai imbalan dalam bentuk natura dan/atau kenikmatan menurut UU PPh diatur dalam?",
+    "opsi": {
+      "A": "Pasal 19",
+      "B": "Pasal 10 ayat (1)",
+      "C": "Pasal 4 ayat (1) huruf a",
+      "D": "Pasal 18 ayat (3)"
+    },
+    "kunci": "C",
+    "pembahasan": "Nilai imbalan dalam bentuk natura dan/atau kenikmatan menjadi pemicu Penilaian berdasarkan Pasal 4 ayat (1) huruf a UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Nilai imbalan dalam bentuk natura dan/atau kenikmatan. Pasal 4 ayat (1) huruf a"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penghasilan dari transaksi pengalihan harta atas tanah dan/atau bangunan, usaha jasa konstruksi, usaha real estat, dan persewaan tanah dan/atau bangunan menjadi pemicu Penilaian berdasarkan UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 11",
+      "B": "Pasal 19",
+      "C": "Pasal 10 ayat (1)",
+      "D": "Pasal 4 ayat (2) huruf d"
+    },
+    "kunci": "D",
+    "pembahasan": "Penghasilan dari transaksi pengalihan harta tersebut menjadi pemicu Penilaian berdasarkan Pasal 4 ayat (2) huruf d UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Penghasilan dari transaksi pengalihan harta atas tanah dan/atau bangunan, usaha jasa konstruksi, usaha real estat"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga perolehan atau harga penjualan berdasarkan jumlah yang seharusnya dikeluarkan atau diterima dalam hal terjadi jual beli harta yang dipengaruhi hubungan istimewa merupakan pemicu Penilaian menurut UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 10 ayat (1)",
+      "B": "Pasal 18 ayat (3a)",
+      "C": "Pasal 11A",
+      "D": "Pasal 10 ayat (4)"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan tersebut merupakan pemicu Penilaian berdasarkan Pasal 10 ayat (1) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Harga perolehan atau harga penjualan berdasarkan jumlah yang seharusnya dikeluarkan atau diterima dalam hal terjadi jual beli harta yang dipengaruhi hubungan istimewa. Pasal 10 ayat (1)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga pasar dalam hal terjadi tukar-menukar harta serta perolehan/pengalihan harta dalam rangka harta likuidasi, penggabungan, peleburan, pemekaran, pemecahan, atau pengambilalihan usaha diatur dalam Pasal 10 ayat berapa pada UU PPh?",
+    "opsi": {
+      "A": "ayat (4) dan ayat (5)",
+      "B": "ayat (2) dan ayat (3)",
+      "C": "ayat (3a)",
+      "D": "ayat (1)"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 10 ayat (2) dan ayat (3) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Harga pasar dalam hal terjadi tukar-menukar harta dan dalam perolehan atau pengalihan harta dalam rangka harta likuidasi... Pasal 10 ayat (2) Pasal 10 ayat (3)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai Nilai Pasar sebagai pemicu Penilaian pada UU PPh diatur dalam Pasal 10 ayat berapa?",
+    "opsi": {
+      "A": "ayat (3a)",
+      "B": "ayat (2) dan ayat (3)",
+      "C": "ayat (4) dan ayat (5)",
+      "D": "ayat (1) dan ayat (2)"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan mengenai Nilai Pasar diatur dalam Pasal 10 ayat (4) dan ayat (5) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Nilai Pasar. Pasal 10 ayat (4) Pasal 10 ayat (5)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Harga perolehan atau nilai sisa buku harta berwujud yang mempengaruhi besarnya biaya penyusutan menjadi pemicu Penilaian berdasarkan UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 11A",
+      "B": "Pasal 18 ayat (3)",
+      "C": "Pasal 19",
+      "D": "Pasal 11"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 11 UU PPh terkait biaya penyusutan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Harga perolehan atau nilai sisa buku harta berwujud yang mempengaruhi besarnya biaya penyusutan. Pasal 11"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Penyusutan"
+    ]
+  },
+  {
+    "id": "POT-02-009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Harga perolehan atau nilai sisa buku harta tak berwujud yang mempengaruhi besarnya biaya amortisasi menjadi pemicu Penilaian berdasarkan UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 11A",
+      "B": "Pasal 10 ayat (5)",
+      "C": "Pasal 18 ayat (3a)",
+      "D": "Pasal 11"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 11A UU PPh terkait biaya amortisasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Harga perolehan atau nilai sisa buku harta tak berwujud yang mempengaruhi besarnya biaya amortisasi. Pasal 11A"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Amortisasi"
+    ]
+  },
+  {
+    "id": "POT-02-010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan untuk menentukan kembali besarnya penghasilan dan pengurangan, serta menentukan utang sebagai modal, menjadi pemicu Penilaian berdasarkan UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 18 ayat (3a)",
+      "B": "Pasal 18 ayat (3)",
+      "C": "Pasal 11A",
+      "D": "Pasal 19"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 18 ayat (3) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Menentukan kembali besarnya penghasilan dan pengurangan serta menentukan utang sebagai modal. Pasal 18 ayat (3)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga transaksi antar pihak yang mempunyai hubungan istimewa dalam melakukan perjanjian dengan Wajib Pajak dan bekerja sama dengan pihak otoritas pajak negara lain merupakan pemicu Penilaian berdasarkan UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 19",
+      "B": "Pasal 18 ayat (3)",
+      "C": "Pasal 18 ayat (3a)",
+      "D": "Pasal 10 ayat (1)"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan tersebut berkaitan dengan kesepakatan harga transfer dan diatur dalam Pasal 18 ayat (3a) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Harga transaksi antar pihak-pihak yang mempunyai hubungan istimewa dalam melakukan perjanjian dengan Wajib Pajak dan bekerja sama dengan pihak otoritas pajak negara lain. Pasal 18 ayat (3a)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Hubungan Istimewa"
+    ]
+  },
+  {
+    "id": "POT-02-012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Nilai Pasar atau nilai wajar yang ditetapkan kembali oleh Direktur Jenderal Pajak menjadi pemicu Penilaian berdasarkan UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 18 ayat (3a)",
+      "B": "Pasal 11A",
+      "C": "Pasal 4 ayat (2) huruf d",
+      "D": "Pasal 19"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 19 UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Nilai Pasar atau nilai wajar yang ditetapkan kembali oleh Direktur Jenderal Pajak Pasal 19"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-013",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan Pasal dalam UU PPh yang menjadi pemicu Penilaian menurut PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Pasal 16C",
+      "B": "Pasal 18 ayat (3)",
+      "C": "Pasal 19",
+      "D": "Pasal 11"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 11, Pasal 18 ayat (3), dan Pasal 19 merupakan pemicu Penilaian pada UU PPh. Pasal 16C bukan ketentuan UU PPh, melainkan pemicu Penilaian pada UU PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Nilai tertentu sebesar jumlah biaya yang dikeluarkan dan/atau yang dibayarkan untuk membangun bangunan sebagai DPP PPN. Pasal 16C"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "UU PPN"
+    ]
+  },
+  {
+    "id": "POT-02-014",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam rangka pemekaran usaha, dua harta milik Wajib Pajak dipertukarkan antar pihak yang memiliki hubungan istimewa sehingga perlu ditentukan harga pasarnya. Pemicu Penilaian atas kasus ini diatur dalam UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 10 ayat (1)",
+      "B": "Pasal 10 ayat (2) dan ayat (3)",
+      "C": "Pasal 11",
+      "D": "Pasal 18 ayat (3)"
+    },
+    "kunci": "B",
+    "pembahasan": "Harga pasar dalam hal tukar-menukar harta serta perolehan/pengalihan harta dalam rangka pemekaran usaha diatur dalam Pasal 10 ayat (2) dan ayat (3) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Harga pasar dalam hal terjadi tukar-menukar harta dan dalam perolehan atau pengalihan harta dalam rangka harta likuidasi, penggabungan, peleburan, pemekaran, pemecahan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-015",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa menemukan indikasi bahwa pinjaman Wajib Pajak kepada pihak afiliasi memiliki perbandingan utang terhadap modal yang tidak wajar sehingga perlu ditentukan kembali besarnya penghasilan, pengurangan, dan utang yang diperhitungkan sebagai modal. Pemicu Penilaian atas kondisi ini diatur dalam UU PPh pada?",
+    "opsi": {
+      "A": "Pasal 19",
+      "B": "Pasal 18 ayat (3a)",
+      "C": "Pasal 18 ayat (3)",
+      "D": "Pasal 11A"
+    },
+    "kunci": "C",
+    "pembahasan": "Menentukan kembali besarnya penghasilan dan pengurangan serta menentukan utang sebagai modal diatur dalam Pasal 18 ayat (3) UU PPh.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 48,
+        "kutipan": "Menentukan kembali besarnya penghasilan dan pengurangan serta menentukan utang sebagai modal. Pasal 18 ayat (3)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPh",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-016",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga pasar wajar untuk barang kena pajak berupa persediaan dan/atau aktiva yang menurut tujuan semula tidak untuk diperjualbelikan, yang masih tersisa pada saat pembubaran perusahaan, menjadi pemicu Penilaian menurut UU PPN pada?",
+    "opsi": {
+      "A": "Pasal 16C",
+      "B": "Pasal 16D",
+      "C": "Pasal 2 ayat (1)",
+      "D": "Pasal 1A ayat (1) huruf e"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 1A ayat (1) huruf e UU PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "yang masih tersisa pada saat pembubaran perusahaan. Pasal 1A ayat (1) huruf e"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPN",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-017",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga jual atau penggantian yang dihitung berdasarkan harga pasar wajar dalam hal dipengaruhi oleh hubungan istimewa merupakan pemicu Penilaian menurut UU PPN pada?",
+    "opsi": {
+      "A": "Pasal 2 ayat (1)",
+      "B": "Pasal 16D",
+      "C": "Pasal 1A ayat (1) huruf e",
+      "D": "Pasal 16C"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 2 ayat (1) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Harga jual atau penggantian yang dihitung berdasarkan harga pasar wajar dalam hal dipengaruhi oleh hubungan istimewa. Pasal 2 ayat (1)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPN",
+      "Pemicu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-018",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Nilai tertentu sebesar jumlah biaya yang dikeluarkan dan/atau dibayarkan untuk membangun bangunan sebagai DPP PPN menjadi pemicu Penilaian pada Pasal berapa UU PPN?",
+    "opsi": {
+      "A": "Pasal 2 ayat (1)",
+      "B": "Pasal 16C",
+      "C": "Pasal 16D",
+      "D": "Pasal 1A ayat (1) huruf e"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 16C UU PPN terkait DPP membangun bangunan sendiri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Nilai tertentu sebesar jumlah biaya yang dikeluarkan dan/atau yang dibayarkan untuk membangun bangunan sebagai DPP PPN. Pasal 16C"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPN",
+      "DPP PPN"
+    ]
+  },
+  {
+    "id": "POT-02-019",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Harga pasar sebagai DPP PPN atas penyerahan BKP berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan oleh PKP menjadi pemicu Penilaian pada Pasal berapa UU PPN?",
+    "opsi": {
+      "A": "Pasal 2 ayat (1)",
+      "B": "Pasal 1A ayat (1) huruf e",
+      "C": "Pasal 16D",
+      "D": "Pasal 16C"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 16D UU PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Harga pasar sebagai DPP PPN atas penyerahan BKP berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan oleh PKP. Pasal 16D"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPN",
+      "DPP PPN"
+    ]
+  },
+  {
+    "id": "POT-02-020",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga limit untuk penjualan barang sitaan secara lelang menjadi pemicu Penilaian menurut UU PPSP pada?",
+    "opsi": {
+      "A": "Pasal 25 ayat (2)",
+      "B": "Pasal 16D",
+      "C": "Pasal 14 ayat (2)",
+      "D": "Pasal 2 ayat (3)"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 2 ayat (3) UU PPSP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Harga limit untuk penjualan barang sitaan secara lelang. Pasal 2 ayat (3)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPSP",
+      "Lelang"
+    ]
+  },
+  {
+    "id": "POT-02-021",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Perkiraan nilai barang yang disita menjadi pemicu Penilaian menurut UU PPSP pada?",
+    "opsi": {
+      "A": "Pasal 14 ayat (2)",
+      "B": "Pasal 16C",
+      "C": "Pasal 25 ayat (2)",
+      "D": "Pasal 2 ayat (3)"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 14 ayat (2) UU PPSP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Perkiraan nilai barang yang disita. Pasal 14 ayat (2)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPSP",
+      "Penyitaan"
+    ]
+  },
+  {
+    "id": "POT-02-022",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Harga jual untuk barang sitaan yang penjualannya dikecualikan dari penjualan secara lelang menjadi pemicu Penilaian menurut UU PPSP pada?",
+    "opsi": {
+      "A": "Pasal 14 ayat (2)",
+      "B": "Pasal 25 ayat (2)",
+      "C": "Pasal 2 ayat (3)",
+      "D": "Pasal 1A ayat (1) huruf e"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan tersebut diatur dalam Pasal 25 ayat (2) UU PPSP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 49,
+        "kutipan": "Harga jual untuk barang sitaan yang penjualannya dikecualikan dari penjualan secara lelang. Pasal 25 ayat (2)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "UU PPSP",
+      "Penyitaan"
+    ]
+  },
+  {
+    "id": "POT-02-023",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Pemicu Penilaian PMK-79/2023, setelah pemicu pada UU PPh/PPN/PPSP digunakan dalam kegiatan seperti Pengawasan, Pemeriksaan, Keberatan, dan Penagihan, hasil kegiatan tersebut selanjutnya menghasilkan jenis Penilaian berupa?",
+    "opsi": {
+      "A": "Keberatan dan Banding",
+      "B": "SKPKB dan STP",
+      "C": "Penilaian Kantor dan Penilaian Lapangan",
+      "D": "Pemeriksaan dan Penyidikan"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan alur dari kegiatan penggunaan hasil Penilaian menuju jenis Penilaian, yaitu Penilaian Kantor dan Penilaian Lapangan, sebelum menghasilkan Nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "Penilaian kantor ... Penilaian lapangan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-02-024",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram pemicu Penilaian PMK-79/2023, kegiatan Pengawasan sebagai penggunaan hasil Penilaian digambarkan hanya terhubung dengan satu jenis Penilaian, yaitu?",
+    "opsi": {
+      "A": "Penilaian Lapangan",
+      "B": "Penilaian Kantor dan Penilaian Lapangan",
+      "C": "Penilaian Independen",
+      "D": "Penilaian Kantor"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam diagram, kotak Pengawasan memiliki panah tunggal yang hanya mengarah ke Penilaian kantor, berbeda dengan kelompok kegiatan lain (Pemeriksaan, MAP, APA, dst.) yang bercabang ke Penilaian kantor maupun Penilaian lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "Pengawasan -> Penilaian kantor"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pengawasan",
+      "Penilaian Kantor"
+    ]
+  },
+  {
+    "id": "POT-02-025",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tindak Lanjut Permintaan Penilaian untuk menentukan nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis diatur dalam PMK-79/2023 pada?",
+    "opsi": {
+      "A": "Pasal 5 ayat (2)",
+      "B": "Pasal 4",
+      "C": "Pasal 6",
+      "D": "Pasal 5 ayat (1)"
+    },
+    "kunci": "A",
+    "pembahasan": "Tindak Lanjut Permintaan Penilaian untuk menentukan nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis diatur dalam Pasal 5 ayat (2) PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "TINDAK LANJUT PERMINTAAN PENILAIAN UNTUK MENENTUKAN NILAI HARTA BERWUJUD, HARTA TIDAK BERWUJUD, DAN BISNIS (Pasal 5 ayat (2))"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-026",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tabel Tindak Lanjut Hasil Penilaian pada Pasal 5 ayat (2) PMK-79/2023 terdiri atas dua kolom, yaitu Kegiatan dan?",
+    "opsi": {
+      "A": "Dasar Hukum",
+      "B": "Tindak Lanjut",
+      "C": "Jangka Waktu",
+      "D": "Pihak Berwenang"
+    },
+    "kunci": "B",
+    "pembahasan": "Tabel tersebut menampilkan dua kolom, yaitu Kegiatan dan Tindak Lanjut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "Kegiatan Tindak Lanjut"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-027",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Pengawasan, hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis digunakan sebagai?",
+    "opsi": {
+      "A": "dasar penentuan harga transfer yang wajar",
+      "B": "dasar penghitungan kerugian pada pendapatan negara",
+      "C": "dasar penghitungan pajak terutang dalam analisis atau penelitian pemenuhan kewajiban perpajakan",
+      "D": "dasar penentuan nilai jaminan aset berwujud"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada kegiatan Pengawasan, hasil Penilaian digunakan sebagai dasar penghitungan pajak terutang dalam analisis atau penelitian pemenuhan kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan pajak terutang dalam analisis atau penelitian pemenuhan kewajiban perpajakan saat dilakukan pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pengawasan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-028",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Pemeriksaan, hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis digunakan sebagai?",
+    "opsi": {
+      "A": "dasar penghitungan kerugian pada pendapatan negara",
+      "B": "dasar penentuan nilai jaminan aset berwujud",
+      "C": "dasar penentuan harga transfer yang wajar",
+      "D": "dasar penghitungan pajak terutang dalam pengujian pemenuhan kewajiban perpajakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada kegiatan Pemeriksaan, hasil Penilaian digunakan sebagai dasar penghitungan pajak terutang dalam pengujian pemenuhan kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan pajak terutang dalam pengujian pemenuhan kewajiban perpajakan saat dilakukan pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pemeriksaan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-029",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Prosedur Persetujuan Bersama (MAP), hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis digunakan sebagai?",
+    "opsi": {
+      "A": "dasar penentuan harga transfer yang wajar dalam analisis dan penentuan posisi runding",
+      "B": "dasar penghitungan pajak terutang dalam pengujian kewajiban perpajakan",
+      "C": "dasar penghitungan kerugian pada pendapatan negara",
+      "D": "dasar penentuan nilai jaminan aset berwujud"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada kegiatan Prosedur Persetujuan Bersama, hasil Penilaian digunakan sebagai dasar penentuan harga transfer yang wajar dalam analisis dan penentuan posisi runding.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penentuan harga transfer yang wajar dalam analisis dan penentuan posisi runding saat dilakukan prosedur persetujuan bersama"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "MAP",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-030",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dua kegiatan yang sama-sama menggunakan hasil Penilaian sebagai dasar penentuan harga transfer yang wajar dalam analisis dan penentuan posisi runding adalah?",
+    "opsi": {
+      "A": "Pengawasan dan Pemeriksaan",
+      "B": "Prosedur Persetujuan Bersama dan Kesepakatan Harga Transfer",
+      "C": "Penagihan dan Penyidikan",
+      "D": "Keberatan dan Pengurangan Ketetapan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Baik Prosedur Persetujuan Bersama (MAP) maupun Kesepakatan Harga Transfer (APA) menggunakan hasil Penilaian sebagai dasar penentuan harga transfer yang wajar dalam analisis dan penentuan posisi runding.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penentuan harga transfer yang wajar dalam analisis dan penentuan posisi runding saat dilakukan prosedur persetujuan bersama ... saat dilakukan kesepakatan harga transfer"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "MAP",
+      "APA"
+    ]
+  },
+  {
+    "id": "POT-02-031",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Penyelesaian Keberatan, hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis digunakan sebagai?",
+    "opsi": {
+      "A": "dasar penentuan harga transfer yang wajar",
+      "B": "dasar penentuan nilai jaminan aset berwujud",
+      "C": "dasar penghitungan pajak terutang dalam keputusan pada penyelesaian keberatan",
+      "D": "dasar penghitungan kerugian pada pendapatan negara"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada kegiatan Penyelesaian Keberatan, hasil Penilaian digunakan sebagai dasar penghitungan pajak terutang dalam keputusan pada penyelesaian keberatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan pajak terutang dalam keputusan pada penyelesaian keberatan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Keberatan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-032",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Penyelesaian Pengurangan atau Pembatalan Ketetapan Pajak, hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis digunakan sebagai?",
+    "opsi": {
+      "A": "dasar penentuan harga transfer yang wajar",
+      "B": "dasar penghitungan kerugian pada pendapatan negara",
+      "C": "dasar penentuan nilai jaminan aset",
+      "D": "dasar penghitungan pajak terutang dalam keputusan pada penyelesaian permohonan pengurangan atau pembatalan ketetapan pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada kegiatan Penyelesaian Pengurangan atau Pembatalan Ketetapan Pajak, hasil Penilaian digunakan sebagai dasar penghitungan pajak terutang dalam keputusan pada penyelesaian permohonan pengurangan atau pembatalan ketetapan pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan pajak terutang dalam keputusan pada penyelesaian permohonan pengurangan atau pembatalan ketetapan pajak"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pengurangan Ketetapan Pajak",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-033",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Penagihan, hasil Penilaian digunakan sebagai dasar penentuan empat hal, yaitu nilai jaminan aset berwujud, nilai barang yang disita, harga limit, dan?",
+    "opsi": {
+      "A": "harga jual untuk barang sitaan yang penjualannya dikecualikan dari penjualan secara lelang",
+      "B": "harga pasar wajar barang kena pajak",
+      "C": "Nilai Jual Objek Pajak",
+      "D": "harga transfer yang wajar"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada kegiatan Penagihan, hasil Penilaian digunakan sebagai dasar penentuan nilai jaminan aset berwujud, nilai barang yang disita, harga limit, dan harga jual untuk barang sitaan yang penjualannya dikecualikan dari penjualan secara lelang.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penentuan nilai jaminan aset berwujud, nilai barang yang disita, harga limit, dan harga jual untuk barang sitaan yang penjualannya dikecualikan dari penjualan secara lelang"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penagihan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-034",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada kegiatan Pemeriksaan Bukti Permulaan, hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis digunakan sebagai?",
+    "opsi": {
+      "A": "dasar penghitungan dan pemulihan kerugian pada pendapatan negara",
+      "B": "dasar penghitungan kerugian pada pendapatan negara",
+      "C": "dasar penghitungan pajak terutang",
+      "D": "dasar penentuan harga transfer yang wajar"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada kegiatan Pemeriksaan Bukti Permulaan, hasil Penilaian digunakan sebagai dasar penghitungan kerugian pada pendapatan negara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan kerugian pada pendapatan negara pada saat dilakukan pemeriksaan bukti permulaan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pemeriksaan Bukti Permulaan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-035",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pernyataan berikut ini TIDAK tepat mengenai Tindak Lanjut Hasil Penilaian pada kegiatan Penyidikan, KECUALI?",
+    "opsi": {
+      "A": "Hasil Penilaian menjadi dasar penentuan nilai jaminan aset",
+      "B": "Hasil Penilaian menjadi dasar penentuan harga transfer yang wajar",
+      "C": "Hasil Penilaian menjadi dasar penghitungan dan pemulihan kerugian pada pendapatan negara",
+      "D": "Hasil Penilaian menjadi dasar penghitungan pajak terutang"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada kegiatan Penyidikan, hasil Penilaian digunakan sebagai dasar penghitungan dan pemulihan kerugian pada pendapatan negara, bukan untuk harga transfer, pajak terutang, maupun nilai jaminan aset.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan dan pemulihan kerugian pada pendapatan negara pada saat dilakukan penyidikan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penyidikan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-036",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk Kegiatan dalam tabel Tindak Lanjut Hasil Penilaian menurut Pasal 5 ayat (2) PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Pengawasan",
+      "B": "Penyelesaian Keberatan",
+      "C": "Prosedur Persetujuan Bersama",
+      "D": "Pendaftaran NPWP"
+    },
+    "kunci": "D",
+    "pembahasan": "Kegiatan dalam tabel Tindak Lanjut Hasil Penilaian meliputi Pengawasan, Pemeriksaan, Prosedur Persetujuan Bersama, Kesepakatan Harga Transfer, Penyelesaian Keberatan, Penyelesaian Pengurangan/Pembatalan, Penagihan, Pemeriksaan Bukti Permulaan, dan Penyidikan. Pendaftaran NPWP tidak termasuk di dalamnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "Pengawasan Pemeriksaan Prosedur persetujuan bersama Kesepakatan harga transfer Penyelesaian keberatan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-037",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Account Representative menggunakan hasil Penilaian suatu bisnis untuk memastikan kewajaran nilai dalam proses analisis dan penelitian kepatuhan Wajib Pajak, tanpa melaksanakan pemeriksaan formal. Tindak lanjut hasil Penilaian tersebut termasuk kegiatan?",
+    "opsi": {
+      "A": "Pengawasan",
+      "B": "Pemeriksaan",
+      "C": "Penyidikan",
+      "D": "Penagihan"
+    },
+    "kunci": "A",
+    "pembahasan": "Hasil Penilaian yang digunakan dalam analisis atau penelitian pemenuhan kewajiban perpajakan tanpa pemeriksaan formal termasuk kegiatan Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "dasar penghitungan pajak terutang dalam analisis atau penelitian pemenuhan kewajiban perpajakan saat dilakukan pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Pengawasan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-038",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Tim Jurusita menggunakan hasil Penilaian untuk menetapkan nilai jaminan aset berwujud milik Penanggung Pajak yang akan disita sebelum pelaksanaan lelang. Tindak lanjut hasil Penilaian tersebut termasuk kegiatan?",
+    "opsi": {
+      "A": "Penyelesaian Keberatan",
+      "B": "Penagihan",
+      "C": "Prosedur Persetujuan Bersama",
+      "D": "Pemeriksaan Bukti Permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Penentuan nilai jaminan aset berwujud, nilai barang yang disita, harga limit, dan harga jual barang sitaan merupakan tindak lanjut hasil Penilaian pada kegiatan Penagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "nilai jaminan aset berwujud, nilai barang yang disita, harga limit, dan harga jual untuk barang sitaan yang penjualannya dikecualikan dari penjualan secara lelang saat dilakukan penagihan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penagihan",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-039",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Secara umum, sebagaimana diatur dalam Pasal 5 ayat (2) PMK-79/2023, hasil Penilaian atas Harta Berwujud, Harta Tidak Berwujud, dan Bisnis?",
+    "opsi": {
+      "A": "tidak dapat digunakan dalam proses penagihan pajak",
+      "B": "hanya digunakan untuk penetapan Nilai Jual Objek Pajak",
+      "C": "digunakan sebagai dasar dalam berbagai tindak lanjut seperti Pengawasan, Pemeriksaan, MAP, APA, Keberatan, dan Penagihan sesuai kegiatannya",
+      "D": "hanya berlaku untuk penyelesaian sengketa di pengadilan pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 5 ayat (2) PMK-79/2023 mengatur bahwa hasil Penilaian digunakan sebagai dasar dalam berbagai tindak lanjut sesuai kegiatan yang dilaksanakan, seperti Pengawasan, Pemeriksaan, MAP, APA, Keberatan, dan Penagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 50,
+        "kutipan": "Hasil Penilaian digunakan sebagai:"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Tindak Lanjut Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-040",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam melakukan Penilaian, Direktur Jenderal Pajak membentuk?",
+    "opsi": {
+      "A": "Tim Juru Sita",
+      "B": "Tim Peneliti Keberatan",
+      "C": "Tim Pemeriksa",
+      "D": "Tim Penilai"
+    },
+    "kunci": "D",
+    "pembahasan": "Sesuai Pasal 6 PMK-79/2023, dalam melakukan Penilaian, Direktur Jenderal Pajak membentuk tim Penilai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "Dalam melakukan Penilaian, Direktur Jenderal Pajak membentuk tim Penilai."
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Tim Penilai"
+    ]
+  },
+  {
+    "id": "POT-02-041",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai Surat Perintah Penilaian dan Tim Penilai dalam PMK-79/2023 diatur dalam?",
+    "opsi": {
+      "A": "Pasal 6",
+      "B": "Pasal 2",
+      "C": "Pasal 4",
+      "D": "Pasal 5"
+    },
+    "kunci": "A",
+    "pembahasan": "Surat Perintah Penilaian dan Tim Penilai diatur dalam Pasal 6 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "SURAT PERINTAH PENILAIAN DAN TIM PENILAI (Pasal 6)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Surat Perintah Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-042",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tim Penilai melaksanakan Penilaian berdasarkan Surat Perintah Penilaian dan?",
+    "opsi": {
+      "A": "Surat Tugas Pemeriksaan",
+      "B": "Surat Perintah Penilaian perubahan",
+      "C": "Surat Keputusan Keberatan",
+      "D": "Surat Teguran"
+    },
+    "kunci": "B",
+    "pembahasan": "Tim Penilai melakukan Penilaian berdasarkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan yang ditetapkan oleh Direktur Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "Tim Penilai melakukan Penilaian berdasarkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Surat Perintah Penilaian",
+      "Tim Penilai"
+    ]
+  },
+  {
+    "id": "POT-02-043",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan ditetapkan oleh?",
+    "opsi": {
+      "A": "Menteri Keuangan",
+      "B": "Kepala Kantor Wilayah DJP",
+      "C": "Direktur Jenderal Pajak",
+      "D": "Kepala KPP"
+    },
+    "kunci": "C",
+    "pembahasan": "Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan ditetapkan oleh Direktur Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan yang ditetapkan oleh Direktur Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Surat Perintah Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-044",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kewenangan Direktur Jenderal Pajak untuk menetapkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan didelegasikan kepada?",
+    "opsi": {
+      "A": "kepala unit pelaksana pemeriksaan",
+      "B": "Menteri Keuangan",
+      "C": "Kepala KPP tempat Wajib Pajak terdaftar",
+      "D": "kepala unit yang memiliki tugas dan fungsi di bidang Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Direktur Jenderal Pajak mendelegasikan kewenangannya untuk menetapkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan kepada kepala unit yang memiliki tugas dan fungsi di bidang Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "mendelegasikan kewenangannya untuk menetapkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan kepada kepala unit yang memiliki tugas dan fungsi di bidang Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Delegasi Kewenangan"
+    ]
+  },
+  {
+    "id": "POT-02-045",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penilaian berdasarkan Pasal 6 PMK-79/2023 dilakukan dalam jangka waktu paling lama?",
+    "opsi": {
+      "A": "3 bulan",
+      "B": "6 bulan",
+      "C": "1 bulan",
+      "D": "2 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Penilaian dilakukan dalam jangka waktu paling lama 3 (tiga) bulan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "Penilaian dilakukan dalam jangka waktu paling lama 3 (tiga) bulan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Jangka Waktu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-046",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu paling lama 3 (tiga) bulan pelaksanaan Penilaian menurut Pasal 6 PMK-79/2023 dihitung sejak?",
+    "opsi": {
+      "A": "SPT disampaikan sampai pemeriksaan selesai",
+      "B": "ditetapkannya Surat Perintah Penilaian sampai dengan Laporan Penilaian ditandatangani",
+      "C": "Laporan Penilaian ditandatangani sampai disampaikan kepada Wajib Pajak",
+      "D": "diterimanya permintaan Penilaian sampai SPPn terbit"
+    },
+    "kunci": "B",
+    "pembahasan": "Jangka waktu paling lama 3 bulan dihitung sejak ditetapkannya Surat Perintah Penilaian sampai dengan Laporan Penilaian ditandatangani.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "terhitung sejak ditetapkannya Surat Perintah Penilaian sampai dengan Laporan Penilaian ditandatangani"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Jangka Waktu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-047",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Surat Perintah Penilaian atas suatu bisnis ditetapkan pada tanggal 5 Januari. Berdasarkan Pasal 6 PMK-79/2023, paling lambat Laporan Penilaian harus sudah ditandatangani pada?",
+    "opsi": {
+      "A": "5 Maret",
+      "B": "5 Juni",
+      "C": "5 April",
+      "D": "5 Februari"
+    },
+    "kunci": "C",
+    "pembahasan": "Jangka waktu Penilaian paling lama 3 bulan sejak SPPn ditetapkan (5 Januari), sehingga batas akhir penandatanganan Laporan Penilaian adalah 5 April.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "jangka waktu paling lama 3 (tiga) bulan terhitung sejak ditetapkannya Surat Perintah Penilaian sampai dengan Laporan Penilaian ditandatangani"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Jangka Waktu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-048",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pernyataan berikut ini TIDAK tepat mengenai Surat Perintah Penilaian dan Tim Penilai menurut Pasal 6 PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Surat Perintah Penilaian ditetapkan oleh Kepala KPP tempat Wajib Pajak terdaftar",
+      "B": "Tim Penilai dibentuk oleh Wajib Pajak yang dinilai",
+      "C": "Penilaian dapat dilakukan tanpa batas waktu",
+      "D": "Direktur Jenderal Pajak dapat mendelegasikan kewenangan menetapkan Surat Perintah Penilaian kepada kepala unit bidang Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Sesuai Pasal 6 PMK-79/2023, Direktur Jenderal Pajak mendelegasikan kewenangannya untuk menetapkan Surat Perintah Penilaian kepada kepala unit yang memiliki tugas dan fungsi di bidang Penilaian; Tim Penilai dibentuk oleh DJP (bukan WP), dan Penilaian memiliki batas waktu paling lama 3 bulan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "mendelegasikan kewenangannya untuk menetapkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan kepada kepala unit yang memiliki tugas dan fungsi di bidang Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Delegasi Kewenangan"
+    ]
+  },
+  {
+    "id": "POT-02-049",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 6 PMK-79/2023, urutan yang tepat mengenai Surat Perintah Penilaian dan Tim Penilai adalah?",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak membentuk Tim Penilai, Tim Penilai bekerja berdasarkan SPPn yang ditetapkan DJP (atau pejabat yang didelegasikan), dan Penilaian diselesaikan paling lama 3 bulan",
+      "B": "Kepala unit Penilaian membentuk Tim Penilai tanpa SPPn, lalu Wajib Pajak mengajukan keberatan",
+      "C": "SPPn terbit lebih dahulu, kemudian Tim Penilai dibubarkan dan dibentuk ulang setiap bulan",
+      "D": "Tim Penilai dibentuk Wajib Pajak, SPPn diterbitkan Wajib Pajak, lalu Laporan Penilaian disahkan DJP"
+    },
+    "kunci": "A",
+    "pembahasan": "Urutan menurut Pasal 6 PMK-79/2023: DJP membentuk Tim Penilai, Tim Penilai bekerja berdasarkan SPPn dan SPPn perubahan yang ditetapkan DJP (dapat didelegasikan kepada kepala unit bidang Penilaian), dan Penilaian diselesaikan paling lama 3 bulan sejak SPPn ditetapkan sampai Laporan Penilaian ditandatangani.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "Dalam melakukan Penilaian, Direktur Jenderal Pajak membentuk tim Penilai. Tim Penilai melakukan Penilaian berdasarkan Surat Perintah Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Tim Penilai",
+      "Jangka Waktu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-050",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Surat Perintah Penilaian atas suatu bisnis ditetapkan pada 10 Mei, namun Laporan Penilaian baru ditandatangani pada 20 Agustus karena keterlambatan pengumpulan data. Berdasarkan Pasal 6 PMK-79/2023, kondisi tersebut?",
+    "opsi": {
+      "A": "Masih sesuai dengan jangka waktu paling lama 3 bulan",
+      "B": "Melebihi jangka waktu paling lama 3 bulan yang ditentukan",
+      "C": "Sesuai karena jangka waktu dihitung sejak Wajib Pajak mengajukan permohonan",
+      "D": "Sesuai karena Penilaian tidak memiliki batas waktu"
+    },
+    "kunci": "B",
+    "pembahasan": "Jangka waktu Penilaian paling lama 3 bulan sejak SPPn ditetapkan (10 Mei) adalah 10 Agustus. Penandatanganan Laporan Penilaian pada 20 Agustus telah melebihi jangka waktu tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "Penilaian dilakukan dalam jangka waktu paling lama 3 (tiga) bulan terhitung sejak ditetapkannya Surat Perintah Penilaian sampai dengan Laporan Penilaian ditandatangani"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Jangka Waktu Penilaian"
+    ]
+  },
+  {
+    "id": "POT-02-051",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai delegasi kewenangan Direktur Jenderal Pajak untuk menetapkan Surat Perintah Penilaian kepada kepala unit bidang Penilaian merupakan poin keberapa dalam Pasal 6 PMK-79/2023?",
+    "opsi": {
+      "A": "poin 4",
+      "B": "poin 2",
+      "C": "poin 3",
+      "D": "poin 1"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan delegasi kewenangan tersebut merupakan poin ke-3 dari empat poin dalam Pasal 6 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "3. Direktur Jenderal Pajak mendelegasikan kewenangannya untuk menetapkan Surat Perintah Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Delegasi Kewenangan"
+    ]
+  },
+  {
+    "id": "POT-02-052",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai jangka waktu paling lama 3 bulan pelaksanaan Penilaian merupakan poin terakhir (keempat) dalam Pasal 6 PMK-79/2023 yang mengatur tentang?",
+    "opsi": {
+      "A": "Lingkup Penilaian",
+      "B": "Tindak Lanjut Hasil Penilaian",
+      "C": "Pemicu Penilaian",
+      "D": "Surat Perintah Penilaian dan Tim Penilai"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan jangka waktu 3 bulan merupakan poin keempat Pasal 6 PMK-79/2023 yang secara keseluruhan mengatur Surat Perintah Penilaian dan Tim Penilai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 51,
+        "kutipan": "4. Penilaian dilakukan dalam jangka waktu paling lama 3 (tiga) bulan terhitung sejak ditetapkannya Surat Perintah Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Surat Perintah Penilaian",
+      "Jangka Waktu Penilaian"
+    ]
+  }
+]

@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "PMR-03-016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan PER-23/PJ/2013, yang dimaksud dengan Standar Pemeriksaan adalah...",
+    "opsi": {
+      "A": "standar nilai pajak kurang bayar minimal yang harus dicapai Pemeriksa Pajak",
+      "B": "standar lamanya waktu pemeriksaan lapangan yang ditetapkan oleh Kepala KPP",
+      "C": "standar yang digunakan oleh Pemeriksa Pajak sebagai acuan melaksanakan Pemeriksaan",
+      "D": "standar jumlah minimal temuan yang wajib diperoleh pada setiap pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Standar Pemeriksaan adalah standar yang digunakan oleh Pemeriksa Pajak sebagai acuan melaksanakan Pemeriksaan, sebagaimana diatur dalam PER-23/PJ/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "Standar Pemeriksaan adalah standar yang digunakan oleh Pemeriksa Pajak sebagai acuan melaksanakan Pemeriksaan."
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013",
+      "Standar Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Standar Pemeriksaan sebagaimana diatur dalam PER-23/PJ/2013 terdiri atas berapa jenis standar?",
+    "opsi": {
+      "A": "2 (Standar Umum dan Standar Pelaksanaan)",
+      "B": "5 (Standar Umum, Pelaksanaan, Pelaporan, Pengawasan, dan Pengendalian)",
+      "C": "4 (Standar Umum, Pelaksanaan, Pelaporan, dan Evaluasi)",
+      "D": "3 (Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan)"
+    },
+    "kunci": "D",
+    "pembahasan": "Standar Pemeriksaan terdiri atas tiga jenis, yaitu Standar Umum Pemeriksaan, Standar Pelaksanaan Pemeriksaan, dan Standar Pelaporan Hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "Standar Umum Pemeriksaan, Standar Pelaksanaan Pemeriksaan, Standar Pelaporan Hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013",
+      "Standar Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Standar Umum Pemeriksaan sebagaimana diatur dalam PER-23/PJ/2013 terdiri atas berapa poin persyaratan bagi Pemeriksa Pajak?",
+    "opsi": {
+      "A": "2 poin",
+      "B": "4 poin",
+      "C": "3 poin",
+      "D": "1 poin"
+    },
+    "kunci": "A",
+    "pembahasan": "Standar Umum Pemeriksaan terdiri atas 2 poin, yaitu (a) mendapat pendidikan dan/atau pelatihan teknis yang cukup serta memiliki keterampilan, dan (b) memiliki integritas dan independensi.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "memiliki integritas dan independensi dalam melaksanakan tugas sebagai Pemeriksa Pajak"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013",
+      "Standar Umum Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Standar Pelaksanaan Pemeriksaan menurut PER-23/PJ/2013 terdiri atas berapa poin ketentuan?",
+    "opsi": {
+      "A": "4 poin",
+      "B": "5 poin",
+      "C": "3 poin",
+      "D": "6 poin"
+    },
+    "kunci": "B",
+    "pembahasan": "Standar Pelaksanaan Pemeriksaan terdiri atas 5 poin (a sampai e), salah satunya mendokumentasikan pelaksanaan Pemeriksaan dalam bentuk kertas kerja Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "mendokumentasikan pelaksanaan Pemeriksaan dalam bentuk kertas kerja Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013",
+      "Standar Pelaksanaan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk dalam Standar Pelaksanaan Pemeriksaan menurut PER-23/PJ/2013, KECUALI...",
+    "opsi": {
+      "A": "mendasarkan hasil temuan Pemeriksaan pada bukti yang kuat dan berkaitan",
+      "B": "menyusun Laporan Hasil Pemeriksaan yang memuat simpulan dan usulan Pemeriksa Pajak",
+      "C": "mendokumentasikan pelaksanaan Pemeriksaan dalam bentuk kertas kerja Pemeriksaan",
+      "D": "melakukan pengujian berdasarkan metode dan teknik Pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Menyusun Laporan Hasil Pemeriksaan yang memuat simpulan dan usulan Pemeriksa Pajak termasuk Standar Pelaporan Hasil Pemeriksaan, bukan Standar Pelaksanaan Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "Laporan Hasil Pemeriksaan memuat tentang pelaksanaan Pemeriksaan, simpulan, dan usulan Pemeriksa Pajak"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013",
+      "Standar Pelaksanaan Pemeriksaan",
+      "Standar Pelaporan Hasil Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai Standar Pelaporan Hasil Pemeriksaan dalam PER-23/PJ/2013, Laporan Hasil Pemeriksaan disusun berdasarkan...",
+    "opsi": {
+      "A": "Surat Perintah Pemeriksaan",
+      "B": "Nota Penghitungan",
+      "C": "Kertas Kerja Pengawasan Mutu",
+      "D": "kertas kerja Pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Laporan Hasil Pemeriksaan disusun berdasarkan kertas kerja Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "Laporan Hasil Pemeriksaan disusun berdasarkan kertas kerja Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013",
+      "Standar Pelaporan Hasil Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan bagi Pemeriksa Pajak diatur dalam peraturan...",
+    "opsi": {
+      "A": "PER-07/PJ/2017",
+      "B": "SE-15/PJ/2018",
+      "C": "PER-23/PJ/2013",
+      "D": "PMK-17/PMK.03/2013"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan mengenai Standar Pemeriksaan (Standar Umum, Pelaksanaan, dan Pelaporan) diatur dalam PER-23/PJ/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 17,
+        "kutipan": "PER 23/PJ/2013"
+      }
+    ],
+    "tags": [
+      "PER-23/PJ/2013"
+    ]
+  },
+  {
+    "id": "PMR-03-023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tahap pertama dalam Persiapan Pemeriksaan adalah membuat...",
+    "opsi": {
+      "A": "Prosedur Pemeriksaan",
+      "B": "Program Pemeriksaan",
+      "C": "Laporan Hasil Pemeriksaan",
+      "D": "KKP Identifikasi Masalah"
+    },
+    "kunci": "D",
+    "pembahasan": "Tahap pertama Persiapan Pemeriksaan adalah membuat KKP Identifikasi Masalah.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Membuat KKP Identifikasi Masalah berisikan"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan",
+      "KKP Identifikasi Masalah"
+    ]
+  },
+  {
+    "id": "PMR-03-024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "KKP Identifikasi Masalah dalam tahap Persiapan Pemeriksaan berisikan...",
+    "opsi": {
+      "A": "nota penghitungan dan surat ketetapan pajak",
+      "B": "daftar bukti permulaan dan dasar hukum penyidikan",
+      "C": "daftar saksi dan keterangan ahli",
+      "D": "Pos SPT atau turunan yang akan diperiksa"
+    },
+    "kunci": "D",
+    "pembahasan": "KKP Identifikasi Masalah berisikan Pos SPT atau turunan yang akan diperiksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Membuat KKP Identifikasi Masalah berisikan : Pos SPT atau Turunan yang akan diperiksa"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan",
+      "KKP Identifikasi Masalah"
+    ]
+  },
+  {
+    "id": "PMR-03-025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah membuat KKP Identifikasi Masalah, langkah berikutnya dalam Persiapan Pemeriksaan adalah...",
+    "opsi": {
+      "A": "menyusun Laporan Hasil Pemeriksaan",
+      "B": "menyusun Program Pemeriksaan",
+      "C": "membuat Usulan Rencana Pemeriksaan",
+      "D": "menyusun Prosedur Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Setelah KKP Identifikasi Masalah, tahap berikutnya adalah membuat Usulan Rencana Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Buat Usulan Rencana Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan",
+      "Rencana Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam tahap Persiapan Pemeriksaan, Program Pemeriksaan disusun berdasarkan...",
+    "opsi": {
+      "A": "Surat Perintah Pemeriksaan",
+      "B": "Nota Penghitungan",
+      "C": "Rencana Pemeriksaan",
+      "D": "Kertas Kerja Pemeriksaan tahun sebelumnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Program Pemeriksaan disusun berdasarkan Rencana Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Menyusun Program Pemeriksaan berdasarkan Rencana Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan",
+      "Program Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Program Pemeriksaan dalam tahap Persiapan Pemeriksaan berisikan...",
+    "opsi": {
+      "A": "jangka waktu dan ruang lingkup pemeriksaan",
+      "B": "simpulan dan usulan Pemeriksa Pajak",
+      "C": "Teknik Pemeriksaan serta buku, catatan, dan dokumen yang harus dipinjam",
+      "D": "kriteria pemeriksaan efektif"
+    },
+    "kunci": "C",
+    "pembahasan": "Program Pemeriksaan berisikan Teknik Pemeriksaan dan buku, catatan, dan dokumen yang harus dipinjam.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Berisikan Teknik Pemeriksaan dan buku, catatan dan dokumen yang harus dipinjam"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan",
+      "Program Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan tahapan yang digambarkan pada materi, Persiapan Pemeriksaan terdiri atas berapa langkah utama?",
+    "opsi": {
+      "A": "2 langkah",
+      "B": "4 langkah",
+      "C": "5 langkah",
+      "D": "3 langkah"
+    },
+    "kunci": "B",
+    "pembahasan": "Persiapan Pemeriksaan digambarkan terdiri atas 4 langkah, yaitu membuat KKP Identifikasi Masalah, membuat Usulan Rencana Pemeriksaan, menyusun Program Pemeriksaan, dan menyusun Prosedur Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Menyusun Prosedur Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-029",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Tahap terakhir dalam rangkaian Persiapan Pemeriksaan sebagaimana digambarkan pada materi adalah...",
+    "opsi": {
+      "A": "menyusun Prosedur Pemeriksaan",
+      "B": "menyusun Program Pemeriksaan",
+      "C": "membuat KKP Identifikasi Masalah",
+      "D": "membuat Usulan Rencana Pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Rangkaian Persiapan Pemeriksaan diakhiri dengan menyusun Prosedur Pemeriksaan, setelah KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, dan Program Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 18,
+        "kutipan": "Menyusun Prosedur Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Persiapan Pemeriksaan",
+      "Prosedur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-030",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam konteks Pemeriksaan Pajak, yang dimaksud dengan Metode adalah...",
+    "opsi": {
+      "A": "Teknik dan Prosedur Pemeriksaan yang dilakukan terhadap buku, catatan, dan dokumen serta data, informasi, dan keterangan lain, terdiri atas Metode Langsung dan Metode Tidak Langsung",
+      "B": "Simpulan dan usulan Pemeriksa Pajak yang dituangkan dalam Laporan Hasil Pemeriksaan",
+      "C": "Serangkaian langkah dalam suatu Teknik Pemeriksaan berupa petunjuk rinci dalam bentuk perintah",
+      "D": "Cara-cara pengumpulan bukti, pengujian, dan/atau pembuktian yang dikembangkan oleh Pemeriksa Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Metode adalah Teknik dan Prosedur Pemeriksaan yang dilakukan terhadap buku, catatan, dan dokumen serta data, informasi, dan keterangan lain, yang terdiri atas Metode Langsung dan Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 19,
+        "kutipan": "Teknik dan Prosedur Pemeriksaan yang dilakukan terhadap buku, catatan, dan dokumen serta data, informasi, dan keterangan lain"
+      }
+    ],
+    "tags": [
+      "Metode Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam konteks Pemeriksaan Pajak, yang dimaksud dengan Teknik Pemeriksaan adalah...",
+    "opsi": {
+      "A": "Serangkaian langkah dalam suatu Teknik Pemeriksaan berupa petunjuk rinci dalam bentuk perintah",
+      "B": "Standar yang digunakan oleh Pemeriksa Pajak sebagai acuan melaksanakan Pemeriksaan",
+      "C": "Teknik dan Prosedur Pemeriksaan yang dilakukan terhadap buku, catatan, dan dokumen",
+      "D": "Cara-cara pengumpulan bukti, pengujian, dan/atau pembuktian yang dikembangkan oleh Pemeriksa Pajak untuk meyakini kebenaran pos-pos yang diperiksa"
+    },
+    "kunci": "D",
+    "pembahasan": "Teknik Pemeriksaan adalah cara-cara pengumpulan bukti, pengujian, dan/atau pembuktian yang dikembangkan oleh Pemeriksa Pajak untuk meyakini kebenaran pos-pos yang diperiksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 19,
+        "kutipan": "Cara-cara pengumpulan bukti, pengujian, dan/atau pembuktian yang dikembangkan oleh Pemeriksa Pajak untuk meyakini kebenaran pos-pos yang diperiksa"
+      }
+    ],
+    "tags": [
+      "Teknik Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam konteks Pemeriksaan Pajak, yang dimaksud dengan Prosedur Pemeriksaan adalah...",
+    "opsi": {
+      "A": "Cara-cara pengumpulan bukti, pengujian, dan/atau pembuktian yang dikembangkan oleh Pemeriksa Pajak",
+      "B": "Teknik dan Prosedur Pemeriksaan yang dilakukan terhadap buku, catatan, dan dokumen",
+      "C": "Serangkaian langkah dalam suatu Teknik Pemeriksaan, berupa petunjuk rinci yang biasanya tertulis dalam bentuk perintah untuk dilakukan oleh Pemeriksa Pajak",
+      "D": "Kesimpulan dan usulan Pemeriksa Pajak dalam Laporan Hasil Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Prosedur Pemeriksaan adalah serangkaian langkah dalam suatu Teknik Pemeriksaan, berupa petunjuk rinci yang biasanya tertulis dalam bentuk PERINTAH, untuk dilakukan oleh Pemeriksa Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 19,
+        "kutipan": "berupa petunjuk rinci yang biasanya tertulis dalam bentuk PERINTAH, untuk dilakukan oleh Pemeriksa Pajak"
+      }
+    ],
+    "tags": [
+      "Prosedur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-033",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Pemeriksa Pajak menyusun petunjuk rinci berupa perintah tertulis untuk dilaksanakan dalam rangka menerapkan suatu teknik pemeriksaan tertentu. Hal yang disusun oleh Pemeriksa Pajak tersebut dikenal sebagai...",
+    "opsi": {
+      "A": "Program Pemeriksaan",
+      "B": "Metode Pemeriksaan",
+      "C": "Prosedur Pemeriksaan",
+      "D": "Kertas Kerja Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Petunjuk rinci berupa perintah tertulis untuk dilaksanakan dalam suatu Teknik Pemeriksaan disebut Prosedur Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 19,
+        "kutipan": "berupa petunjuk rinci yang biasanya tertulis dalam bentuk PERINTAH, untuk dilakukan oleh Pemeriksa Pajak"
+      }
+    ],
+    "tags": [
+      "Prosedur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-034",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan unsur dari definisi Metode Pemeriksaan, KECUALI...",
+    "opsi": {
+      "A": "dilakukan terhadap buku, catatan, dan dokumen",
+      "B": "terdiri atas Metode Langsung dan Metode Tidak Langsung",
+      "C": "berupa petunjuk rinci yang biasanya tertulis dalam bentuk perintah",
+      "D": "mencakup data, informasi, dan keterangan lain"
+    },
+    "kunci": "C",
+    "pembahasan": "Unsur 'berupa petunjuk rinci yang tertulis dalam bentuk perintah' merupakan bagian dari definisi Prosedur Pemeriksaan, bukan Metode Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 19,
+        "kutipan": "berupa petunjuk rinci yang biasanya tertulis dalam bentuk PERINTAH, untuk dilakukan oleh Pemeriksa Pajak"
+      }
+    ],
+    "tags": [
+      "Metode Pemeriksaan",
+      "Prosedur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-035",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Prosedur Pemeriksaan merupakan serangkaian langkah yang terdapat dalam suatu...",
+    "opsi": {
+      "A": "Program Pemeriksaan",
+      "B": "Metode Pemeriksaan",
+      "C": "Teknik Pemeriksaan",
+      "D": "Rencana Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Prosedur Pemeriksaan adalah serangkaian langkah dalam suatu Teknik Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 19,
+        "kutipan": "Serangkaian langkah dalam suatu Teknik Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Prosedur Pemeriksaan",
+      "Teknik Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-036",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Metode Langsung dalam Pemeriksaan Pajak merupakan teknik dan prosedur pemeriksaan untuk menguji kebenaran pos-pos yang diperiksa yang dilakukan...",
+    "opsi": {
+      "A": "berdasarkan hasil analisis risiko ketidakpatuhan Wajib Pajak",
+      "B": "melalui konfirmasi kepada pihak ketiga secara tertulis",
+      "C": "secara tidak langsung melalui suatu pendekatan penghitungan tertentu",
+      "D": "secara langsung terhadap buku, catatan, dan dokumen terkait dengan pos-pos yang diperiksa"
+    },
+    "kunci": "D",
+    "pembahasan": "Metode Langsung dilakukan secara langsung terhadap buku, catatan, dan dokumen terkait dengan pos-pos yang diperiksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 20,
+        "kutipan": "dilakukan secara langsung terhadap buku, catatan, dan dokumen terkait dengan pos-pos yang diperiksa"
+      }
+    ],
+    "tags": [
+      "Metode Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-037",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Metode Tidak Langsung dalam Pemeriksaan Pajak merupakan teknik dan prosedur pemeriksaan untuk menguji kebenaran pos-pos yang diperiksa yang dilakukan...",
+    "opsi": {
+      "A": "secara langsung terhadap buku, catatan, dan dokumen terkait pos yang diperiksa",
+      "B": "berdasarkan laporan keuangan audited semata",
+      "C": "secara tidak langsung melalui suatu pendekatan penghitungan tertentu",
+      "D": "melalui wawancara langsung dengan Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Metode Tidak Langsung dilakukan secara tidak langsung melalui suatu pendekatan penghitungan tertentu.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 20,
+        "kutipan": "dilakukan secara tidak langsung melalui suatu pendekatan penghitungan tertentu"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-038",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa Pajak menguji kebenaran pos Peredaran Usaha dengan langsung meneliti buku, catatan, dan dokumen yang terkait dengan pos tersebut. Metode Pemeriksaan yang digunakan adalah...",
+    "opsi": {
+      "A": "Pendekatan Transaksi Tunai dan Bank",
+      "B": "Metode Langsung",
+      "C": "Metode Tidak Langsung",
+      "D": "Pendekatan Sumber dan Penggunaan Dana"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengujian yang dilakukan secara langsung terhadap buku, catatan, dan dokumen terkait pos yang diperiksa merupakan Metode Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 20,
+        "kutipan": "dilakukan secara langsung terhadap buku, catatan, dan dokumen terkait dengan pos-pos yang diperiksa"
+      }
+    ],
+    "tags": [
+      "Metode Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-039",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Metode Tidak Langsung digunakan dalam hal...",
+    "opsi": {
+      "A": "Wajib Pajak tidak mengajukan keberatan",
+      "B": "Metode Langsung tidak dapat diterapkan",
+      "C": "pemeriksaan dilakukan di Kantor Pelayanan Pajak",
+      "D": "Wajib Pajak menyampaikan SPT lebih bayar"
+    },
+    "kunci": "B",
+    "pembahasan": "Metode Tidak Langsung digunakan dalam hal Metode Langsung tidak dapat diterapkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 25,
+        "kutipan": "Digunakan dalam hal Metode Langsung tidak dapat diterapkan"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-040",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebelum menggunakan Metode Tidak Langsung, Pemeriksa Pajak harus...",
+    "opsi": {
+      "A": "melaporkan terlebih dahulu kepada Pengadilan Pajak",
+      "B": "memperoleh izin tertulis dari Wajib Pajak",
+      "C": "mendapat persetujuan Direktur Jenderal Pajak",
+      "D": "memiliki bukti bahwa Metode Langsung tidak dapat digunakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pemeriksa Pajak harus memiliki bukti bahwa Metode Langsung tidak dapat digunakan sebelum beralih ke Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 25,
+        "kutipan": "Pemeriksa Pajak harus memiliki bukti bahwa Metode Langsung tidak dapat digunakan"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-041",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selain digunakan ketika Metode Langsung tidak dapat diterapkan, Metode Tidak Langsung juga dapat digunakan untuk...",
+    "opsi": {
+      "A": "mempercepat penerbitan Surat Ketetapan Pajak tanpa pembahasan",
+      "B": "menghindari kewajiban pembuatan kertas kerja pemeriksaan",
+      "C": "menggantikan seluruh prosedur pemeriksaan lapangan",
+      "D": "mendukung penggunaan Metode Langsung atau melakukan identifikasi masalah"
+    },
+    "kunci": "D",
+    "pembahasan": "Metode Tidak Langsung dapat digunakan untuk mendukung penggunaan Metode Langsung atau untuk melakukan identifikasi masalah.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 25,
+        "kutipan": "Dapat digunakan untuk mendukung penggunaan Metode Langsung atau untuk melakukan identifikasi masalah"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-042",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam melakukan pemeriksaan, Pemeriksa Pajak dapat menggunakan pendekatan Metode Tidak Langsung sebanyak...",
+    "opsi": {
+      "A": "satu atau lebih pendekatan",
+      "B": "hanya 1 pendekatan saja",
+      "C": "seluruh 6 pendekatan secara bersamaan",
+      "D": "maksimal 2 pendekatan sekaligus"
+    },
+    "kunci": "A",
+    "pembahasan": "Pemeriksa Pajak dapat menggunakan satu atau lebih pendekatan Metode Tidak Langsung dalam melakukan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 25,
+        "kutipan": "Pemeriksa Pajak dapat menggunakan satu atau lebih pendekatan Metode Tidak Langsung dalam melakukan pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-043",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan ketentuan terkait penggunaan Metode Tidak Langsung, KECUALI...",
+    "opsi": {
+      "A": "wajib dilakukan secara langsung terhadap buku, catatan, dan dokumen terkait pos yang diperiksa",
+      "B": "dapat digunakan untuk mendukung penggunaan Metode Langsung",
+      "C": "digunakan dalam hal Metode Langsung tidak dapat diterapkan",
+      "D": "Pemeriksa Pajak harus memiliki bukti bahwa Metode Langsung tidak dapat digunakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pernyataan tersebut merupakan ciri Metode Langsung, bukan ketentuan penggunaan Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 20,
+        "kutipan": "dilakukan secara langsung terhadap buku, catatan, dan dokumen terkait dengan pos-pos yang diperiksa"
+      }
+    ],
+    "tags": [
+      "Metode Langsung",
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-044",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa pendekatan yang digunakan dalam Metode Tidak Langsung menurut materi Pemeriksaan Pajak?",
+    "opsi": {
+      "A": "4 pendekatan",
+      "B": "5 pendekatan",
+      "C": "7 pendekatan",
+      "D": "6 pendekatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Terdapat 6 pendekatan dalam Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "6 PENDEKATAN DALAM METODE TIDAK LANGSUNG"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-045",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk salah satu dari 6 pendekatan dalam Metode Tidak Langsung, KECUALI...",
+    "opsi": {
+      "A": "Penghitungan Rasio",
+      "B": "Pengujian Keabsahan",
+      "C": "Sumber dan Penggunaan Dana",
+      "D": "Transaksi Tunai dan Bank"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengujian Keabsahan merupakan salah satu Teknik Pemeriksaan Metode Langsung, bukan pendekatan dalam Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "PENDEKATAN DALAM METODE TIDAK LANGSUNG"
+      },
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "Pengujian keabsahan"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Teknik Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-046",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa Pajak menelusuri seluruh penerimaan dan pengeluaran kas serta mutasi rekening bank Wajib Pajak untuk menguji kewajaran peredaran usaha. Pendekatan Metode Tidak Langsung yang digunakan adalah pendekatan...",
+    "opsi": {
+      "A": "Sumber dan Penggunaan Dana",
+      "B": "Transaksi Tunai dan Bank",
+      "C": "Pertambahan Kekayaan Bersih",
+      "D": "Penghitungan Rasio"
+    },
+    "kunci": "B",
+    "pembahasan": "Penelusuran transaksi kas dan mutasi rekening bank merupakan ciri pendekatan Transaksi Tunai dan Bank.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Transaksi Tunai dan Bank"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Pendekatan Transaksi Tunai dan Bank"
+    ]
+  },
+  {
+    "id": "PMR-03-047",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa Pajak membandingkan sumber dana yang diterima dengan penggunaan dana oleh Wajib Pajak dalam suatu periode untuk menguji kewajaran penghasilan. Pendekatan Metode Tidak Langsung yang digunakan adalah pendekatan...",
+    "opsi": {
+      "A": "Sumber dan Penggunaan Dana",
+      "B": "Penghitungan Biaya Hidup",
+      "C": "Satuan dan/atau Volume",
+      "D": "Transaksi Tunai dan Bank"
+    },
+    "kunci": "A",
+    "pembahasan": "Perbandingan sumber dana dengan penggunaan dana merupakan ciri pendekatan Sumber dan Penggunaan Dana.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Sumber dan Penggunaan Dana"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Pendekatan Sumber dan Penggunaan Dana"
+    ]
+  },
+  {
+    "id": "PMR-03-048",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan dalam Metode Tidak Langsung yang didasarkan pada satuan dan/atau volume disebut pendekatan...",
+    "opsi": {
+      "A": "Satuan dan/atau Volume",
+      "B": "Pertambahan Kekayaan Bersih",
+      "C": "Penghitungan Rasio",
+      "D": "Penghitungan Biaya Hidup"
+    },
+    "kunci": "A",
+    "pembahasan": "Salah satu dari 6 pendekatan Metode Tidak Langsung adalah pendekatan Satuan dan/atau Volume.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Satuan dan/atau Volume"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Pendekatan Satuan dan/atau Volume"
+    ]
+  },
+  {
+    "id": "PMR-03-049",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu dari 6 pendekatan Metode Tidak Langsung didasarkan pada penghitungan biaya hidup Wajib Pajak, yaitu pendekatan...",
+    "opsi": {
+      "A": "Penghitungan Biaya Hidup",
+      "B": "Penghitungan Rasio",
+      "C": "Sumber dan Penggunaan Dana",
+      "D": "Pertambahan Kekayaan Bersih"
+    },
+    "kunci": "A",
+    "pembahasan": "Pendekatan Penghitungan Biaya Hidup merupakan salah satu dari 6 pendekatan Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Penghitungan Biaya Hidup"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Pendekatan Penghitungan Biaya Hidup"
+    ]
+  },
+  {
+    "id": "PMR-03-050",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pendekatan dalam Metode Tidak Langsung yang didasarkan pada pertambahan harta bersih Wajib Pajak pada suatu periode disebut pendekatan...",
+    "opsi": {
+      "A": "Penghitungan Rasio",
+      "B": "Pertambahan Kekayaan Bersih",
+      "C": "Transaksi Tunai dan Bank",
+      "D": "Sumber dan Penggunaan Dana"
+    },
+    "kunci": "B",
+    "pembahasan": "Pendekatan Pertambahan Kekayaan Bersih merupakan salah satu dari 6 pendekatan Metode Tidak Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Pertambahan Kekayaan Bersih"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Pendekatan Pertambahan Kekayaan Bersih"
+    ]
+  },
+  {
+    "id": "PMR-03-051",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa Pajak membandingkan rasio gross profit margin Wajib Pajak dengan rasio usaha sejenis untuk menguji kewajaran omzet yang dilaporkan. Pendekatan Metode Tidak Langsung yang digunakan adalah pendekatan...",
+    "opsi": {
+      "A": "Satuan dan/atau Volume",
+      "B": "Penghitungan Rasio",
+      "C": "Penghitungan Biaya Hidup",
+      "D": "Pertambahan Kekayaan Bersih"
+    },
+    "kunci": "B",
+    "pembahasan": "Perbandingan rasio keuangan/usaha untuk menguji kewajaran merupakan ciri pendekatan Penghitungan Rasio.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Penghitungan Rasio"
+      }
+    ],
+    "tags": [
+      "Metode Tidak Langsung",
+      "Pendekatan Penghitungan Rasio"
+    ]
+  },
+  {
+    "id": "PMR-03-052",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Teknik Pemeriksaan Metode Langsung (16+ teknik: pengujian keabsahan, evaluasi, ekualisasi, konfirmasi, TABK, dst)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut materi Pemeriksaan Pajak, Teknik Pemeriksaan Metode Langsung paling sedikit berjumlah...",
+    "opsi": {
+      "A": "12 teknik",
+      "B": "16 teknik",
+      "C": "20 teknik",
+      "D": "10 teknik"
+    },
+    "kunci": "B",
+    "pembahasan": "Teknik Pemeriksaan Metode Langsung berjumlah 16 atau lebih (16+), ditambah kategori teknik-teknik lainnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "16+"
+      }
+    ],
+    "tags": [
+      "Teknik Pemeriksaan",
+      "Metode Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-053",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Teknik Pemeriksaan Metode Langsung (16+ teknik: pengujian keabsahan, evaluasi, ekualisasi, konfirmasi, TABK, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk Teknik Pemeriksaan Metode Langsung, KECUALI...",
+    "opsi": {
+      "A": "Penghitungan Rasio",
+      "B": "Wawancara",
+      "C": "Inspeksi",
+      "D": "Konfirmasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Penghitungan Rasio merupakan salah satu pendekatan dalam Metode Tidak Langsung, bukan Teknik Pemeriksaan Metode Langsung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "Konfirmasi"
+      },
+      {
+        "pdf": "C",
+        "halaman": 21,
+        "kutipan": "Penghitungan Rasio"
+      }
+    ],
+    "tags": [
+      "Teknik Pemeriksaan",
+      "Metode Tidak Langsung"
+    ]
+  },
+  {
+    "id": "PMR-03-054",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Persiapan, Metode, dan Teknik Pemeriksaan",
+    "subtopik": "Teknik Pemeriksaan Metode Langsung (16+ teknik: pengujian keabsahan, evaluasi, ekualisasi, konfirmasi, TABK, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada materi Teknik Pemeriksaan Metode Langsung, salah satu teknik yang diberi penekanan/ditandai khusus dengan kotak merah adalah teknik...",
+    "opsi": {
+      "A": "Konfirmasi",
+      "B": "Sampling",
+      "C": "Evaluasi",
+      "D": "Inspeksi"
+    },
+    "kunci": "A",
+    "pembahasan": "Teknik Konfirmasi merupakan salah satu teknik yang ditandai dengan kotak merah pada materi, bersama dengan Pemanfaatan data/informasi, Ekualisasi/rekonsiliasi, dan Wawancara.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 22,
+        "kutipan": "Konfirmasi"
+      }
+    ],
+    "tags": [
+      "Teknik Pemeriksaan",
+      "Konfirmasi"
+    ]
+  }
+]

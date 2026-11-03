@@ -1,0 +1,1499 @@
+[
+  {
+    "id": "POT-01-001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "PMK Nomor 79 Tahun 2023 yang menjadi dasar hukum penilaian untuk kepentingan perpajakan mengatur mengenai apa?",
+    "opsi": {
+      "A": "Tata Cara Penilaian untuk Tujuan Perpajakan",
+      "B": "Tata Cara Keberatan dan Banding Perpajakan",
+      "C": "Tata Cara Pemeriksaan untuk Tujuan Perpajakan",
+      "D": "Tata Cara Penagihan Pajak dengan Surat Paksa"
+    },
+    "kunci": "A",
+    "pembahasan": "Judul PMK-79/2023 sesuai materi adalah mengenai Tata Cara Penilaian untuk Tujuan Perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "TATA CARA PENILAIAN UNTUK TUJUAN PERPAJAKAN"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian",
+      "Dasar Hukum"
+    ]
+  },
+  {
+    "id": "POT-01-002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Menurut latar belakang PMK-79/2023, penilaian atas Pajak Bumi dan Bangunan dilakukan dalam rangka menentukan apa?",
+    "opsi": {
+      "A": "Klasifikasi tarif PBB",
+      "B": "Nilai Jual Objek Pajak (NJOP)",
+      "C": "Besarnya sanksi administrasi PBB",
+      "D": "Jangka waktu penagihan PBB"
+    },
+    "kunci": "B",
+    "pembahasan": "Latar belakang PMK-79/2023 menyebutkan penilaian PBB dilakukan dalam rangka penetapan Nilai Jual Objek Pajak (NJOP).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "menentukan nilai objek pajak Pajak Bumi dan Bangunan dalam rangka penetapan Nilai Jual Objek Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "PBB"
+    ]
+  },
+  {
+    "id": "POT-01-003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Selain NJOP PBB, PMK-79/2023 juga mengatur penilaian untuk menentukan nilai apa saja?",
+    "opsi": {
+      "A": "Harta berwujud dan utang wajib pajak",
+      "B": "Aset tetap dan aset lancar",
+      "C": "Harta berwujud, harta tidak berwujud, dan bisnis",
+      "D": "Modal usaha dan laba bersih"
+    },
+    "kunci": "C",
+    "pembahasan": "Latar belakang PMK-79/2023 menyebutkan penilaian juga mencakup nilai harta berwujud, harta tidak berwujud, dan bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "serta nilai harta berwujud, harta tidak berwujud, dan bisnis"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian",
+      "Harta Tidak Berwujud"
+    ]
+  },
+  {
+    "id": "POT-01-004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "PMK-79/2023 mengatur ketentuan penilaian untuk memberikan keadilan dan kepastian hukum pada pelaksanaan penilaian di empat bidang. Manakah yang termasuk empat bidang tersebut?",
+    "opsi": {
+      "A": "PPh, PBB, Bea Masuk, dan Cukai",
+      "B": "PPh, PPN, Bea Meterai, dan PBB",
+      "C": "PPN, PBB, PPnBM, dan Bea Meterai",
+      "D": "PPh, PPN, PBB, dan Penagihan Pajak dengan Surat Paksa"
+    },
+    "kunci": "D",
+    "pembahasan": "Latar belakang PMK-79/2023 menyebutkan pelaksanaan penilaian meliputi bidang PPh, PPN, PBB, dan Penagihan Pajak dengan Surat Paksa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "pelaksanaan penilaian di bidang Pajak Penghasilan, Pajak Pertambahan Nilai, Pajak Bumi dan Bangunan, dan Penagihan Pajak dengan Surat Paksa"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Dasar Hukum",
+      "Penagihan Pajak"
+    ]
+  },
+  {
+    "id": "POT-01-005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Asas Kepastian Hukum dalam pembentukan PMK-79/2023 berfungsi untuk?",
+    "opsi": {
+      "A": "Mengatur hubungan yang adil dan setara antara Penilai dan Wajib Pajak",
+      "B": "Menyediakan acuan yang mendorong peningkatan kualitas Penilaian",
+      "C": "Memberikan perlindungan bagi Penilai dalam kegiatan Penilaian",
+      "D": "Menyediakan dasar hukum secara formal untuk melakukan Penilaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Asas Kepastian Hukum berfungsi menyediakan dasar hukum secara formal untuk melakukan Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "Menyediakan dasar hukum secara formal untuk melakukan Penilaian."
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Asas Pembentukan Hukum",
+      "Asas Kepastian Hukum"
+    ]
+  },
+  {
+    "id": "POT-01-006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Pemenuhan asas pembentukan hukum PMK-79/2023 yang mengatur hubungan adil dan setara antara Penilai dan Wajib Pajak, serta memberikan perlindungan bagi keduanya dalam kegiatan Penilaian, merupakan perwujudan dari asas?",
+    "opsi": {
+      "A": "Asas Kepatutan",
+      "B": "Asas Kepastian Hukum",
+      "C": "Asas Keadilan",
+      "D": "Asas Kemanfaatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Mengatur hubungan adil dan setara antara Penilai dan Wajib Pajak serta memberikan perlindungan merupakan perwujudan Asas Keadilan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "Mengatur hubungan yang adil dan setara antara Penilai dan Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Asas Pembentukan Hukum",
+      "Asas Keadilan"
+    ]
+  },
+  {
+    "id": "POT-01-007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini merupakan asas pembentukan hukum yang dipenuhi PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Asas Kepatutan dan Keterbukaan",
+      "B": "Asas Keadilan",
+      "C": "Asas Kepastian Hukum",
+      "D": "Asas Kemanfaatan"
+    },
+    "kunci": "A",
+    "pembahasan": "PMK-79/2023 memenuhi tiga asas pembentukan hukum yaitu Kepastian Hukum, Keadilan, dan Kemanfaatan; Asas Kepatutan dan Keterbukaan tidak disebutkan dalam materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "PEMENUHAN ASAS PEMBENTUKAN HUKUM ASAS KEPASTIAN HUKUM ASAS KEADILAN ASAS KEMANFAATAN"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Asas Pembentukan Hukum"
+    ]
+  },
+  {
+    "id": "POT-01-008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Sebuah ketentuan dalam PMK-79/2023 dirancang agar tersedia acuan dan tata cara yang mendorong peningkatan kualitas dan kuantitas Penilaian, serta kejelasan standar, prosedur, dan jangka waktu Penilaian. Ketentuan tersebut merupakan pemenuhan asas?",
+    "opsi": {
+      "A": "Asas Keadilan",
+      "B": "Asas Kemanfaatan",
+      "C": "Asas Kepastian Hukum",
+      "D": "Asas Kesederhanaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Menyediakan acuan dan tata cara yang mendorong peningkatan kualitas dan kuantitas Penilaian serta kejelasan standar, prosedur, dan jangka waktu Penilaian merupakan perwujudan Asas Kemanfaatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 42,
+        "kutipan": "Menyediakan acuan dan tata cara yang mendorong peningkatan kualitas dan kuantitas Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Asas Pembentukan Hukum",
+      "Asas Kemanfaatan"
+    ]
+  },
+  {
+    "id": "POT-01-009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tata Cara Penilaian menurut workflow PMK-79/2023 terdiri atas lima tahap kegiatan. Tahap manakah yang dilakukan setelah pengumpulan data?",
+    "opsi": {
+      "A": "Analisis data",
+      "B": "Penyusunan Laporan",
+      "C": "Penerapan Pendekatan",
+      "D": "Penyiapan bahan"
+    },
+    "kunci": "A",
+    "pembahasan": "Urutan Tata Cara Penilaian adalah penyiapan bahan, pengumpulan data, analisis data, penerapan pendekatan, lalu penyusunan laporan sehingga setelah pengumpulan data adalah analisis data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "a. Penyiapan bahan b. Pengumpulan data c. Analisis data d. Penerapan Pendekatan e. Penyusunan Laporan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tahap pertama dalam Tata Cara Penilaian menurut workflow PMK-79/2023 adalah?",
+    "opsi": {
+      "A": "Analisis data",
+      "B": "Pengumpulan data",
+      "C": "Penyiapan bahan",
+      "D": "Penerapan Pendekatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Tahap pertama Tata Cara Penilaian adalah penyiapan bahan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "Tata Cara Penilaian: a. Penyiapan bahan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Tata Cara Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tahap terakhir dari lima tahap Tata Cara Penilaian menurut workflow PMK-79/2023 adalah?",
+    "opsi": {
+      "A": "Penerapan Pendekatan",
+      "B": "Analisis data",
+      "C": "Pengumpulan data",
+      "D": "Penyusunan Laporan"
+    },
+    "kunci": "D",
+    "pembahasan": "Tahap terakhir Tata Cara Penilaian adalah penyusunan laporan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "e. Penyusunan Laporan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Laporan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Output akhir dari proses Penilaian dalam workflow PMK-79/2023 berupa?",
+    "opsi": {
+      "A": "Surat Ketetapan Pajak",
+      "B": "Laporan Penilaian",
+      "C": "Surat Perintah Penilaian (SPPn)",
+      "D": "Risalah Pembahasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Output dari proses Penilaian dalam workflow PMK-79/2023 adalah Laporan Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "Laporan Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Laporan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-013",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Nilai yang dihasilkan dari Laporan Penilaian dalam workflow PMK-79/2023 mencakup NJOP PBB serta nilai apa?",
+    "opsi": {
+      "A": "Modal kerja dan laba usaha",
+      "B": "Piutang dan persediaan",
+      "C": "Harta Berwujud, Harta Tidak Berwujud, dan Bisnis",
+      "D": "Tarif dan dasar pengenaan pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Selain NJOP PBB, Laporan Penilaian juga menghasilkan nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "Nilai Harta Berwujud Harta Tidak Berwujud Bisnis"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Laporan Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-014",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam workflow PMK-79/2023, keperluan Penilaian menurut UU PBB bersumber dari pasal?",
+    "opsi": {
+      "A": "Ps 1 angka 3 dan Ps 6 (2)",
+      "B": "Ps 2 (3) dan Ps 14 (2)",
+      "C": "Ps 1A (1) hrf e dan Ps 2 (1)",
+      "D": "Ps 4 (1) hrf a dan Ps 11"
+    },
+    "kunci": "A",
+    "pembahasan": "Keperluan Penilaian menurut UU PBB dalam workflow PMK-79/2023 bersumber dari Ps 1 angka 3 dan Ps 6 (2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "UU PBB: Ps 1 angka 3 Ps 6 (2)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "UU PBB"
+    ]
+  },
+  {
+    "id": "POT-01-015",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Keperluan Penilaian menurut UU PPN dalam workflow PMK-79/2023 bersumber dari ketentuan?",
+    "opsi": {
+      "A": "Ps 1 angka 3 dan Ps 6 (2)",
+      "B": "Ps 4 (1) huruf a dan Ps 4 (2) huruf d",
+      "C": "Ps 2 (3), Ps 14 (2), dan Ps 25 (2)",
+      "D": "Ps 1A (1) huruf e, Ps 2 (1), Ps 16C, dan Ps 16D"
+    },
+    "kunci": "D",
+    "pembahasan": "Keperluan Penilaian menurut UU PPN dalam workflow PMK-79/2023 bersumber dari Ps 1A (1) hrf e, Ps 2 (1), Ps 16C, dan Ps 16D.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "UU PPN: Ps 1A (1) hrf e Ps 2 (1) Ps 16C Ps 16D"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "UU PPN"
+    ]
+  },
+  {
+    "id": "POT-01-016",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Keperluan Penilaian menurut UU PPSP dalam workflow PMK-79/2023 diatur pada?",
+    "opsi": {
+      "A": "Ps 10 (1) sampai (5) dan Ps 11A",
+      "B": "Ps 2 (3), Ps 14 (2), dan Ps 25 (2)",
+      "C": "Ps 1A (1) hrf e dan Ps 16D",
+      "D": "Ps 1 angka 3 dan Ps 6 (2)"
+    },
+    "kunci": "B",
+    "pembahasan": "Keperluan Penilaian menurut UU PPSP dalam workflow PMK-79/2023 diatur pada Ps 2 (3), Ps 14 (2), dan Ps 25 (2).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "UU PPSP: Ps 2 (3) Ps 14 (2) Ps 25 (2)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "UU PPSP"
+    ]
+  },
+  {
+    "id": "POT-01-017",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam workflow PMK-79/2023, hasil Penilaian dapat digunakan antara lain dalam kegiatan Pengawasan, Pemeriksaan, Buper, dan Penyidikan, serta beberapa kegiatan lain yang ditandai tanda bintang (*). Apa makna tanda bintang tersebut?",
+    "opsi": {
+      "A": "Khusus untuk Penilaian yang memerlukan Tim Penilai eksternal",
+      "B": "Khusus untuk Penilaian atas permintaan Wajib Pajak",
+      "C": "Khusus untuk Penilaian yang dilakukan secara lapangan",
+      "D": "Khusus untuk Penilaian selain untuk penetapan NJOP"
+    },
+    "kunci": "D",
+    "pembahasan": "Tanda bintang (*) pada diagram menandakan kegiatan tersebut khusus untuk Penilaian selain untuk penetapan NJOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "* : khusus untuk Penilaian selain untuk penetapan NJOP"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Penggunaan Hasil Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-018",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk kegiatan Penggunaan Hasil Penilaian dalam workflow PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Pengawasan",
+      "B": "Pendaftaran NPWP",
+      "C": "Pemeriksaan",
+      "D": "Penagihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Penggunaan Hasil Penilaian mencakup Pengawasan, Pemeriksaan, Buper, Penyidikan, MAP, APA, Keberatan, Pengurangan PBB, Pengurangan atau Pembatalan, dan Penagihan; Pendaftaran NPWP tidak termasuk di dalamnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "•Pengawasan •Pemeriksaan •Buper •Penyidikan •MAP * •APA * •Keberatan •Pengurangan PBB •Pengurangan atau Pembatalan * •Penagihan *"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Penggunaan Hasil Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-019",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Suatu penilaian dilakukan untuk mendukung proses Mutual Agreement Procedure (MAP) dan Advance Pricing Agreement (APA), yang keduanya ditandai tanda bintang (*) pada diagram Penggunaan Hasil Penilaian PMK-79/2023. Hal ini menunjukkan bahwa penilaian tersebut digunakan untuk?",
+    "opsi": {
+      "A": "Keperluan selain penetapan NJOP",
+      "B": "Pendaftaran Pengusaha Kena Pajak",
+      "C": "Penetapan NJOP PBB semata",
+      "D": "Pemeriksaan bukti permulaan semata"
+    },
+    "kunci": "A",
+    "pembahasan": "Tanda bintang (*) pada MAP dan APA menunjukkan Penilaian tersebut digunakan untuk keperluan selain penetapan NJOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "* : khusus untuk Penilaian selain untuk penetapan NJOP"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "MAP",
+      "APA"
+    ]
+  },
+  {
+    "id": "POT-01-020",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada tahap Aksi dalam workflow Penilaian PMK-79/2023, pelaksanaan Penilaian melibatkan unsur Surat Perintah Penilaian (SPPn) dan?",
+    "opsi": {
+      "A": "Tim Pemeriksa Pajak",
+      "B": "Tim Banding",
+      "C": "Tim Penilai",
+      "D": "Tim Juru Sita"
+    },
+    "kunci": "C",
+    "pembahasan": "Pelaksanaan Penilaian pada tahap Aksi melibatkan SPPn dan Tim Penilai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 43,
+        "kutipan": "Tim Penilai SPPn"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Workflow Penilaian",
+      "Tim Penilai"
+    ]
+  },
+  {
+    "id": "POT-01-021",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Lingkup Penilaian untuk Perpajakan sebagaimana diatur dalam Pasal 2 PMK-79/2023 adalah menentukan Nilai Objek Pajak PBB dalam rangka penetapan apa?",
+    "opsi": {
+      "A": "Nilai Jual Kena Pajak (NJKP)",
+      "B": "Dasar Pengenaan Pajak (DPP)",
+      "C": "Nilai Jual Objek Pajak (NJOP)",
+      "D": "Nilai Perolehan Objek Pajak (NPOP)"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 2 PMK-79/2023 mengatur lingkup Penilaian untuk menentukan Nilai Objek Pajak PBB dalam rangka penetapan NJOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Menentukan Nilai Objek Pajak PBB dalam rangka Penetapan Nilai Jual Objek Pajak (NJOP)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Lingkup Penilaian",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-022",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Selain menentukan NJOP PBB, Pasal 2 PMK-79/2023 juga mencakup lingkup penilaian untuk menentukan nilai?",
+    "opsi": {
+      "A": "Aset lancar dan aset tetap",
+      "B": "Harta berwujud, harta tidak berwujud, dan bisnis",
+      "C": "Utang dan modal perusahaan",
+      "D": "Persediaan dan piutang usaha"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 2 PMK-79/2023 juga mencakup lingkup penilaian nilai harta berwujud, harta tidak berwujud, dan bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Menentukan nilai harta berwujud, harta tidak berwujud, dan bisnis."
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Lingkup Penilaian",
+      "Harta Tidak Berwujud"
+    ]
+  },
+  {
+    "id": "POT-01-023",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB yang menjadi acuan Penilaian dalam Pasal 2 PMK-79/2023 diatur dalam?",
+    "opsi": {
+      "A": "PMK-186/PMK.03/2019",
+      "B": "PMK-18/PMK.03/2021",
+      "C": "PMK-79/PMK.03/2023",
+      "D": "PMK-234/PMK.03/2019"
+    },
+    "kunci": "A",
+    "pembahasan": "Acuan Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB adalah PMK-186/PMK.03/2019.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "PMK-186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "PMK-186/2019",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-024",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PMK-186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB sebagaimana diatur dalam lingkup Pasal 2 PMK-79/2023 telah diubah dengan?",
+    "opsi": {
+      "A": "PMK-79/PMK.03/2023",
+      "B": "PMK-147/PMK.03/2017",
+      "C": "PMK-18/PMK.03/2021",
+      "D": "PMK-234/PMK.03/2022"
+    },
+    "kunci": "D",
+    "pembahasan": "PMK-186/PMK.03/2019 sebagaimana telah diubah dengan PMK-234/PMK.03/2022.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "sebagaimana telah diubah dengan PMK-234/PMK.03/2022 dan turunannya"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "PMK-186/2019",
+      "PMK-234/2022"
+    ]
+  },
+  {
+    "id": "POT-01-025",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 3 dan Pasal 4 PMK-79/2023, Penilaian untuk tujuan perpajakan dapat dilakukan dengan dua cara, yaitu?",
+    "opsi": {
+      "A": "Penilaian Awal dan Penilaian Akhir",
+      "B": "Penilaian Internal dan Penilaian Eksternal",
+      "C": "Penilaian Mandiri dan Penilaian Bersama",
+      "D": "Penilaian Kantor dan Penilaian Lapangan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 3 dan Pasal 4 PMK-79/2023 mengatur dua cara Penilaian yaitu Penilaian Kantor dan Penilaian Lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Penilaian dapat dilakukan dengan (Pasal 3 & Pasal 4) Penilaian Kantor Penilaian Lapangan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-026",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penilaian Kantor menurut Pasal 3 dan Pasal 4 PMK-79/2023 adalah metode penilaian yang?",
+    "opsi": {
+      "A": "Tidak diperlukan peninjauan lapangan atas objek Penilaian",
+      "B": "Dilakukan oleh Tim Penilai dari kantor pusat saja",
+      "C": "Diperlukan peninjauan lapangan atas objek Penilaian",
+      "D": "Hanya berlaku untuk penilaian bisnis"
+    },
+    "kunci": "A",
+    "pembahasan": "Penilaian Kantor adalah metode Penilaian yang tidak memerlukan peninjauan lapangan atas objek Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Tidak diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor"
+    ]
+  },
+  {
+    "id": "POT-01-027",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penilaian Lapangan menurut Pasal 3 dan Pasal 4 PMK-79/2023 adalah metode penilaian yang?",
+    "opsi": {
+      "A": "Hanya dilakukan untuk penilaian harta tidak berwujud",
+      "B": "Diperlukan peninjauan lapangan atas objek Penilaian",
+      "C": "Dilakukan tanpa melibatkan Tim Penilai",
+      "D": "Tidak diperlukan peninjauan lapangan atas objek Penilaian"
+    },
+    "kunci": "B",
+    "pembahasan": "Penilaian Lapangan adalah metode Penilaian yang memerlukan peninjauan lapangan atas objek Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-028",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Penilai menentukan nilai suatu objek pajak hanya berdasarkan data dan dokumen yang tersedia tanpa mendatangi lokasi objek. Metode Penilaian yang digunakan Penilai tersebut adalah?",
+    "opsi": {
+      "A": "Penilaian Gabungan",
+      "B": "Penilaian Lapangan",
+      "C": "Penilaian Kantor",
+      "D": "Penilaian Jabatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Penilaian tanpa peninjauan lapangan merupakan Penilaian Kantor.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Tidak diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor"
+    ]
+  },
+  {
+    "id": "POT-01-029",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Penilai mendatangi langsung lokasi objek pajak untuk memverifikasi kondisi fisik sebelum menetapkan nilainya. Metode Penilaian yang digunakan Penilai tersebut adalah?",
+    "opsi": {
+      "A": "Penilaian Kantor",
+      "B": "Penilaian Lapangan",
+      "C": "Penilaian Jabatan",
+      "D": "Penilaian Sepihak"
+    },
+    "kunci": "B",
+    "pembahasan": "Penilaian dengan peninjauan langsung lokasi objek merupakan Penilaian Lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-030",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pernyataan berikut ini TIDAK tepat mengenai Penilaian Kantor dan Penilaian Lapangan menurut Pasal 3 dan Pasal 4 PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Penilaian Kantor dan Penilaian Lapangan sama-sama memerlukan peninjauan lapangan",
+      "B": "Penilaian Lapangan tidak memerlukan peninjauan lapangan atas objek Penilaian",
+      "C": "Penilaian Lapangan memerlukan peninjauan lapangan atas objek Penilaian",
+      "D": "Penilaian Kantor memerlukan peninjauan lapangan atas objek Penilaian"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai Pasal 3 & 4 PMK-79/2023, Penilaian Lapangan memerlukan peninjauan lapangan atas objek Penilaian, sedangkan Penilaian Kantor tidak memerlukan peninjauan lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-031",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pernyataan berikut ini TIDAK tepat mengenai Lingkup Penilaian untuk Perpajakan menurut Pasal 2 PMK-79/2023, KECUALI?",
+    "opsi": {
+      "A": "Lingkup Penilaian mencakup penentuan sanksi administrasi perpajakan",
+      "B": "Lingkup Penilaian mencakup penentuan tarif PBB terutang",
+      "C": "Lingkup Penilaian mencakup penentuan besarnya denda keterlambatan SPT",
+      "D": "Lingkup Penilaian mencakup penentuan nilai harta berwujud, harta tidak berwujud, dan bisnis"
+    },
+    "kunci": "D",
+    "pembahasan": "Lingkup Penilaian untuk Perpajakan Pasal 2 PMK-79/2023 mencakup penentuan NJOP PBB serta nilai harta berwujud, harta tidak berwujud, dan bisnis, bukan tarif atau sanksi administrasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Menentukan nilai harta berwujud, harta tidak berwujud, dan bisnis."
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Lingkup Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-032",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Perbedaan mendasar antara Penilaian Kantor dan Penilaian Lapangan menurut Pasal 3 dan Pasal 4 PMK-79/2023 terletak pada?",
+    "opsi": {
+      "A": "Ada tidaknya peninjauan lapangan atas objek Penilaian",
+      "B": "Jangka waktu penyelesaian Laporan Penilaian",
+      "C": "Jenis objek pajak yang dinilai",
+      "D": "Instansi yang berwenang menerbitkan hasil Penilaian"
+    },
+    "kunci": "A",
+    "pembahasan": "Perbedaan mendasar kedua metode terletak pada ada tidaknya peninjauan lapangan atas objek Penilaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Tidak diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-033",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Kantor Pelayanan Pajak menerima permintaan penilaian atas sebuah bangunan baru yang belum pernah diperiksa fisiknya untuk keperluan penetapan NJOP. Mengingat kondisi fisik bangunan perlu dipastikan secara langsung, metode Penilaian yang paling tepat digunakan adalah?",
+    "opsi": {
+      "A": "Penilaian Kantor",
+      "B": "Penilaian Sepihak",
+      "C": "Penilaian Lapangan",
+      "D": "Penilaian Jabatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Karena kondisi fisik objek perlu dipastikan langsung, metode yang tepat adalah Penilaian Lapangan yang memerlukan peninjauan lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Diperlukan peninjauan lapangan atas objek Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Lapangan",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-034",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penilaian untuk tujuan perpajakan menurut Pasal 2 PMK-79/2023 mencakup dua lingkup, yaitu penetapan NJOP PBB dan penentuan nilai harta berwujud, harta tidak berwujud, serta?",
+    "opsi": {
+      "A": "Piutang",
+      "B": "Bisnis",
+      "C": "Saham",
+      "D": "Investasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Lingkup kedua Pasal 2 PMK-79/2023 adalah penentuan nilai harta berwujud, harta tidak berwujud, dan bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Menentukan nilai harta berwujud, harta tidak berwujud, dan bisnis."
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Lingkup Penilaian"
+    ]
+  },
+  {
+    "id": "POT-01-035",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai dua metode Penilaian, yaitu Penilaian Kantor dan Penilaian Lapangan, diatur dalam PMK-79/2023 pada?",
+    "opsi": {
+      "A": "Pasal 2 dan Pasal 5",
+      "B": "Pasal 1 dan Pasal 2",
+      "C": "Pasal 6 dan Pasal 7",
+      "D": "Pasal 3 dan Pasal 4"
+    },
+    "kunci": "D",
+    "pembahasan": "Dua metode Penilaian diatur dalam Pasal 3 dan Pasal 4 PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 44,
+        "kutipan": "Penilaian dapat dilakukan dengan (Pasal 3 & Pasal 4)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-036",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penetapan NJOP yang menjadi dasar penghitungan Pajak Bumi dan Bangunan terutang diatur dalam?",
+    "opsi": {
+      "A": "Pasal 6 ayat (2) UU PBB",
+      "B": "Pasal 3 PMK-79/2023",
+      "C": "Pasal 1 angka 3 UU PBB",
+      "D": "Pasal 2 PMK-79/2023"
+    },
+    "kunci": "A",
+    "pembahasan": "Penetapan NJOP sebagai dasar penghitungan PBB terutang diatur dalam Pasal 6 ayat (2) UU PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "Penetapan NJOP sebagaimana diatur dalam Pasal 6 ayat (2) UU PBB"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "UU PBB"
+    ]
+  },
+  {
+    "id": "POT-01-037",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dasar hukum Penetapan NJOP dalam diagram alur Penilaian untuk Penetapan NJOP PBB pada PMK-79/2023 merujuk pada Pasal 1 angka 3 dan pasal berapa UU PBB?",
+    "opsi": {
+      "A": "Pasal 4",
+      "B": "Pasal 3",
+      "C": "Pasal 6",
+      "D": "Pasal 2"
+    },
+    "kunci": "C",
+    "pembahasan": "Dasar hukum Penetapan NJOP merujuk pada Pasal 1 angka 3 dan Pasal 6 UU PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 45,
+        "kutipan": "Penetapan NJOP (Pasal 1 angka 3 dan Pasal 6 UU PBB)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "UU PBB"
+    ]
+  },
+  {
+    "id": "POT-01-038",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penetapan NJOP berdasarkan Pasal 6 ayat (2) UU PBB menjadi dasar penghitungan Pajak Bumi dan Bangunan terutang dalam penerbitan SPPT yang didasarkan pada?",
+    "opsi": {
+      "A": "SPOP dalam rangka pengawasan",
+      "B": "Surat keputusan keberatan PBB",
+      "C": "SKP PBB dalam rangka pemeriksaan",
+      "D": "Hasil penyidikan"
+    },
+    "kunci": "A",
+    "pembahasan": "Penetapan NJOP menjadi dasar penerbitan SPPT berdasarkan SPOP dalam rangka pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "Penerbitan SPPT berdasarkan SPOP dalam rangka pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "SPPT",
+      "SPOP"
+    ]
+  },
+  {
+    "id": "POT-01-039",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Saat dilakukan pemeriksaan, Penetapan NJOP menjadi dasar penghitungan Pajak Bumi dan Bangunan terutang dalam penerbitan?",
+    "opsi": {
+      "A": "Surat Keputusan Keberatan",
+      "B": "SPPT",
+      "C": "Surat Tagihan Pajak",
+      "D": "SKP PBB"
+    },
+    "kunci": "D",
+    "pembahasan": "Saat dilakukan pemeriksaan, Penetapan NJOP menjadi dasar penerbitan SKP PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "SKP PBB saat dilakukan pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "SKP PBB"
+    ]
+  },
+  {
+    "id": "POT-01-040",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penetapan NJOP menjadi dasar penghitungan Pajak Bumi dan Bangunan terutang pada penyelesaian keberatan PBB melalui penerbitan?",
+    "opsi": {
+      "A": "SKP PBB",
+      "B": "Surat keputusan keberatan",
+      "C": "Surat Tagihan Pajak",
+      "D": "SPPT"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada penyelesaian keberatan PBB, Penetapan NJOP menjadi dasar penerbitan surat keputusan keberatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "surat keputusan keberatan pada penyelesaian keberatan PBB"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "Keberatan PBB"
+    ]
+  },
+  {
+    "id": "POT-01-041",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak mengajukan permohonan pengurangan ketetapan Pajak Bumi dan Bangunan yang tidak benar. Penetapan NJOP dalam hal ini menjadi dasar penghitungan PBB terutang melalui penerbitan?",
+    "opsi": {
+      "A": "Surat keputusan pengurangan ketetapan Pajak Bumi dan Bangunan yang tidak benar",
+      "B": "Surat keputusan keberatan",
+      "C": "SPPT",
+      "D": "SKP PBB"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada penyelesaian permohonan pengurangan ketetapan PBB yang tidak benar, Penetapan NJOP menjadi dasar surat keputusan pengurangan ketetapan PBB yang tidak benar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "surat keputusan pengurangan ketetapan Pajak Bumi dan Bangunan yang tidak benar pada penyelesaian permohonan pengurangan ketetapan Pajak Bumi dan Bangunan yang tidak benar"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "Pengurangan PBB"
+    ]
+  },
+  {
+    "id": "POT-01-042",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada saat dilakukan pemeriksaan bukti permulaan, Penetapan NJOP menjadi dasar untuk?",
+    "opsi": {
+      "A": "Penerbitan SPPT",
+      "B": "Penyelesaian keberatan PBB",
+      "C": "Penerbitan SKP PBB",
+      "D": "Penghitungan kerugian pada pendapatan negara"
+    },
+    "kunci": "D",
+    "pembahasan": "Saat pemeriksaan bukti permulaan, Penetapan NJOP menjadi dasar penghitungan kerugian pada pendapatan negara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "penghitungan kerugian pada pendapatan negara pada saat dilakukan pemeriksaan bukti permulaan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "Pemeriksaan Bukti Permulaan"
+    ]
+  },
+  {
+    "id": "POT-01-043",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada saat dilakukan penyidikan, Penetapan NJOP menjadi dasar untuk?",
+    "opsi": {
+      "A": "Penyelesaian permohonan pengurangan ketetapan PBB",
+      "B": "Penghitungan dan pemulihan kerugian pada pendapatan negara",
+      "C": "Penerbitan surat keputusan keberatan",
+      "D": "Penerbitan SPPT berdasarkan SPOP"
+    },
+    "kunci": "B",
+    "pembahasan": "Saat penyidikan, Penetapan NJOP menjadi dasar penghitungan dan pemulihan kerugian pada pendapatan negara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "penghitungan dan pemulihan kerugian pada pendapatan negara pada saat dilakukan penyidikan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "Penyidikan"
+    ]
+  },
+  {
+    "id": "POT-01-044",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram alur Penilaian untuk Penetapan NJOP PBB, dari enam kegiatan pemicu (Pengawasan, Pemeriksaan, Keberatan, Pengurangan PBB, Pemeriksaan Bukti Permulaan, dan Penyidikan), kegiatan manakah yang dapat ditindaklanjuti baik dengan Penilaian Kantor maupun Penilaian Lapangan?",
+    "opsi": {
+      "A": "Pemeriksaan",
+      "B": "Penyidikan",
+      "C": "Pengawasan",
+      "D": "Pengurangan PBB"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada diagram alur, hanya kegiatan Pengawasan yang dapat ditindaklanjuti dengan Penilaian Kantor maupun Penilaian Lapangan, sedangkan kegiatan lainnya hanya dengan Penilaian Lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 45,
+        "kutipan": "Penilaian kantor Penilaian lapangan NJOP PBB Penilaian lapangan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-045",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan berikut ini hanya dapat ditindaklanjuti dengan Penilaian Lapangan tanpa opsi Penilaian Kantor, KECUALI?",
+    "opsi": {
+      "A": "Pemeriksaan",
+      "B": "Penyidikan",
+      "C": "Keberatan",
+      "D": "Pengawasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kegiatan Pemeriksaan, Keberatan, Pengurangan PBB, Pemeriksaan Bukti Permulaan, dan Penyidikan hanya dapat ditindaklanjuti dengan Penilaian Lapangan, sedangkan Pengawasan dapat ditindaklanjuti dengan Penilaian Kantor maupun Penilaian Lapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 45,
+        "kutipan": "Penilaian kantor Penilaian lapangan NJOP PBB Penilaian lapangan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "Penilaian Kantor",
+      "Penilaian Lapangan"
+    ]
+  },
+  {
+    "id": "POT-01-046",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tindak lanjut permintaan Penilaian untuk menentukan nilai objek pajak PBB dalam rangka penetapan NJOP diatur dalam Pasal 3 ayat berapa PMK-79/2023?",
+    "opsi": {
+      "A": "Ayat (4) dan ayat (5)",
+      "B": "Ayat (3) dan ayat (6)",
+      "C": "Ayat (1) dan ayat (2)",
+      "D": "Ayat (2) dan ayat (7)"
+    },
+    "kunci": "B",
+    "pembahasan": "Tindak lanjut permintaan Penilaian untuk penetapan NJOP diatur dalam Pasal 3 ayat (3) dan ayat (6) PMK-79/2023.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "(Pasal 3 ayat (3) dan ayat (6))"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "NJOP",
+      "Pasal 3"
+    ]
+  },
+  {
+    "id": "POT-01-047",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tata cara Penilaian untuk penetapan NJOP PBB mengacu pada tiga ketentuan, salah satunya PMK-186/PMK.03/2019 yang sebagaimana telah diubah dengan?",
+    "opsi": {
+      "A": "PMK-147/PMK.03/2017",
+      "B": "PMK-79/PMK.03/2023",
+      "C": "PMK-234/PMK.03/2022",
+      "D": "PMK-18/PMK.03/2021"
+    },
+    "kunci": "C",
+    "pembahasan": "PMK-186/PMK.03/2019 sebagaimana telah diubah dengan PMK-234/PMK.03/2022 menjadi salah satu acuan tata cara Penilaian untuk penetapan NJOP PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "PMK-186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB sebagaimana telah diubah dengan PMK-234/PMK.03/2022"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "PMK-186/2019",
+      "PMK-234/2022",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-048",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SE-17/PJ/2020 yang menjadi salah satu acuan tata cara Penilaian untuk penetapan NJOP PBB mengatur tentang?",
+    "opsi": {
+      "A": "Petunjuk Pelaksanaan PMK-186/PMK.03/2019",
+      "B": "Pedoman Pelaksanaan Penilaian Objek Pajak untuk Penetapan NJOP PBB",
+      "C": "Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB",
+      "D": "Tata Cara Penilaian untuk Tujuan Perpajakan"
+    },
+    "kunci": "A",
+    "pembahasan": "SE-17/PJ/2020 mengatur Petunjuk Pelaksanaan PMK-186/PMK.03/2019.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "SE-17/PJ/2020 tentang Petunjuk Pelaksanaan PMK-186/PMK.03/2019"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "SE-17/2020",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-049",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SE-11/PJ/2022 yang menjadi salah satu acuan tata cara Penilaian untuk penetapan NJOP PBB mengatur tentang?",
+    "opsi": {
+      "A": "Tata Cara Penilaian untuk Tujuan Perpajakan",
+      "B": "Pedoman Pelaksanaan Penilaian Objek Pajak untuk Penetapan NJOP PBB",
+      "C": "Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB",
+      "D": "Petunjuk Pelaksanaan PMK-186/PMK.03/2019"
+    },
+    "kunci": "B",
+    "pembahasan": "SE-11/PJ/2022 mengatur Pedoman Pelaksanaan Penilaian Objek Pajak untuk Penetapan NJOP PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "SE-11/PJ/2022 tentang Pedoman Pelaksanaan Penilaian Objek Pajak untuk Penetapan NJOP PBB"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "SE-11/2022",
+      "NJOP"
+    ]
+  },
+  {
+    "id": "POT-01-050",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+    "subtopik": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PMK-234/PMK.03/2022 yang mengubah PMK-186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB diterbitkan pada tahun?",
+    "opsi": {
+      "A": "2019",
+      "B": "2023",
+      "C": "2020",
+      "D": "2022"
+    },
+    "kunci": "D",
+    "pembahasan": "PMK-234/PMK.03/2022 yang mengubah PMK-186/PMK.03/2019 diterbitkan pada tahun 2022.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 46,
+        "kutipan": "diubah dengan PMK-234/PMK.03/2022"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023",
+      "PMK-234/2022",
+      "NJOP"
+    ]
+  }
+]

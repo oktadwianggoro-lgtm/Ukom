@@ -1,0 +1,277 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+@theme {
+  --font-sans: "Inter Variable", "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "Cascadia Code", monospace;
+
+  /* Navy DJP + aksen emas */
+  --color-navy-50: oklch(0.97 0.012 255);
+  --color-navy-100: oklch(0.93 0.025 255);
+  --color-navy-200: oklch(0.85 0.045 258);
+  --color-navy-300: oklch(0.72 0.07 260);
+  --color-navy-400: oklch(0.58 0.09 262);
+  --color-navy-500: oklch(0.44 0.1 264);
+  --color-navy-600: oklch(0.34 0.095 265);
+  --color-navy-700: oklch(0.26 0.08 266);
+  --color-navy-800: oklch(0.19 0.06 266);
+  --color-navy-900: oklch(0.14 0.045 266);
+  --color-navy-950: oklch(0.1 0.035 266);
+
+  --color-gold-50: oklch(0.97 0.03 90);
+  --color-gold-100: oklch(0.93 0.06 88);
+  --color-gold-200: oklch(0.87 0.1 85);
+  --color-gold-300: oklch(0.8 0.13 82);
+  --color-gold-400: oklch(0.74 0.14 78);
+  --color-gold-500: oklch(0.68 0.145 72);
+  --color-gold-600: oklch(0.58 0.14 65);
+  --color-gold-700: oklch(0.48 0.12 60);
+
+  --color-prio-red: oklch(0.58 0.22 25);
+  --color-prio-red-bg: oklch(0.96 0.03 25);
+  --color-ok-green: oklch(0.6 0.15 150);
+  --color-ok-green-bg: oklch(0.96 0.04 150);
+  --color-warn-amber: oklch(0.75 0.15 85);
+
+  --radius-card: 1.25rem;
+
+  --shadow-card: 0 1px 2px oklch(0.25 0.03 265 / 0.06), 0 12px 28px -12px oklch(0.25 0.06 265 / 0.22);
+  --shadow-card-hover: 0 2px 6px oklch(0.25 0.03 265 / 0.08), 0 24px 48px -16px oklch(0.25 0.08 265 / 0.32);
+  --shadow-pop: 0 1px 2px oklch(0.2 0.02 265 / 0.18), 0 8px 20px -6px oklch(0.3 0.09 265 / 0.45);
+}
+
+:root {
+  color-scheme: light;
+  --bg-app: oklch(0.985 0.004 260);
+  --bg-surface: oklch(1 0 0);
+  --bg-surface-2: oklch(0.97 0.006 260);
+  --text-primary: var(--color-navy-900);
+  --text-muted: oklch(0.45 0.02 260);
+  --border-subtle: oklch(0.9 0.01 260);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg-app: oklch(0.16 0.015 265);
+    --bg-surface: oklch(0.2 0.02 265);
+    --bg-surface-2: oklch(0.24 0.02 265);
+    --text-primary: oklch(0.95 0.01 260);
+    --text-muted: oklch(0.72 0.015 260);
+    --border-subtle: oklch(0.32 0.02 265);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg-app: oklch(0.16 0.015 265);
+  --bg-surface: oklch(0.2 0.02 265);
+  --bg-surface-2: oklch(0.24 0.02 265);
+  --text-primary: oklch(0.95 0.01 260);
+  --text-muted: oklch(0.72 0.015 260);
+  --border-subtle: oklch(0.32 0.02 265);
+}
+
+* {
+  border-color: var(--border-subtle);
+}
+
+html {
+  font-family: var(--font-sans);
+}
+
+body {
+  margin: 0;
+  background: var(--bg-app);
+  background-image:
+    radial-gradient(1100px circle at 102% -8%, oklch(0.68 0.145 72 / 0.09), transparent 60%),
+    radial-gradient(900px circle at -8% 18%, oklch(0.44 0.1 264 / 0.08), transparent 55%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: var(--text-primary);
+  min-height: 100svh;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) body {
+    background-image:
+      radial-gradient(1100px circle at 102% -8%, oklch(0.68 0.145 72 / 0.14), transparent 60%),
+      radial-gradient(900px circle at -8% 18%, oklch(0.5 0.1 264 / 0.18), transparent 55%);
+  }
+}
+:root[data-theme="dark"] body {
+  background-image:
+    radial-gradient(1100px circle at 102% -8%, oklch(0.68 0.145 72 / 0.14), transparent 60%),
+    radial-gradient(900px circle at -8% 18%, oklch(0.5 0.1 264 / 0.18), transparent 55%);
+}
+
+#root {
+  min-height: 100svh;
+}
+
+@layer components {
+  .card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-card);
+  }
+  .card-hover {
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  }
+  .card-hover:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-card-hover);
+    border-color: var(--color-gold-300);
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.1rem;
+    border-radius: 0.9rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: white;
+    background-image: linear-gradient(135deg, var(--color-navy-800), var(--color-navy-600));
+    box-shadow: var(--shadow-pop);
+    transition: filter 0.15s ease, transform 0.1s ease, box-shadow 0.15s ease;
+  }
+  .btn-primary:hover { filter: brightness(1.14); }
+  .btn-primary:active { transform: scale(0.97); }
+  .btn-primary:disabled { opacity: 0.4; filter: none; transform: none; cursor: not-allowed; }
+
+  .btn-accent {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.1rem;
+    border-radius: 0.9rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-navy-950);
+    background-image: linear-gradient(135deg, var(--color-gold-300), var(--color-gold-500));
+    box-shadow: 0 1px 2px oklch(0.2 0.02 265 / 0.12), 0 8px 20px -6px oklch(0.68 0.145 72 / 0.5);
+    transition: filter 0.15s ease, transform 0.1s ease;
+  }
+  .btn-accent:hover { filter: brightness(1.08); }
+  .btn-accent:active { transform: scale(0.97); }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.1rem;
+    border-radius: 0.9rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.1s ease;
+  }
+  .btn-secondary:hover { background: var(--bg-surface-2); border-color: var(--color-navy-300); }
+  .btn-secondary:active { transform: scale(0.97); }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.5rem 0.9rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-muted);
+    background: var(--bg-surface);
+    transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .chip:hover { border-color: var(--color-navy-300); color: var(--text-primary); }
+  .chip-active {
+    background-image: linear-gradient(135deg, var(--color-navy-800), var(--color-navy-600));
+    border-color: transparent;
+    color: white;
+    box-shadow: var(--shadow-pop);
+  }
+  .chip-active:hover { border-color: transparent; color: white; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 999px;
+}
+
+.prose-ukom {
+  font-size: 15px;
+  line-height: 1.7;
+  text-align: left;
+}
+.prose-ukom h1, .prose-ukom h2, .prose-ukom h3 {
+  font-weight: 700;
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+  color: var(--text-primary);
+}
+.prose-ukom h1:first-child, .prose-ukom h2:first-child, .prose-ukom h3:first-child {
+  margin-top: 0;
+}
+.prose-ukom h1 { font-size: 1.3em; }
+.prose-ukom h2 { font-size: 1.15em; }
+.prose-ukom h3 { font-size: 1.02em; }
+.prose-ukom p { margin: 0.6em 0; }
+.prose-ukom ul, .prose-ukom ol {
+  margin: 0.6em 0;
+  padding-left: 1.4em;
+}
+.prose-ukom li { margin: 0.25em 0; }
+.prose-ukom strong { color: var(--text-primary); font-weight: 700; }
+.prose-ukom table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.8em 0;
+  font-size: 0.92em;
+}
+.prose-ukom th, .prose-ukom td {
+  border: 1px solid var(--border-subtle);
+  padding: 6px 10px;
+  text-align: left;
+}
+.prose-ukom th {
+  background: var(--bg-surface-2);
+  font-weight: 600;
+}
+.prose-ukom code {
+  background: var(--bg-surface-2);
+  padding: 0.1em 0.4em;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+}
+.prose-ukom blockquote {
+  border-left: 3px solid var(--color-gold-500);
+  padding-left: 0.8em;
+  margin: 0.8em 0;
+  color: var(--text-muted);
+}

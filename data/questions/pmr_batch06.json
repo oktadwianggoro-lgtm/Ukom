@@ -1,0 +1,1972 @@
+[
+  {
+    "id": "PMR-06-001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SKPKB diterbitkan berdasarkan ketentuan Pasal berapa dalam UU KUP?",
+    "opsi": {
+      "A": "Pasal 13 ayat (1) UU KUP",
+      "B": "Pasal 14 UU KUP",
+      "C": "Pasal 15 ayat (1) UU KUP",
+      "D": "Pasal 17A UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Dasar hukum penerbitan SKPKB adalah Pasal 13 ayat (1) UU KUP sebagaimana ditegaskan pada materi.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "Pasal 13 ayat (1) UU KUP: SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-002",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa jangka waktu penerbitan SKPKB yang dihitung sejak saat terutangnya pajak?",
+    "opsi": {
+      "A": "2 tahun",
+      "B": "5 tahun",
+      "C": "10 tahun",
+      "D": "24 bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SKPKB menurut Pasal 13 ayat (1) UU KUP diterbitkan berdasarkan hasil kegiatan apa?",
+    "opsi": {
+      "A": "Penelitian",
+      "B": "Keberatan",
+      "C": "Pemeriksaan",
+      "D": "Konfirmasi data pihak ketiga"
+    },
+    "kunci": "C",
+    "pembahasan": "SKPKB diterbitkan berdasarkan hasil Pemeriksaan, bukan Penelitian, Keberatan, maupun konfirmasi data.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu sebab penerbitan SKPKB (huruf a) menurut Pasal 13 ayat (1) UU KUP adalah...",
+    "opsi": {
+      "A": "SPT tidak disampaikan setelah ditegur secara tertulis",
+      "B": "WP diterbitkan NPWP secara jabatan",
+      "C": "kewajiban Pasal 28 dan Pasal 29 tidak dipenuhi",
+      "D": "pajak yang terutang tidak atau kurang dibayar"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf a menyatakan sebab SKPKB berupa pajak yang terutang tidak atau kurang dibayar.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "a pajak yang terutang tidak atau kurang dibayar"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penerbitan SKPKB (huruf b) dipicu apabila terjadi kondisi prosedural berupa...",
+    "opsi": {
+      "A": "SPT tidak disampaikan dan setelah ditegur secara tertulis, tidak disampaikan sesuai jangka waktu",
+      "B": "PPN dan PPnBM yang tidak seharusnya dikompensasikan selisih lebih pajak",
+      "C": "PKP tidak melakukan penyerahan BKP/JKP namun telah mengkreditkan Pajak Masukan",
+      "D": "WP dikukuhkan sebagai PKP secara jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf b: SPT tidak disampaikan dan setelah ditegur secara tertulis, tetap tidak disampaikan sesuai jangka waktu yang ditentukan dalam surat teguran.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "b SPT tidak disampaikan dan setelah ditegur secara tertulis, tidak disampaikan sesuai jangka waktu"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebab huruf c penerbitan SKPKB yang terkait PPN dan PPnBM adalah...",
+    "opsi": {
+      "A": "kewajiban Pasal 28 dan Pasal 29 tidak dipenuhi",
+      "B": "PPN dan PPnBM yang tidak seharusnya dikompensasikan selisih lebih pajak atau tidak seharusnya dikenai tarif 0%",
+      "C": "WP diterbitkan NPWP/dikukuhkan PKP secara jabatan",
+      "D": "PKP tidak membuat Faktur Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf c menyebutkan PPN dan PPnBM yang tidak seharusnya dikompensasikan selisih lebih pajak atau tidak seharusnya dikenai tarif 0%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "c PPN dan PPnBM yang tidak seharusnya dikompensasikan selisih lebih pajak atau tidak seharusnya dikenai tarif 0%"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sebab huruf d penerbitan SKPKB berkaitan dengan tidak dipenuhinya kewajiban...",
+    "opsi": {
+      "A": "Pasal 13 dan Pasal 14 UU KUP",
+      "B": "Pasal 17A dan Pasal 17B UU KUP",
+      "C": "Pasal 28 dan Pasal 29 UU KUP",
+      "D": "Pasal 8 dan Pasal 9 UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf d: kewajiban Pasal 28 (pembukuan) dan Pasal 29 (pemeriksaan) UU KUP tidak dipenuhi oleh Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "d kewajiban Ps. 28 dan Ps. 29 tidak dipenuhi"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sebab huruf e penerbitan SKPKB terjadi apabila...",
+    "opsi": {
+      "A": "kewajiban Pasal 28 dan Pasal 29 tidak dipenuhi",
+      "B": "PKP tidak menyerahkan BKP/JKP namun telah mengkreditkan Pajak Masukan",
+      "C": "SPT tidak disampaikan setelah ditegur tertulis",
+      "D": "WP diterbitkan NPWP/dikukuhkan PKP secara jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf e: WP diterbitkan NPWP atau dikukuhkan sebagai PKP secara jabatan oleh DJP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "e WP diterbitkan NPWP/dikukuhkan PKP secara jabatan"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sebab huruf f penerbitan SKPKB adalah...",
+    "opsi": {
+      "A": "PKP tidak melakukan penyerahan BKP dan/atau JKP dan/atau ekspor BKP dan/atau JKP namun telah diberikan pengembalian Pajak Masukan atau telah mengkreditkan Pajak Masukan",
+      "B": "PPN dan PPnBM yang tidak seharusnya dikenai tarif 0%",
+      "C": "pajak yang terutang tidak atau kurang dibayar",
+      "D": "WP dikukuhkan sebagai PKP secara jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf f: PKP tidak melakukan penyerahan BKP/JKP/ekspor BKP/JKP, padahal telah diberikan pengembalian PM atau telah mengkreditkan PM.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "f PKP tidak melakukan penyerahan BKP dan/atau JKP dan/atau ekspor BKP dan/atau JKP dan telah diberikan pengembalian PM atau telah mengkreditkan PM"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-010",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Untuk SKPKB yang diterbitkan karena sebab huruf a, e, atau f, dikenakan sanksi bunga per bulan sebesar suku bunga acuan ditambah uplift factor sebesar...",
+    "opsi": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "kunci": "B",
+    "pembahasan": "Sebab huruf a, e, f dikenakan sanksi bunga per bulan sebesar suku bunga acuan ditambah uplift factor 15%, dibagi 12, maksimal 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "sanksi bunga per bulan sebesar suku bunga acuan + uplift factor 15% : 12"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi bunga dengan uplift factor 15% atas SKPKB karena sebab huruf a, e, atau f dikenakan paling lama...",
+    "opsi": {
+      "A": "12 bulan",
+      "B": "18 bulan",
+      "C": "24 bulan",
+      "D": "36 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Sanksi bunga uplift factor 15% tersebut dikenakan maksimal 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "sanksi bunga per bulan sebesar suku bunga acuan + uplift factor 15% : 12 (max. 24 bulan)"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Untuk PPh yang tidak/kurang dibayar terkait sebab penerbitan SKPKB huruf b, c, dan d, dikenakan sanksi bunga per bulan dengan uplift factor sebesar...",
+    "opsi": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "20%"
+    },
+    "kunci": "D",
+    "pembahasan": "PPh tidak/kurang dibayar dikenakan bunga per bulan sebesar suku bunga acuan ditambah uplift factor 20%, dibagi 12, maksimal 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "PPh tidak/kurang dibayar: bunga per bulan sebesar suku bunga acuan + uplift factor 20% : 12 (max. 24 bulan)"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal PPh yang telah dipotong/dipungut tetapi tidak disetor, SKPKB dikenakan sanksi administratif berupa...",
+    "opsi": {
+      "A": "kenaikan 75%",
+      "B": "bunga dengan uplift factor 20%",
+      "C": "kenaikan 100%",
+      "D": "denda 1% dari DPP"
+    },
+    "kunci": "A",
+    "pembahasan": "PPh dipotong/dipungut tetapi tidak disetor dikenakan sanksi kenaikan sebesar 75%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "PPh dipotong/dipungut tetapi tidak disetor: kenaikan 75%"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PT Mentari terbukti tidak melakukan penyerahan BKP, namun telah mengkreditkan Pajak Masukan atas perolehan terkait. Berdasarkan Pasal 13 ayat (1) UU KUP, atas kondisi tersebut DJP dapat menerbitkan...",
+    "opsi": {
+      "A": "Surat Tagihan Pajak",
+      "B": "SKPKB",
+      "C": "SKPN",
+      "D": "SKPLB"
+    },
+    "kunci": "B",
+    "pembahasan": "Kondisi PKP tidak menyerahkan BKP/JKP namun telah mengkreditkan PM adalah sebab huruf f penerbitan SKPKB.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "f PKP tidak melakukan penyerahan BKP dan/atau JKP dan/atau ekspor BKP dan/atau JKP dan telah diberikan pengembalian PM atau telah mengkreditkan PM"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Manakah yang BUKAN merupakan sebab penerbitan SKPKB menurut Pasal 13 ayat (1) UU KUP?",
+    "opsi": {
+      "A": "SPT tidak disampaikan setelah ditegur secara tertulis",
+      "B": "kewajiban Pasal 28 dan Pasal 29 tidak dipenuhi",
+      "C": "Wajib Pajak mengajukan keberatan yang ditolak",
+      "D": "WP diterbitkan NPWP/dikukuhkan PKP secara jabatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Keberatan yang ditolak bukan sebab penerbitan SKPKB; keenam sebab SKPKB adalah huruf a-f sebagaimana ditampilkan pada materi.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 45,
+        "kutipan": "SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan, dalam hal:"
+      }
+    ],
+    "tags": [
+      "SKPKB",
+      "Pasal 13 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SKPKBT diatur dalam ketentuan...",
+    "opsi": {
+      "A": "Pasal 13 ayat (1) UU KUP",
+      "B": "Pasal 14 UU KUP",
+      "C": "Pasal 17A UU KUP",
+      "D": "Pasal 15 ayat (1) UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Dasar hukum penerbitan SKPKBT adalah Pasal 15 ayat (1) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Pasal 15 ayat (1): SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak berdasarkan hasil Pemeriksaan Ulang"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu penerbitan SKPKBT menurut Pasal 15 ayat (1) UU KUP adalah...",
+    "opsi": {
+      "A": "5 tahun",
+      "B": "3 tahun",
+      "C": "10 tahun",
+      "D": "2 tahun"
+    },
+    "kunci": "A",
+    "pembahasan": "SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SKPKBT diterbitkan berdasarkan hasil...",
+    "opsi": {
+      "A": "Penelitian",
+      "B": "Pemeriksaan Ulang",
+      "C": "konfirmasi data",
+      "D": "Pemeriksaan Kantor"
+    },
+    "kunci": "B",
+    "pembahasan": "SKPKBT diterbitkan berdasarkan hasil Pemeriksaan Ulang, berbeda dengan SKPKB yang berdasarkan hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak berdasarkan hasil Pemeriksaan Ulang"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan Ulang dalam rangka penerbitan SKPKBT dilakukan dalam hal terdapat...",
+    "opsi": {
+      "A": "perbedaan penafsiran ketentuan perpajakan",
+      "B": "permohonan Wajib Pajak",
+      "C": "data baru/data yang semula belum terungkap",
+      "D": "hasil konfirmasi Faktur Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksaan Ulang dilakukan dalam hal terdapat data baru/data yang semula belum terungkap.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Pemeriksaan Ulang dilakukan dalam hal terdapat DATA BARU/DATA YANG SEMULA BELUM TERUNGKAP"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Data baru/data yang semula belum terungkap sebagai dasar Pemeriksaan Ulang untuk SKPKBT dapat bersumber dari...",
+    "opsi": {
+      "A": "hanya pengakuan Wajib Pajak semata",
+      "B": "hanya hasil keberatan Wajib Pajak",
+      "C": "hanya putusan Pengadilan Pajak",
+      "D": "data yang dimiliki Dirjen Pajak atau keterangan tertulis WP atas kehendak sendiri"
+    },
+    "kunci": "D",
+    "pembahasan": "Data baru dapat berasal dari data yang dimiliki Dirjen Pajak, atau dari keterangan tertulis Wajib Pajak atas kehendak sendiri.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Dimiliki Dirjen Pajak"
+      },
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Pengakuan WP"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika data baru yang mengakibatkan penambahan jumlah pajak terutang dimiliki oleh Dirjen Pajak, SKPKBT dikenakan sanksi kenaikan sebesar...",
+    "opsi": {
+      "A": "100%",
+      "B": "75%",
+      "C": "50%",
+      "D": "25%"
+    },
+    "kunci": "A",
+    "pembahasan": "Data baru yang dimiliki Dirjen Pajak dan mengakibatkan penambahan jumlah pajak terutang dikenakan sanksi kenaikan sebesar 100%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Data baru yang mengakibatkan penambahan jumlah pajak yang terutang"
+      },
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "sanksi kenaikan 100%"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila data baru diperoleh dari keterangan tertulis Wajib Pajak atas kehendak sendiri, penerbitan SKPKBT tersebut dikenakan...",
+    "opsi": {
+      "A": "sanksi kenaikan 100%",
+      "B": "sanksi tidak dikenakan",
+      "C": "sanksi bunga uplift factor 20%",
+      "D": "sanksi denda 1% dari DPP"
+    },
+    "kunci": "B",
+    "pembahasan": "Data baru dari keterangan tertulis WP atas kehendak sendiri tidak dikenai sanksi, berbeda dengan data yang dimiliki Dirjen Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Keterangan tertulis dari WP atas kehendak sendiri"
+      },
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "sanksi tidak dikenakan"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam skema penerbitan SKPKBT, data baru yang mengakibatkan penambahan jumlah pajak terutang karena diperoleh DJP dari sumber lain dikelompokkan sebagai jalur...",
+    "opsi": {
+      "A": "Pengakuan WP",
+      "B": "Pemeriksaan Ulang tanpa sanksi",
+      "C": "Dimiliki Dirjen Pajak",
+      "D": "Pemeriksaan Kantor"
+    },
+    "kunci": "C",
+    "pembahasan": "Jalur ini dikelompokkan sebagai 'Dimiliki Dirjen Pajak', berbeda dengan jalur 'Pengakuan WP' yang bersumber dari keterangan tertulis WP sendiri.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Dimiliki Dirjen Pajak"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah SKPKB terbit, pemeriksa menemukan data baru yang semula belum terungkap sehingga pajak terutang bertambah, dan data tersebut bersumber dari data pihak ketiga yang dimiliki Dirjen Pajak. Produk hukum dan sanksi yang tepat adalah...",
+    "opsi": {
+      "A": "STP dengan sanksi bunga 5%",
+      "B": "SKPN tanpa sanksi",
+      "C": "SKPKBT dengan sanksi tidak dikenakan",
+      "D": "SKPKBT dengan sanksi kenaikan 100%"
+    },
+    "kunci": "D",
+    "pembahasan": "Data baru yang dimiliki Dirjen Pajak dan menambah pajak terutang menjadi dasar SKPKBT dengan sanksi kenaikan 100%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Data baru yang mengakibatkan penambahan jumlah pajak yang terutang"
+      },
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "sanksi kenaikan 100%"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak secara sukarela menyampaikan keterangan tertulis atas kehendak sendiri mengenai adanya data baru yang mengakibatkan penambahan pajak terutang, sebelum Pemeriksaan Ulang dimulai. Penerbitan SKPKBT atas data tersebut...",
+    "opsi": {
+      "A": "tidak dikenai sanksi",
+      "B": "dikenai sanksi kenaikan 100%",
+      "C": "dikenai sanksi bunga uplift factor 15%",
+      "D": "dikenai sanksi denda 1% dari DPP"
+    },
+    "kunci": "A",
+    "pembahasan": "Data baru dari pengakuan tertulis WP atas kehendak sendiri tidak dikenai sanksi, berbeda dengan data yang dimiliki Dirjen Pajak yang dikenai kenaikan 100%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Keterangan tertulis dari WP atas kehendak sendiri"
+      },
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "sanksi tidak dikenakan"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu 5 tahun penerbitan SKPKBT dihitung sejak saat terutangnya pajak atau berakhirnya...",
+    "opsi": {
+      "A": "tahun buku",
+      "B": "Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak",
+      "C": "jatuh tempo pelunasan",
+      "D": "tahun takwim"
+    },
+    "kunci": "B",
+    "pembahasan": "Jangka waktu 5 tahun dihitung sejak saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak berdasarkan hasil Pemeriksaan Ulang"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Produk hukum yang diterbitkan berdasarkan Pemeriksaan Ulang karena ditemukan data baru adalah...",
+    "opsi": {
+      "A": "SKPLB",
+      "B": "SKPN",
+      "C": "SKPKBT",
+      "D": "STP"
+    },
+    "kunci": "C",
+    "pembahasan": "SKPKBT diterbitkan berdasarkan hasil Pemeriksaan Ulang karena ditemukan data baru/data yang semula belum terungkap.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa Pajak, Bagian Tahun Pajak, atau Tahun Pajak berdasarkan hasil Pemeriksaan Ulang"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Manakah pernyataan yang TIDAK tepat mengenai SKPKBT sebagaimana ditampilkan dalam materi?",
+    "opsi": {
+      "A": "diterbitkan dalam jangka waktu 5 tahun berdasarkan hasil Pemeriksaan Ulang",
+      "B": "Pemeriksaan Ulang dilakukan karena terdapat data baru/data yang semula belum terungkap",
+      "C": "data baru yang dimiliki Dirjen Pajak dan menambah pajak terutang dikenai sanksi kenaikan 100%",
+      "D": "seluruh penerbitan SKPKBT otomatis dikenai sanksi kenaikan 100% tanpa memperhatikan sumber data"
+    },
+    "kunci": "D",
+    "pembahasan": "Sanksi kenaikan 100% hanya dikenakan untuk data baru yang dimiliki Dirjen Pajak; jika berasal dari pengakuan tertulis WP atas kehendak sendiri, sanksi tidak dikenakan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "Keterangan tertulis dari WP atas kehendak sendiri"
+      },
+      {
+        "pdf": "C",
+        "halaman": 46,
+        "kutipan": "sanksi tidak dikenakan"
+      }
+    ],
+    "tags": [
+      "SKPKBT",
+      "Pasal 15 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-029",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPN Pasal 17A UU KUP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "SKPN diatur dalam ketentuan...",
+    "opsi": {
+      "A": "Pasal 17A UU KUP",
+      "B": "Pasal 17B UU KUP",
+      "C": "Pasal 13 UU KUP",
+      "D": "Pasal 15 UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "SKPN (Surat Ketetapan Pajak Nihil) diatur dalam Pasal 17A UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 47,
+        "kutipan": "SKPN (Pasal 17A UU KUP)"
+      }
+    ],
+    "tags": [
+      "SKPN",
+      "Pasal 17A UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-030",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPN Pasal 17A UU KUP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SKPN diterbitkan berdasarkan hasil...",
+    "opsi": {
+      "A": "Penelitian",
+      "B": "Pemeriksaan",
+      "C": "Keberatan",
+      "D": "konfirmasi Faktur Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram pada materi menunjukkan SKPN diterbitkan setelah dilakukan Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 47,
+        "kutipan": "PEMERIKSAAN"
+      },
+      {
+        "pdf": "C",
+        "halaman": 47,
+        "kutipan": "SURAT KETETAPAN PAJAK NIHIL"
+      }
+    ],
+    "tags": [
+      "SKPN",
+      "Pasal 17A UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPN Pasal 17A UU KUP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SKPN diterbitkan apabila jumlah kredit pajak atau jumlah pajak yang dibayar...",
+    "opsi": {
+      "A": "lebih besar daripada jumlah pajak yang terutang",
+      "B": "lebih kecil daripada jumlah pajak yang terutang",
+      "C": "sama dengan jumlah pajak yang terutang, atau pajak tidak terutang & tidak ada kredit/pembayaran pajak",
+      "D": "tidak dapat dihitung karena SPT tidak disampaikan"
+    },
+    "kunci": "C",
+    "pembahasan": "SKPN diterbitkan apabila jumlah kredit pajak/pajak yang dibayar sama dengan pajak terutang, atau pajak tidak terutang dan tidak ada kredit/pembayaran pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 47,
+        "kutipan": "Jumlah kredit pajak atau jumlah pajak yg dibayar sama dengan jumlah pajak yang terutang, atau pajak tidak terutang & tidak ada kredit pajak atau tidak ada pembayaran pajak"
+      }
+    ],
+    "tags": [
+      "SKPN",
+      "Pasal 17A UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPN Pasal 17A UU KUP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan alur proses pada materi, setelah Pemeriksaan menemukan kondisi jumlah kredit pajak sama dengan pajak terutang, DJP menerbitkan...",
+    "opsi": {
+      "A": "Surat Tagihan Pajak",
+      "B": "Surat Ketetapan Pajak Kurang Bayar",
+      "C": "Surat Ketetapan Pajak Lebih Bayar",
+      "D": "Surat Ketetapan Pajak Nihil"
+    },
+    "kunci": "D",
+    "pembahasan": "Alur proses pada materi menunjukkan hasil akhir berupa Surat Ketetapan Pajak Nihil.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 47,
+        "kutipan": "SURAT KETETAPAN PAJAK NIHIL"
+      }
+    ],
+    "tags": [
+      "SKPN",
+      "Pasal 17A UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-033",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPN Pasal 17A UU KUP",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Manakah kondisi yang BUKAN menjadi dasar penerbitan SKPN menurut Pasal 17A UU KUP?",
+    "opsi": {
+      "A": "jumlah pajak yang dibayar lebih besar daripada jumlah pajak yang terutang",
+      "B": "jumlah kredit pajak sama dengan jumlah pajak yang terutang",
+      "C": "pajak tidak terutang dan tidak ada kredit pajak",
+      "D": "pajak tidak terutang dan tidak ada pembayaran pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Kondisi pajak dibayar lebih besar daripada pajak terutang adalah dasar penerbitan SKPLB, bukan SKPN.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 47,
+        "kutipan": "Jumlah kredit pajak atau jumlah pajak yg dibayar sama dengan jumlah pajak yang terutang, atau pajak tidak terutang & tidak ada kredit pajak atau tidak ada pembayaran pajak"
+      }
+    ],
+    "tags": [
+      "SKPN",
+      "Pasal 17A UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-034",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "SKPLB berdasarkan hasil Penelitian terkait kelebihan pembayaran pajak yang seharusnya tidak terutang diatur dalam...",
+    "opsi": {
+      "A": "Pasal 17 ayat (1) UU KUP",
+      "B": "Pasal 17 ayat (2) UU KUP",
+      "C": "Pasal 17B UU KUP",
+      "D": "Pasal 17A UU KUP"
+    },
+    "kunci": "B",
+    "pembahasan": "SKPLB berbasis Penelitian atas kelebihan pembayaran pajak yang seharusnya tidak terutang diatur dalam Pasal 17 ayat (2) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "kelebihan pembayaran pajak yg seharusnya tidak terutang Ps. 17 (2) UU KUP"
+      }
+    ],
+    "tags": [
+      "SKPLB",
+      "Pasal 17 ayat (2) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-035",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "SKPLB berdasarkan hasil Pemeriksaan terhadap SPT yang jumlah kredit pajak/pajak dibayar lebih besar daripada jumlah pajak terutang diatur dalam...",
+    "opsi": {
+      "A": "Pasal 17 ayat (2) UU KUP",
+      "B": "Pasal 17B UU KUP",
+      "C": "Pasal 17 ayat (1) UU KUP",
+      "D": "Pasal 15 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Kondisi ini diatur dalam Pasal 17 ayat (1) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "terhadap SPT terdapat jumlah kredit pajak atau jumlah pajak yg dibayar lebih besar daripada jumlah pajak yg terutang (Ps. 17 (1) UU KUP)"
+      }
+    ],
+    "tags": [
+      "SKPLB",
+      "Pasal 17 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-036",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "SKPLB berdasarkan Pemeriksaan atas permohonan pengembalian kelebihan pembayaran pajak diatur dalam...",
+    "opsi": {
+      "A": "Pasal 17 ayat (2) UU KUP",
+      "B": "Pasal 17 ayat (1) UU KUP",
+      "C": "Pasal 17A UU KUP",
+      "D": "Pasal 17B UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Permohonan pengembalian kelebihan pembayaran pajak yang ditindaklanjuti dengan Pemeriksaan diatur dalam Pasal 17B UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "terhadap permohonan pengembalian kelebihan pembayaran pajak (Ps. 17B UU KUP)"
+      }
+    ],
+    "tags": [
+      "SKPLB",
+      "Pasal 17B UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-037",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Apabila SKPLB telah diterbitkan berdasarkan Penelitian, SKPLB dapat diterbitkan lagi apabila selanjutnya dilakukan...",
+    "opsi": {
+      "A": "Pemeriksaan",
+      "B": "Keberatan",
+      "C": "Banding",
+      "D": "Peninjauan Kembali"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menunjukkan bahwa SKPLB berbasis Penelitian dapat diterbitkan lagi apabila dilakukan Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "diterbitkan lagi"
+      },
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "Surat Ketetapan Pajak Lebih Bayar"
+      }
+    ],
+    "tags": [
+      "SKPLB"
+    ]
+  },
+  {
+    "id": "PMR-06-038",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Terhadap SKPLB yang telah diterbitkan berdasarkan hasil Pemeriksaan, kemudian ditemukan data baru termasuk data yang semula belum terungkap. SKPLB dapat diterbitkan lagi melalui...",
+    "opsi": {
+      "A": "Penelitian ulang",
+      "B": "Pemeriksaan Ulang",
+      "C": "Keberatan",
+      "D": "permohonan Wajib Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "SKPLB dapat diterbitkan lagi melalui Pemeriksaan Ulang apabila ditemukan data baru, termasuk data yang semula belum terungkap.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "data baru, termasuk data yg semula belum terungkap"
+      },
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "Surat Ketetapan Pajak Lebih Bayar"
+      }
+    ],
+    "tags": [
+      "SKPLB"
+    ]
+  },
+  {
+    "id": "PMR-06-039",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "SKPLB sebagaimana ditampilkan dalam materi diterbitkan berdasarkan dua hasil kegiatan DJP, yaitu Penelitian dan...",
+    "opsi": {
+      "A": "Konfirmasi",
+      "B": "Klarifikasi",
+      "C": "Pemeriksaan",
+      "D": "Verifikasi"
+    },
+    "kunci": "C",
+    "pembahasan": "SKPLB diterbitkan berdasarkan hasil Penelitian atau hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "diterbitkan berdasarkan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "Penelitian"
+      },
+      {
+        "pdf": "C",
+        "halaman": 48,
+        "kutipan": "Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "SKPLB"
+    ]
+  },
+  {
+    "id": "PMR-06-040",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Surat Tagihan Pajak (STP) diatur dalam ketentuan...",
+    "opsi": {
+      "A": "Pasal 13 UU KUP",
+      "B": "Pasal 15 UU KUP",
+      "C": "Pasal 17A UU KUP",
+      "D": "Pasal 14 UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Surat Tagihan Pajak diatur dalam Pasal 14 UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "SURAT TAGIHAN PAJAK (Pasal 14 UU KUP)"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-041",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Surat Tagihan Pajak (STP) diterbitkan oleh...",
+    "opsi": {
+      "A": "Dirjen Pajak",
+      "B": "Menteri Keuangan",
+      "C": "Pengadilan Pajak",
+      "D": "Kepala KPP tanpa kewenangan Dirjen Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram pada materi menunjukkan STP diterbitkan oleh Dirjen Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "DIRJEN PAJAK"
+      },
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "Surat Tagihan Pajak"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-042",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu sebab penerbitan STP (huruf a) adalah...",
+    "opsi": {
+      "A": "WP dikenai sanksi administratif berupa denda",
+      "B": "PPh dalam tahun berjalan tidak atau kurang dibayar",
+      "C": "PKP tidak membuat Faktur Pajak",
+      "D": "terdapat imbalan bunga yang seharusnya tidak diberikan"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf a: PPh dalam tahun berjalan tidak atau kurang dibayar.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "a PPh dalam tahun berjalan tidak atau kurang dibayar"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-043",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "STP dapat diterbitkan terhadap pengusaha yang telah dikukuhkan sebagai PKP apabila...",
+    "opsi": {
+      "A": "terlambat melaporkan SPT Masa PPN",
+      "B": "mengajukan keberatan yang ditolak",
+      "C": "tidak membuat Faktur Pajak atau terlambat membuat Faktur Pajak",
+      "D": "tidak memiliki NPWP"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf d: pengusaha yang telah dikukuhkan PKP tidak membuat Faktur Pajak atau terlambat membuat Faktur Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "d pengusaha yang telah dikukuhkan PKP tidak membuat Faktur Pajak (FP) atau terlambat membuat FP"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-044",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "STP dapat diterbitkan apabila PKP tidak mengisi Faktur Pajak secara lengkap, kecuali untuk kondisi tertentu yaitu...",
+    "opsi": {
+      "A": "keterlambatan penyampaian SPT Masa PPN",
+      "B": "kesalahan pengisian NPWP penjual",
+      "C": "keterlambatan pembayaran PPN terutang",
+      "D": "identitas pembeli sesuai Pasal 13 ayat (5) huruf b PPN, atau identitas pembeli serta nama dan tanda tangan bagi PKP pedagang eceran"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf e mengecualikan dua kondisi: identitas pembeli sesuai Pasal 13 ayat (5) huruf b PPN, atau identitas pembeli serta nama dan tanda tangan sesuai Pasal 13 ayat (5) huruf b dan g PPN bagi PKP pedagang eceran.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "e pengusaha yang telah dikukuhkan PKP tidak mengisi FP secara lengkap, selain:"
+      },
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "1) identitas pembeli sesuai Pasal 13 ayat (5) huruf b PPN; atau"
+      },
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "2) identitas pembeli serta nama dan tanda tangan sesuai Pasal 13 ayat (5) huruf b dan huruf g PPN"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-045",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi bunga atas STP yang diterbitkan karena sebab huruf a dan b dikenakan dengan uplift factor sebesar...",
+    "opsi": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "20%"
+    },
+    "kunci": "A",
+    "pembahasan": "Sebab huruf a dan b ditambah dengan sanksi bunga per bulan sebesar suku bunga acuan ditambah uplift factor 5%, maksimal 24 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "ditambah dengan sanksi bunga per bulan sebesar suku bunga acuan + uplift factor 5% (max. 24 bulan)"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-046",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda yang dikenakan dalam STP terkait sebab huruf d dan e (Faktur Pajak tidak dibuat/tidak lengkap) adalah sebesar...",
+    "opsi": {
+      "A": "2% dari DPP",
+      "B": "1% dari DPP",
+      "C": "75% dari pajak terutang",
+      "D": "100% dari pajak terutang"
+    },
+    "kunci": "B",
+    "pembahasan": "Selain wajib menyetor pajak yang terutang, PKP dikenai sanksi denda 1% dari DPP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "selain wajib menyetor pajak yang terutang, dikenai sanksi denda 1% dari DPP"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-047",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sebab huruf f penerbitan STP terkait dengan...",
+    "opsi": {
+      "A": "kewajiban Pasal 28 dan Pasal 29 tidak dipenuhi",
+      "B": "kekurangan pembayaran akibat salah tulis/salah hitung",
+      "C": "terdapat imbalan bunga yang seharusnya tidak diberikan kepada WP",
+      "D": "jumlah pajak tidak/kurang dibayar dalam jangka waktu persetujuan mengangsur/menunda"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf f: terdapat imbalan bunga yang seharusnya tidak diberikan kepada WP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "f terdapat imbalan bunga yang seharusnya tidak diberikan kepada WP"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-048",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak telah memperoleh persetujuan mengangsur pembayaran pajak, namun terdapat jumlah pajak yang tidak dibayar dalam jangka waktu persetujuan tersebut. Atas kondisi ini DJP menerbitkan...",
+    "opsi": {
+      "A": "SKPKB dengan sanksi kenaikan 75%",
+      "B": "SKPKBT dengan sanksi kenaikan 100%",
+      "C": "SKPN",
+      "D": "STP sesuai Pasal 14 huruf g UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf g: terdapat jumlah pajak yang tidak/kurang dibayar dalam jangka waktu persetujuan mengangsur atau menunda, menjadi sebab penerbitan STP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "g terdapat jumlah pajak yang tidak/kurang dibayar dalam jangka waktu persetujuan mengangsur atau menunda"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-049",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Manakah yang BUKAN merupakan sanksi yang terkait penerbitan STP sebagaimana ditampilkan dalam materi?",
+    "opsi": {
+      "A": "kenaikan sebesar 100% atas kekurangan pajak terutang dalam SKPKBT",
+      "B": "bunga per bulan dengan uplift factor 5%, maksimal 24 bulan",
+      "C": "denda sebesar 30% dan 60% untuk kasus keberatan/banding/PK yang ditolak",
+      "D": "denda sebesar 1% dari DPP"
+    },
+    "kunci": "A",
+    "pembahasan": "Sanksi kenaikan 100% atas SKPKBT bukan sanksi STP; sanksi STP yang ditampilkan adalah bunga uplift 5%, denda 30%/60% (terkait sanksi administratif c), dan denda 1% dari DPP (terkait d, e).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "ditambah dengan sanksi bunga per bulan sebesar suku bunga acuan + uplift factor 5% (max. 24 bulan)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "termasuk denda 30% & 60% (keberatan/banding/PK)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 49,
+        "kutipan": "selain wajib menyetor pajak yang terutang, dikenai sanksi denda 1% dari DPP"
+      }
+    ],
+    "tags": [
+      "STP",
+      "Pasal 14 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-06-050",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda atas keterlambatan pelaporan SPT Masa PPN menurut Pasal 7 ayat (1) UU KUP adalah sebesar...",
+    "opsi": {
+      "A": "Rp100.000",
+      "B": "Rp500.000",
+      "C": "Rp1.000.000",
+      "D": "Rp250.000"
+    },
+    "kunci": "B",
+    "pembahasan": "Keterlambatan pelaporan SPT Masa PPN dikenakan denda sebesar Rp500.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keterlambatan pelaporan SPT Masa PPN"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Denda sebesar Rp500.000"
+      }
+    ],
+    "tags": [
+      "Pasal 7 ayat (1) UU KUP",
+      "Sanksi Denda"
+    ]
+  },
+  {
+    "id": "PMR-06-051",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda atas keterlambatan pelaporan SPT Tahunan Wajib Pajak badan menurut Pasal 7 ayat (1) UU KUP adalah sebesar...",
+    "opsi": {
+      "A": "Rp100.000",
+      "B": "Rp500.000",
+      "C": "Rp1.000.000",
+      "D": "Rp2.000.000"
+    },
+    "kunci": "C",
+    "pembahasan": "Keterlambatan pelaporan SPT Tahunan Wajib Pajak badan dikenakan denda sebesar Rp1.000.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keterlambatan pelaporan SPT Tahunan Wajib Pajak badan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Denda sebesar Rp1.000.000"
+      }
+    ],
+    "tags": [
+      "Pasal 7 ayat (1) UU KUP",
+      "Sanksi Denda"
+    ]
+  },
+  {
+    "id": "PMR-06-052",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Keterlambatan pelaporan SPT Masa lainnya (selain SPT Masa PPN) dan SPT Tahunan PPh Wajib Pajak orang pribadi menurut Pasal 7 ayat (1) UU KUP masing-masing dikenakan denda sebesar...",
+    "opsi": {
+      "A": "Rp500.000 dan Rp1.000.000",
+      "B": "Rp1.000.000 dan Rp500.000",
+      "C": "Rp500.000 dan Rp100.000",
+      "D": "Rp100.000 dan Rp100.000"
+    },
+    "kunci": "D",
+    "pembahasan": "Keterlambatan pelaporan SPT Masa lainnya dikenakan denda Rp100.000, dan keterlambatan SPT Tahunan PPh Wajib Pajak orang pribadi juga Rp100.000.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keterlambatan pelaporan SPT Masa lainnya"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keterlambatan pelaporan SPT Tahunan PPh Wajib Pajak orang pribadi"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Denda sebesar Rp100.000"
+      }
+    ],
+    "tags": [
+      "Pasal 7 ayat (1) UU KUP",
+      "Sanksi Denda"
+    ]
+  },
+  {
+    "id": "PMR-06-053",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi denda atas keberatan Wajib Pajak yang ditolak atau dikabulkan sebagian menurut Pasal 25 ayat (9) UU KUP adalah...",
+    "opsi": {
+      "A": "30%",
+      "B": "50%",
+      "C": "60%",
+      "D": "75%"
+    },
+    "kunci": "A",
+    "pembahasan": "Keberatan Wajib Pajak yang ditolak atau dikabulkan sebagian dikenakan denda sebesar 30%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Keberatan Wajib Pajak ditolak atau dikabulkan sebagian"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Denda sebesar 30%"
+      }
+    ],
+    "tags": [
+      "Pasal 25 ayat (9) UU KUP",
+      "Sanksi Denda"
+    ]
+  },
+  {
+    "id": "PMR-06-054",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Denda sebesar 60% dikenakan dalam hal permohonan banding ditolak/dikabulkan sebagian, atau Putusan Peninjauan Kembali menyebabkan pajak yang masih harus dibayar bertambah, sebagaimana diatur dalam...",
+    "opsi": {
+      "A": "Pasal 25 ayat (9) UU KUP",
+      "B": "Pasal 27 ayat (5d) dan ayat (5f) UU KUP",
+      "C": "Pasal 19 ayat (1) UU KUP",
+      "D": "Pasal 8 ayat (5) UU KUP"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan ini diatur dalam Pasal 27 ayat (5d) dan ayat (5f) UU KUP dengan sanksi denda 60%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "permohonan banding ditolak atau dikabulkan sebagian atau Putusan Peninjauan Kembali yang menyebabkan jumlah pajak yang masih harus dibayar bertambah"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Denda sebesar 60%"
+      }
+    ],
+    "tags": [
+      "Pasal 27 ayat (5d) dan ayat (5f) UU KUP",
+      "Sanksi Denda"
+    ]
+  },
+  {
+    "id": "PMR-06-055",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Keterlambatan pembayaran SKPKB/SKPKBT serta SK Pembetulan, SK Keberatan, Putusan Banding, atau Putusan PK yang menyebabkan jumlah pajak masih harus dibayar bertambah (Pasal 19 ayat (1)-(3) UU KUP) dikenakan sanksi bunga per bulan dengan uplift factor sebesar...",
+    "opsi": {
+      "A": "0%",
+      "B": "5%",
+      "C": "15%",
+      "D": "20%"
+    },
+    "kunci": "A",
+    "pembahasan": "Sanksi bunga Pasal 19 dihitung dari suku bunga acuan ditambah uplift factor 0%, dibagi 12.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Pasal 19 ayat (1)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "tarif bunga per bulan = Suku bunga acuan + 0%"
+      }
+    ],
+    "tags": [
+      "Pasal 19 ayat (1) UU KUP",
+      "Sanksi Bunga"
+    ]
+  },
+  {
+    "id": "PMR-06-056",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan formula perhitungan sanksi bunga pada Ringkasan Sanksi Administratif, besarnya sanksi bunga dihitung dengan mengalikan Pajak Kurang Bayar dengan Tarif bunga per bulan, kemudian dikalikan dengan...",
+    "opsi": {
+      "A": "Jumlah bulan",
+      "B": "Jumlah hari",
+      "C": "Jumlah Masa Pajak",
+      "D": "Jumlah Tahun Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Formula pada materi: SANKSI = Pajak Kurang Bayar x Tarif bunga per bulan x Jumlah bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "SANKSI = Pajak Kurang Bayar"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Tarif bunga per bulan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Jumlah bulan"
+      }
+    ],
+    "tags": [
+      "Sanksi Bunga"
+    ]
+  },
+  {
+    "id": "PMR-06-057",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi bunga dengan uplift factor 5% turut dikenakan atas pembayaran/penyetoran pajak yang dilakukan setelah tanggal jatuh tempo pembayaran/penyetoran pajak atau jatuh tempo pelaporan SPT Tahunan, sebagaimana diatur dalam...",
+    "opsi": {
+      "A": "Pasal 19 ayat (1) UU KUP",
+      "B": "Pasal 13 ayat (2) UU KUP",
+      "C": "Pasal 8 ayat (5) UU KUP",
+      "D": "Pasal 9 ayat (2a) dan ayat (2b) UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan ini diatur dalam Pasal 9 ayat (2a) dan ayat (2b) UU KUP, termasuk kelompok bunga dengan uplift factor 5%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Pasal 9 ayat (2a) & ayat (2b)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Pembayaran/penyetoran pajak yang dilakukan setelah tanggal jatuh tempo pembayaran/ penyetoran pajak atau jatuh tempo pelaporan SPT Tahunan"
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat (2a) UU KUP",
+      "Sanksi Bunga"
+    ]
+  },
+  {
+    "id": "PMR-06-058",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil pemeriksaan menunjukkan bahwa PPN dan PPnBM yang terutang tidak/kurang dibayar oleh PKP. Berdasarkan Pasal 13 ayat (3) huruf c UU KUP, sanksi administratif yang dikenakan adalah...",
+    "opsi": {
+      "A": "bunga dengan uplift factor 20%",
+      "B": "kenaikan sebesar 100%",
+      "C": "denda sebesar 1% dari DPP",
+      "D": "kenaikan sebesar 75%"
+    },
+    "kunci": "D",
+    "pembahasan": "Berdasarkan hasil pemeriksaan PPN dan PPnBM yang tidak atau kurang dibayar dikenakan sanksi kenaikan sebesar 75%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Pasal 13 ayat (3) huruf c"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Berdasarkan hasil pemeriksaan PPN dan PPnBM yang tidak atau kurang dibayar"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Kenaikan sebesar 75%"
+      }
+    ],
+    "tags": [
+      "Pasal 13 ayat (3) UU KUP",
+      "Sanksi Kenaikan"
+    ]
+  },
+  {
+    "id": "PMR-06-059",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sanksi kenaikan sebesar 100% dikenakan atas jumlah kekurangan pajak yang terutang dalam SKPKBT, sebagaimana diatur dalam...",
+    "opsi": {
+      "A": "Pasal 13 ayat (3) huruf c UU KUP",
+      "B": "Pasal 15 ayat (2) UU KUP",
+      "C": "Pasal 17C ayat (5) UU KUP",
+      "D": "Pasal 19 ayat (1) UU KUP"
+    },
+    "kunci": "B",
+    "pembahasan": "Jumlah kekurangan pajak yang terutang dalam SKPKBT dikenakan kenaikan sebesar 100% berdasarkan Pasal 15 ayat (2) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Pasal 15 ayat (2)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Jumlah kekurangan pajak yang terutang dalam SKPKBT"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Kenaikan sebesar 100%"
+      }
+    ],
+    "tags": [
+      "Pasal 15 ayat (2) UU KUP",
+      "Sanksi Kenaikan"
+    ]
+  },
+  {
+    "id": "PMR-06-060",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila diketahui bahwa pengembalian pendahuluan yang telah diberikan kepada Wajib Pajak ternyata tidak seharusnya diberikan, berdasarkan Pasal 17C ayat (5) dan Pasal 17D ayat (5) UU KUP, tindak lanjut sanksi administratif yang dikenakan berupa...",
+    "opsi": {
+      "A": "bunga dengan uplift factor 20%",
+      "B": "denda 1% dari DPP",
+      "C": "kenaikan sebesar 100%",
+      "D": "kenaikan sebesar 75%"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam hal Wajib Pajak tidak seharusnya diberikan pengembalian pendahuluan, dikenakan sanksi kenaikan sebesar 100%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Pasal 17C ayat (5) & Pasal 17D ayat (5)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Dalam hal Wajib Pajak tidak seharusnya diberikan pengembalian pendahuluan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "Kenaikan sebesar 100%"
+      }
+    ],
+    "tags": [
+      "Pasal 17C ayat (5) UU KUP",
+      "Pasal 17D ayat (5) UU KUP",
+      "Sanksi Kenaikan"
+    ]
+  },
+  {
+    "id": "PMR-06-061",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Manakah sanksi berikut yang TIDAK termasuk kategori Sanksi Kenaikan dalam Ringkasan Sanksi Administratif?",
+    "opsi": {
+      "A": "kenaikan 75% atas PPN/PPnBM kurang dibayar (Pasal 13 ayat (3) huruf c)",
+      "B": "kenaikan 100% atas kekurangan pajak dalam SKPKBT (Pasal 15 ayat (2))",
+      "C": "bunga per bulan dengan uplift factor 15% (Pasal 13 ayat (2))",
+      "D": "kenaikan 100% atas pengembalian pendahuluan yang tidak seharusnya diberikan (Pasal 17C/17D ayat (5))"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 13 ayat (2) termasuk kategori Sanksi Bunga (uplift factor 15%), bukan Sanksi Kenaikan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "Pasal 13 ayat (2)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 51,
+        "kutipan": "ditambah 15%, dibagi 12"
+      },
+      {
+        "pdf": "C",
+        "halaman": 52,
+        "kutipan": "SANKSI KENAIKAN"
+      }
+    ],
+    "tags": [
+      "Sanksi Bunga",
+      "Sanksi Kenaikan"
+    ]
+  },
+  {
+    "id": "PMR-06-062",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah pasangan pasal dan sanksi berikut yang TIDAK sesuai dengan Ringkasan Sanksi Administratif?",
+    "opsi": {
+      "A": "Pasal 7 ayat (1) - keterlambatan SPT Masa PPN - denda Rp500.000",
+      "B": "Pasal 25 ayat (9) - keberatan ditolak sebagian - denda 30%",
+      "C": "Pasal 15 ayat (2) - kekurangan pajak dalam SKPKBT - kenaikan 100%",
+      "D": "Pasal 27 ayat (5d) dan (5f) - permohonan banding ditolak - denda 100%"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 27 ayat (5d) dan (5f) mengenakan denda sebesar 60%, bukan 100%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Pasal 27 ayat (5d) dan ayat (5f)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 50,
+        "kutipan": "Denda sebesar 60%"
+      }
+    ],
+    "tags": [
+      "Pasal 27 ayat (5d) dan ayat (5f) UU KUP",
+      "Sanksi Denda"
+    ]
+  }
+]

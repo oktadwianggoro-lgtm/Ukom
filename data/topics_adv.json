@@ -1,0 +1,225 @@
+{
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "catatan_sumber": "Semua sources merujuk ke extract/B/p{NNN}.txt (file B = Bahan_Paparan_Pengawasan_Full_UKT..., halaman 1-643 untuk kompetensi ini; halaman 644+ adalah materi Kompetensi 'Analisis Kepatuhan Wajib Pajak' dan seterusnya mengulang file A, TIDAK digarap di sini). Halaman 1-210 = materi dasar KUP/PPN/PBB (gaya 'apa ketentuannya'). Halaman 226-643 = seksi 'PENYESUAIAN KETENTUAN PMK-81/2024' per PMK lama yang disesuaikan (gaya 'apa yang berubah dari PMK lama'), dikelompokkan di Topik 19. Dasar hukum umum yang disebut sebagai rujukan kompetensi (hal.2) namun tidak punya seksi tersendiri di hal.1-643: UU PPh, PER-04/PJ/2020, PER-07/2025, PMK-168/2023, PMK-186/2019 (PMK-186/2019 justru jadi dasar hukum NJOP di Topik 18).",
+  "topik": [
+    {
+      "nama": "NPWP dan Pendaftaran Wajib Pajak",
+      "subtopik": [
+        {"nama": "Dasar Hukum & Sistematika Subjek Pajak dalam UU KUP (Ps.15-59)", "sources": [{"pdf":"B","pages":[4,5]}], "priority": 2, "est_questions": 2},
+        {"nama": "Kewajiban & Tata Cara Pendaftaran NPWP (NIK, format 16 digit)", "sources": [{"pdf":"B","pages":[6,6]}], "priority": 3, "est_questions": 3},
+        {"nama": "Jangka Waktu Pendaftaran NPWP per Jenis Wajib Pajak", "sources": [{"pdf":"B","pages":[6,6]}], "priority": 3, "est_questions": 3},
+        {"nama": "NPWP untuk Kepentingan Administrasi (belum/tidak memenuhi syarat subjektif-objektif)", "sources": [{"pdf":"B","pages":[7,7]}], "priority": 2, "est_questions": 2},
+        {"nama": "Dokumen Persyaratan Pendaftaran & Jangka Waktu Penyelesaian Permohonan", "sources": [{"pdf":"B","pages":[8,9]}], "priority": 3, "est_questions": 4},
+        {"nama": "Kriteria WP Nonaktif, Penghapusan NPWP (OP/Badan/WBT/IP) & Syarat Tambahan", "sources": [{"pdf":"B","pages":[10,11]}], "priority": 3, "est_questions": 4}
+      ]
+    },
+    {
+      "nama": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+      "subtopik": [
+        {"nama": "Kriteria Wajib/Dapat Melaporkan Usaha untuk Dikukuhkan PKP & Tempat Pelaporan", "sources": [{"pdf":"B","pages":[12,12]}], "priority": 3, "est_questions": 4},
+        {"nama": "Tempat Kegiatan Usaha (TKU), Kawasan FTZ & Kantor Virtual sebagai Tempat Pelaporan Usaha", "sources": [{"pdf":"B","pages":[13,13]}], "priority": 2, "est_questions": 3},
+        {"nama": "Tata Cara & Jangka Waktu Pengukuhan PKP (Penelitian/Pemeriksaan, Jabatan)", "sources": [{"pdf":"B","pages":[14,14]}], "priority": 3, "est_questions": 4},
+        {"nama": "Pencabutan Pengukuhan PKP & Penonaktifan/Suspend Akses Faktur Pajak", "sources": [{"pdf":"B","pages":[15,15]}], "priority": 3, "est_questions": 4}
+      ]
+    },
+    {
+      "nama": "Pembukuan dan Pencatatan",
+      "subtopik": [
+        {"nama": "Definisi Pembukuan & Pencatatan (Ps.1 angka 29, Ps.28 ayat 7 & 9 UU KUP)", "sources": [{"pdf":"B","pages":[16,17]}], "priority": 3, "est_questions": 4},
+        {"nama": "Kewajiban Menyelenggarakan Pembukuan/Pencatatan & Pengecualian (NPPN)", "sources": [{"pdf":"B","pages":[18,18]}], "priority": 3, "est_questions": 4},
+        {"nama": "Ketentuan Pembukuan & Ketentuan Pencatatan (bahasa, mata uang, stelsel, SAK)", "sources": [{"pdf":"B","pages":[19,19]}], "priority": 2, "est_questions": 2},
+        {"nama": "Penyimpanan Dokumen Dasar Pembukuan/Pencatatan selama 10 Tahun", "sources": [{"pdf":"B","pages":[20,20]}], "priority": 2, "est_questions": 2}
+      ]
+    },
+    {
+      "nama": "Pembayaran dan Penyetoran Pajak",
+      "subtopik": [
+        {"nama": "Sarana Pembayaran Pajak (SSP, BPN, Collecting Agent, Pembayaran Elektronik)", "sources": [{"pdf":"B","pages":[21,23]}], "priority": 3, "est_questions": 3},
+        {"nama": "Deposit Pajak", "sources": [{"pdf":"B","pages":[24,24]}], "priority": 1, "est_questions": 1},
+        {"nama": "Batas Waktu Pembayaran Pajak Masa & Tahunan (PPh OP/Badan, Pajak Karbon)", "sources": [{"pdf":"B","pages":[25,26]}], "priority": 3, "est_questions": 3},
+        {"nama": "Sanksi Administrasi Bunga atas Keterlambatan Pembayaran Pajak", "sources": [{"pdf":"B","pages":[27,27]}], "priority": 3, "est_questions": 3},
+        {"nama": "Batas Waktu Pembayaran Bea Meterai & PBB (SPPT)", "sources": [{"pdf":"B","pages":[28,28]}], "priority": 2, "est_questions": 1},
+        {"nama": "Batas Waktu Pembayaran STP, Ketetapan dan Keputusan (termasuk WP Usaha Kecil)", "sources": [{"pdf":"B","pages":[29,29]}], "priority": 3, "est_questions": 2},
+        {"nama": "Pengangsuran/Penundaan Pembayaran Pajak & Sanksi Bunganya", "sources": [{"pdf":"B","pages":[30,31]}], "priority": 3, "est_questions": 2},
+        {"nama": "Batas Waktu yang Bertepatan dengan Hari Libur", "sources": [{"pdf":"B","pages":[32,32]}], "priority": 1, "est_questions": 1}
+      ]
+    },
+    {
+      "nama": "Pelaporan Pajak (SPT)",
+      "subtopik": [
+        {"nama": "Definisi & Fungsi SPT (PPh dan PPN)", "sources": [{"pdf":"B","pages":[33,35]}], "priority": 2, "est_questions": 2},
+        {"nama": "Kewajiban Mengisi, Menandatangani & Menyampaikan SPT", "sources": [{"pdf":"B","pages":[36,36]},{"pdf":"B","pages":[39,40]}], "priority": 2, "est_questions": 2},
+        {"nama": "Jenis & Bentuk SPT serta Isi dan Pengambilan SPT", "sources": [{"pdf":"B","pages":[37,38]}], "priority": 2, "est_questions": 2},
+        {"nama": "Batas Waktu Penyampaian SPT Masa & Tahunan", "sources": [{"pdf":"B","pages":[41,42]}], "priority": 3, "est_questions": 4},
+        {"nama": "Sanksi Administrasi Terlambat/Tidak Lapor SPT & Pengecualian Kewajiban Lapor", "sources": [{"pdf":"B","pages":[43,44]}], "priority": 3, "est_questions": 3},
+        {"nama": "SPT Dianggap Tidak Disampaikan", "sources": [{"pdf":"B","pages":[45,45]}], "priority": 2, "est_questions": 2},
+        {"nama": "Pelaporan Beberapa Masa Pajak Sekaligus & Perpanjangan SPT Tahunan", "sources": [{"pdf":"B","pages":[46,47]}], "priority": 1, "est_questions": 1},
+        {"nama": "Pembetulan SPT & Sanksi Bunga karena Pembetulan", "sources": [{"pdf":"B","pages":[48,50]}], "priority": 3, "est_questions": 2}
+      ]
+    },
+    {
+      "nama": "Pemeriksaan Pajak",
+      "subtopik": [
+        {"nama": "Gambaran Umum, Tujuan, Jenis & Kriteria Dilakukan Pemeriksaan", "sources": [{"pdf":"B","pages":[51,52]}], "priority": 3, "est_questions": 4},
+        {"nama": "Jangka Waktu Pemeriksaan Lapangan & Pemeriksaan Kantor", "sources": [{"pdf":"B","pages":[53,53]}], "priority": 3, "est_questions": 3},
+        {"nama": "Kewajiban Wajib Pajak yang Diperiksa", "sources": [{"pdf":"B","pages":[54,57]}], "priority": 3, "est_questions": 3},
+        {"nama": "Penghitungan Penghasilan Kena Pajak Secara Jabatan & Peniadaan Kewajiban Merahasiakan", "sources": [{"pdf":"B","pages":[58,59]}], "priority": 2, "est_questions": 2},
+        {"nama": "Penyegelan", "sources": [{"pdf":"B","pages":[60,60]}], "priority": 2, "est_questions": 2},
+        {"nama": "Pemeriksaan Bukti Permulaan, Ditangguhkan & Pemeriksaan Ulang", "sources": [{"pdf":"B","pages":[62,63]}], "priority": 2, "est_questions": 1},
+        {"nama": "Fasilitas WP Terbuka (Bursa Efek) & Pengungkapan Ketidakbenaran Pengisian SPT", "sources": [{"pdf":"B","pages":[61,61]},{"pdf":"B","pages":[64,64]}], "priority": 1, "est_questions": 1}
+      ]
+    },
+    {
+      "nama": "Ketetapan Pajak (SKPKB, SKPKBT, SKPLB, SKPN, STP)",
+      "subtopik": [
+        {"nama": "Jenis Ketetapan Pajak & Prinsip Self-Assessment (Ps.12 UU KUP)", "sources": [{"pdf":"B","pages":[65,68]}], "priority": 3, "est_questions": 2},
+        {"nama": "SKPKB - Kriteria Penerbitan, Jangka Waktu 5 Tahun & Sanksi", "sources": [{"pdf":"B","pages":[69,69]}], "priority": 3, "est_questions": 3},
+        {"nama": "SKPKBT & Pemeriksaan Ulang (Data Baru/Data yang Semula Belum Terungkap)", "sources": [{"pdf":"B","pages":[70,70]},{"pdf":"B","pages":[63,63]}], "priority": 3, "est_questions": 3},
+        {"nama": "SKPN (Surat Ketetapan Pajak Nihil)", "sources": [{"pdf":"B","pages":[71,71]}], "priority": 1, "est_questions": 1},
+        {"nama": "SKPLB (Pasal 17, 17 ayat 2, 17B UU KUP)", "sources": [{"pdf":"B","pages":[72,72]}], "priority": 2, "est_questions": 2},
+        {"nama": "STP (Surat Tagihan Pajak) - Dasar Penerbitan & Sanksi", "sources": [{"pdf":"B","pages":[73,73]}], "priority": 3, "est_questions": 3},
+        {"nama": "Ringkasan Sanksi Administratif: Denda, Bunga, dan Kenaikan", "sources": [{"pdf":"B","pages":[74,76]}], "priority": 3, "est_questions": 3},
+        {"nama": "Imbalan Bunga - Ruang Lingkup & Cara Penghitungan", "sources": [{"pdf":"B","pages":[98,100]}], "priority": 2, "est_questions": 3}
+      ]
+    },
+    {
+      "nama": "Penagihan Pajak",
+      "subtopik": [
+        {"nama": "Pengertian, Tujuan & Dasar Hukum Penagihan Pajak", "sources": [{"pdf":"B","pages":[77,79]}], "priority": 2, "est_questions": 2},
+        {"nama": "Jatuh Tempo Pelunasan Dasar Penagihan Pajak", "sources": [{"pdf":"B","pages":[80,81]}], "priority": 3, "est_questions": 3},
+        {"nama": "Penanggung Pajak (WP Orang Pribadi & Badan)", "sources": [{"pdf":"B","pages":[82,83]}], "priority": 2, "est_questions": 2},
+        {"nama": "Tahapan Tindakan Penagihan Pajak (Teguran s.d. Lelang)", "sources": [{"pdf":"B","pages":[84,84]}], "priority": 3, "est_questions": 3},
+        {"nama": "Daluwarsa Penagihan Pajak", "sources": [{"pdf":"B","pages":[85,85]}], "priority": 3, "est_questions": 2}
+      ]
+    },
+    {
+      "nama": "Pembetulan, Pengurangan, dan Pembatalan Ketetapan",
+      "subtopik": [
+        {"nama": "Gambaran Umum Upaya Hukum Perpajakan", "sources": [{"pdf":"B","pages":[86,87]}], "priority": 1, "est_questions": 1},
+        {"nama": "Pembetulan (Ps.16 UU KUP) - Objek, Ruang Lingkup Kesalahan, Jangka Waktu", "sources": [{"pdf":"B","pages":[88,90]}], "priority": 3, "est_questions": 4},
+        {"nama": "Pengurangan/Penghapusan Sanksi & Pengurangan/Pembatalan SKP-STP (Ps.36 UU KUP)", "sources": [{"pdf":"B","pages":[91,92]}], "priority": 2, "est_questions": 3}
+      ]
+    },
+    {
+      "nama": "Keberatan, Banding, Gugatan, dan Peninjauan Kembali",
+      "subtopik": [
+        {"nama": "Keberatan - Persyaratan, Jangka Waktu 3 Bulan, Pelunasan & Sanksi Denda 30%", "sources": [{"pdf":"B","pages":[93,93]}], "priority": 3, "est_questions": 4},
+        {"nama": "Banding ke Pengadilan Pajak & Sanksi Denda 60%", "sources": [{"pdf":"B","pages":[95,95]}], "priority": 3, "est_questions": 3},
+        {"nama": "Gugatan - Objek & Jangka Waktu Pengajuan", "sources": [{"pdf":"B","pages":[96,96]}], "priority": 2, "est_questions": 2},
+        {"nama": "Peninjauan Kembali ke Mahkamah Agung", "sources": [{"pdf":"B","pages":[97,97]}], "priority": 2, "est_questions": 2},
+        {"nama": "Prosedur Persetujuan Bersama / Mutual Agreement Procedure (MAP)", "sources": [{"pdf":"B","pages":[94,94]}], "priority": 1, "est_questions": 1}
+      ]
+    },
+    {
+      "nama": "Ketentuan Khusus KUP (Wakil, Kuasa, Pihak Lain)",
+      "subtopik": [
+        {"nama": "Wakil Wajib Pajak (Badan, Pailit, Likuidasi, WBT, Pengampuan)", "sources": [{"pdf":"B","pages":[101,102]}], "priority": 1, "est_questions": 1},
+        {"nama": "Kuasa Wajib Pajak (Ps.32 ayat 3 UU KUP)", "sources": [{"pdf":"B","pages":[103,103]}], "priority": 2, "est_questions": 1},
+        {"nama": "Penunjukan Pihak Lain sebagai Pemotong/Pemungut Pajak", "sources": [{"pdf":"B","pages":[104,104]}], "priority": 1, "est_questions": 1}
+      ]
+    },
+    {
+      "nama": "PPN - Subjek dan Objek Pajak",
+      "subtopik": [
+        {"nama": "Pengusaha, Pengusaha Kena Pajak & Pengusaha Kecil (Batasan Rp4,8 Miliar)", "sources": [{"pdf":"B","pages":[105,110]}], "priority": 3, "est_questions": 3},
+        {"nama": "Objek PPN Pasal 4 ayat (1) UU PPN, termasuk PPN KMS (16C) & Aktiva Non-Tujuan Jual (16D)", "sources": [{"pdf":"B","pages":[111,112]}], "priority": 3, "est_questions": 4},
+        {"nama": "Jenis Penyerahan BKP yang Termasuk Objek (Pasal 1A ayat 1 UU PPN)", "sources": [{"pdf":"B","pages":[113,120]}], "priority": 3, "est_questions": 6},
+        {"nama": "Penyerahan BKP yang Tidak Termasuk Objek (Pasal 1A ayat 2 UU PPN)", "sources": [{"pdf":"B","pages":[121,121]}], "priority": 2, "est_questions": 3},
+        {"nama": "Kegiatan Membangun Sendiri (Pasal 16C) secara Rinci", "sources": [{"pdf":"B","pages":[122,123]}], "priority": 3, "est_questions": 5},
+        {"nama": "Bukan Barang Kena Pajak & Bukan Jasa Kena Pajak (Pasal 4A, sebelum vs sejak UU HPP)", "sources": [{"pdf":"B","pages":[124,125]}], "priority": 3, "est_questions": 7}
+      ]
+    },
+    {
+      "nama": "PPN - Tarif dan Dasar Pengenaan Pajak",
+      "subtopik": [
+        {"nama": "Tarif PPN (10% s.d. 1 April 2022, 11% s.d. 31 Des 2024, 12% mulai 1 Jan 2025, 0% Ekspor)", "sources": [{"pdf":"B","pages":[127,127]}], "priority": 3, "est_questions": 4},
+        {"nama": "Formula Penghitungan PPN & Jenis DPP (Harga Jual, Penggantian, Nilai Impor, Nilai Ekspor, Nilai Lain)", "sources": [{"pdf":"B","pages":[128,129]}], "priority": 3, "est_questions": 7},
+        {"nama": "PPN dengan Besaran Tertentu vs Cara Hitung Umum", "sources": [{"pdf":"B","pages":[130,130]},{"pdf":"B","pages":[133,133]}], "priority": 2, "est_questions": 4},
+        {"nama": "Contoh Dasar Pengenaan Pajak Nilai Lain per Jenis Penyerahan", "sources": [{"pdf":"B","pages":[131,132]}], "priority": 2, "est_questions": 3}
+      ]
+    },
+    {
+      "nama": "PPN - Saat dan Tempat Terutang",
+      "subtopik": [
+        {"nama": "Saat Terutang PPN - Umum (Prinsip Akrual)", "sources": [{"pdf":"B","pages":[135,136]}], "priority": 3, "est_questions": 3},
+        {"nama": "Saat Terutang Khusus (Pembayaran di Muka & Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)", "sources": [{"pdf":"B","pages":[137,140]}], "priority": 3, "est_questions": 5},
+        {"nama": "Tempat Terutang PPN - Umum (Tempat Tinggal/Kedudukan & Tempat Kegiatan Usaha)", "sources": [{"pdf":"B","pages":[141,141]}], "priority": 3, "est_questions": 4},
+        {"nama": "Tempat Terutang Khusus (Pemusatan PKP, Impor, Pemanfaatan dari Luar Daerah Pabean)", "sources": [{"pdf":"B","pages":[142,145]}], "priority": 2, "est_questions": 4}
+      ]
+    },
+    {
+      "nama": "Faktur Pajak",
+      "subtopik": [
+        {"nama": "Definisi & Fungsi Faktur Pajak (Pasal 1 angka 23 UU PPN)", "sources": [{"pdf":"B","pages":[147,147]}], "priority": 2, "est_questions": 2},
+        {"nama": "Kewajiban & Saat Pembuatan Faktur Pajak", "sources": [{"pdf":"B","pages":[148,148]}], "priority": 3, "est_questions": 4},
+        {"nama": "Faktur Pajak Gabungan", "sources": [{"pdf":"B","pages":[149,151]}], "priority": 2, "est_questions": 3},
+        {"nama": "Keterangan yang Wajib Dicantumkan dalam Faktur Pajak", "sources": [{"pdf":"B","pages":[152,152]}], "priority": 3, "est_questions": 4},
+        {"nama": "Faktur Pajak PKP Pedagang Eceran & Dokumen Tertentu yang Dipersamakan dengan FP", "sources": [{"pdf":"B","pages":[153,154]}], "priority": 2, "est_questions": 5},
+        {"nama": "Persyaratan Formal & Material Faktur Pajak", "sources": [{"pdf":"B","pages":[155,155]}], "priority": 2, "est_questions": 4}
+      ]
+    },
+    {
+      "nama": "Pengkreditan Pajak Masukan",
+      "subtopik": [
+        {"nama": "Definisi Pajak Masukan & Prinsip Pengkreditan (Pasal 1 angka 24, Pasal 9 UU PPN)", "sources": [{"pdf":"B","pages":[157,158]}], "priority": 3, "est_questions": 3},
+        {"nama": "Syarat Pengkreditan Pajak Masukan (Formal & Material) & Saat Pengkreditan", "sources": [{"pdf":"B","pages":[159,160]}], "priority": 3, "est_questions": 3},
+        {"nama": "Kriteria Pajak Masukan yang Tidak Dapat Dikreditkan (Pasal 9 ayat 8 UU PPN)", "sources": [{"pdf":"B","pages":[161,161]}], "priority": 3, "est_questions": 4},
+        {"nama": "Pengkreditan PM Sebelum Ada Penyerahan/Sebelum Dikukuhkan PKP (Deemed PM 80%)", "sources": [{"pdf":"B","pages":[162,163]}], "priority": 2, "est_questions": 4},
+        {"nama": "Pengkreditan PM yang Ditemukan Saat Pemeriksaan atau Ditagih dengan Ketetapan Pajak", "sources": [{"pdf":"B","pages":[164,165]}], "priority": 2, "est_questions": 4}
+      ]
+    },
+    {
+      "nama": "Penyetoran dan Pelaporan PPN",
+      "subtopik": [
+        {"nama": "Fungsi SPT PPN & Jenis SPT Masa PPN (1111, 1111 DM, 1107 PUT)", "sources": [{"pdf":"B","pages":[167,169]}], "priority": 2, "est_questions": 4},
+        {"nama": "Penyetoran PPN Kurang Bayar & Batas Waktu Penyetoran/Pelaporan", "sources": [{"pdf":"B","pages":[170,170]}], "priority": 2, "est_questions": 4}
+      ]
+    },
+    {
+      "nama": "PBB P5L dan NJOP",
+      "subtopik": [
+        {"nama": "Dasar Hukum & Klasifikasi Objek Pajak PBB P5L", "sources": [{"pdf":"B","pages":[172,176]}], "priority": 2, "est_questions": 4},
+        {"nama": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)", "sources": [{"pdf":"B","pages":[177,182]}], "priority": 2, "est_questions": 9},
+        {"nama": "Objek di Dalam Kawasan yang Tidak Dikenakan PBB P5L & Objek Pajak Bangunan", "sources": [{"pdf":"B","pages":[183,184]}], "priority": 2, "est_questions": 3},
+        {"nama": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)", "sources": [{"pdf":"B","pages":[185,199]}], "priority": 2, "est_questions": 9},
+        {"nama": "Tata Cara Penetapan NJOP Bangunan", "sources": [{"pdf":"B","pages":[200,200]}], "priority": 1, "est_questions": 2},
+        {"nama": "Pendaftaran & Pelaporan Objek Pajak PBB (SPOP, Dokumen Pendukung, NOP)", "sources": [{"pdf":"B","pages":[201,202]},{"pdf":"B","pages":[210,210]}], "priority": 2, "est_questions": 5},
+        {"nama": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT", "sources": [{"pdf":"B","pages":[203,207]}], "priority": 2, "est_questions": 6},
+        {"nama": "Ketentuan Pengembalian Seluruh Wilayah Kerja Migas/Panas Bumi", "sources": [{"pdf":"B","pages":[208,208]}], "priority": 1, "est_questions": 2}
+      ]
+    },
+    {
+      "nama": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+      "subtopik": [
+        {"nama": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)", "sources": [{"pdf":"B","pages":[241,286]}], "priority": 3, "est_questions": 10},
+        {"nama": "PMK-48/PMK.03/2017 - Pendaftaran, Pelaporan, dan Pendataan Objek Pajak PBB", "sources": [{"pdf":"B","pages":[287,302]}], "priority": 2, "est_questions": 5},
+        {"nama": "PMK-242/PMK.03/2014 - Tata Cara Pembayaran dan Penyetoran Pajak (rincian lengkap)", "sources": [{"pdf":"B","pages":[303,332]}], "priority": 3, "est_questions": 10},
+        {"nama": "PMK-187/PMK.03/2015 - Pengembalian atas Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang", "sources": [{"pdf":"B","pages":[333,355]}], "priority": 2, "est_questions": 6},
+        {"nama": "PMK-18/PMK.03/2021 bagian Imbalan Bunga", "sources": [{"pdf":"B","pages":[356,358]}], "priority": 2, "est_questions": 5},
+        {"nama": "PMK-244/PMK.03/2014 - Tata Cara Penghitungan dan Pengembalian Kelebihan Pembayaran Pajak", "sources": [{"pdf":"B","pages":[359,365]}], "priority": 2, "est_questions": 6},
+        {"nama": "PMK-243/PMK.03/2014 - Surat Pemberitahuan (SPT) (rincian lengkap)", "sources": [{"pdf":"B","pages":[366,396]}], "priority": 3, "est_questions": 10},
+        {"nama": "PMK-261/PMK.03/2016 - PPh Final atas Pengalihan Tanah/Bangunan dan PPJB", "sources": [{"pdf":"B","pages":[397,404]}], "priority": 2, "est_questions": 6},
+        {"nama": "PMK-37/PMK.03/2017 - PPh atas Pengalihan Real Estat dalam Skema KIK/DIRE Tertentu", "sources": [{"pdf":"B","pages":[405,414]}], "priority": 2, "est_questions": 5},
+        {"nama": "PMK-257/PMK.011/2011 - PPh atas Uplift dan Pengalihan Participating Interest (Migas)", "sources": [{"pdf":"B","pages":[415,420]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-34/PMK.010/2017 - Pemungutan PPh Pasal 22", "sources": [{"pdf":"B","pages":[421,425]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan", "sources": [{"pdf":"B","pages":[426,438]}], "priority": 2, "est_questions": 7},
+        {"nama": "KMK-434/1999, KMK-624/1994, KMK-282/1997 - PPh Pasal 26/Final atas Penjualan Saham & Premi Asuransi ke Luar Negeri", "sources": [{"pdf":"B","pages":[439,447]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas", "sources": [{"pdf":"B","pages":[448,465]}], "priority": 2, "est_questions": 6},
+        {"nama": "PMK-120/PMK.03/2019 - VAT Refund bagi Turis Asing", "sources": [{"pdf":"B","pages":[466,475]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak", "sources": [{"pdf":"B","pages":[476,487]}], "priority": 2, "est_questions": 6},
+        {"nama": "PMK-65/PMK.03/2010 - Pengurangan PPN atas BKP yang Dikembalikan (Retur) & JKP yang Dibatalkan", "sources": [{"pdf":"B","pages":[488,493]}], "priority": 2, "est_questions": 4},
+        {"nama": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN", "sources": [{"pdf":"B","pages":[494,503]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-73/PMK.03/2010 & PMK-166/PMK.03/2018 - Pemungutan PPN oleh Kontraktor Migas/Panas Bumi & Pemegang IUPK", "sources": [{"pdf":"B","pages":[504,511]}], "priority": 1, "est_questions": 3},
+        {"nama": "PMK-67/PMK.03/2022 - PPN atas Jasa Agen Asuransi, Pialang Asuransi, dan Pialang Reasuransi", "sources": [{"pdf":"B","pages":[512,529]}], "priority": 2, "est_questions": 5},
+        {"nama": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)", "sources": [{"pdf":"B","pages":[530,538]}], "priority": 3, "est_questions": 8},
+        {"nama": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)", "sources": [{"pdf":"B","pages":[539,548]}], "priority": 3, "est_questions": 8},
+        {"nama": "PMK-68/PMK.03/2022 - PPN dan PPh atas Transaksi Perdagangan Aset Kripto", "sources": [{"pdf":"B","pages":[549,554]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak", "sources": [{"pdf":"B","pages":[555,572]}], "priority": 3, "est_questions": 9},
+        {"nama": "PMK-52/PMK.010/2017 - Penggunaan Nilai Buku atas Penggabungan, Peleburan, Pemekaran, Pengambilalihan Usaha", "sources": [{"pdf":"B","pages":[574,590]}], "priority": 1, "est_questions": 4},
+        {"nama": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)", "sources": [{"pdf":"B","pages":[591,635]}], "priority": 1, "est_questions": 6},
+        {"nama": "PMK-18/PMK.03/2021 bagian Kriteria Keahlian Tertentu & Tata Cara Pengenaan PPh bagi WNA", "sources": [{"pdf":"B","pages":[636,639]}], "priority": 1, "est_questions": 3},
+        {"nama": "PMK-54/PMK.03/2021 - Tata Cara Pencatatan & Kriteria Pembukuan dengan Stelsel Kas", "sources": [{"pdf":"B","pages":[640,643]}], "priority": 2, "est_questions": 5}
+      ]
+    }
+  ]
+}

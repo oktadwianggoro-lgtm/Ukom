@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "ADV-01-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Dasar Hukum & Sistematika Subjek Pajak dalam UU KUP (Ps.15-59)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Materi Ketentuan Umum dan Tata Cara Perpajakan (KUP) bersumber pada UU No. 6 Tahun 1983 beserta perubahannya, yang mengatur tentang...",
+    "opsi": {
+      "A": "Ketentuan Umum dan Tata Cara Perpajakan",
+      "B": "Pajak Penghasilan",
+      "C": "Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah",
+      "D": "Penagihan Pajak dengan Surat Paksa"
+    },
+    "kunci": "A",
+    "pembahasan": "Dasar hukum materi ini adalah UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (KUP) beserta perubahannya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 4,
+        "kutipan": "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN UU No. 6 Tahun 1983 beserta perubahannya"
+      }
+    ],
+    "tags": [
+      "UU No. 6 Tahun 1983",
+      "UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-01-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Dasar Hukum & Sistematika Subjek Pajak dalam UU KUP (Ps.15-59)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam sistematika PMK-81/2024 tentang administrasi pendaftaran NPWP dan pengukuhan PKP, ketentuan khusus bagi Wajib Pajak Badan diatur dalam rentang...",
+    "opsi": {
+      "A": "Pasal 16 sampai dengan Pasal 31",
+      "B": "Pasal 39 sampai dengan Pasal 49",
+      "C": "Pasal 32 sampai dengan Pasal 38",
+      "D": "Pasal 50 sampai dengan Pasal 58"
+    },
+    "kunci": "B",
+    "pembahasan": "Sesuai sistematika PMK-81/2024, ketentuan Wajib Pajak Badan diatur pada Pasal 39-Pasal 49, berbeda dengan OP (Ps.16-31), WBT (Ps.32-38), dan Instansi Pemerintah (Ps.50-58).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 5,
+        "kutipan": "BADAN Ps. 39-Ps.49"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "Pasal 39-49"
+    ]
+  },
+  {
+    "id": "ADV-01-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kewajiban & Tata Cara Pendaftaran NPWP (NIK, format 16 digit)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Bagi Wajib Pajak orang pribadi Penduduk, NPWP diberikan dalam bentuk...",
+    "opsi": {
+      "A": "Nomor dengan format 16 digit dari sistem DJP",
+      "B": "NIK yang telah diaktivasi",
+      "C": "Nomor Induk Berusaha (NIB)",
+      "D": "Nomor identitas sementara dari KPP terdaftar"
+    },
+    "kunci": "B",
+    "pembahasan": "WP OP Penduduk menggunakan NIK yang telah diaktivasi sebagai NPWP, sedangkan WP OP bukan Penduduk, WP Badan, dan WP IP menggunakan nomor format 16 digit dari sistem DJP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 6,
+        "kutipan": "NIK yang telah diaktivasi bagi WP OP Penduduk"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "NIK",
+      "NPWP"
+    ]
+  },
+  {
+    "id": "ADV-01-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kewajiban & Tata Cara Pendaftaran NPWP (NIK, format 16 digit)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "NPWP bagi WP OP bukan Penduduk, WP Badan, dan WP Instansi Pemerintah diberikan dalam bentuk nomor dengan format berapa digit dari sistem DJP?",
+    "opsi": {
+      "A": "16 digit",
+      "B": "15 digit",
+      "C": "12 digit",
+      "D": "20 digit"
+    },
+    "kunci": "A",
+    "pembahasan": "Nomor NPWP bagi WP OP bukan Penduduk, WP Badan, dan WP IP berupa nomor format 16 digit dari sistem DJP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 6,
+        "kutipan": "Nomor dengan format 16 digit dari sistem DJP bagi WP OP bukan Penduduk, WP Badan, dan WP Instansi Pemerintah"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "NPWP 16 digit"
+    ]
+  },
+  {
+    "id": "ADV-01-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kewajiban & Tata Cara Pendaftaran NPWP (NIK, format 16 digit)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam tata cara pendaftaran Wajib Pajak, persyaratan objektif berkaitan dengan subjek pajak yang...",
+    "opsi": {
+      "A": "Memiliki Nomor Induk Kependudukan yang masih berlaku",
+      "B": "Menerima/memperoleh penghasilan atau diwajibkan melakukan pemotongan dan/atau pemungutan dalam UU PPh",
+      "C": "Berdomisili di wilayah kerja KPP tertentu",
+      "D": "Memenuhi ketentuan subjek pajak dalam UU PPh"
+    },
+    "kunci": "B",
+    "pembahasan": "Persyaratan objektif adalah persyaratan bagi subjek pajak yang menerima/memperoleh penghasilan atau diwajibkan melakukan potput dalam UU PPh; persyaratan subjektif adalah sesuai ketentuan subjek pajak dalam UU PPh.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 6,
+        "kutipan": "Objektif: persyaratan bagi subjek pajak yang menerima/memperoleh penghasilan atau diwajibkan melakukan potput dalam UU PPh"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "syarat objektif"
+    ]
+  },
+  {
+    "id": "ADV-01-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Jangka Waktu Pendaftaran NPWP per Jenis Wajib Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak orang pribadi mulai menjalankan kegiatan usaha pada tanggal 10 Januari 2026. Sesuai ketentuan jangka waktu pendaftaran Wajib Pajak, paling lama kapan ia wajib mendaftarkan diri untuk memperoleh NPWP?",
+    "opsi": {
+      "A": "10 Maret 2026",
+      "B": "31 Januari 2026",
+      "C": "10 Februari 2026",
+      "D": "10 April 2026"
+    },
+    "kunci": "C",
+    "pembahasan": "WP OP Usahawan wajib mendaftarkan diri paling lama 1 bulan setelah kegiatan usaha dimulai, sehingga batas waktunya 10 Februari 2026.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 6,
+        "kutipan": "WP OP Usahawan 1 bulan setelah kegiatan usaha"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "jangka waktu pendaftaran"
+    ]
+  },
+  {
+    "id": "ADV-01-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Jangka Waktu Pendaftaran NPWP per Jenis Wajib Pajak",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu pendaftaran NPWP bagi WP OP Karyawan adalah akhir bulan berikutnya setelah...",
+    "opsi": {
+      "A": "Diterimanya bukti potong pajak penghasilan pertama",
+      "B": "Akumulasi penghasilan dalam tahun berjalan melebihi PTKP",
+      "C": "Berakhirnya Tahun Pajak yang bersangkutan",
+      "D": "Diterbitkannya surat keterangan kerja dari pemberi kerja"
+    },
+    "kunci": "B",
+    "pembahasan": "WP OP Karyawan wajib mendaftar pada akhir bulan berikutnya setelah akumulasi penghasilan tahun berjalan melebihi PTKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 6,
+        "kutipan": "WP OP Karyawan akhir bulan berikutnya setelah akumulasi penghasilan tahun berjalan => PTKP"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "PTKP"
+    ]
+  },
+  {
+    "id": "ADV-01-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Jangka Waktu Pendaftaran NPWP per Jenis Wajib Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini adalah ketentuan jangka waktu pendaftaran Wajib Pajak yang benar, KECUALI...",
+    "opsi": {
+      "A": "WP Badan wajib mendaftar paling lama 1 bulan setelah didirikan/bertempat kedudukan di Indonesia",
+      "B": "Warisan Belum Terbagi wajib mendaftar akhir bulan berikutnya setelah OP yang meninggalkan warisan meninggal dunia",
+      "C": "WP Instansi Pemerintah wajib mendaftar paling lama sebelum melakukan pemotongan dan/atau pemungutan",
+      "D": "WP OP Usahawan wajib mendaftar paling lama 3 bulan setelah kegiatan usaha dimulai"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan yang benar adalah WP OP Usahawan wajib mendaftar paling lama 1 bulan (bukan 3 bulan) setelah kegiatan usaha dimulai.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 6,
+        "kutipan": "WP OP Usahawan 1 bulan setelah kegiatan usaha"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "jangka waktu pendaftaran"
+    ]
+  },
+  {
+    "id": "ADV-01-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "NPWP untuk Kepentingan Administrasi (belum/tidak memenuhi syarat subjektif-objektif)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang warga negara asing yang baru tinggal di Indonesia belum memperoleh penghasilan sehingga belum memenuhi persyaratan objektif sebagai Wajib Pajak, namun diberikan NPWP untuk kepentingan administrasi. NPWP tersebut diadministrasikan di...",
+    "opsi": {
+      "A": "KPP yang ditetapkan oleh Direktur Jenderal Pajak",
+      "B": "KPP sesuai tempat tinggal",
+      "C": "KPP Badan dan Kerja Sama Multilateral (KPP BKM)",
+      "D": "Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan (KP2KP) terdekat"
+    },
+    "kunci": "B",
+    "pembahasan": "OP yang belum memenuhi persyaratan objektif terdaftar di KPP sesuai tempat tinggal, berbeda dengan dua kategori lainnya yang diadministrasikan di KPP yang ditetapkan Dirjen Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 7,
+        "kutipan": "Terdaftar di KPP sesuai tempat tinggal"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "NPWP administrasi"
+    ]
+  },
+  {
+    "id": "ADV-01-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "NPWP untuk Kepentingan Administrasi (belum/tidak memenuhi syarat subjektif-objektif)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk pihak yang dapat diberikan NPWP untuk kepentingan administrasi, KECUALI...",
+    "opsi": {
+      "A": "Orang Pribadi yang telah memenuhi persyaratan subjektif dan objektif secara penuh sebagai Wajib Pajak",
+      "B": "Orang Pribadi yang belum memenuhi persyaratan objektif sebagai Wajib Pajak",
+      "C": "Orang Pribadi atau Badan yang tidak memenuhi persyaratan subjektif sebagai subjek pajak dalam negeri",
+      "D": "Orang Pribadi atau Badan yang tidak termasuk subjek pajak sesuai ketentuan UU PPh"
+    },
+    "kunci": "A",
+    "pembahasan": "NPWP kepentingan administrasi diberikan kepada pihak yang belum/tidak memenuhi syarat subjektif-objektif, bukan kepada WP yang telah memenuhi keduanya secara penuh.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 7,
+        "kutipan": "Orang Pribadi yang belum memenuhi persyaratan objektif sebagai Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "NPWP administrasi"
+    ]
+  },
+  {
+    "id": "ADV-01-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Dokumen Persyaratan Pendaftaran & Jangka Waktu Penyelesaian Permohonan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu penyelesaian permohonan penghapusan NPWP untuk WP Badan adalah paling lama...",
+    "opsi": {
+      "A": "6 bulan sejak permohonan diterima lengkap",
+      "B": "5 hari kerja sejak permohonan diterima lengkap",
+      "C": "1 hari kerja sejak permohonan diterima lengkap",
+      "D": "12 bulan sejak permohonan diterima lengkap"
+    },
+    "kunci": "D",
+    "pembahasan": "Penghapusan NPWP diselesaikan paling lama 6 bulan untuk WP OP dan WP IP, serta 12 bulan untuk WP Badan, sejak permohonan diterima lengkap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 8,
+        "kutipan": "Penghapusan NPWP : 6 bulan untuk WP OP dan WP IP 12 bulan untuk WP Badan setelah permohonan lengkap"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "penghapusan NPWP"
+    ]
+  },
+  {
+    "id": "ADV-01-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Dokumen Persyaratan Pendaftaran & Jangka Waktu Penyelesaian Permohonan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu penyelesaian permohonan Perubahan Data Wajib Pajak yang mengakibatkan perubahan tempat KPP terdaftar adalah...",
+    "opsi": {
+      "A": "1 hari kerja setelah permohonan diterima lengkap",
+      "B": "5 hari kerja setelah permohonan diterima lengkap",
+      "C": "10 hari kerja setelah permohonan diterima lengkap",
+      "D": "3 hari kerja setelah permohonan diterima lengkap"
+    },
+    "kunci": "B",
+    "pembahasan": "Perubahan Data WP diselesaikan 1 hari kerja, atau 5 hari kerja jika mengakibatkan perubahan tempat KPP terdaftar.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 8,
+        "kutipan": "Atau 5 hk jika mengakibatkan perubahan tempat KPP terdaftar"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "perubahan data WP"
+    ]
+  },
+  {
+    "id": "ADV-01-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Dokumen Persyaratan Pendaftaran & Jangka Waktu Penyelesaian Permohonan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen persyaratan pendaftaran NPWP bagi WP Orang Pribadi Penduduk (termasuk WBT) adalah...",
+    "opsi": {
+      "A": "Salinan paspor dan pasfoto berwarna",
+      "B": "Dokumen pendirian/pembentukan badan dan perubahannya",
+      "C": "Tidak perlu dokumen tambahan karena NIK telah tervalidasi dengan Dukcapil",
+      "D": "Surat keputusan pengangkatan sebagai Kepala Desa"
+    },
+    "kunci": "C",
+    "pembahasan": "WP OP Penduduk tidak memerlukan dokumen tambahan untuk pendaftaran karena NIK-nya sudah tervalidasi dengan data Dukcapil.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 9,
+        "kutipan": "tidak perlu (NIK tervalidasi dengan Dukcapil)"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "dokumen pendaftaran"
+    ]
+  },
+  {
+    "id": "ADV-01-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Dokumen Persyaratan Pendaftaran & Jangka Waktu Penyelesaian Permohonan",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Penetapan secara jabatan melalui pemeriksaan maupun penelitian (bukan hanya penelitian saja) hanya berlaku untuk proses bisnis...",
+    "opsi": {
+      "A": "Pendaftaran Wajib Pajak dan perubahan data Wajib Pajak",
+      "B": "Penetapan Wajib Pajak Nonaktif dan pendaftaran Wajib Pajak",
+      "C": "Penghapusan NPWP dan pengukuhan/pencabutan pengukuhan PKP",
+      "D": "Perubahan data Wajib Pajak dan penetapan Wajib Pajak Nonaktif"
+    },
+    "kunci": "C",
+    "pembahasan": "Hanya proses bisnis penghapusan NPWP dan pengukuhan/pencabutan pengukuhan PKP yang memiliki penetapan jabatan melalui pemeriksaan dan penelitian; proses bisnis lainnya hanya melalui penelitian.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 8,
+        "kutipan": "Hanya probis penghapusan NPWP dan pengukuhan/pencabutan pengukuhan PKP yang memiliki penetapan jabatan melalui pemeriksaan dan penelitian, selain itu hanya melalui penelitian."
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "penetapan jabatan"
+    ]
+  },
+  {
+    "id": "ADV-01-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kriteria WP Nonaktif, Penghapusan NPWP (OP/Badan/WBT/IP) & Syarat Tambahan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu kriteria penetapan WP Badan sebagai Wajib Pajak Nonaktif adalah...",
+    "opsi": {
+      "A": "Wajib Pajak dilikuidasi atau dibubarkan karena penghentian atau penggabungan usaha",
+      "B": "Wajib Pajak bentuk usaha tetap yang telah menghentikan kegiatan usahanya di Indonesia",
+      "C": "Tidak memenuhi persyaratan subjektif dan objektif namun masih dalam proses atau belum dilakukan penghapusan NPWP",
+      "D": "Wajib Pajak memiliki lebih dari 1 (satu) Nomor Pokok Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria WP Badan Nonaktif salah satunya tidak memenuhi persyaratan subjektif/objektif namun masih proses atau belum dilakukan penghapusan NPWP; tiga opsi lain adalah kriteria Penghapusan NPWP WP Badan, bukan Nonaktif.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 10,
+        "kutipan": "tidak memenuhi persyaratan subjektif dan objektif namun masih dalam proses atau belum dilakukan penghapusan Nomor Pokok Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "WP Nonaktif"
+    ]
+  },
+  {
+    "id": "ADV-01-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kriteria WP Nonaktif, Penghapusan NPWP (OP/Badan/WBT/IP) & Syarat Tambahan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria penghapusan NPWP bagi Warisan Belum Terbagi (WBT) adalah...",
+    "opsi": {
+      "A": "Wajib Pajak orang pribadi meninggal dunia",
+      "B": "Wajib Pajak dilikuidasi atau dibubarkan",
+      "C": "Wajib Pajak memiliki lebih dari 1 NPWP",
+      "D": "Warisan sudah selesai dibagi"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria penghapusan NPWP untuk WBT adalah warisan sudah selesai dibagi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 10,
+        "kutipan": "Kriteria WP WBT: Warisan sudah selesai dibagi"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "penghapusan NPWP WBT"
+    ]
+  },
+  {
+    "id": "ADV-01-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kriteria WP Nonaktif, Penghapusan NPWP (OP/Badan/WBT/IP) & Syarat Tambahan",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu syarat tambahan agar permohonan penghapusan NPWP dapat diproses adalah Wajib Pajak tidak sedang dalam proses penyelesaian...",
+    "opsi": {
+      "A": "Mutual Agreement Procedure (MAP) dan Advance Pricing Agreement (APA)",
+      "B": "Pemeriksaan bukti permulaan dan penyidikan tindak pidana perpajakan",
+      "C": "Pembetulan dan pengajuan keberatan",
+      "D": "Pengurangan atau pembatalan surat ketetapan pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Syarat tambahan penghapusan NPWP antara lain Wajib Pajak tidak sedang dalam proses penyelesaian MAP maupun APA.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 11,
+        "kutipan": "Tidak sedang proses penyelesaian MAP Tidak sedang proses penyelesaian APA"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "syarat tambahan penghapusan NPWP"
+    ]
+  },
+  {
+    "id": "ADV-01-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "NPWP dan Pendaftaran Wajib Pajak",
+    "subtopik": "Kriteria WP Nonaktif, Penghapusan NPWP (OP/Badan/WBT/IP) & Syarat Tambahan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan kriteria penetapan WP Orang Pribadi sebagai Wajib Pajak Nonaktif, KECUALI...",
+    "opsi": {
+      "A": "Melakukan kegiatan usaha/pekerjaan bebas namun tidak memenuhi syarat objektif karena menghentikan usahanya",
+      "B": "WNI berstatus Penduduk yang berniat menjadi SPLN namun belum memenuhi syarat sebagai subjek pajak luar negeri",
+      "C": "Wajib Pajak orang pribadi meninggal dunia",
+      "D": "Wanita kawin yang telah memiliki NPWP kemudian memilih melaksanakan hak dan kewajiban perpajakan digabung dengan suaminya"
+    },
+    "kunci": "C",
+    "pembahasan": "Wajib Pajak orang pribadi meninggal dunia merupakan kriteria Penghapusan NPWP, bukan kriteria penetapan WP Nonaktif.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 10,
+        "kutipan": "Wajib Pajak orang pribadi meninggal dunia"
+      }
+    ],
+    "tags": [
+      "PMK-81/2024",
+      "WP Nonaktif vs Penghapusan NPWP"
+    ]
+  },
+  {
+    "id": "ADV-01-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Kriteria Wajib/Dapat Melaporkan Usaha untuk Dikukuhkan PKP & Tempat Pelaporan",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pengusaha secara rutin melakukan penyerahan Barang Kena Pajak kepada para pembeli dan juga melakukan kegiatan ekspor. Berdasarkan ketentuan UU PPN, pengusaha tersebut...",
+    "opsi": {
+      "A": "Wajib melaporkan usahanya untuk dikukuhkan sebagai Pengusaha Kena Pajak",
+      "B": "Wajib mengajukan impor barang kena pajak dari luar daerah pabean",
+      "C": "Dapat memilih untuk dikukuhkan sebagai PKP tanpa batasan apa pun",
+      "D": "Dikecualikan dari kewajiban pengukuhan PKP karena telah melakukan ekspor"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengusaha yang melakukan penyerahan BKP/JKP dan/atau ekspor sesuai UU PPN wajib melaporkan usahanya untuk dikukuhkan sebagai PKP, kecuali Pengusaha Kecil.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 12,
+        "kutipan": "Penyerahan dan/atau ekspor sesuai UU PPN melaporkan usaha untuk dikukuhkan sebagai PKP"
+      }
+    ],
+    "tags": [
+      "UU PPN",
+      "pengukuhan PKP"
+    ]
+  },
+  {
+    "id": "ADV-01-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Kriteria Wajib/Dapat Melaporkan Usaha untuk Dikukuhkan PKP & Tempat Pelaporan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu kewajiban pelaporan usaha untuk dikukuhkan sebagai PKP diatur sesuai...",
+    "opsi": {
+      "A": "PMK 81/2024",
+      "B": "PMK 54/PMK.03/2021",
+      "C": "PMK 164/2023",
+      "D": "PMK 147/PMK.03/2017"
+    },
+    "kunci": "C",
+    "pembahasan": "Jangka waktu kewajiban pelaporan usaha diatur sesuai PMK 164/2023.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 12,
+        "kutipan": "Jangka waktu kewajiban pelaporan usaha sesuai PMK 164/2023"
+      }
+    ],
+    "tags": [
+      "PMK 164/2023"
+    ]
+  },
+  {
+    "id": "ADV-01-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Kriteria Wajib/Dapat Melaporkan Usaha untuk Dikukuhkan PKP & Tempat Pelaporan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bagi Pengusaha Kecil sesuai batasan yang ditetapkan Menteri Keuangan, kewajiban melaporkan usaha untuk dikukuhkan sebagai PKP bersifat...",
+    "opsi": {
+      "A": "Wajib dikukuhkan paling lama 1 bulan sejak batasan terlampaui",
+      "B": "Wajib dikukuhkan secara otomatis oleh sistem DJP",
+      "C": "Dapat memilih untuk dikukuhkan sebagai PKP",
+      "D": "Dilarang untuk dikukuhkan sebagai PKP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pengusaha Kecil sesuai batasan penetapan Menkeu dapat memilih untuk dikukuhkan sebagai PKP, berbeda dengan pengusaha yang melakukan penyerahan BKP/JKP dan/atau ekspor yang wajib melaporkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 12,
+        "kutipan": "Pengusaha kecil sesuai batasan penetapan Menkeu dapat memilih"
+      }
+    ],
+    "tags": [
+      "pengusaha kecil",
+      "PKP"
+    ]
+  },
+  {
+    "id": "ADV-01-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Kriteria Wajib/Dapat Melaporkan Usaha untuk Dikukuhkan PKP & Tempat Pelaporan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tempat pelaporan usaha untuk pengukuhan PKP, baik secara elektronik maupun langsung/pos, mengacu pada...",
+    "opsi": {
+      "A": "KPP tempat pengusaha sebagai Wajib Pajak terdaftar",
+      "B": "KPP lokasi gudang atau tempat penyimpanan barang",
+      "C": "KPP Pratama terdekat dengan domisili pengurus",
+      "D": "KPP Wajib Pajak Besar tanpa memandang omzet usaha"
+    },
+    "kunci": "A",
+    "pembahasan": "Tempat pelaporan usaha untuk pengukuhan PKP adalah KPP tempat pengusaha terdaftar sebagai Wajib Pajak, baik melalui elektronik (Portal WP, Laman terintegrasi, Contact Center) maupun langsung/pos (KPP/KP2KP, pos/ekspedisi/kurir).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 12,
+        "kutipan": "KPP tempat pengusaha sebagai Wajib Pajak terdaftar"
+      }
+    ],
+    "tags": [
+      "tempat pelaporan usaha",
+      "PKP"
+    ]
+  },
+  {
+    "id": "ADV-01-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tempat Kegiatan Usaha (TKU), Kawasan FTZ & Kantor Virtual sebagai Tempat Pelaporan Usaha",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebuah perusahaan berencana menjadi penyedia jasa Kantor Virtual bagi para pengusaha. Agar memenuhi ketentuan, perusahaan tersebut harus sudah berstatus PKP dan memiliki...",
+    "opsi": {
+      "A": "Nomor Induk Berusaha yang masih berlaku",
+      "B": "Minimal 2 (dua) Tempat Kegiatan Usaha terdaftar",
+      "C": "Surat Keterangan Domisili dari kelurahan setempat",
+      "D": "Ruangan fisik untuk kegiatan usaha"
+    },
+    "kunci": "D",
+    "pembahasan": "Syarat Pengusaha penyedia jasa Kantor Virtual: sudah PKP, memiliki ruangan fisik untuk kegiatan usaha, dan secara nyata melakukan kegiatan layanan pendukung kantor.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 13,
+        "kutipan": "Sudah PKP Ada ruangan fisik untuk kegiatan usaha"
+      }
+    ],
+    "tags": [
+      "kantor virtual",
+      "PKP"
+    ]
+  },
+  {
+    "id": "ADV-01-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tempat Kegiatan Usaha (TKU), Kawasan FTZ & Kantor Virtual sebagai Tempat Pelaporan Usaha",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pengusaha yang menyediakan jasa Kantor Virtual wajib memiliki dokumen kontrak/perjanjian serta...",
+    "opsi": {
+      "A": "Dokumen laporan keuangan tahun berjalan",
+      "B": "Dokumen pemberian izin dan keterangan usaha (NIB/sejenis)",
+      "C": "Dokumen bukti pembayaran pajak tahun sebelumnya",
+      "D": "Dokumen akta pendirian seluruh penyewa ruangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Penyedia jasa Kantor Virtual harus memiliki dokumen kontrak/perjanjian/dokumen sejenis dan dokumen pemberian izin dan keterangan usaha (NIB/sejenis).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 13,
+        "kutipan": "Dokumen pemberian izin dan keterangan usaha (NIB/sejenis)"
+      }
+    ],
+    "tags": [
+      "kantor virtual",
+      "dokumen persyaratan"
+    ]
+  },
+  {
+    "id": "ADV-01-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tempat Kegiatan Usaha (TKU), Kawasan FTZ & Kantor Virtual sebagai Tempat Pelaporan Usaha",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jika Pengusaha menggunakan Kantor Virtual sebagai Tempat Kegiatan Usaha, Pengusaha wajib membuat...",
+    "opsi": {
+      "A": "Surat Kuasa kepada penyedia jasa Kantor Virtual",
+      "B": "Surat Keterangan Terdaftar dari KPP domisili",
+      "C": "Surat Pernyataan tidak memiliki tempat usaha lain",
+      "D": "Surat Pernyataan tentang Kegiatan Usaha dan Tempat Kegiatan Usaha yang sebenarnya"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika menggunakan kantor virtual, Pengusaha harus membuat Surat Pernyataan tentang Kegiatan Usaha dan Tempat Kegiatan Usaha yang sebenarnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 13,
+        "kutipan": "Pengusaha harus membuat Surat Pernyataan tentang Kegiatan Usaha dan Tempat Kegiatan Usaha yang sebenarnya"
+      }
+    ],
+    "tags": [
+      "kantor virtual",
+      "TKU"
+    ]
+  },
+  {
+    "id": "ADV-01-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tata Cara & Jangka Waktu Pengukuhan PKP (Penelitian/Pemeriksaan, Jabatan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Surat Keterangan Permohonan PKP yang diterbitkan secara langsung tanpa pemeriksaan/penelitian paling lama terbit dalam waktu...",
+    "opsi": {
+      "A": "3 hari kerja setelah permohonan diterima lengkap",
+      "B": "5 hari kerja setelah permohonan diterima lengkap",
+      "C": "10 hari kerja setelah permohonan diterima lengkap",
+      "D": "1 hari kerja setelah permohonan diterima lengkap"
+    },
+    "kunci": "D",
+    "pembahasan": "Surat Keterangan Permohonan PKP (langsung, tanpa pemeriksaan/penelitian) terbit 1 hari kerja setelah permohonan diterima lengkap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Surat Keterangan Permohonan PKP Langsung (1 hk setelah permohonan diterima lengkap)"
+      }
+    ],
+    "tags": [
+      "pengukuhan PKP",
+      "jangka waktu"
+    ]
+  },
+  {
+    "id": "ADV-01-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tata Cara & Jangka Waktu Pengukuhan PKP (Penelitian/Pemeriksaan, Jabatan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan pengukuhan PKP yang melalui proses pemeriksaan/penelitian diterbitkan paling lama...",
+    "opsi": {
+      "A": "1 hari kerja setelah permohonan diterima lengkap",
+      "B": "6 bulan setelah permohonan diterima lengkap",
+      "C": "10 hari kerja setelah permohonan diterima lengkap",
+      "D": "30 hari setelah permohonan diterima lengkap"
+    },
+    "kunci": "C",
+    "pembahasan": "Keputusan pengukuhan PKP melalui pemeriksaan/penelitian diterbitkan paling lama 10 hari kerja setelah permohonan diterima lengkap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Keputusan : 10 hk setelah permohonan diterima lengkap"
+      }
+    ],
+    "tags": [
+      "pengukuhan PKP",
+      "jangka waktu"
+    ]
+  },
+  {
+    "id": "ADV-01-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tata Cara & Jangka Waktu Pengukuhan PKP (Penelitian/Pemeriksaan, Jabatan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Pengusaha menerima Surat Pengukuhan PKP (SPPKP) yang mencantumkan tanggal kewajiban PKP 5 Maret 2026. Sejak kapan Pengusaha tersebut memperoleh akses pembuatan Faktur Pajak?",
+    "opsi": {
+      "A": "Sejak tanggal permohonan pengukuhan PKP diajukan",
+      "B": "Sejak berakhirnya masa pemeriksaan lapangan",
+      "C": "Sejak tanggal pelaporan SPT Masa PPN pertama",
+      "D": "Sejak 5 Maret 2026, yaitu tanggal kewajiban PKP yang tercantum di SPPKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Akses Pembuatan Faktur Pajak diberikan sejak tanggal kewajiban PKP tercantum di SPPKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Akses Pembuatan Faktur Pajak sejak tanggal kewajiban PKP di SPPKP"
+      }
+    ],
+    "tags": [
+      "akses faktur pajak",
+      "SPPKP"
+    ]
+  },
+  {
+    "id": "ADV-01-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Tata Cara & Jangka Waktu Pengukuhan PKP (Penelitian/Pemeriksaan, Jabatan)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan Lapangan atas Kantor Virtual dalam proses pengukuhan PKP bertujuan menguji kesesuaian Kantor Virtual sebagai tempat kedudukan Pengusaha dan...",
+    "opsi": {
+      "A": "Kelengkapan laporan keuangan audited Pengusaha",
+      "B": "Kesesuaian jumlah karyawan dengan NIB",
+      "C": "Ketentuan penggunaan Kantor Virtual sebagai tempat pelaporan usaha",
+      "D": "Riwayat kepatuhan pembayaran pajak Pengusaha"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksaan Lapangan Kantor Virtual menguji kesesuaian Kantor Virtual sebagai tempat kedudukan Pengusaha dengan data/dokumen dalam sistem administrasi DJP, dan ketentuan penggunaan Kantor Virtual sebagai tempat pelaporan usaha.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 14,
+        "kutipan": "Ketentuan penggunaan Kantor Virtual sebagai tempat pelaporan usaha"
+      }
+    ],
+    "tags": [
+      "kantor virtual",
+      "pemeriksaan lapangan"
+    ]
+  },
+  {
+    "id": "ADV-01-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Pencabutan Pengukuhan PKP & Penonaktifan/Suspend Akses Faktur Pajak",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan pencabutan pengukuhan PKP yang melalui proses pemeriksaan diterbitkan paling lama...",
+    "opsi": {
+      "A": "10 hari kerja setelah permohonan diterima lengkap",
+      "B": "6 bulan setelah permohonan diterima lengkap",
+      "C": "3 bulan setelah permohonan diterima lengkap",
+      "D": "12 bulan setelah permohonan diterima lengkap"
+    },
+    "kunci": "B",
+    "pembahasan": "Keputusan pencabutan pengukuhan PKP melalui pemeriksaan diterbitkan paling lama 6 bulan sejak permohonan diterima lengkap.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 15,
+        "kutipan": "Keputusan : 6 bulan setelah permohonan diterma lengkap"
+      }
+    ],
+    "tags": [
+      "pencabutan PKP",
+      "jangka waktu"
+    ]
+  },
+  {
+    "id": "ADV-01-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Pencabutan Pengukuhan PKP & Penonaktifan/Suspend Akses Faktur Pajak",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu 6 bulan penerbitan Keputusan pencabutan pengukuhan PKP atas suatu permohonan telah terlewati tanpa ada keputusan. Sesuai ketentuan, apa konsekuensinya?",
+    "opsi": {
+      "A": "Permohonan otomatis ditolak dan Wajib Pajak harus mengajukan permohonan baru",
+      "B": "Permohonan dikabulkan dan Surat Pencabutan Pengukuhan PKP harus diterbitkan paling lama 1 bulan setelah batas waktu berakhir",
+      "C": "Jangka waktu pemeriksaan diperpanjang otomatis selama 6 bulan berikutnya",
+      "D": "Status PKP tetap aktif tanpa ada keputusan hingga permohonan diajukan ulang"
+    },
+    "kunci": "B",
+    "pembahasan": "Jika batas waktu 6 bulan terlewati, permohonan dikabulkan dan Surat Pencabutan Pengukuhan PKP harus diterbitkan paling lama 1 bulan setelah batas waktu berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 15,
+        "kutipan": "Jika terlewati, permohonan dikabulkan, Surat Pencabutan Pengukuhan PKP harus diterbitkan paling lama 1 bulan setelah batas waktu berakhir"
+      }
+    ],
+    "tags": [
+      "pencabutan PKP",
+      "jangka waktu"
+    ]
+  },
+  {
+    "id": "ADV-01-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Pencabutan Pengukuhan PKP & Penonaktifan/Suspend Akses Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu klarifikasi yang diberikan atas penonaktifan akses pembuatan Faktur Pajak (suspend) adalah...",
+    "opsi": {
+      "A": "30 hari",
+      "B": "14 hari",
+      "C": "60 hari",
+      "D": "90 hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Klarifikasi atas penonaktifan akses pembuatan Faktur Pajak (suspend) diberikan jangka waktu 30 hari; jika tidak diklarifikasi atau klarifikasi ditolak, PKP dicabut pengukuhannya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 15,
+        "kutipan": "KLARIFIKASI 30 HARI"
+      }
+    ],
+    "tags": [
+      "suspend faktur pajak"
+    ]
+  },
+  {
+    "id": "ADV-01-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pengukuhan dan Pencabutan Pengusaha Kena Pajak (PKP)",
+    "subtopik": "Pencabutan Pengukuhan PKP & Penonaktifan/Suspend Akses Faktur Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan alasan Pencabutan Pengukuhan PKP secara Jabatan, KECUALI...",
+    "opsi": {
+      "A": "PKP dengan status nonaktif",
+      "B": "PKP Bentuk Usaha Tetap (BUT) yang telah menghentikan kegiatan usahanya di Indonesia",
+      "C": "PKP orang pribadi meninggal dunia dan tidak meninggalkan warisan",
+      "D": "PKP mengajukan permohonan perpanjangan masa berlaku pengukuhan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pencabutan Pengukuhan PKP Jabatan dilakukan antara lain karena PKP status nonaktif, PKP suspend yang belum klarifikasi, PKP BUT henti usaha, dan PKP OP meninggal dunia tanpa warisan; bukan karena permohonan perpanjangan masa berlaku, yang bukan bagian dari ketentuan ini.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 15,
+        "kutipan": "PKP BUT henti usaha di Indonesia"
+      }
+    ],
+    "tags": [
+      "pencabutan PKP jabatan"
+    ]
+  },
+  {
+    "id": "ADV-01-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Definisi Pembukuan & Pencatatan (Ps.1 angka 29, Ps.28 ayat 7 & 9 UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Definisi Pembukuan diatur dalam...",
+    "opsi": {
+      "A": "Pasal 28 ayat (7) UU KUP",
+      "B": "Pasal 28 ayat (9) UU KUP",
+      "C": "Pasal 1 angka 29 UU KUP",
+      "D": "Pasal 29 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Definisi Pembukuan diatur dalam Pasal 1 angka 29 UU KUP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 17,
+        "kutipan": "Pasal 1 angka 29 UU KUP"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 29 UU KUP",
+      "pembukuan"
+    ]
+  },
+  {
+    "id": "ADV-01-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Definisi Pembukuan & Pencatatan (Ps.1 angka 29, Ps.28 ayat 7 & 9 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut Pasal 1 angka 29 UU KUP, Pembukuan ditutup dengan menyusun laporan keuangan berupa...",
+    "opsi": {
+      "A": "Laporan arus kas dan catatan atas laporan keuangan",
+      "B": "Neraca saldo dan buku besar",
+      "C": "Laporan perubahan modal dan neraca",
+      "D": "Neraca dan laporan laba rugi"
+    },
+    "kunci": "D",
+    "pembahasan": "Pembukuan ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 17,
+        "kutipan": "ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut"
+      }
+    ],
+    "tags": [
+      "Pasal 1 angka 29 UU KUP",
+      "laporan keuangan"
+    ]
+  },
+  {
+    "id": "ADV-01-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Definisi Pembukuan & Pencatatan (Ps.1 angka 29, Ps.28 ayat 7 & 9 UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Definisi Pencatatan sebagaimana dikutip dalam materi ini diatur pada...",
+    "opsi": {
+      "A": "Pasal 28 ayat (7) UU KUP",
+      "B": "Pasal 28 ayat (9) UU KUP",
+      "C": "Pasal 1 angka 29 UU KUP",
+      "D": "Pasal 29 ayat (2) UU KUP"
+    },
+    "kunci": "B",
+    "pembahasan": "Pencatatan terdiri atas data yang dikumpulkan secara teratur tentang peredaran/penerimaan bruto dan/atau penghasilan bruto, diatur pada Pasal 28 ayat (9) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 17,
+        "kutipan": "(Pasal 28 angka 9 UU KUP)"
+      }
+    ],
+    "tags": [
+      "Pasal 28 ayat 9 UU KUP",
+      "pencatatan"
+    ]
+  },
+  {
+    "id": "ADV-01-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Definisi Pembukuan & Pencatatan (Ps.1 angka 29, Ps.28 ayat 7 & 9 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pencatatan sebagai dasar menghitung jumlah pajak terutang mencakup data peredaran/penerimaan bruto dan/atau penghasilan bruto, termasuk...",
+    "opsi": {
+      "A": "Harta, kewajiban, dan modal usaha",
+      "B": "Harga perolehan dan harga penyerahan barang atau jasa",
+      "C": "Penjualan dan pembelian dalam satu Tahun Pajak",
+      "D": "Penghasilan yang bukan objek pajak dan/atau yang dikenai pajak bersifat final"
+    },
+    "kunci": "D",
+    "pembahasan": "Pencatatan mencakup data peredaran/penerimaan bruto dan/atau penghasilan bruto, termasuk penghasilan yang bukan objek pajak dan/atau yang dikenai pajak bersifat final.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 17,
+        "kutipan": "termasuk penghasilan yang bukan objek pajak dan/atau yang dikenai pajak yang bersifat final"
+      }
+    ],
+    "tags": [
+      "Pasal 28 ayat 9 UU KUP",
+      "pencatatan"
+    ]
+  },
+  {
+    "id": "ADV-01-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Kewajiban Menyelenggarakan Pembukuan/Pencatatan & Pengecualian (NPPN)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pihak yang wajib menyelenggarakan pembukuan adalah...",
+    "opsi": {
+      "A": "Seluruh Wajib Pajak orang pribadi tanpa terkecuali",
+      "B": "WP Badan yang berbentuk Perseroan Terbatas saja",
+      "C": "WP orang pribadi yang menerima penghasilan dari satu pemberi kerja",
+      "D": "WP orang pribadi yang melakukan kegiatan usaha/pekerjaan bebas dan WP Badan"
+    },
+    "kunci": "D",
+    "pembahasan": "WP OP yang melakukan kegiatan usaha/pekerjaan bebas dan WP Badan wajib menyelenggarakan pembukuan, dengan pengecualian tertentu.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 18,
+        "kutipan": "WP OP kegiatan usaha/pekerjaan bebas & Badan wajib menyelenggarakan pembukuan"
+      }
+    ],
+    "tags": [
+      "kewajiban pembukuan"
+    ]
+  },
+  {
+    "id": "ADV-01-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Kewajiban Menyelenggarakan Pembukuan/Pencatatan & Pengecualian (NPPN)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengecualian kewajiban pembukuan bagi WP OP dengan kriteria tertentu berdasarkan peredaran bruto diatur lebih lanjut dalam...",
+    "opsi": {
+      "A": "PMK 54/PMK.03/2021",
+      "B": "PMK 81/2024",
+      "C": "PMK 164/2023",
+      "D": "PMK 147/PMK.03/2017"
+    },
+    "kunci": "A",
+    "pembahasan": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto dikecualikan dari kewajiban pembukuan sesuai PMK 54/PMK.03/2021.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 18,
+        "kutipan": "PMK 54/PMK.03/2021"
+      }
+    ],
+    "tags": [
+      "PMK 54/PMK.03/2021",
+      "NPPN"
+    ]
+  },
+  {
+    "id": "ADV-01-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Kewajiban Menyelenggarakan Pembukuan/Pencatatan & Pengecualian (NPPN)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk Wajib Pajak yang dikecualikan dari kewajiban menyelenggarakan pembukuan, KECUALI...",
+    "opsi": {
+      "A": "WP OP yang melakukan kegiatan usaha/pekerjaan bebas dan memilih menggunakan NPPN",
+      "B": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas",
+      "C": "WP Badan yang baru didirikan pada tahun pajak berjalan",
+      "D": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto sesuai PMK 54/PMK.03/2021"
+    },
+    "kunci": "C",
+    "pembahasan": "WP Badan tetap wajib menyelenggarakan pembukuan tanpa pengecualian berdasarkan usia pendirian; pengecualian hanya berlaku bagi WP OP tertentu.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 18,
+        "kutipan": "WP OP kegiatan usaha/pekerjaan bebas & Badan wajib menyelenggarakan pembukuan"
+      }
+    ],
+    "tags": [
+      "kewajiban pembukuan",
+      "pengecualian"
+    ]
+  },
+  {
+    "id": "ADV-01-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Kewajiban Menyelenggarakan Pembukuan/Pencatatan & Pengecualian (NPPN)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen dasar pembukuan atau pencatatan wajib disimpan di Indonesia selama...",
+    "opsi": {
+      "A": "5 tahun",
+      "B": "7 tahun",
+      "C": "10 tahun",
+      "D": "15 tahun"
+    },
+    "kunci": "C",
+    "pembahasan": "Buku, catatan, dan dokumen dasar pembukuan/pencatatan, termasuk hasil pengolahan data elektronik, wajib disimpan 10 tahun di Indonesia.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 18,
+        "kutipan": "Disimpan 10 tahun di Indonesia"
+      }
+    ],
+    "tags": [
+      "penyimpanan dokumen",
+      "10 tahun"
+    ]
+  },
+  {
+    "id": "ADV-01-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Ketentuan Pembukuan & Ketentuan Pencatatan (bahasa, mata uang, stelsel, SAK)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penyelenggaraan pembukuan, prinsip taat asas mewajibkan Wajib Pajak menggunakan salah satu dari dua stelsel, yaitu...",
+    "opsi": {
+      "A": "Stelsel akrual atau stelsel kas",
+      "B": "Stelsel akrual atau stelsel campuran",
+      "C": "Stelsel kas atau stelsel basis fisik",
+      "D": "Stelsel akrual atau stelsel historis"
+    },
+    "kunci": "A",
+    "pembahasan": "Pembukuan diselenggarakan dengan taat asas menggunakan Stelsel Akrual atau Stelsel Kas.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 19,
+        "kutipan": "Taat asas dan dengan Stelsel Akrual atau Stelsel Kas"
+      }
+    ],
+    "tags": [
+      "pembukuan",
+      "stelsel akrual"
+    ]
+  },
+  {
+    "id": "ADV-01-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Ketentuan Pembukuan & Ketentuan Pencatatan (bahasa, mata uang, stelsel, SAK)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu ketentuan Pencatatan yang tidak secara eksplisit dipersyaratkan dalam Ketentuan Pembukuan adalah disusun secara...",
+    "opsi": {
+      "A": "Berdasarkan Standar Akuntansi Keuangan",
+      "B": "Dengan stelsel akrual atau stelsel kas",
+      "C": "Kronologis dan sistematis",
+      "D": "Mencantumkan laporan laba rugi tahunan"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan Pencatatan mensyaratkan penyusunan secara kronologis dan sistematis, berbeda dari Ketentuan Pembukuan yang mensyaratkan taat asas stelsel akrual/kas dan berdasarkan SAK.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 19,
+        "kutipan": "Disusun secara kronologis dan sistematis"
+      }
+    ],
+    "tags": [
+      "pencatatan",
+      "kronologis"
+    ]
+  },
+  {
+    "id": "ADV-01-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Penyimpanan Dokumen Dasar Pembukuan/Pencatatan selama 10 Tahun",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Buku, catatan, dan dokumen dasar pembukuan atau pencatatan, termasuk hasil pengolahan data secara elektronik, wajib disimpan selama...",
+    "opsi": {
+      "A": "10 tahun",
+      "B": "5 tahun",
+      "C": "8 tahun",
+      "D": "12 tahun"
+    },
+    "kunci": "A",
+    "pembahasan": "Dokumen dasar pembukuan/pencatatan wajib disimpan 10 tahun, termasuk dokumen pendukung transaksi hubungan istimewa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 20,
+        "kutipan": "dasar pembukuan/ pencatatan 10 tahun"
+      }
+    ],
+    "tags": [
+      "penyimpanan dokumen",
+      "10 tahun"
+    ]
+  },
+  {
+    "id": "ADV-01-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembukuan dan Pencatatan",
+    "subtopik": "Penyimpanan Dokumen Dasar Pembukuan/Pencatatan selama 10 Tahun",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PT Sentosa Abadi berkedudukan di Surabaya dan wajib menyimpan dokumen dasar pembukuannya. Sesuai ketentuan, dokumen tersebut wajib disimpan di...",
+    "opsi": {
+      "A": "Tempat kedudukan Wajib Pajak Badan yang berada di Indonesia, yaitu Surabaya",
+      "B": "Tempat tinggal direktur utama Wajib Pajak",
+      "C": "Kantor Akuntan Publik yang mengaudit laporan keuangan",
+      "D": "Kantor Pelayanan Pajak tempat Wajib Pajak terdaftar"
+    },
+    "kunci": "A",
+    "pembahasan": "Dokumen dasar pembukuan disimpan di tempat kegiatan atau tempat tinggal WP OP, atau di tempat kedudukan WP Badan yang berada di Indonesia.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 20,
+        "kutipan": "di tempat kedudukan Wajib Pajak badan, yg berada di Indonesia"
+      }
+    ],
+    "tags": [
+      "penyimpanan dokumen",
+      "tempat kedudukan"
+    ]
+  },
+  {
+    "id": "ADV-01-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Sarana Pembayaran Pajak (SSP, BPN, Collecting Agent, Pembayaran Elektronik)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban Wajib Pajak untuk membayar/menyetor pajak terutang menggunakan Surat Setoran Pajak ke kas negara diatur dalam...",
+    "opsi": {
+      "A": "Pasal 9 ayat (2) UU KUP",
+      "B": "Pasal 10 ayat (1) UU KUP",
+      "C": "Pasal 101 PMK 81/2024",
+      "D": "Pasal 103 PMK 81/2024"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 10 ayat (1) UU KUP mengatur kewajiban WP membayar/menyetor pajak terutang dengan SSP ke kas negara melalui tempat pembayaran yang diatur PMK.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 22,
+        "kutipan": "WP wajib bayar/setor pajak terutang menggunakan Surat Setoran Pajak ke kas negara"
+      }
+    ],
+    "tags": [
+      "Pasal 10 ayat 1 UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-01-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Sarana Pembayaran Pajak (SSP, BPN, Collecting Agent, Pembayaran Elektronik)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pembayaran pajak secara elektronik sebagaimana diatur Pasal 1 angka 102 PMK 81/2024 dilakukan menggunakan Sistem Billing DJP dengan...",
+    "opsi": {
+      "A": "Nomor Transaksi Penerimaan Negara tanpa Collecting Agent",
+      "B": "Kode billing melalui Collecting Agent",
+      "C": "Surat Setoran Pajak manual yang divalidasi teller bank",
+      "D": "Kode akun pajak yang diinput langsung oleh KPP"
+    },
+    "kunci": "B",
+    "pembahasan": "Pembayaran pajak elektronik menggunakan Sistem Billing DJP dengan kode billing, dilakukan melalui Collecting Agent seperti bank/pos persepsi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 23,
+        "kutipan": "Menggunakan Sistem Billing DJP dengan kode billing. Dilakukan melalui Collecting Agent"
+      }
+    ],
+    "tags": [
+      "pembayaran elektronik",
+      "Collecting Agent"
+    ]
+  },
+  {
+    "id": "ADV-01-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Sarana Pembayaran Pajak (SSP, BPN, Collecting Agent, Pembayaran Elektronik)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam proses pembayaran pajak elektronik, Bukti Penerimaan Negara (BPN) yang diterbitkan oleh Collecting Agent wajib mencantumkan Nomor Transaksi Penerimaan Negara (NTPN) dan...",
+    "opsi": {
+      "A": "Nama lengkap petugas Collecting Agent",
+      "B": "Nomor transaksi bank/pos/lembaga persepsi",
+      "C": "Nomor rekening kas negara tujuan pembayaran",
+      "D": "Kode jenis pajak dan masa pajak terutang"
+    },
+    "kunci": "B",
+    "pembahasan": "BPN mencantumkan NTPN dan nomor transaksi bank/pos/lembaga persepsi, diterbitkan oleh Collecting Agent.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 23,
+        "kutipan": "NTPN (Nomor Transaksi Penerimaan Negara). Nomor transaksi bank/pos/lembaga persepsi."
+      }
+    ],
+    "tags": [
+      "BPN",
+      "NTPN"
+    ]
+  },
+  {
+    "id": "ADV-01-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Deposit Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Deposit Pajak sebagaimana diatur dalam Pasal 103 PMK-81/2024 adalah pembayaran pajak yang...",
+    "opsi": {
+      "A": "Telah dialokasikan penuh untuk SKPKB yang telah terbit",
+      "B": "Dibayarkan melalui pemindahbukuan dari rekening WP lain",
+      "C": "Merupakan kelebihan pembayaran yang sudah dikembalikan",
+      "D": "Belum dialokasikan ke kewajiban pembayaran pajak tertentu"
+    },
+    "kunci": "D",
+    "pembahasan": "Deposit Pajak adalah pembayaran pajak yang belum dialokasikan ke kewajiban tertentu, dan dapat digunakan untuk pembayaran/penyetoran pajak melalui pemindahbukuan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 24,
+        "kutipan": "Pembayaran pajak yang belum dialokasikan ke kewajiban tertentu"
+      }
+    ],
+    "tags": [
+      "Pasal 103 PMK 81/2024",
+      "Deposit Pajak"
+    ]
+  },
+  {
+    "id": "ADV-01-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu Pembayaran Pajak Masa & Tahunan (PPh OP/Badan, Pajak Karbon)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyetoran PPh Pasal 25 untuk suatu Masa Pajak adalah tanggal...",
+    "opsi": {
+      "A": "15 bulan berikutnya setelah Masa Pajak berakhir",
+      "B": "10 bulan berikutnya setelah Masa Pajak berakhir",
+      "C": "20 bulan berikutnya setelah Masa Pajak berakhir",
+      "D": "Akhir bulan berikutnya setelah Masa Pajak berakhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Berdasarkan tabel batas waktu pembayaran pajak Masa Pajak, PPh Pasal 25 disetor paling lambat tanggal 15 bulan berikutnya setelah Masa Pajak berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 25,
+        "kutipan": "Tanggal 15 bulan berikutnya setelah Masa Pajak berakhir"
+      }
+    ],
+    "tags": [
+      "batas waktu pembayaran",
+      "PPh Pasal 25"
+    ]
+  },
+  {
+    "id": "ADV-01-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu Pembayaran Pajak Masa & Tahunan (PPh OP/Badan, Pajak Karbon)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PT Maju Jaya memiliki kekurangan pembayaran pajak berdasarkan SPT Tahunan PPh Badan Tahun Pajak 2025 yang berakhir 31 Desember 2025. Paling lambat kapan kekurangan pembayaran tersebut harus dilunasi?",
+    "opsi": {
+      "A": "30 April 2026, sebelum SPT Tahunan disampaikan",
+      "B": "31 Maret 2026, sebelum SPT Tahunan disampaikan",
+      "C": "31 Mei 2026, setelah SPT Tahunan disampaikan",
+      "D": "30 Juni 2026, bersamaan dengan penyampaian SPT Tahunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kekurangan pembayaran pajak berdasarkan SPT Tahunan PPh Badan harus dilunasi sebelum SPT disampaikan, paling lama 4 bulan setelah Tahun Pajak berakhir, yaitu 30 April 2026.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 26,
+        "kutipan": "Pajak Penghasilan Badan: Maksimal 4 bulan setelah Tahun Pajak berakhir."
+      }
+    ],
+    "tags": [
+      "Pasal 9 ayat 2 UU KUP",
+      "PPh Badan"
+    ]
+  },
+  {
+    "id": "ADV-01-052",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Pembayaran dan Penyetoran Pajak",
+    "subtopik": "Batas Waktu Pembayaran Pajak Masa & Tahunan (PPh OP/Badan, Pajak Karbon)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu penyetoran PPN atau PPnBM dalam satu Masa Pajak yang dipungut sendiri oleh PKP adalah...",
+    "opsi": {
+      "A": "Tanggal 15 bulan berikutnya setelah Masa Pajak berakhir",
+      "B": "Bersamaan dengan pembayaran bea masuk",
+      "C": "1 hari kerja setelah pemungutan oleh DJBC",
+      "D": "Akhir bulan berikutnya sebelum SPT Masa disampaikan"
+    },
+    "kunci": "D",
+    "pembahasan": "PPN atau PPnBM dalam satu Masa Pajak disetor paling lambat akhir bulan berikutnya, sebelum SPT Masa PPN disampaikan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 25,
+        "kutipan": "Akhir bulan berikutnya sebelum SPT disampaikan PPN atau PPnBM dalam satu Masa Pajak"
+      }
+    ],
+    "tags": [
+      "batas waktu pembayaran",
+      "PPN"
+    ]
+  }
+]

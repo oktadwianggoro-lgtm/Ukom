@@ -1,0 +1,314 @@
+[
+  {
+    "id": "KEP-08-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Siklus Penatausahaan PBB P5L, jangka waktu penyelesaian Penilaian Kantor adalah...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "7 Hari",
+      "C": "15 Hari",
+      "D": "30 Hari"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada diagram Siklus Penatausahaan PBB P5L, kotak Penilaian Kantor diberi keterangan waktu 5 Hari, sedangkan Penilaian Lapangan diberi keterangan 15 Hari sebelum keduanya bermuara pada Penetapan NJOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Kantor, 5 Hari, Penilaian Lapangan, 15 Hari"
+      }
+    ],
+    "tags": ["PBB P5L", "Siklus Penatausahaan PBB", "Penilaian Kantor"]
+  },
+  {
+    "id": "KEP-08-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam Siklus Penatausahaan PBB P5L, Penilaian Lapangan diselesaikan dalam jangka waktu...",
+    "opsi": {
+      "A": "5 Hari",
+      "B": "15 Hari",
+      "C": "7 Hari",
+      "D": "30 Hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Penilaian Lapangan pada diagram Siklus Penatausahaan PBB P5L diberi keterangan waktu 15 Hari, lebih lama dibandingkan Penilaian Kantor yang hanya 5 Hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Lapangan, 15 Hari, Penilaian Kantor, 5 Hari"
+      }
+    ],
+    "tags": ["PBB P5L", "Siklus Penatausahaan PBB", "Penilaian Lapangan"]
+  },
+  {
+    "id": "KEP-08-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada diagram Siklus Penatausahaan PBB P5L, tahap Penilaian bercabang menjadi dua jalur, yaitu...",
+    "opsi": {
+      "A": "Penilaian Lapangan dan Penilaian Massal",
+      "B": "Penilaian Kantor dan Penilaian Elektronik",
+      "C": "Penilaian Kantor dan Penilaian Lapangan",
+      "D": "Penilaian Individual dan Penilaian Lapangan"
+    },
+    "kunci": "C",
+    "pembahasan": "Dari kotak Penilaian, diagram bercabang menjadi dua jalur yaitu Penilaian Kantor (5 Hari) dan Penilaian Lapangan (15 Hari), yang keduanya bermuara pada Penetapan NJOP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian, Penilaian Kantor, Penilaian Lapangan, Penetapan NJOP"
+      }
+    ],
+    "tags": ["PBB P5L", "Siklus Penatausahaan PBB", "Penilaian PBB"]
+  },
+  {
+    "id": "KEP-08-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah proses Penilaian Kantor maupun Penilaian Lapangan selesai dilakukan, tahap berikutnya dalam Siklus Penatausahaan PBB P5L adalah...",
+    "opsi": {
+      "A": "Klarifikasi, kemudian penerbitan SKP PBB",
+      "B": "Pembetulan SPOP, kemudian Anris Pemeriksaan",
+      "C": "Penelitian Material, kemudian Surat Teguran",
+      "D": "Penetapan NJOP, kemudian penerbitan SPPT"
+    },
+    "kunci": "D",
+    "pembahasan": "Baik Penilaian Kantor maupun Penilaian Lapangan pada diagram bermuara pada kotak Penetapan NJOP, yang selanjutnya menjadi dasar penerbitan SPPT.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Kantor, Penilaian Lapangan, Penetapan NJOP, SPPT"
+      }
+    ],
+    "tags": ["PBB P5L", "Penetapan NJOP", "SPPT"]
+  },
+  {
+    "id": "KEP-08-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Siklus Penatausahaan PBB P5L, Auto Creation SPOP Periode I untuk objek Kebun, Migas, dan Pabum dilaksanakan pada tanggal...",
+    "opsi": {
+      "A": "31 Maret",
+      "B": "1 Februari",
+      "C": "30 hari setelah SPOP terbit",
+      "D": "7 hari setelah SPOP terbit"
+    },
+    "kunci": "B",
+    "pembahasan": "Auto Creation SPOP Periode I untuk objek Kebun, Migas, dan Pabum dilaksanakan pada 1 Februari, sedangkan Periode II untuk Hutan, Minerba, dan Lainnya pada 31 Maret.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Auto Creation SPOP, Periode I Kebun, Migas, Pabum : 1 Feb"
+      }
+    ],
+    "tags": ["PBB P5L", "Auto Creation SPOP", "SPOP"]
+  },
+  {
+    "id": "KEP-08-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Auto Creation SPOP Periode II untuk objek Hutan, Minerba, dan Lainnya pada Siklus Penatausahaan PBB P5L dilaksanakan pada tanggal...",
+    "opsi": {
+      "A": "31 Maret",
+      "B": "1 Februari",
+      "C": "7 Maret",
+      "D": "30 April"
+    },
+    "kunci": "A",
+    "pembahasan": "Auto Creation SPOP Periode II untuk objek Hutan, Minerba, dan Lainnya dilaksanakan pada 31 Maret, berbeda dengan Periode I (Kebun, Migas, Pabum) pada 1 Februari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Periode II Hutan, Minerba, Lainnya : 31 Mar"
+      }
+    ],
+    "tags": ["PBB P5L", "Auto Creation SPOP", "SPOP"]
+  },
+  {
+    "id": "KEP-08-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam Siklus Penatausahaan PBB P5L, Wajib Pajak diberikan batas waktu Pelaporan SPOP selama...",
+    "opsi": {
+      "A": "7 Hari",
+      "B": "15 Hari",
+      "C": "5 Hari",
+      "D": "30 Hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Batas waktu Pelaporan SPOP oleh Wajib Pajak adalah 30 Hari, sedangkan Penundaan Pelaporan SPOP diberikan tambahan waktu 7 Hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Pelaporan SPOP (30 Hari), Penundaan Pelaporan SPOP (7 Hari)"
+      }
+    ],
+    "tags": ["PBB P5L", "SPOP", "Pelaporan SPOP"]
+  },
+  {
+    "id": "KEP-08-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan materi Pemeriksaan PBB, alat/jalur yang digunakan dalam pelaksanaan Pemeriksaan Khusus PBB adalah...",
+    "opsi": {
+      "A": "Daftar Nominatif",
+      "B": "Coretax",
+      "C": "Jopro CRM PBB Batubara",
+      "D": "Anris Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksaan Rutin PBB menggunakan Daftar Nominatif, sedangkan Pemeriksaan Khusus PBB menggunakan Jopro CRM PBB Batubara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 118,
+        "kutipan": "Pemeriksaan Rutin-----Daftar Nominatif, Pemeriksaan Khusus----Jopro CRM PBB Batubara"
+      }
+    ],
+    "tags": ["PBB P5L", "Pemeriksaan PBB", "Jopro CRM"]
+  },
+  {
+    "id": "KEP-08-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Wajib Pajak tidak menanggapi Surat Teguran dalam Siklus Penatausahaan PBB P5L, proses pengawasan berlanjut ke tahap...",
+    "opsi": {
+      "A": "Klarifikasi",
+      "B": "Anris Pemeriksaan",
+      "C": "Pembetulan SPOP",
+      "D": "Penilaian Lapangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Surat Teguran (7 Hari) yang Tidak Ditanggapi oleh Wajib Pajak berlanjut ke tahap Anris Pemeriksaan, yang selanjutnya masuk ke jalur Pemeriksaan PBB hingga diterbitkan SKP PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Surat Teguran, 7 Hari, Tidak Ditanggapi, Anris Pemeriksaan, Pemeriksaan PBB, SKP PBB"
+      }
+    ],
+    "tags": ["PBB P5L", "Surat Teguran", "Anris Pemeriksaan"]
+  },
+  {
+    "id": "KEP-08-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Legenda pada diagram Siklus Penatausahaan PBB P5L membedakan tiga kategori proses bisnis (probis) melalui warna garis yang berbeda. Berikut ini TERMASUK kategori probis yang dimaksud, KECUALI...",
+    "opsi": {
+      "A": "Probis Pengawasan",
+      "B": "Probis Penilaian",
+      "C": "Probis Pemeriksaan",
+      "D": "Probis Keberatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Legenda pada diagram hanya mencantumkan tiga probis, yaitu Probis Pengawasan (garis hijau putus-putus), Probis Penilaian (garis oranye putus-putus), dan Probis Pemeriksaan (garis merah putus-putus). Probis Keberatan tidak disebutkan dalam legenda.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": ": Probis Pengawasan, : Probis Penilaian, : Probis Pemeriksaan"
+      }
+    ],
+    "tags": ["PBB P5L", "Siklus Penatausahaan PBB", "Probis"]
+  },
+  {
+    "id": "KEP-08-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam daftar kondisi 'Pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan', restitusi berdasarkan ketentuan pasal berapa dalam UU KUP yang dicantumkan sebagai salah satu kondisi tersebut?",
+    "opsi": {
+      "A": "Pasal 17B",
+      "B": "Pasal 9 ayat (6e)",
+      "C": "Pasal 32A",
+      "D": "Pasal 36"
+    },
+    "kunci": "A",
+    "pembahasan": "Salah satu kondisi pemeriksaan untuk menguji kepatuhan yang tercantum pada materi adalah 'Restitusi Pasal 17B KUP'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 118,
+        "kutipan": "Restitusi Pasal 17B KUP"
+      }
+    ],
+    "tags": ["Pemeriksaan PBB", "UU KUP Pasal 17B", "Restitusi"]
+  },
+  {
+    "id": "KEP-08-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+    "subtopik": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang petugas menyelesaikan penilaian atas objek PBB P5L hanya berdasarkan data SPOP dan dokumen pendukung di kantor, tanpa kunjungan langsung ke lokasi objek, dan proses tersebut diselesaikan dalam waktu 5 hari kerja. Berdasarkan Siklus Penatausahaan PBB P5L, jenis penilaian yang dilakukan adalah...",
+    "opsi": {
+      "A": "Penilaian Lapangan",
+      "B": "Penilaian Individual",
+      "C": "Penilaian Kantor",
+      "D": "Penilaian Massal"
+    },
+    "kunci": "C",
+    "pembahasan": "Penilaian yang diselesaikan tanpa kunjungan lapangan dalam waktu 5 Hari sesuai dengan jalur Penilaian Kantor pada diagram Siklus Penatausahaan PBB P5L, berbeda dengan Penilaian Lapangan yang memerlukan 15 Hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Kantor, 5 Hari"
+      }
+    ],
+    "tags": ["PBB P5L", "Penilaian Kantor", "Penilaian PBB"]
+  }
+]

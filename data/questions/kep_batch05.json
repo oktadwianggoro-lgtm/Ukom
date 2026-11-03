@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "KEP-05-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pemberian Teguran terhadap Wajib Pajak terdaftar merupakan salah satu kegiatan yang dilakukan melalui proses apa?",
+    "opsi": {
+      "A": "Pengawasan WP Terdaftar",
+      "B": "Pemeriksaan Lapangan",
+      "C": "Penilaian Risiko Kepatuhan",
+      "D": "Ekstensifikasi Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan alur pada materi menunjukkan Pemberian Teguran dilakukan melalui kegiatan Pengawasan WP Terdaftar, yang kemudian menerbitkan Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Pengawasan WP Terdaftar"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam rangka Pemberian Teguran kepada Wajib Pajak, dokumen yang diterbitkan oleh Account Representative/Pegawai DJP adalah...",
+    "opsi": {
+      "A": "Surat Imbauan",
+      "B": "Surat Teguran",
+      "C": "Surat Ketetapan Pajak",
+      "D": "Surat Perintah Pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemberian Teguran dilakukan dengan menerbitkan Surat Teguran kepada Wajib Pajak sebagaimana digambarkan dalam bagan alur materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Surat Teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu dasar penerbitan Surat Teguran adalah apabila SPT tidak disampaikan sesuai batas waktu yang diatur berdasarkan...",
+    "opsi": {
+      "A": "kebijakan internal Direktorat Jenderal Pajak",
+      "B": "surat edaran Kepala Kantor Wilayah",
+      "C": "ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "D": "keputusan Menteri Keuangan semata"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan Surat Teguran diterbitkan dalam hal SPT tidak disampaikan sesuai batas waktu yang diatur berdasarkan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "SPT tidak disampaikan sesuai batas waktu yang diatur berdasarkan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan materi, Surat Teguran dapat disampaikan kepada Wajib Pajak melalui berapa cara penyampaian?",
+    "opsi": {
+      "A": "4 cara",
+      "B": "6 cara",
+      "C": "3 cara",
+      "D": "5 cara"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi merinci lima cara penyampaian Surat Teguran: melalui Akun WP, pos elektronik WP, faksimile, pos/jasa ekspedisi/jasa kurir, dan secara langsung kepada WP/wakil/kuasa/pegawai/anggota keluarga dewasa WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Disampaikan: - melalui Akun WP - melalui pos elektronik WP yang terdaftar dalam sistem administrasi DJP;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "KPP mengirimkan Surat Teguran melalui jasa ekspedisi ke alamat tempat tinggal Wajib Pajak. Agar penyampaian tersebut sah, dokumen yang wajib dimiliki KPP sebagai bukti adalah...",
+    "opsi": {
+      "A": "bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan Wajib Pajak",
+      "B": "surat kuasa khusus dari Wajib Pajak",
+      "C": "berita acara pelaksanaan pembahasan",
+      "D": "tanda terima elektronik dari sistem Coretax"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan penyampaian melalui pos, jasa ekspedisi, atau jasa kurir harus disertai bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan cara penyampaian Surat Teguran kepada Wajib Pajak berdasarkan materi, KECUALI...",
+    "opsi": {
+      "A": "melalui Akun WP",
+      "B": "melalui pengumuman pada papan informasi KPP",
+      "C": "melalui faksimile dengan bukti pengiriman faksimile",
+      "D": "melalui pos, jasa ekspedisi, atau jasa kurir"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan cara penyampaian Surat Teguran meliputi Akun WP, pos elektronik WP, faksimile, pos/jasa ekspedisi/kurir, dan secara langsung; pengumuman pada papan informasi KPP tidak disebutkan sebagai cara penyampaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "melalui Akun WP - melalui pos elektronik WP yang terdaftar dalam sistem administrasi DJP; - melalui faksimile dengan bukti pengiriman faksimile"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Account Representative atau Pegawai DJP melakukan Pemberian Teguran kepada Wajib Pajak berdasarkan dokumen dasar berupa...",
+    "opsi": {
+      "A": "surat tugas pemeriksaan",
+      "B": "nota dinas penugasan ekstensifikasi",
+      "C": "surat perintah Pengawasan",
+      "D": "surat kuasa khusus Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan Account Representative/Pegawai DJP bertindak berdasarkan surat perintah Pengawasan dalam melaksanakan Pemberian Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Berdasarkan surat perintah Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada bagan alur penerbitan Surat Teguran, salah satu kanal elektronik terintegrasi yang digunakan untuk menyampaikan Surat Teguran kepada Wajib Pajak adalah sistem...",
+    "opsi": {
+      "A": "Approweb",
+      "B": "e-Filing",
+      "C": "SIDJP Nine",
+      "D": "Coretax"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan alur pada materi menggambarkan Surat Teguran disampaikan kepada Wajib Pajak melalui beberapa kanal, salah satunya sistem Coretax, selain Pos dan secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Coretax"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Coretax"
+    ]
+  },
+  {
+    "id": "KEP-05-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Surat Teguran disampaikan secara langsung kepada Wajib Pajak, dokumen yang dihasilkan dari proses penyampaian tersebut adalah...",
+    "opsi": {
+      "A": "Berita acara penyampaian Surat Teguran",
+      "B": "laporan hasil pengawasan",
+      "C": "nota penghitungan sanksi administrasi",
+      "D": "risalah pembahasan akhir"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan alur menunjukkan bahwa penyampaian Surat Teguran secara langsung menghasilkan Berita Acara Penyampaian Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Berita acara penyampaian Surat Teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Account Representative mengetahui bahwa Wajib Pajak Y belum menyampaikan SPT Tahunan melewati batas waktu yang ditentukan peraturan perundang-undangan perpajakan. Berdasarkan materi, tindakan yang sesuai untuk dilakukan adalah menerbitkan...",
+    "opsi": {
+      "A": "Surat Imbauan",
+      "B": "Surat Teguran",
+      "C": "Surat Ketetapan Pajak Kurang Bayar",
+      "D": "Surat Paksa"
+    },
+    "kunci": "B",
+    "pembahasan": "SPT yang tidak disampaikan sesuai batas waktu yang diatur berdasarkan ketentuan peraturan perundang-undangan perpajakan menjadi dasar penerbitan Surat Teguran, bukan Surat Imbauan, SKPKB, atau Surat Paksa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "SPT tidak disampaikan sesuai batas waktu yang diatur berdasarkan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan materi, penyampaian Surat Teguran secara langsung dapat diterima oleh berapa kategori pihak yang mewakili Wajib Pajak?",
+    "opsi": {
+      "A": "3 kategori",
+      "B": "4 kategori",
+      "C": "5 kategori",
+      "D": "6 kategori"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan penyampaian secara langsung dapat diterima oleh WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP, yaitu lima kategori pihak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "secara langsung kepada WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Selain SPT yang tidak disampaikan sesuai batas waktu, dasar penerbitan Surat Teguran menurut materi juga mencakup hal terkait...",
+    "opsi": {
+      "A": "pelaporan SPT Masa PPN semata",
+      "B": "pembayaran pajak terutang semata",
+      "C": "pengajuan keberatan atas ketetapan pajak",
+      "D": "pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan Surat Teguran juga diterbitkan terkait pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan, selain dasar SPT yang tidak disampaikan sesuai batas waktu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "dan pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-013",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Urutan proses yang digambarkan dalam materi terkait penerbitan Surat Teguran adalah...",
+    "opsi": {
+      "A": "Pengawasan WP Terdaftar, lalu Pemberian Teguran, lalu penerbitan Surat Teguran",
+      "B": "Pemeriksaan, lalu Penagihan, lalu Pemberian Teguran",
+      "C": "Penerbitan Surat Teguran, lalu Pengawasan WP Terdaftar, lalu Pemberian Teguran",
+      "D": "Pemberian Teguran, lalu Pengawasan WP Terdaftar, lalu Penerbitan Surat Teguran"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan alur materi menunjukkan urutan: Pengawasan WP Terdaftar dilakukan melalui kegiatan Pemberian Teguran, yang kemudian menerbitkan Surat Teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Pengawasan WP Terdaftar"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-014",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu kanal pengiriman fisik yang digunakan untuk menyampaikan Surat Teguran kepada Wajib Pajak berdasarkan bagan alur materi adalah melalui jasa pengiriman berupa...",
+    "opsi": {
+      "A": "Email pribadi Account Representative",
+      "B": "Pos",
+      "C": "Media sosial resmi DJP",
+      "D": "Layanan pesan instan"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan alur pada materi menunjukkan Surat Teguran disampaikan kepada Wajib Pajak melalui Coretax, Pos, dan secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "Pos"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-015",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pihak berikut berwenang menerima penyampaian Surat Teguran secara langsung mewakili Wajib Pajak, KECUALI...",
+    "opsi": {
+      "A": "wakil Wajib Pajak",
+      "B": "kuasa Wajib Pajak",
+      "C": "notaris publik yang ditunjuk Wajib Pajak",
+      "D": "anggota keluarga yang telah dewasa dari Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan penyampaian langsung dapat diterima oleh WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP; notaris publik tidak disebutkan sebagai pihak yang berwenang menerima.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 30,
+        "kutipan": "secara langsung kepada WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-016",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Surat Teguran disampaikan secara langsung kepada Wajib Pajak, dokumen yang wajib dibuat adalah...",
+    "opsi": {
+      "A": "laporan hasil konseling",
+      "B": "nota penghitungan sanksi administrasi",
+      "C": "risalah hasil pemeriksaan",
+      "D": "berita acara penyampaian surat teguran"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan terhadap penyampaian secara langsung dibuatkan berita acara penyampaian surat teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "secara langsung, dibuatkan berita acara penyampaian surat teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-017",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berita Acara Penyampaian Surat Teguran dibuat oleh pihak...",
+    "opsi": {
+      "A": "AR/Pegawai DJP yang ditugaskan",
+      "B": "Kepala Seksi Pengawasan dan Konsultasi",
+      "C": "Wajib Pajak yang bersangkutan",
+      "D": "Tim Quality Assurance Keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan Berita Acara Penyampaian Surat Teguran dibuat oleh AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Berita acara penyampaian Surat Teguran (dibuat oleh AR/Pegawai DJP yang ditugaskan)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-018",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam kondisi Wajib Pajak ditemukan dan bersedia menerima, Berita Acara Penyampaian Surat Teguran ditandatangani oleh...",
+    "opsi": {
+      "A": "hanya oleh Account Representative yang ditugaskan",
+      "B": "WP/wakil/kuasa/pegawai/anggota keluarga dewasa WP dan AR/Pegawai DJP yang ditugaskan",
+      "C": "hanya oleh Kepala Kantor Pelayanan Pajak",
+      "D": "WP dan dua orang saksi dari kelurahan setempat"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menggambarkan Berita Acara ditandatangani oleh WP/wakil/kuasa/pegawai/anggota keluarga dewasa WP bersama AR/Pegawai DJP yang ditugaskan, pada kondisi normal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-019",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Account Representative mendatangi alamat Wajib Pajak untuk menyampaikan Surat Teguran secara langsung, namun WP tidak ditemukan dan tidak ada pihak lain yang bersedia menerima. Berita Acara Penyampaian Surat Teguran dalam kondisi ini ditandatangani oleh...",
+    "opsi": {
+      "A": "WP dan dua orang saksi dari RT setempat",
+      "B": "Kepala KPP dan Account Representative",
+      "C": "hanya AR/Pegawai DJP yang ditugaskan",
+      "D": "kuasa hukum yang ditunjuk oleh DJP"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam hal WP tidak ditemukan atau tidak bersedia menerima Surat Teguran, Berita Acara hanya ditandatangani oleh AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Tidak ditemukan atau tidak bersedia menerima Surat Teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-020",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Jika Wajib Pajak tidak ditemukan atau tidak bersedia menerima Surat Teguran saat disampaikan secara langsung, maka berdasarkan materi, status penyampaian tersebut dianggap...",
+    "opsi": {
+      "A": "penyampaian batal dan harus diulang pada hari kerja berikutnya",
+      "B": "Surat Teguran dinyatakan tidak sah dan ditarik kembali",
+      "C": "proses pengawasan WP dihentikan sementara",
+      "D": "WP dianggap menerima Surat Teguran dan tidak memberikan tanggapan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menegaskan bahwa dalam kondisi tersebut WP dianggap menerima Surat Teguran dan tidak memberikan tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "WP dianggap menerima Surat Teguran dan tidak memberikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-021",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pihak berikut berwenang menandatangani Berita Acara Penyampaian Surat Teguran mewakili Wajib Pajak, KECUALI...",
+    "opsi": {
+      "A": "notaris publik yang ditunjuk Wajib Pajak",
+      "B": "wakil Wajib Pajak",
+      "C": "kuasa Wajib Pajak",
+      "D": "pegawai Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Pihak yang berwenang menandatangani BA mewakili WP adalah WP sendiri, wakil, kuasa, pegawai, atau anggota keluarga dewasa WP; notaris publik tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-022",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Surat Teguran yang telah disampaikan kepada Wajib Pajak dapat ditindaklanjuti dengan dua bentuk kegiatan, yaitu...",
+    "opsi": {
+      "A": "Somasi atau Gugatan",
+      "B": "Pembahasan atau Kunjungan",
+      "C": "Penyegelan atau Pemblokiran Akun",
+      "D": "Pemeriksaan atau Penyidikan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menggambarkan Surat Teguran dapat ditindaklanjuti dengan Pembahasan atau Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "dapat ditindaklanjuti"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-023",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan bagan tindak lanjut Surat Teguran pada materi, terdapat berapa bentuk kegiatan tindak lanjut yang digambarkan?",
+    "opsi": {
+      "A": "3 bentuk",
+      "B": "4 bentuk",
+      "C": "2 bentuk",
+      "D": "1 bentuk"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan pada materi menggambarkan dua bentuk tindak lanjut Surat Teguran, yaitu Pembahasan dan Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-024",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Kewajiban membuat Berita Acara Penyampaian Surat Teguran timbul apabila Surat Teguran disampaikan dengan cara...",
+    "opsi": {
+      "A": "melalui Akun WP",
+      "B": "melalui pos elektronik WP",
+      "C": "melalui faksimile",
+      "D": "secara langsung"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan Berita Acara dibuat terhadap penyampaian Surat Teguran yang dilakukan secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "secara langsung, dibuatkan berita acara penyampaian surat teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-025",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Perbedaan utama penandatanganan Berita Acara Penyampaian Surat Teguran antara kondisi WP ditemukan dan kondisi WP tidak ditemukan/tidak bersedia adalah...",
+    "opsi": {
+      "A": "pada kondisi WP tidak ditemukan, Berita Acara hanya ditandatangani oleh AR/Pegawai DJP yang ditugaskan",
+      "B": "pada kondisi WP tidak ditemukan, Berita Acara tidak perlu dibuat sama sekali",
+      "C": "pada kondisi WP ditemukan, Berita Acara ditandatangani oleh Kepala KPP",
+      "D": "pada kondisi WP tidak ditemukan, penyampaian dinyatakan gagal total"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menunjukkan bahwa ketika WP tidak ditemukan atau tidak bersedia menerima, Berita Acara hanya ditandatangani AR/Pegawai DJP yang ditugaskan, berbeda dengan kondisi normal yang turut ditandatangani WP/wakil/kuasa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "hanya ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-026",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang pegawai Wajib Pajak menerima penyampaian langsung Surat Teguran dan bersedia menandatangani Berita Acara. Berdasarkan materi, pihak yang menandatangani Berita Acara tersebut adalah...",
+    "opsi": {
+      "A": "pegawai Wajib Pajak saja",
+      "B": "pegawai Wajib Pajak dan AR/Pegawai DJP yang ditugaskan",
+      "C": "AR/Pegawai DJP saja dan Kepala KPP",
+      "D": "pegawai Wajib Pajak dan dua orang saksi independen"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menunjukkan Berita Acara ditandatangani oleh pihak yang menerima (termasuk pegawai WP) bersama AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "KEP-05-027",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Judul bagian materi ini mencakup dua pokok bahasan, yaitu Berita Acara Penyampaian Surat Teguran secara Langsung dan...",
+    "opsi": {
+      "A": "Tata Cara Keberatan atas Surat Teguran",
+      "B": "Prosedur Pengajuan Banding Pajak",
+      "C": "Tindak Lanjut Pemberian Teguran",
+      "D": "Tata Cara Pembatalan Surat Teguran"
+    },
+    "kunci": "C",
+    "pembahasan": "Judul materi pada bagian ini adalah 'BA Penyampaian Surat Teguran secara Langsung & Tindak Lanjut Pemberian Teguran'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 31,
+        "kutipan": "Tindak Lanjut Pemberian Teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran"
+    ]
+  },
+  {
+    "id": "KEP-05-028",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Ketentuan mengenai pembahasan dan pembuatan berita acara pelaksanaan permintaan penjelasan atas data dan/atau keterangan berlaku terhadap pembahasan dan pembuatan berita acara pelaksanaan pemberian teguran secara...",
+    "opsi": {
+      "A": "terpisah dan berbeda ketentuan",
+      "B": "hanya berlaku bagi Wajib Pajak badan",
+      "C": "memerlukan peraturan pelaksanaan baru",
+      "D": "mutatis mutandis"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan ketentuan pembahasan dan berita acara permintaan penjelasan berlaku secara mutatis mutandis terhadap pembahasan dan berita acara pemberian teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "berlaku secara mutatis mutandis terhadap pembahasan dan pembuatan berita acara pelaksanaan pemberian teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-029",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan sebagai tindak lanjut Pemberian Teguran dilakukan terhadap dokumen...",
+    "opsi": {
+      "A": "surat teguran",
+      "B": "surat ketetapan pajak",
+      "C": "laporan hasil pemeriksaan",
+      "D": "surat permintaan penjelasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan pembahasan dilakukan terhadap surat teguran.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "Pembahasan dilakukan terhadap: - surat teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-030",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Direktur Jenderal Pajak dapat melakukan pembahasan dengan Wajib Pajak atas Surat Teguran dengan cara...",
+    "opsi": {
+      "A": "menerbitkan surat ketetapan pajak kurang bayar",
+      "B": "menerbitkan surat undangan pembahasan",
+      "C": "menerbitkan Surat Teguran kedua",
+      "D": "menerbitkan surat perintah pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan Direktur Jenderal Pajak dapat melakukan pembahasan dengan WP dengan menerbitkan surat undangan pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "Direktur Jenderal Pajak dapat melakukan pembahasan dengan WP dengan menerbitkan surat undangan pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-031",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Surat undangan pembahasan atas Pemberian Teguran disampaikan kepada Wajib Pajak melalui berapa cara?",
+    "opsi": {
+      "A": "3 cara",
+      "B": "5 cara",
+      "C": "4 cara",
+      "D": "6 cara"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi merinci empat cara penyampaian surat undangan pembahasan: melalui Akun WP, pos elektronik WP, pos/jasa ekspedisi/kurir, dan secara langsung kepada WP/wakil/kuasa/pegawai/anggota keluarga dewasa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "disampaikan kepada Wajib Pajak melalui Akun WP; pos elektronik WP yang terdaftar dalam sistem administrasi Direktorat Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-032",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Berikut merupakan cara penyampaian surat undangan pembahasan atas Pemberian Teguran berdasarkan materi, KECUALI...",
+    "opsi": {
+      "A": "melalui Akun WP",
+      "B": "melalui pos elektronik WP yang terdaftar dalam sistem administrasi DJP",
+      "C": "secara langsung kepada WP, wakil, atau kuasa",
+      "D": "melalui faksimile dengan bukti pengiriman faksimile"
+    },
+    "kunci": "D",
+    "pembahasan": "Berbeda dengan penyampaian Surat Teguran yang mencantumkan faksimile, surat undangan pembahasan hanya disampaikan melalui Akun WP, pos elektronik WP, pos/jasa ekspedisi/kurir, dan secara langsung; faksimile tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "disampaikan kepada Wajib Pajak melalui Akun WP; pos elektronik WP yang terdaftar dalam sistem administrasi Direktorat Jenderal Pajak; pos, jasa ekspedisi, atau jasa kurir"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-033",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan atas Pemberian Teguran dapat dilakukan melalui berapa cara sesuai undangan pembahasan?",
+    "opsi": {
+      "A": "2 cara",
+      "B": "1 cara",
+      "C": "3 cara",
+      "D": "4 cara"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan pembahasan dilakukan secara luring dengan tatap muka langsung atau daring dengan video conference, yaitu dua cara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "dilakukan secara: a. luring dengan tatap muka langsung; atau b. daring dengan video conference"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-034",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan atas Pemberian Teguran yang dilakukan secara daring dilaksanakan melalui...",
+    "opsi": {
+      "A": "telepon seluler",
+      "B": "video conference",
+      "C": "pesan singkat (SMS)",
+      "D": "surat elektronik berantai"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan pembahasan secara daring dilakukan dengan video conference.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "daring dengan video conference"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-035",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Terhadap hasil pembahasan atas Pemberian Teguran, berita acara pelaksanaan pemberian teguran dibuat oleh...",
+    "opsi": {
+      "A": "Kepala Kantor Pelayanan Pajak",
+      "B": "Wajib Pajak yang bersangkutan",
+      "C": "Account Representative atau pegawai DJP yang ditugaskan",
+      "D": "Tim Quality Assurance Pembahasan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan berita acara pelaksanaan pemberian teguran dibuat oleh Account Representative atau pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "dibuat oleh Account Representative atau pegawai DJP yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-036",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan atas Pemberian Teguran dilakukan secara daring melalui video conference. Berdasarkan materi, berita acara pelaksanaan pemberian teguran dalam kondisi ini ditandatangani secara...",
+    "opsi": {
+      "A": "manual di atas meterai",
+      "B": "melalui notaris",
+      "C": "dengan rekaman video tanpa tanda tangan",
+      "D": "elektronik"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan dalam hal pembahasan dilakukan secara daring, berita acara ditandatangani secara elektronik.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "dalam hal pembahasan secara daring, berita acara ditandatangani secara elektronik"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-037",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Pemberian Teguran",
+    "subtopik": "Pembahasan atas Pemberian Teguran",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Wajib Pajak menghadiri pembahasan atas Pemberian Teguran namun tidak bersedia menandatangani berita acara pelaksanaan pemberian teguran. Berdasarkan materi, berita acara tersebut ditandatangani oleh...",
+    "opsi": {
+      "A": "Account Representative dan/atau pegawai DJP yang ditugaskan",
+      "B": "Kepala KPP dan saksi dari kecamatan",
+      "C": "WP secara sepihak dengan catatan keberatan",
+      "D": "tidak ditandatangani oleh siapa pun dan dinyatakan batal"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan berita acara ditandatangani oleh Account Representative dan/atau pegawai DJP yang ditugaskan dalam hal WP menghadiri pembahasan namun tidak bersedia menandatangani.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 32,
+        "kutipan": "WP menghadiri pembahasan namun tidak bersedia menandatangani berita acara pelaksanaan pemberian teguran"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Surat Teguran",
+      "Pembahasan"
+    ]
+  },
+  {
+    "id": "KEP-05-038",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Petunjuk Pelaksanaan Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax disusun berdasarkan Nota Dinas yang diterbitkan oleh...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Direktur Ekstensifikasi",
+      "C": "Direktur Pemeriksaan dan Penagihan",
+      "D": "Kepala Kantor Wilayah DJP"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan petunjuk pelaksanaan ini disusun sesuai Nota Dinas Direktur Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "Sesuai Nota Dinas Direktur Ekstensifikasi Nomor :"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "Masa Transisi Coretax"
+    ]
+  },
+  {
+    "id": "KEP-05-039",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Nota Dinas ND-1718/PJ.06/2024 yang menjadi salah satu dasar ketentuan transisi Coretax ditetapkan pada tanggal...",
+    "opsi": {
+      "A": "27 Desember 2025",
+      "B": "11 Februari 2025",
+      "C": "27 Desember 2024",
+      "D": "23 Juni 2025"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi mencantumkan ND-1718/PJ.06/2024 tanggal 27 Desember 2024 sebagai salah satu dasar Nota Dinas.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "ND-1718/PJ.06/2024 tanggal 27 Desember 2024"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "ND-1718/PJ.06/2024"
+    ]
+  },
+  {
+    "id": "KEP-05-040",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Nota Dinas ND-236/PJ.06/2025 yang menjadi salah satu dasar ketentuan transisi Coretax ditetapkan pada tanggal...",
+    "opsi": {
+      "A": "27 Desember 2024",
+      "B": "23 Juni 2025",
+      "C": "11 Februari 2026",
+      "D": "11 Februari 2025"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi mencantumkan ND-236/PJ.06/2025 tanggal 11 Februari 2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "ND-236/PJ.06/2025 tanggal 11 Februari 2025"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "ND-236/PJ.06/2025"
+    ]
+  },
+  {
+    "id": "KEP-05-041",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Nota Dinas ND-927/PJ.06/2025 yang menjadi salah satu dasar ketentuan transisi Coretax ditetapkan pada tanggal...",
+    "opsi": {
+      "A": "23 Juni 2025",
+      "B": "27 Desember 2024",
+      "C": "11 Februari 2025",
+      "D": "23 Juli 2025"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mencantumkan ND-927/PJ.06/2025 tanggal 23 Juni 2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "ND-927/PJ.06/2025 tanggal 23 Juni 2025"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "ND-927/PJ.06/2025"
+    ]
+  },
+  {
+    "id": "KEP-05-042",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dasar Petunjuk Pelaksanaan Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax terdiri atas berapa Nota Dinas Direktur Ekstensifikasi?",
+    "opsi": {
+      "A": "2 Nota Dinas",
+      "B": "3 Nota Dinas",
+      "C": "4 Nota Dinas",
+      "D": "5 Nota Dinas"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi mencantumkan tiga Nota Dinas, yaitu ND-1718/PJ.06/2024, ND-236/PJ.06/2025, dan ND-927/PJ.06/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "ND-1718/PJ.06/2024 tanggal 27 Desember 2024"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "Masa Transisi Coretax"
+    ]
+  },
+  {
+    "id": "KEP-05-043",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut merupakan Nota Dinas Direktur Ekstensifikasi yang menjadi dasar ketentuan transisi Coretax, KECUALI...",
+    "opsi": {
+      "A": "ND-1718/PJ.06/2024",
+      "B": "ND-236/PJ.06/2025",
+      "C": "ND-1516/PJ.06/2024",
+      "D": "ND-927/PJ.06/2025"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi hanya mencantumkan tiga Nota Dinas, yaitu ND-1718/PJ.06/2024, ND-236/PJ.06/2025, dan ND-927/PJ.06/2025; ND-1516/PJ.06/2024 tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "ND-1718/PJ.06/2024 tanggal 27 Desember 2024"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "Masa Transisi Coretax"
+    ]
+  },
+  {
+    "id": "KEP-05-044",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Materi pada bagian ini membahas petunjuk pelaksanaan kegiatan pengawasan pada masa...",
+    "opsi": {
+      "A": "transisi penerapan e-Faktur",
+      "B": "transisi dari Approweb ke sistem manual",
+      "C": "transisi reorganisasi KPP",
+      "D": "transisi penerapan Coretax"
+    },
+    "kunci": "D",
+    "pembahasan": "Judul materi menyebutkan 'Petunjuk Pelaksanaan Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 33,
+        "kutipan": "KEGIATAN PENGAWASAN Pada Masa Transisi Penerapan Coretax"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "Masa Transisi Coretax"
+    ]
+  },
+  {
+    "id": "KEP-05-045",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Ketentuan Umum pada materi, kegiatan pengawasan yang dimulai pada sistem Coretax menggunakan sistem...",
+    "opsi": {
+      "A": "Coretax",
+      "B": "Approweb",
+      "C": "e-SPT",
+      "D": "SIDJP Nine"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan kegiatan pengawasan yang dimulai pada sistem Coretax menggunakan Coretax.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 34,
+        "kutipan": "Kegiatan Pengawasan yang dimulai pada sistem Coretax"
+      }
+    ],
+    "tags": [
+      "Coretax"
+    ]
+  },
+  {
+    "id": "KEP-05-046",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Ketentuan Umum pada materi, kegiatan pengawasan yang telah dimulai sebelum penerapan Coretax menggunakan sistem...",
+    "opsi": {
+      "A": "Coretax",
+      "B": "Approweb",
+      "C": "e-Filing",
+      "D": "DJP Online"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan kegiatan pengawasan sebelum penerapan Coretax menggunakan Approweb.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 34,
+        "kutipan": "Kegiatan Pengawasan sebelum penerapan Coretax"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "Approweb"
+    ]
+  },
+  {
+    "id": "KEP-05-047",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+    "subtopik": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Penentuan penggunaan sistem Coretax atau Approweb dalam kegiatan pengawasan pada masa transisi menurut Ketentuan Umum didasarkan pada...",
+    "opsi": {
+      "A": "jenis pajak yang diawasi",
+      "B": "lokasi Kantor Pelayanan Pajak",
+      "C": "kapan kegiatan pengawasan tersebut dimulai",
+      "D": "jumlah pegawai yang ditugaskan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi membedakan penggunaan sistem berdasarkan waktu dimulainya kegiatan pengawasan: yang dimulai pada sistem Coretax menggunakan Coretax, sedangkan yang dimulai sebelum penerapan Coretax menggunakan Approweb.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 34,
+        "kutipan": "Kegiatan Pengawasan yang dimulai pada sistem Coretax"
+      }
+    ],
+    "tags": [
+      "Coretax",
+      "Approweb",
+      "Masa Transisi Coretax"
+    ]
+  }
+]

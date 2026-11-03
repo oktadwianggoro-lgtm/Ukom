@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "ADV-06-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Penyetoran PPN Kurang Bayar & Batas Waktu Penyetoran/Pelaporan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penghitungan PPN suatu Masa Pajak, apabila jumlah Pajak Keluaran lebih besar daripada Pajak Masukan, maka selisihnya berstatus sebagai...",
+    "opsi": {
+      "A": "kelebihan pembayaran pajak yang wajib direstitusikan kepada PKP",
+      "B": "PPN yang harus disetor oleh PKP",
+      "C": "PPN Masukan yang dikompensasikan ke Masa Pajak berikutnya",
+      "D": "Pajak Keluaran yang dibebaskan dari kewajiban pemungutan"
+    },
+    "kunci": "B",
+    "pembahasan": "Apabila Pajak Keluaran lebih besar daripada Pajak Masukan dalam suatu Masa Pajak, selisihnya merupakan PPN kurang bayar yang harus disetor oleh PKP ke kas negara.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 170,
+        "kutipan": "Pajak Keluaran > Pajak Masukan -> selisihnya merupakan PPN yang harus"
+      }
+    ],
+    "tags": [
+      "UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-06-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Penyetoran PPN Kurang Bayar & Batas Waktu Penyetoran/Pelaporan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Batas waktu penyetoran PPN yang kurang dibayar oleh PKP berdasarkan materi adalah paling lama...",
+    "opsi": {
+      "A": "akhir bulan berikutnya setelah berakhirnya Masa Pajak dan sebelum SPT Masa PPN disampaikan",
+      "B": "tanggal 15 bulan berikutnya setelah berakhirnya Masa Pajak",
+      "C": "20 hari setelah berakhirnya Masa Pajak",
+      "D": "tanggal 10 bulan berikutnya setelah berakhirnya Masa Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Batas penyetoran PPN adalah paling lama akhir bulan berikutnya setelah berakhirnya Masa Pajak dan sebelum Surat Pemberitahuan Masa PPN disampaikan, berbeda dengan jangka waktu lain seperti tanggal 15, tanggal 10, atau 20 hari yang berlaku untuk kewajiban perpajakan lainnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 170,
+        "kutipan": "Paling lama akhir bulan berikutnya setelah berakhirnya"
+      }
+    ],
+    "tags": [
+      "UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-06-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Penyetoran PPN Kurang Bayar & Batas Waktu Penyetoran/Pelaporan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa batas penyampaian SPT Masa PPN adalah paling lama akhir bulan berikutnya setelah berakhirnya Masa Pajak diatur dalam...",
+    "opsi": {
+      "A": "Pasal 3 ayat (3) UU KUP",
+      "B": "Pasal 9 ayat (1) UU KUP",
+      "C": "Pasal 15A ayat (2) UU PPN",
+      "D": "Pasal 7 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Batas waktu penyampaian SPT Masa PPN diatur sesuai dengan Pasal 15A ayat (2) UU PPN, yaitu paling lama akhir bulan berikutnya setelah berakhirnya Masa Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 170,
+        "kutipan": "sesuai dengan Pasal 15A ayat (2) UU PPN."
+      }
+    ],
+    "tags": [
+      "UU PPN",
+      "Pasal 15A UU PPN"
+    ]
+  },
+  {
+    "id": "ADV-06-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyetoran dan Pelaporan PPN",
+    "subtopik": "Penyetoran PPN Kurang Bayar & Batas Waktu Penyetoran/Pelaporan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang PKP terlambat menyetorkan PPN terutang berdasarkan SPT Masa PPN dan juga terlambat menyampaikan SPT Masa PPN tersebut. Berdasarkan ketentuan, atas kedua keterlambatan tersebut PKP...",
+    "opsi": {
+      "A": "tidak dikenai sanksi apa pun karena keterlambatan bersifat administratif",
+      "B": "hanya dikenai sanksi untuk salah satu dari dua keterlambatan tersebut",
+      "C": "tetap dikenai sanksi administrasi sebagaimana diatur dalam UU KUP",
+      "D": "dikenai sanksi pidana sebagaimana diatur dalam UU PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam hal terjadi keterlambatan pembayaran PPN terutang dan/atau keterlambatan penyampaian SPT Masa PPN, PKP tetap dikenai sanksi administrasi sebagaimana diatur dalam UU KUP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 170,
+        "kutipan": "PKP tetap dikenai sanksi administrasi sebagaimana diatur"
+      }
+    ],
+    "tags": [
+      "UU KUP"
+    ]
+  },
+  {
+    "id": "ADV-06-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Dasar Hukum & Klasifikasi Objek Pajak PBB P5L",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa klasifikasi objek pajak PBB diatur oleh Menteri Keuangan merupakan amanat dari...",
+    "opsi": {
+      "A": "Pasal 6 ayat (2) UU PBB",
+      "B": "Pasal 2 ayat (2) UU PBB",
+      "C": "Pasal 3 ayat (1) UU PBB",
+      "D": "Pasal 8 UU PBB"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 2 ayat (2) UU PBB menjadi dasar hukum bahwa klasifikasi objek pajak diatur oleh Menteri Keuangan, sedangkan Pasal 6 ayat (2) UU PBB mengatur bahwa besarnya Nilai Jual Objek Pajak ditetapkan oleh Menteri Keuangan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 172,
+        "kutipan": "Klasifikasi objek pajak diatur oleh Menteri Keuangan"
+      }
+    ],
+    "tags": [
+      "Pasal 2 ayat (2) UU PBB",
+      "UU PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Dasar Hukum & Klasifikasi Objek Pajak PBB P5L",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Peraturan Menteri Keuangan yang mengatur Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB, yang berlaku sejak tahun 2020 dan menyederhanakan berbagai PMK/PER sebelumnya, adalah...",
+    "opsi": {
+      "A": "PMK-139/2014",
+      "B": "PMK-76/2013",
+      "C": "PMK-186/PMK.03/2019",
+      "D": "PMK-131/2017"
+    },
+    "kunci": "C",
+    "pembahasan": "PMK-186/PMK.03/2019 tentang Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB berlaku sejak tahun 2020, menggantikan dan menyederhanakan sejumlah PMK dan PER sebelumnya seperti PMK-139/2014 dan PMK-76/2013 s.t.d.t.d. PMK-131/2017.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 173,
+        "kutipan": "PMK-186/PMK.03/2019"
+      }
+    ],
+    "tags": [
+      "PMK-186/PMK.03/2019"
+    ]
+  },
+  {
+    "id": "ADV-06-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Dasar Hukum & Klasifikasi Objek Pajak PBB P5L",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai dengan konsep yang berlaku saat ini, Objek Pajak PBB Sektor Perkebunan/Perhutanan/Pertambangan (P5L) adalah bumi dan/atau bangunan yang berada di...",
+    "opsi": {
+      "A": "kegiatan usaha yang diberikan izin",
+      "B": "kawasan",
+      "C": "wilayah administratif kabupaten/kota",
+      "D": "lokasi usaha yang terdaftar sebagai PKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Objek Pajak PBB Sektor P5L (konsep saat ini) didefinisikan sebagai bumi dan/atau bangunan yang berada di kawasan, berbeda dengan konsep P3L sebelumnya yang membatasi objek pajak pada kegiatan usaha yang diberikan izin.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 176,
+        "kutipan": "Bumi dan/atau bangunan yang berada"
+      }
+    ],
+    "tags": [
+      "P5L",
+      "Pasal 3 s/d Pasal 7"
+    ]
+  },
+  {
+    "id": "ADV-06-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Dasar Hukum & Klasifikasi Objek Pajak PBB P5L",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan konsep P5L, kawasan yang menjadi area Objek Pajak PBB terdiri atas areal yang tercantum dalam izin, hak, kontrak, perjanjian, dan penugasan, serta...",
+    "opsi": {
+      "A": "areal di luar areal tersebut yang merupakan satu kesatuan usaha dan secara fisik tidak terpisahkan",
+      "B": "areal yang berbatasan langsung dengan kawasan hutan lindung",
+      "C": "areal yang disewakan kepada pihak ketiga secara sah",
+      "D": "areal yang telah memperoleh sertifikat hak milik"
+    },
+    "kunci": "A",
+    "pembahasan": "Kawasan P5L terdiri atas dua jenis areal: (1) areal yang tercantum dalam izin, hak, kontrak, perjanjian, dan penugasan; dan (2) areal di luar areal angka 1 yang merupakan satu kesatuan usaha dan secara fisik tidak terpisahkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 176,
+        "kutipan": "Areal di luar areal angka 1 yang"
+      }
+    ],
+    "tags": [
+      "P5L",
+      "Pasal 3 s/d Pasal 7"
+    ]
+  },
+  {
+    "id": "ADV-06-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 3, areal yang tercantum dalam IUP-B, IUP, ITUBP, dan/atau HGU perkebunan termasuk Objek Pajak Bumi PBB Sektor...",
+    "opsi": {
+      "A": "Perhutanan",
+      "B": "Pertambangan Minyak dan Gas Bumi",
+      "C": "Pertambangan Mineral atau Batubara",
+      "D": "Perkebunan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kawasan perkebunan sebagai Objek Pajak Bumi PBB Sektor Perkebunan (Pasal 3) meliputi areal yang tercantum dalam IUP-B, IUP, ITUBP, dan/atau HGU perkebunan, serta areal di luar areal tersebut yang merupakan satu kesatuan usaha perkebunan dan secara fisik tidak terpisahkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 177,
+        "kutipan": "tercantum dalam IUP-B,"
+      }
+    ],
+    "tags": [
+      "Pasal 3",
+      "IUP-B",
+      "HGU"
+    ]
+  },
+  {
+    "id": "ADV-06-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam menentukan kawasan perhutanan sebagai Objek Pajak Bumi PBB Sektor Perhutanan (Pasal 4), areal diakui berdasarkan IUPHHK-HA, IUPHHK-RE, IUPHHK-HTI, dan/atau areal yang diperoleh melalui...",
+    "opsi": {
+      "A": "Penugasan Pemerintah (Perhutani)",
+      "B": "Kontrak Kerja Sama",
+      "C": "izin usaha pertambangan",
+      "D": "hak guna usaha (HGU)"
+    },
+    "kunci": "A",
+    "pembahasan": "Kawasan perhutanan meliputi areal yang tercantum dalam IUPHHK-HA dan/atau IUPHHBK-HA, IUPHHK-RE, IUPHHK-HTI dan/atau IUPHHBK-HT, atau diperoleh melalui Penugasan Pemerintah (Perhutani), sebagaimana diatur dalam Pasal 4.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 178,
+        "kutipan": "Pemerintah (Perhutani)."
+      }
+    ],
+    "tags": [
+      "Pasal 4",
+      "IUPHHK",
+      "Perhutani"
+    ]
+  },
+  {
+    "id": "ADV-06-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai Objek Pajak Bumi PBB Sektor Pertambangan Minyak dan Gas Bumi diatur dalam...",
+    "opsi": {
+      "A": "Pasal 4",
+      "B": "Pasal 6",
+      "C": "Pasal 7",
+      "D": "Pasal 5"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek Pajak Bumi PBB Sektor Pertambangan Minyak dan Gas Bumi diatur dalam Pasal 5, dengan dasar areal berupa Wilayah Kerja sebagaimana tercantum dalam Kontrak Kerja Sama.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 179,
+        "kutipan": "Pasal 5"
+      }
+    ],
+    "tags": [
+      "Pasal 5"
+    ]
+  },
+  {
+    "id": "ADV-06-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada Objek Pajak Bumi PBB Sektor Pertambangan Mineral atau Batubara, 'areal di luar areal' dapat dianggap terhubung dengan areal utama melalui sejumlah sarana. Ada berapa jenis sarana penghubung yang disebutkan?",
+    "opsi": {
+      "A": "4",
+      "B": "6",
+      "C": "3",
+      "D": "5"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada Sektor Pertambangan Mineral atau Batubara (Pasal 7), areal di luar areal dapat terhubung melalui 5 sarana: sungai, jaringan pipa, konveyor, jalan, atau jembatan. Unsur konveyor merupakan tambahan yang tidak disebutkan pada sektor Perkebunan, Perhutanan, Migas, maupun Pengusahaan Panas Bumi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 181,
+        "kutipan": "jaringan pipa, konveyor, jalan,"
+      }
+    ],
+    "tags": [
+      "Pasal 7"
+    ]
+  },
+  {
+    "id": "ADV-06-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Areal yang tercantum dalam IUP, IUPK, IPR, KK, atau PKP2B merupakan dasar penetapan Objek Pajak Bumi PBB Sektor...",
+    "opsi": {
+      "A": "Pertambangan Mineral atau Batubara",
+      "B": "Pertambangan Minyak dan Gas Bumi",
+      "C": "Pertambangan Pengusahaan Panas Bumi",
+      "D": "Perkebunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kawasan pertambangan mineral atau batubara (Pasal 7) meliputi areal sebagaimana tercantum dalam IUP, IUPK, IPR, KK, atau PKP2B, serta areal di luar areal tersebut yang merupakan satu kesatuan usaha dan secara fisik tidak terpisahkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 181,
+        "kutipan": "tercantum dalam IUP,"
+      }
+    ],
+    "tags": [
+      "Pasal 7",
+      "IUP",
+      "PKP2B"
+    ]
+  },
+  {
+    "id": "ADV-06-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Areal huruf A pada Objek Pajak Bumi PBB Sektor Pertambangan Minyak dan Gas Bumi adalah Wilayah Kerja sebagaimana tercantum dalam...",
+    "opsi": {
+      "A": "Hak Guna Usaha",
+      "B": "Izin Usaha Pertambangan",
+      "C": "Kontrak Kerja Sama",
+      "D": "Penugasan Pemerintah"
+    },
+    "kunci": "C",
+    "pembahasan": "Dasar areal huruf A pada Objek Pajak Bumi PBB Sektor Pertambangan Minyak dan Gas Bumi (Pasal 5) adalah Wilayah Kerja sebagaimana tercantum dalam Kontrak Kerja Sama.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 179,
+        "kutipan": "Kontrak Kerja"
+      }
+    ],
+    "tags": [
+      "Pasal 5",
+      "Kontrak Kerja Sama"
+    ]
+  },
+  {
+    "id": "ADV-06-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebuah perusahaan memperoleh Surat Izin Usaha Perikanan dari kementerian yang menyelenggarakan urusan kelautan dan perikanan untuk mengoperasikan unit Floating Storage and Offloading (FSO) di wilayah perairan NKRI. Bumi yang digunakan untuk kegiatan usaha tersebut termasuk Objek Pajak Bumi PBB Sektor...",
+    "opsi": {
+      "A": "Pertambangan Minyak dan Gas Bumi",
+      "B": "Pertambangan Pengusahaan Panas Bumi",
+      "C": "Pertambangan Mineral atau Batubara",
+      "D": "Lainnya"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek Pajak Bumi PBB Sektor Lainnya (Pasal 8) mencakup perairan NKRI yang digunakan antara lain untuk fasilitas penyimpanan dan pengolahan yang meliputi Floating Storage and Offloading (FSO), sehingga kegiatan tersebut diklasifikasikan sebagai Sektor Lainnya, bukan sektor pertambangan migas/pabum/minerba.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 182,
+        "kutipan": "Floating Storage and Offloading (FSO);"
+      }
+    ],
+    "tags": [
+      "Pasal 8",
+      "FSO"
+    ]
+  },
+  {
+    "id": "ADV-06-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk dalam cakupan fasilitas penyimpanan dan pengolahan pada Objek Pajak Bumi PBB Sektor Lainnya, KECUALI...",
+    "opsi": {
+      "A": "Floating Production System (FPS)",
+      "B": "Floating Storage Regasification Unit (FSRU)",
+      "C": "Floating Production Storage and Offloading (FPSO)",
+      "D": "Floating Drilling Unit (FDU)"
+    },
+    "kunci": "D",
+    "pembahasan": "Fasilitas penyimpanan dan pengolahan pada Objek Pajak Bumi PBB Sektor Lainnya (Pasal 8) meliputi FSO, FPS, FPU, FSU, FPSO, dan FSRU. Floating Drilling Unit (FDU) tidak termasuk dalam daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 182,
+        "kutipan": "Floating Production Storage and Offloading (FPSO);"
+      }
+    ],
+    "tags": [
+      "Pasal 8"
+    ]
+  },
+  {
+    "id": "ADV-06-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek Pajak Bumi per Sektor (Perkebunan, Perhutanan, Migas, Panas Bumi, Minerba, Lainnya)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada Objek Pajak Bumi PBB Sektor Pertambangan Pengusahaan Panas Bumi (huruf B), areal di luar Wilayah Kerja Panas Bumi dapat menjadi Objek Pajak apabila areal tersebut...",
+    "opsi": {
+      "A": "merupakan satu kesatuan yang digunakan untuk kegiatan pengusahaan panas bumi dan secara fisik tidak terpisahkan",
+      "B": "telah memperoleh izin lingkungan dari pemerintah daerah setempat",
+      "C": "berjarak kurang dari 1 km dari Wilayah Kerja Panas Bumi",
+      "D": "dimiliki oleh badan usaha milik negara"
+    },
+    "kunci": "A",
+    "pembahasan": "Areal di luar Wilayah Kerja Panas Bumi diakui sebagai Objek Pajak Bumi PBB Sektor Pertambangan Pengusahaan Panas Bumi (Pasal 6) apabila merupakan satu kesatuan yang digunakan untuk kegiatan pengusahaan panas bumi dan secara fisik tidak terpisahkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 180,
+        "kutipan": "kegiatan pengusahaan"
+      }
+    ],
+    "tags": [
+      "Pasal 6"
+    ]
+  },
+  {
+    "id": "ADV-06-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek di Dalam Kawasan yang Tidak Dikenakan PBB P5L & Objek Pajak Bangunan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PT A menguasai areal perkebunan dalam kawasan sesuai HGU miliknya. Sebagian areal tersebut ternyata dipunyai haknya dan dimanfaatkan sepenuhnya secara nyata dan sah oleh pihak lain, bukan oleh PT A. Berdasarkan ketentuan, atas bagian areal tersebut...",
+    "opsi": {
+      "A": "menjadi Objek Pajak PBB Sektor Lainnya",
+      "B": "merupakan objek pajak di dalam kawasan yang tidak dikenakan PBB P5L",
+      "C": "menjadi Objek Pajak Bangunan",
+      "D": "tetap menjadi Objek Pajak PBB Sektor Perkebunan atas nama PT A"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk sektor Perkebunan/Perhutanan, areal yang dipunyai haknya dan/atau dimanfaatkan sepenuhnya secara nyata dan sah oleh selain subjek pajak atau wajib pajak menjadi objek pajak di dalam kawasan yang tidak dikenakan PBB P5L, sesuai Pasal 3 ayat (1) UU PBB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 183,
+        "kutipan": "Dipunyai haknya dan/atau dimanfaatkan sepenuhnya secara"
+      }
+    ],
+    "tags": [
+      "Pasal 3 ayat (1) UU PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek di Dalam Kawasan yang Tidak Dikenakan PBB P5L & Objek Pajak Bangunan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Kriteria pengecualian objek pajak di dalam kawasan Sektor Pertambangan agar TIDAK dikenakan PBB P5L berbeda dengan Sektor Perkebunan/Perhutanan, yaitu areal tersebut...",
+    "opsi": {
+      "A": "telah bersertifikat hak milik atas nama pihak ketiga",
+      "B": "tidak dipunyai haknya dan tidak diperoleh manfaatnya oleh subjek pajak atau wajib pajak",
+      "C": "dipunyai haknya dan/atau dimanfaatkan sepenuhnya secara nyata dan sah oleh selain subjek pajak atau wajib pajak",
+      "D": "berada di luar wilayah izin usaha pertambangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Untuk Sektor Pertambangan, pengecualian berlaku jika areal tidak dipunyai haknya dan tidak diperoleh manfaatnya oleh subjek pajak atau wajib pajak, berbeda dengan kriteria Sektor Perkebunan/Perhutanan yang justru mensyaratkan areal dipunyai haknya dan/atau dimanfaatkan oleh selain subjek pajak atau wajib pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 183,
+        "kutipan": "Tidak dipunyai haknya dan tidak diperoleh manfaatnya oleh"
+      }
+    ],
+    "tags": [
+      "Pasal 3 ayat (1) UU PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Objek di Dalam Kawasan yang Tidak Dikenakan PBB P5L & Objek Pajak Bangunan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Konstruksi teknik yang ditanam atau dilekatkan secara tetap pada bumi di wilayah perairan NKRI sebagai Objek Pajak Bangunan, berjumlah berapa jenis sebagaimana disebutkan dalam materi?",
+    "opsi": {
+      "A": "3",
+      "B": "5",
+      "C": "4",
+      "D": "6"
+    },
+    "kunci": "C",
+    "pembahasan": "Objek Pajak Bangunan di wilayah perairan NKRI meliputi 4 jenis konstruksi teknik: Jaringan Pipa, Jaringan Kabel, Ruas Jalan Tol, dan Fasilitas Penyimpanan dan Pengolahan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 184,
+        "kutipan": "Jaringan Pipa; Jaringan Kabel; Ruas Jalan Tol;"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "ADV-06-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam Tata Cara Penetapan NJOP Bumi PBB Sektor Perkebunan, metode apa yang digunakan untuk menghitung NJOP areal produktif berupa tanah?",
+    "opsi": {
+      "A": "Nilai Jual Pengganti",
+      "B": "Perbandingan Harga Dengan Objek Lain Yang Sejenis",
+      "C": "Penghitungan Biaya Investasi Tanaman",
+      "D": "Ditetapkan Dengan Keputusan Direktur Jenderal Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada tabel Tata Cara Penetapan NJOP Bumi PBB Sektor Perkebunan, areal produktif berupa tanah dihitung dengan metode Perbandingan Harga Dengan Objek Lain Yang Sejenis, sedangkan komponen pengembangan tanaman dihitung dengan Penghitungan Biaya Investasi Tanaman.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 186,
+        "kutipan": "Perbandingan Harga Dengan Objek Lain Yang Sejenis"
+      }
+    ],
+    "tags": [
+      "Pasal 12",
+      "Pasal 14"
+    ]
+  },
+  {
+    "id": "ADV-06-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai Tata Cara Penetapan NJOP Bumi PBB untuk Areal Produktif Hutan Alam, Nilai Jual Pengganti (NJP) dihitung dengan rumus?",
+    "opsi": {
+      "A": "Jumlah produksi hasil hutan x Harga jual hasil hutan",
+      "B": "Rasio Biaya Produksi x Pendapatan kotor hasil hutan",
+      "C": "Pendapatan bersih hasil hutan x Angka Kapitalisasi",
+      "D": "Pendapatan kotor hasil hutan x Angka Kapitalisasi"
+    },
+    "kunci": "C",
+    "pembahasan": "NJP Hutan Alam dihitung dari Pendapatan bersih hasil hutan dikalikan Angka Kapitalisasi, sedangkan pendapatan kotor hasil hutan dan biaya produksi perhutanan hanyalah komponen penyusun pendapatan bersih, bukan rumus NJP itu sendiri.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 188,
+        "kutipan": "Pendapatan bersih hasil hutan x Angka Kapitalisasi"
+      }
+    ],
+    "tags": [
+      "Pasal 15",
+      "Pasal 16"
+    ]
+  },
+  {
+    "id": "ADV-06-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tata Cara Penetapan NJOP Bumi PBB Sektor Perhutanan merujuk pada pasal berapa?",
+    "opsi": {
+      "A": "Pasal 12 dan Pasal 15",
+      "B": "Pasal 17 dan Pasal 18",
+      "C": "Pasal 19 dan Pasal 20",
+      "D": "Pasal 12 dan Pasal 14"
+    },
+    "kunci": "A",
+    "pembahasan": "Halaman Tata Cara Penetapan NJOP Bumi PBB Sektor Perhutanan mencantumkan rujukan Pasal 12 (penilaian objek pajak oleh Penilai Pajak) dan Pasal 15 pada bagian bawah tabel areal.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 187,
+        "kutipan": "Pasal 12"
+      },
+      {
+        "pdf": "B",
+        "halaman": 187,
+        "kutipan": "Pasal 15"
+      }
+    ],
+    "tags": [
+      "Pasal 12",
+      "Pasal 15"
+    ]
+  },
+  {
+    "id": "ADV-06-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penetapan Pendapatan minyak dan/atau gas bumi untuk NJOP Bumi Tubuh Bumi Eksploitasi Migas, bagaimana perlakuan apabila penjualan kotor menggunakan satuan mata uang selain Rupiah?",
+    "opsi": {
+      "A": "Tidak perlu dikonversi karena FQR triwulan IV sudah disusun dalam satuan Rupiah",
+      "B": "Dikonversi ke Rupiah berdasarkan Rasio Biaya Produksi yang ditetapkan Keputusan Direktur Jenderal Pajak",
+      "C": "Ditetapkan dengan Keputusan Direktur Jenderal Pajak tanpa proses konversi",
+      "D": "Dikonversi ke Rupiah berdasarkan kurs KMK tanggal 1 Januari Tahun Pajak PBB terutang"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika penjualan kotor minyak dan/atau gas bumi menggunakan mata uang selain Rupiah, penjualan tersebut harus dikonversi ke Rupiah berdasarkan kurs KMK tanggal 1 Januari Tahun Pajak PBB terutang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 190,
+        "kutipan": "Penjualan harus dikonversi ke dalam satuan mata uang Rupiah\nberdasarkan kurs KMK tanggal 1 Januari Tahun Pajak PBB terutang."
+      }
+    ],
+    "tags": [
+      "Pasal 17",
+      "Pasal 18"
+    ]
+  },
+  {
+    "id": "ADV-06-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebuah lokasi pertambangan migas onshore telah memasuki tahap eksploitasi dan tubuh buminya sudah menghasilkan. Berdasarkan tabel Tata Cara Penetapan NJOP Bumi PBB Sektor Pertambangan Migas, metode apa yang digunakan untuk menetapkan NJOP Bumi tubuh bumi tersebut?",
+    "opsi": {
+      "A": "Ditetapkan sebesar NJOP Bumi per meter persegi untuk tubuh bumi eksplorasi",
+      "B": "Nilai Jual Pengganti",
+      "C": "Perbandingan Harga Dengan Objek Lain Yang Sejenis",
+      "D": "Ditetapkan dengan Keputusan Direktur Jenderal Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada kolom Tubuh Bumi Menghasilkan untuk Tahap Eksploitasi, NJOP Bumi ditetapkan dengan metode Nilai Jual Pengganti, berbeda dengan kolom Tubuh Bumi Belum/Tidak Menghasilkan yang ditetapkan sebesar NJOP Bumi per meter persegi untuk tubuh bumi eksplorasi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 189,
+        "kutipan": "Nilai Jual Pengganti"
+      }
+    ],
+    "tags": [
+      "Pasal 12",
+      "Pasal 17"
+    ]
+  },
+  {
+    "id": "ADV-06-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penetapan NJOP Bumi Tubuh Bumi Eksploitasi Pengusahaan Panas Bumi (Pabum), Pendapatan Uap dan/atau Listrik dihitung dari?",
+    "opsi": {
+      "A": "Hasil produksi uap x harga uap; dan/atau hasil produksi listrik x harga listrik",
+      "B": "Hasil produksi uap x Angka Kapitalisasi; dan/atau hasil produksi listrik x Angka Kapitalisasi",
+      "C": "Penjualan kotor uap dan listrik dikurangi biaya produksi panas bumi",
+      "D": "Jumlah produksi uap dan listrik dikalikan rasio biaya produksi"
+    },
+    "kunci": "A",
+    "pembahasan": "Pendapatan Uap dan/atau Listrik dihitung dari hasil produksi uap dikalikan harga uap dan/atau hasil produksi listrik dikalikan harga listrik; hasil penjumlahan ini yang kemudian dikalikan Angka Kapitalisasi untuk memperoleh Nilai Jual Pengganti.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 192,
+        "kutipan": "Hasil produksi uap x harga uap; dan/atau"
+      }
+    ],
+    "tags": [
+      "Pasal 19",
+      "Pasal 20"
+    ]
+  },
+  {
+    "id": "ADV-06-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam penetapan NJOP Bumi Tubuh Bumi Operasi Produksi Pertambangan Minerba, siapa yang melakukan penilaian kewajaran Biaya Produksi dan Harga Jual?",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Kementerian ESDM",
+      "C": "Penilai Pajak",
+      "D": "Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada halaman penetapan NJOP Bumi Tubuh Bumi Operasi Produksi Pertambangan Minerba dinyatakan bahwa penilaian kewajaran Biaya Produksi dan Harga Jual dilakukan oleh Penilai Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 194,
+        "kutipan": "Penilaian kewajaran Biaya Produksi dan Harga Jual dilakukan oleh Penilai Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 22"
+    ]
+  },
+  {
+    "id": "ADV-06-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan ketentuan Biaya Produksi Minerba, manakah kegiatan yang TIDAK termasuk dalam kategori 'Pengolahan dan/atau pemurnian hasil produksi'?",
+    "opsi": {
+      "A": "Pembersihan dan pemisahan mineral atau batubara dari bahan galian ikutannya",
+      "B": "Penghancuran mineral atau batubara yang berukuran besar menjadi ukuran tertentu sesuai karakteristiknya",
+      "C": "Peningkatan kualitas hasil produksi mineral",
+      "D": "Pengangkutan hasil produksi mineral atau batubara dari lokasi penambangan ke titik serah penjualan"
+    },
+    "kunci": "D",
+    "pembahasan": "Opsi A, B, dan C merupakan rincian kegiatan 'Pengolahan dan/atau pemurnian hasil produksi', sedangkan pengangkutan hasil produksi dari lokasi penambangan ke titik serah penjualan merupakan kegiatan tersendiri yaitu 'Pengangkutan'.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 197,
+        "kutipan": "Kegiatan pengangkutan hasil produksi mineral atau batubara dari\nlokasi penambangan ke titik serah penjualan."
+      }
+    ],
+    "tags": [
+      "Pasal 32"
+    ]
+  },
+  {
+    "id": "ADV-06-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berbeda dengan Perikanan Tangkap yang menggunakan Nilai Jual Pengganti saat terdapat hasil produksi, bagaimana Tata Cara Penetapan NJOP Bumi PBB Sektor Lainnya menghitung NJOP Bumi untuk objek Ruas Jalan Tol?",
+    "opsi": {
+      "A": "Nilai Jual Pengganti berdasarkan pendapatan bersih dikalikan Angka Kapitalisasi",
+      "B": "Ditetapkan sebesar NJOP Bumi per meter persegi untuk tubuh bumi eksplorasi",
+      "C": "NJOP/m² x Luas Bumi, dengan NJOP/m² ditetapkan Keputusan Direktur Jenderal Pajak",
+      "D": "Perbandingan Harga Dengan Objek Lain Yang Sejenis"
+    },
+    "kunci": "C",
+    "pembahasan": "Untuk objek Ruas Jalan Tol, NJOP Bumi dihitung dengan rumus NJOP/m² dikalikan Luas Bumi tanpa membedakan ada atau tidaknya hasil produksi, dengan NJOP/m² ditetapkan melalui Keputusan Direktur Jenderal Pajak; berbeda dengan Perikanan Tangkap yang menggunakan Nilai Jual Pengganti saat terdapat hasil produksi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 198,
+        "kutipan": "Ruas Jalan Tol\nNJOP/m² x Luas Bumi\nNJOP/m² ditetapkan dengan Keputusan Direktur Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "Pasal 33",
+      "Pasal 12"
+    ]
+  },
+  {
+    "id": "ADV-06-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bumi per Sektor (Perbandingan Harga, Nilai Jual Pengganti, Kapitalisasi)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan mengenai penggunaan basis Free On Board (FOB) vessel dan lokasi tambang dalam Harga Patokan Rata-rata Minerba diatur dalam?",
+    "opsi": {
+      "A": "Pasal 23, Pasal 24, Pasal 25, Pasal 26",
+      "B": "Pasal 27, Pasal 28, Pasal 29, Pasal 30, Pasal 31",
+      "C": "Pasal 17, Pasal 18",
+      "D": "Pasal 19, Pasal 20"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan mengenai basis FOB vessel untuk HPM Logam/HPB dan basis lokasi tambang untuk HPM Bukan Logam/Harga Patokan Batuan dicantumkan pada halaman Ketentuan Harga Jual dan Harga Patokan Minerba yang merujuk Pasal 27 sampai dengan Pasal 31.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 196,
+        "kutipan": "Pasal 27, Pasal 28, Pasal 29, Pasal 30, Pasal 31"
+      }
+    ],
+    "tags": [
+      "Pasal 27",
+      "Pasal 28",
+      "Pasal 29",
+      "Pasal 30",
+      "Pasal 31"
+    ]
+  },
+  {
+    "id": "ADV-06-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bangunan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan Tata Cara Penetapan NJOP Bangunan, NJOP Bangunan untuk objek pajak bangunan PBB Sektor Perkebunan, Perhutanan, Pertambangan, dan Sektor Lainnya ditetapkan berdasarkan?",
+    "opsi": {
+      "A": "Nilai Perolehan Baru",
+      "B": "Nilai Jual Pengganti",
+      "C": "Angka Kapitalisasi",
+      "D": "Perbandingan Harga Dengan Objek Lain Yang Sejenis"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram Tata Cara Penetapan NJOP Bangunan menunjukkan bahwa objek pajak bangunan pada seluruh sektor PBB P5L (Perkebunan, Perhutanan, Pertambangan Migas, Pabum, Minerba, dan Sektor Lainnya) ditetapkan berdasarkan Nilai Perolehan Baru.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 200,
+        "kutipan": "Nilai\nPerolehan \nBaru"
+      }
+    ],
+    "tags": [
+      "Pasal 14",
+      "Pasal 15",
+      "Pasal 17",
+      "Pasal 19",
+      "Pasal 21",
+      "Pasal 33"
+    ]
+  },
+  {
+    "id": "ADV-06-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Tata Cara Penetapan NJOP Bangunan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Bagaimana cara menghitung Nilai Perolehan Baru dalam penetapan NJOP Bangunan?",
+    "opsi": {
+      "A": "Membandingkan harga objek dengan objek-objek lain yang sejenis di sekitarnya pada tahun yang sama",
+      "B": "Menghitung pendapatan bersih objek pajak lalu dikalikan dengan Angka Kapitalisasi yang berlaku",
+      "C": "Menjumlahkan NJOP per meter persegi dengan luas bangunan yang dimiliki Wajib Pajak saat ini",
+      "D": "Menghitung seluruh biaya perolehan objek dikurangi penyusutan berdasarkan kondisi fisik"
+    },
+    "kunci": "D",
+    "pembahasan": "Nilai Perolehan Baru dihitung dengan menjumlahkan seluruh biaya yang dikeluarkan untuk memperoleh objek, kemudian dikurangi dengan penyusutan yang dihitung berdasarkan kondisi fisik objek tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 200,
+        "kutipan": "Menghitung seluruh \nbiaya yang dikeluarkan \nuntuk memperoleh objek"
+      },
+      {
+        "pdf": "B",
+        "halaman": 200,
+        "kutipan": "Penyusutan \nberdasarkan kondisi \nfisik"
+      }
+    ],
+    "tags": [
+      "Pasal 14",
+      "Pasal 15",
+      "Pasal 17",
+      "Pasal 19",
+      "Pasal 21",
+      "Pasal 33"
+    ]
+  },
+  {
+    "id": "ADV-06-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Pendaftaran & Pelaporan Objek Pajak PBB (SPOP, Dokumen Pendukung, NOP)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Setiap Wajib Pajak PBB P5L wajib melakukan pendaftaran objek pajak pada KPP tempat Wajib Pajak terdaftar paling lama...setelah saat terpenuhinya persyaratan subjektif.",
+    "opsi": {
+      "A": "14 (empat belas) hari",
+      "B": "1 (satu) bulan",
+      "C": "3 (tiga) bulan",
+      "D": "6 (enam) bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "Wajib Pajak wajib mendaftar paling lama 1 (satu) bulan setelah terpenuhinya persyaratan subjektif, dan akan diberikan Surat Keterangan Terdaftar Objek Pajak PBB yang memuat Nomor Objek Pajak (NOP).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 210,
+        "kutipan": "wajib melakukan pendaftaran pada KPP tempat Wajib Pajak terdaftar paling lama 1 (satu) bulan setelah saat terpenuhinya persyaratan subjektif"
+      }
+    ],
+    "tags": [
+      "PBB P5L",
+      "NOP",
+      "Pendaftaran Objek Pajak"
+    ]
+  },
+  {
+    "id": "ADV-06-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Pendaftaran & Pelaporan Objek Pajak PBB (SPOP, Dokumen Pendukung, NOP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sebagai dokumen pendukung SPOP agar dikategorikan SPOP lengkap untuk Objek Pajak PBB sektor pertambangan minyak dan gas bumi, Wajib Pajak harus melampirkan...",
+    "opsi": {
+      "A": "IUP dan/atau HGU; LPUP dan Peta Tahun Tanam Tahun Terakhir Sebelum Tahun Pajak PBB Terutang",
+      "B": "Izin, Kuasa, Penugasan; Peta Wilayah Kerja; RKAB Tahun Pajak PBB terutang",
+      "C": "Kontrak; Peta Wilayah Kerja; AFE & FQR Triwulan IV tahun terakhir sebelum Tahun Pajak PBB terutang",
+      "D": "Izin, Kontrak, Perjanjian; RKAB Sebelum Tahun Pajak PBB terutang"
+    },
+    "kunci": "C",
+    "pembahasan": "Dokumen pendukung SPOP lengkap untuk sektor migas adalah Kontrak, Peta Wilayah Kerja, serta AFE & FQR Triwulan IV tahun terakhir sebelum Tahun Pajak PBB terutang, berbeda dari dokumen sektor perkebunan (IUP/HGU), panas bumi (RKAB tahun berjalan), maupun minerba (RKAB sebelum tahun pajak).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 202,
+        "kutipan": "Kontrak; Peta Wilayah Kerja; AFE & FQR Triwulan IV tahun terakhir sebelum Tahun Pajak PBB terutang"
+      }
+    ],
+    "tags": [
+      "Pasal 39",
+      "PBB P5L",
+      "SPOP"
+    ]
+  },
+  {
+    "id": "ADV-06-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Pendaftaran & Pelaporan Objek Pajak PBB (SPOP, Dokumen Pendukung, NOP)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Bagaimana alur penyampaian SPOP beserta dokumen pendukung Objek Pajak PBB P5L kepada Direktorat Jenderal Pajak?",
+    "opsi": {
+      "A": "KPP mengirim SPOP kosong ke Wajib Pajak setiap akhir Tahun Pajak untuk diisi dan dikembalikan ke Kanwil",
+      "B": "Kanwil menerbitkan SK NJOP terlebih dahulu sebelum Wajib Pajak mengisi SPOP",
+      "C": "Wajib Pajak menyampaikan SPOP langsung ke Kementerian ESDM untuk diteruskan ke KPP",
+      "D": "Wajib Pajak mengembalikan/menyampaikan SPOP ke KPP, kemudian KPP menerbitkan SPPT berdasarkan penghitungan NJOP dan PBB"
+    },
+    "kunci": "D",
+    "pembahasan": "Wajib Pajak mengisi SPOP dengan jelas, benar, lengkap, dan dilampiri dokumen pendukung, lalu mengembalikan/menyampaikan ke KPP; KPP kemudian menghitung NJOP dan PBB berdasarkan SPOP untuk menerbitkan SPPT dalam 1 Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 201,
+        "kutipan": "Diisi dengan jelas, benar, lengkap, dan ditandatangani serta dilampiri dokumen pendukung"
+      }
+    ],
+    "tags": [
+      "Pasal 39",
+      "SPOP",
+      "SPPT"
+    ]
+  },
+  {
+    "id": "ADV-06-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Pendaftaran & Pelaporan Objek Pajak PBB (SPOP, Dokumen Pendukung, NOP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dokumen yang diterbitkan kepada Wajib Pajak setelah mendaftarkan Objek Pajak PBB P5L dan memuat Nomor Objek Pajak (NOP) adalah...",
+    "opsi": {
+      "A": "Surat Keterangan Terdaftar Objek Pajak PBB",
+      "B": "Surat Pemberitahuan Pajak Terutang (SPPT)",
+      "C": "Surat Ketetapan Pajak PBB (SKP PBB)",
+      "D": "Surat Tagihan Pajak PBB (STP PBB)"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah Wajib Pajak mendaftarkan Objek Pajak PBB P5L karena memenuhi persyaratan subjektif, KPP memberikan Surat Keterangan Terdaftar Objek Pajak PBB yang memuat identitas Objek Pajak berupa NOP, bukan SPPT, SKP PBB, maupun STP PBB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 210,
+        "kutipan": "diberikan Surat Keterangan Terdaftar Objek Pajak PBB yang memuat identitas Objek Pajak berupa Nomor Objek Pajak (NOP)"
+      }
+    ],
+    "tags": [
+      "NOP",
+      "Pendaftaran Objek Pajak PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Pendaftaran & Pelaporan Objek Pajak PBB (SPOP, Dokumen Pendukung, NOP)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "PT Kebun Lestari memperoleh izin usaha perkebunan yang diterbitkan oleh Lembaga OSS pada tanggal 5 Maret. Berdasarkan ketentuan saat terpenuhinya persyaratan subjektif, tanggal tersebut menjadi penanda terpenuhinya persyaratan subjektif untuk Objek Pajak PBB sektor...",
+    "opsi": {
+      "A": "perhutanan",
+      "B": "perkebunan",
+      "C": "pertambangan minyak dan gas bumi",
+      "D": "pertambangan untuk pengusahaan panas bumi"
+    },
+    "kunci": "B",
+    "pembahasan": "Tanggal izin usaha perkebunan yang diterbitkan oleh pemerintah daerah atau Lembaga OSS (atau tanggal HGU) menjadi saat terpenuhinya persyaratan subjektif untuk Objek Pajak PBB sektor perkebunan, berbeda dengan sektor perhutanan, migas, atau panas bumi yang memiliki pemicu tanggal berbeda.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 210,
+        "kutipan": "tanggal izin usaha perkebunan yang diterbitkan oleh pemerintah daerah atau Lembaga OSS, atau tanggal hak guna usaha yang diterbitkan oleh kementerian"
+      }
+    ],
+    "tags": [
+      "PBB P5L",
+      "Sektor Perkebunan"
+    ]
+  },
+  {
+    "id": "ADV-06-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam siklus LAMA penetapan NJOP PBB, setelah NJOP diusulkan melalui Kajian Menteri Keuangan (KMK) ke Kanwil, tahapan berikutnya adalah penerbitan...",
+    "opsi": {
+      "A": "SPPT langsung oleh Kepala KPP",
+      "B": "SKP PBB",
+      "C": "SK Kanwil NJOP",
+      "D": "STP PBB"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada siklus lama, urutannya adalah NJOP, Usulan KMK NJOP ke Kanwil, SK Kanwil NJOP, baru kemudian Penerbitan SPPT; berbeda dengan siklus baru yang langsung ditetapkan Kepala KPP melalui penerbitan SPPT.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 203,
+        "kutipan": "NJOP → Usulan KMK NJOP ke Kanwil → SK Kanwil NJOP → Penerbitan SPPT"
+      }
+    ],
+    "tags": [
+      "Siklus NJOP PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dibandingkan dengan siklus LAMA, tahapan manakah yang TIDAK lagi diperlukan dalam siklus BARU penetapan NJOP PBB?",
+    "opsi": {
+      "A": "Penetapan NJOP oleh Kepala KPP",
+      "B": "Penerbitan SPPT",
+      "C": "Penghitungan besaran NJOP Objek Pajak",
+      "D": "Usulan KMK NJOP ke Kanwil dan penerbitan SK Kanwil NJOP"
+    },
+    "kunci": "D",
+    "pembahasan": "Siklus baru menyederhanakan proses dengan menghilangkan tahapan usulan KMK NJOP ke Kanwil dan penerbitan SK Kanwil NJOP; NJOP langsung ditetapkan oleh Kepala KPP melalui penerbitan SPPT.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 203,
+        "kutipan": "NJOP → Penetapan Kepala KPP melalui Penerbitan SPPT"
+      }
+    ],
+    "tags": [
+      "Siklus NJOP PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penghitungan NJOP PBB bagi Wajib Pajak pemegang Kontrak Karya, PKP2B, atau Izin Usaha Pertambangan Khusus Operasi Produksi (IUPK-OP), yang mengikuti ketentuan kontrak/izin tersebut, diatur dalam...",
+    "opsi": {
+      "A": "Pasal 39 dan Pasal 40",
+      "B": "Pasal 41 saja",
+      "C": "Pasal 13, Pasal 37, dan Pasal 38",
+      "D": "Pasal 38 dan Pasal 41"
+    },
+    "kunci": "C",
+    "pembahasan": "Tata cara penetapan NJOP PBB berdasarkan Kontrak Karya, PKP2B, atau IUPK-OP, dengan penghitungan NJOP mengikuti ketentuan kontrak/perjanjian/izin tersebut, diatur dalam Pasal 13, Pasal 37, dan Pasal 38.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 204,
+        "kutipan": "Pasal 13, Pasal 37, Pasal 38"
+      }
+    ],
+    "tags": [
+      "Pasal 13",
+      "Pasal 37",
+      "Pasal 38"
+    ]
+  },
+  {
+    "id": "ADV-06-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 38, SPPT PBB P5L dapat diterbitkan paling lama...setelah berakhirnya Tahun Pajak PBB terutang.",
+    "opsi": {
+      "A": "3 (tiga) tahun",
+      "B": "5 (lima) tahun",
+      "C": "6 (enam) bulan",
+      "D": "10 (sepuluh) tahun"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam skema pengenaan PBB, SPPT dapat diterbitkan paling lama lima tahun setelah berakhirnya Tahun Pajak PBB terutang, sedangkan SKP PBB mengikuti ketentuan PMK tersendiri tentang Tata Cara Penerbitan SKP PBB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 205,
+        "kutipan": "paling lama lima tahun setelah berakhirnya Tahun Pajak PBB terutang"
+      }
+    ],
+    "tags": [
+      "Pasal 38",
+      "SPPT"
+    ]
+  },
+  {
+    "id": "ADV-06-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema pengenaan PBB, penetapan atas Ipeda dalam PKP2B Generasi I digolongkan sebagai bagian dari penerbitan...",
+    "opsi": {
+      "A": "SPPT",
+      "B": "SKP PBB",
+      "C": "STP PBB",
+      "D": "SK Kanwil NJOP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada skema Pengenaan PBB (Pasal 38), Ipeda dalam PKP2B Generasi I ditempatkan sebagai bagian dari jalur penerbitan SPPT, bukan SKP PBB, STP PBB, maupun SK Kanwil NJOP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 205,
+        "kutipan": "Ipeda dalam PKP2B Gen-I"
+      }
+    ],
+    "tags": [
+      "Pasal 38",
+      "SPPT",
+      "PKP2B"
+    ]
+  },
+  {
+    "id": "ADV-06-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak harus melunasi PBB P5L yang tercantum dalam SPPT selambat-lambatnya...",
+    "opsi": {
+      "A": "1 (satu) bulan sejak tanggal diterima",
+      "B": "3 (tiga) bulan sejak tanggal diterima",
+      "C": "6 (enam) bulan sejak tanggal diterima",
+      "D": "12 (dua belas) bulan sejak tanggal diterima"
+    },
+    "kunci": "C",
+    "pembahasan": "Berdasarkan Pasal 40, Wajib Pajak wajib melunasi PBB P5L dalam SPPT selambat-lambatnya 6 (enam) bulan sejak tanggal diterimanya SPPT; jika tidak/kurang dibayar setelah jatuh tempo, DJP menerbitkan STP PBB.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 207,
+        "kutipan": "Selambat-lambatnya 6 (enam) Bulan sejak tanggal diterima"
+      }
+    ],
+    "tags": [
+      "Pasal 40",
+      "SPPT"
+    ]
+  },
+  {
+    "id": "ADV-06-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "PT Tambang Jaya menerima SPPT PBB P5L pada tanggal 10 Januari, namun baru melunasi tagihan tersebut pada tanggal 20 Agustus di tahun yang sama. Karena pelunasan dilakukan setelah jatuh tempo, DJP akan menerbitkan...",
+    "opsi": {
+      "A": "SK Kanwil NJOP",
+      "B": "Surat Keterangan Terdaftar Objek Pajak PBB",
+      "C": "Surat Keputusan Keberatan",
+      "D": "STP PBB"
+    },
+    "kunci": "D",
+    "pembahasan": "Jatuh tempo pelunasan SPPT adalah 6 bulan sejak tanggal diterima (10 Januari hingga sekitar 10 Juli). Karena PT Tambang Jaya melunasi pada 20 Agustus (setelah jatuh tempo), DJP menerbitkan STP PBB atas PBB yang tidak/kurang dibayar setelah jatuh tempo.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 207,
+        "kutipan": "Tidak/kurang dibayar setelah jatuh tempo"
+      }
+    ],
+    "tags": [
+      "Pasal 40",
+      "STP PBB"
+    ]
+  },
+  {
+    "id": "ADV-06-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Penetapan & Pengenaan PBB: SPPT, SKP PBB, Siklus NJOP, Penerbitan Kembali SPPT",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini benar mengenai penerbitan kembali dan cetak ulang SPPT PBB P5L atas permohonan Wajib Pajak, KECUALI...",
+    "opsi": {
+      "A": "SPPT sebelumnya dinyatakan tidak berlaku",
+      "B": "Penerbitan kembali dapat dilakukan atas permohonan WP, wakil WP, atau kuasa WP",
+      "C": "SPPT hasil penerbitan kembali tidak dapat diajukan keberatan oleh WP",
+      "D": "Jatuh tempo pelunasan SPPT hasil penerbitan kembali dihitung ulang sejak tanggal SPPT baru diterbitkan"
+    },
+    "kunci": "D",
+    "pembahasan": "Penerbitan kembali/cetak ulang SPPT terjadi karena adanya SK Pemberian Pengurangan PBB, SK Pembetulan, SK Pengurangan SPPT Tidak Benar, SK Keberatan, Putusan Banding/Gugatan/PK atas permohonan WP/wakil/kuasa WP. SPPT lama dinyatakan tidak berlaku dan SPPT hasil penerbitan kembali tidak dapat diajukan keberatan. Namun jatuh tempo pelunasan tetap dihitung dari tanggal diterimanya SPPT yang diterbitkan PERTAMA KALI, bukan dihitung ulang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 206,
+        "kutipan": "jatuh tempo pelunasan dihitung dari tanggal diterima SPPT yang diterbitkan pertama kali"
+      }
+    ],
+    "tags": [
+      "Pasal 39",
+      "SPPT"
+    ]
+  },
+  {
+    "id": "ADV-06-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Ketentuan Pengembalian Seluruh Wilayah Kerja Migas/Panas Bumi",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Ketentuan mengenai pengembalian seluruh Wilayah Kerja Migas atau Panas Bumi diatur dalam...",
+    "opsi": {
+      "A": "Pasal 41",
+      "B": "Pasal 39",
+      "C": "Pasal 38",
+      "D": "Pasal 40"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan pengembalian seluruh Wilayah Kerja (WK) Migas atau Panas Bumi (Pabum) diatur dalam Pasal 41, mencakup syarat pengajuan, pemberitahuan tertulis, hingga konsekuensi penolakan oleh Kementerian ESDM.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 208,
+        "kutipan": "Pasal 41"
+      }
+    ],
+    "tags": [
+      "Pasal 41"
+    ]
+  },
+  {
+    "id": "ADV-06-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "PBB P5L dan NJOP",
+    "subtopik": "Ketentuan Pengembalian Seluruh Wilayah Kerja Migas/Panas Bumi",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Sebuah Kontraktor Kontrak Kerja Sama mengajukan surat pengajuan pengembalian seluruh Wilayah Kerja (WK) Migas disertai surat keterangan bahwa WP tidak sedang memanfaatkan WK tersebut, namun permohonan tersebut DITOLAK oleh Kementerian ESDM. Akibatnya, Direktur Jenderal Pajak akan menetapkan PBB terutang mulai...",
+    "opsi": {
+      "A": "Tahun Pajak yang sama dengan tahun pengajuan permohonan",
+      "B": "Tahun Pajak setelah keputusan penolakan",
+      "C": "Tahun Pajak sebelum permohonan diajukan",
+      "D": "seluruh Tahun Pajak sejak WK Migas diperoleh"
+    },
+    "kunci": "B",
+    "pembahasan": "Apabila permohonan pengembalian seluruh WK Migas/Pabum ditolak oleh Kementerian ESDM, Direktur Jenderal Pajak menetapkan PBB terutang sejak Tahun Pajak setelah keputusan penolakan tersebut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 208,
+        "kutipan": "Menetapkan PBB terutang sejak Tahun Pajak setelah keputusan penolakan"
+      }
+    ],
+    "tags": [
+      "Pasal 41"
+    ]
+  },
+  {
+    "id": "ADV-06-048",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan penyesuaian ketentuan PMK 147/PMK.03/2017, berapa jangka waktu yang diberikan bagi Wajib Pajak Orang Pribadi yang melakukan kegiatan usaha atau pekerjaan bebas untuk mendaftarkan diri memperoleh NPWP?",
+    "opsi": {
+      "A": "Paling lama 1 (satu) bulan setelah kegiatan usaha atau pekerjaan bebas mulai dilakukan",
+      "B": "Paling lambat akhir bulan berikutnya setelah penghasilan melebihi penghasilan tidak kena pajak",
+      "C": "Paling lama 1 hari kerja setelah permohonan diterima secara lengkap",
+      "D": "Paling lama 5 (lima) hari kerja sejak permohonan pemindahan diterima secara lengkap"
+    },
+    "kunci": "A",
+    "pembahasan": "Dokumen menyebutkan bahwa WP Orang Pribadi yang melakukan kegiatan usaha atau pekerjaan bebas (termasuk WP OP Pengusaha Tertentu) wajib mendaftarkan diri paling lama 1 (satu) bulan setelah kegiatan usaha/pekerjaan bebas mulai dilakukan. Opsi B adalah jangka waktu untuk WP OP yang tidak melakukan usaha namun penghasilannya melebihi PTKP, bukan untuk WP OP yang berusaha.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 246,
+        "kutipan": "Paling lama 1 (satu) bulan setelah kegiatan usaha atau pekerjaan bebas mulai dilakukan"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-06-049",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam penyesuaian ketentuan PMK 147/PMK.03/2017 mengenai tempat pendaftaran Wajib Pajak, yang dimaksud dengan 'syarat objektif' untuk memperoleh NPWP adalah...",
+    "opsi": {
+      "A": "Persyaratan yang sesuai dengan ketentuan mengenai subjek pajak dalam UU PPh",
+      "B": "Subjek pajak yang menerima atau memperoleh penghasilan atau diwajibkan untuk melakukan pemotongan dan/atau pemungutan sesuai dengan UU PPh",
+      "C": "Pendaftaran pada KPP yang wilayah kerjanya meliputi tempat tinggal atau tempat kedudukan Wajib Pajak",
+      "D": "Kepemilikan nomor identitas perpajakan dengan format 16 digit yang dihasilkan oleh sistem administrasi DJP"
+    },
+    "kunci": "B",
+    "pembahasan": "Dokumen secara eksplisit mendefinisikan syarat objektif sebagai subjek pajak yang menerima atau memperoleh penghasilan atau diwajibkan untuk melakukan pemotongan dan/atau pemungutan sesuai UU PPh. Opsi A justru merupakan definisi syarat subjektif, sedangkan C dan D adalah konsep lain (tempat pendaftaran dan format NPWP).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 242,
+        "kutipan": "Syarat objektif: subjek pajak yang menerima atau memperoleh penghasilan atau diwajibkan untuk melakukan pemotongan dan/atau pemungutan sesuai dengan UU PPh."
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017",
+      "UU PPh"
+    ]
+  },
+  {
+    "id": "ADV-06-050",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan ketentuan pendaftaran Wajib Pajak Orang Pribadi, nomor identitas perpajakan dengan format 16 digit yang dihasilkan oleh sistem administrasi DJP sebagai NPWP diberikan bagi...",
+    "opsi": {
+      "A": "WP orang pribadi Penduduk yang menggunakan NIK yang telah diaktivasi sebagai NPWP",
+      "B": "WP orang pribadi bukan Penduduk",
+      "C": "WP Warisan Belum Terbagi yang belum memiliki NPWP",
+      "D": "WP Badan yang baru didirikan atau bertempat kedudukan di Indonesia"
+    },
+    "kunci": "B",
+    "pembahasan": "Dokumen membedakan dua bentuk NPWP bagi WP Orang Pribadi: NIK yang telah diaktivasi sebagai NPWP bagi WP orang pribadi Penduduk, dan nomor dengan format 16 digit yang dihasilkan oleh sistem administrasi DJP sebagai NPWP bagi WP orang pribadi bukan Penduduk.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 244,
+        "kutipan": "nomor dengan format 16 digit yang dihasilkan oleh sistem administrasi DJP sebagai NPWP"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-06-051",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam tata cara pengukuhan Pengusaha Kena Pajak (PKP), berapa jangka waktu penelitian atas kelengkapan data/dokumen dan kesesuaian kegiatan usaha yang dilakukan DJP sebelum memutuskan menerima atau menolak permohonan pengukuhan PKP?",
+    "opsi": {
+      "A": "1 hari kerja",
+      "B": "5 hari kerja",
+      "C": "10 hari kerja",
+      "D": "6 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Setelah Surat Keterangan Permohonan Pengukuhan PKP diterbitkan dalam 1 hari kerja, dilakukan penelitian meliputi kelengkapan data/dokumen identitas dan pendirian, kesesuaian kegiatan usaha, serta penggunaan Kantor Virtual, dengan jangka waktu penelitian paling lama 10 hari kerja.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 277,
+        "kutipan": "Surat Keterangan Permohonan Pengukuhan Pengusaha Kena Pajak (1 Hari Kerja) Penelitian (10 Hari Kerja)"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017",
+      "Pasal 4"
+    ]
+  },
+  {
+    "id": "ADV-06-053",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila jangka waktu 6 (enam) bulan penyelesaian permohonan penghapusan NPWP Wajib Pajak Orang Pribadi terlampaui tanpa diterbitkannya keputusan oleh Kepala KPP, apa yang terjadi berdasarkan ketentuan ini?",
+    "opsi": {
+      "A": "Permohonan dianggap ditolak secara otomatis oleh sistem administrasi DJP",
+      "B": "Wajib Pajak harus mengajukan ulang permohonan penghapusan NPWP dari awal",
+      "C": "Permohonan dianggap dikabulkan dan Kepala KPP harus menerbitkan keputusan penghapusan NPWP paling lama 1 (satu) bulan setelah jangka waktu tersebut berakhir",
+      "D": "Permohonan dilimpahkan kepada Direktur Jenderal Pajak untuk diputuskan dalam waktu 1 hari kerja"
+    },
+    "kunci": "C",
+    "pembahasan": "Dokumen menyatakan bahwa apabila jangka waktu 6 bulan terlampaui dan belum diterbitkan keputusan, permohonan WP OP dianggap dikabulkan dan Kepala KPP harus menerbitkan surat keputusan penghapusan NPWP paling lama 1 bulan setelah jangka waktu tersebut berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 254,
+        "kutipan": "permohonan Wajib Pajak orang pribadi dianggap dikabulkan dan Kepala Kantor Pelayanan Pajak harus menerbitkan surat keputusan Penghapusan Nomor Pokok Wajib Pajak paling lama"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-06-054",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak Orang Pribadi mengajukan permohonan penghapusan NPWP. Diketahui WP tersebut saat ini sedang menjalani proses penyidikan tindak pidana perpajakan. Apakah permohonan penghapusan NPWP tersebut dapat diproses?",
+    "opsi": {
+      "A": "Tidak dapat diproses, karena salah satu syarat penghapusan NPWP adalah WP tidak sedang menjalani pemeriksaan bukti permulaan, penyidikan, atau penuntutan tindak pidana perpajakan",
+      "B": "Dapat diproses karena penyidikan tindak pidana tidak termasuk syarat penghapusan NPWP",
+      "C": "Dapat diproses asalkan WP terlebih dahulu melunasi seluruh utang pajaknya",
+      "D": "Tidak dapat diproses karena penghapusan NPWP WP Orang Pribadi hanya dapat dilakukan secara jabatan oleh Kepala KPP"
+    },
+    "kunci": "A",
+    "pembahasan": "Penghapusan NPWP WP OP dilakukan sepanjang memenuhi syarat, antara lain tidak sedang dilakukan tindakan pemeriksaan untuk menguji kepatuhan, pemeriksaan bukti permulaan, penyidikan, atau penuntutan tindak pidana perpajakan. Karena WP sedang menjalani penyidikan, permohonan tidak dapat diproses.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 257,
+        "kutipan": "Tidak sedang dilakukan tindakan: pemeriksaan untuk menguji kepatuhan, pemeriksaan bukti permulaan, penyidikan tindak pidana perpajakan atau penuntutan tindak pidana perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-06-055",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Siapa saja yang termasuk dalam pengertian 'wakil' dari Wajib Pajak Warisan Belum Terbagi berdasarkan ketentuan ini?",
+    "opsi": {
+      "A": "Salah seorang ahli waris, notaris, atau pejabat KPP setempat",
+      "B": "Pelaksana wasiat, pengacara Wajib Pajak, atau pihak bank tempat rekening Wajib Pajak",
+      "C": "Pihak yang mengurus harta peninggalan, istri/suami Wajib Pajak, atau anak kandung Wajib Pajak",
+      "D": "Salah seorang ahli waris, pelaksana wasiat, atau pihak yang mengurus harta peninggalan dari WP yang meninggalkan warisan"
+    },
+    "kunci": "D",
+    "pembahasan": "Dokumen menyebutkan bahwa wakil dari WP Warisan Belum Terbagi meliputi: a. salah seorang ahli waris; b. pelaksana wasiat; atau c. pihak yang mengurus harta peninggalan, dari WP yang meninggalkan warisan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 258,
+        "kutipan": "a. salah seorang ahli waris; b. pelaksana wasiat; atau c. pihak yang mengurus harta peninggalan, dari WP yang meninggalkan warisan."
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017"
+    ]
+  },
+  {
+    "id": "ADV-06-056",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan ketentuan peralihan, pasal berapa dari PMK Nomor 231/PMK.03/2019 yang dicabut dan dinyatakan tidak berlaku sejak Peraturan Menteri (penyesuaian atas PMK 147/PMK.03/2017) ini mulai berlaku?",
+    "opsi": {
+      "A": "Pasal 2 sampai dengan Pasal 7 dan Pasal 23",
+      "B": "Seluruh pasal dalam PMK Nomor 231/PMK.03/2019",
+      "C": "Pasal 4 dan Pasal 16 saja",
+      "D": "Pasal 9 ayat (9a) dan Pasal 23"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan peralihan menyatakan bahwa Pasal 2 sampai dengan Pasal 7 dan Pasal 23 PMK Nomor 231/PMK.03/2019 tentang Tata Cara Pendaftaran dan Penghapusan NPWP, Pengukuhan dan Pencabutan Pengukuhan PKP bagi Instansi Pemerintah dicabut dan dinyatakan tidak berlaku, selain PMK 147/PMK.03/2017 yang juga dicabut seluruhnya.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 286,
+        "kutipan": "Pasal 2 sampai dengan Pasal 7 dan Pasal 23 PMK Nomor 231/PMK.03/2019 tentang Tata Cara Pendaftaran dan Penghapusan Nomor Pokok Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017",
+      "PMK 231/PMK.03/2019",
+      "PMK 59/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-06-057",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-147/PMK.03/2017 - Pendaftaran NPWP, Pengukuhan & Pencabutan PKP (rincian lengkap)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Direktur Jenderal Pajak menerbitkan SKPKB PPN kepada seorang Pengusaha yang belum dikukuhkan sebagai PKP, dengan perhitungan PPN menerapkan pedoman pengkreditan Pajak Masukan sebagaimana diatur dalam Pasal 9 ayat (9a) UU PPN. Apa konsekuensi yang berlaku bagi Pengusaha tersebut?",
+    "opsi": {
+      "A": "Pengusaha tidak perlu dikukuhkan sebagai PKP karena SKPKB telah diterbitkan oleh Direktur Jenderal Pajak",
+      "B": "Pengusaha harus dikukuhkan sebagai PKP terlebih dahulu karena perhitungan PPN menerapkan pedoman pengkreditan Pajak Masukan sesuai Pasal 9 ayat (9a) UU PPN",
+      "C": "Pengusaha dikenai sanksi pidana perpajakan tanpa perlu dikukuhkan sebagai PKP",
+      "D": "Pengusaha dapat mengajukan keberatan agar tidak perlu dikukuhkan sebagai PKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Penerbitan SKP dan/atau STP terkait kewajiban PPN pada dasarnya tidak mengharuskan Pengusaha dikukuhkan sebagai PKP, kecuali dalam hal perhitungan PPN dalam SKPKB atau SKPKBT menerapkan pedoman pengkreditan Pajak Masukan sebagaimana diatur dalam Pasal 9 ayat (9a) UU PPN, maka Pengusaha harus dikukuhkan sebagai PKP terlebih dahulu.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 282,
+        "kutipan": "menerapkan pedoman pengkreditan Pajak Masukan sebagaimana diatur dalam Pasal 9 ayat (9a) Undang-Undang PPN, Pengusaha harus dikukuhkan sebagai PKP"
+      }
+    ],
+    "tags": [
+      "PMK 147/PMK.03/2017",
+      "Pasal 9 ayat (9a) UU PPN"
+    ]
+  }
+]

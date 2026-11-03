@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "PRF-01-001",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan SE-11/PJ/2020, tujuan Kegiatan Pengumpulan Data Lapangan (KPDL) yang disebut 'Data Baru' adalah untuk...",
+    "opsi": {
+      "A": "memperoleh data dan/atau informasi baru terkait Wajib Pajak dan potensi pajak yang belum dimiliki dan/atau diperoleh DJP",
+      "B": "memetakan Wajib Pajak serta mengidentifikasi potensi pajak yang terdapat dalam wilayah kerja KPP",
+      "C": "menindaklanjuti dan/atau memutakhirkan data yang telah dimiliki dan/atau diperoleh DJP",
+      "D": "melakukan validasi formal atas data yang direkam pada Aplikasi Coretax"
+    },
+    "kunci": "A",
+    "pembahasan": "SE-11/PJ/2020 menyebutkan tujuan 'Data Baru' KPDL adalah memperoleh data dan/atau informasi baru terkait WP dan potensi pajak yang belum dimiliki dan/atau diperoleh DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "memperoleh data dan/atau informasi baru, terkait Wajib Pajak dan potensi pajak, yang belum dimiliki dan/atau diperoleh DJP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-002",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tujuan KPDL 'Pemutakhiran Data' sebagaimana diuraikan dalam materi dimaksudkan untuk...",
+    "opsi": {
+      "A": "menyisir bidang, persil, unit, atau lokasi Wajib Pajak di wilayah kerja KPP",
+      "B": "memperoleh data dan/atau informasi baru yang belum dimiliki dan/atau diperoleh DJP",
+      "C": "memetakan Wajib Pajak serta mengidentifikasi potensi pajak dalam wilayah kerja KPP",
+      "D": "menindaklanjuti dan/atau memutakhirkan data dan/atau informasi yang telah dimiliki dan/atau diperoleh DJP guna meningkatkan kualitas dan validitas data"
+    },
+    "kunci": "D",
+    "pembahasan": "Tujuan 'Pemutakhiran Data' adalah menindaklanjuti dan/atau memutakhirkan data/informasi yang telah dimiliki DJP guna meningkatkan kualitas dan validitas data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "menindaklanjuti dan/atau memutakhirkan data dan/atau informasi yang telah dimiliki dan/atau diperoleh DJP, guna meningkatkan kualitas dan validitas data"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-003",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tujuan KPDL 'Memetakan Wajib Pajak' sebagaimana diuraikan dalam materi adalah...",
+    "opsi": {
+      "A": "meningkatkan kualitas dan validitas data Wajib Pajak yang telah dimiliki DJP",
+      "B": "memetakan Wajib Pajak serta mengidentifikasi potensi pajak yang terdapat dalam wilayah kerja KPP",
+      "C": "memperoleh data dan/atau informasi baru terkait Wajib Pajak dan potensi pajak",
+      "D": "memperoleh kelengkapan dan validitas data pada tahap Validasi Formal"
+    },
+    "kunci": "B",
+    "pembahasan": "Tujuan 'Memetakan Wajib Pajak' adalah memetakan WP serta mengidentifikasi potensi pajak yang terdapat dalam wilayah kerja KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "memetakan Wajib Pajak serta mengidentifikasi potensi pajak yang terdapat dalam wilayah kerja KPP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-004",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa tujuan Kegiatan Pengumpulan Data Lapangan (KPDL) yang diuraikan dalam SE-11/PJ/2020 pada materi ini?",
+    "opsi": {
+      "A": "2 tujuan",
+      "B": "3 tujuan",
+      "C": "4 tujuan",
+      "D": "5 tujuan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menguraikan 3 tujuan KPDL, yaitu Data Baru, Pemetaan Wajib Pajak, dan Pemutakhiran Data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "Data baru IMemetaan Wajib Pajak Pemutakhiran Data"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-005",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Upaya meningkatkan kualitas dan validitas data Wajib Pajak yang telah dimiliki DJP dicapai melalui pelaksanaan tujuan KPDL yang mana?",
+    "opsi": {
+      "A": "Data Baru",
+      "B": "Pemutakhiran Data",
+      "C": "Pemetaan Wajib Pajak",
+      "D": "Validasi Material"
+    },
+    "kunci": "B",
+    "pembahasan": "Kualitas dan validitas data ditingkatkan melalui tujuan 'Pemutakhiran Data', yaitu menindaklanjuti dan/atau memutakhirkan data/informasi yang telah dimiliki DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "guna meningkatkan kualitas dan validitas data"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-006",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang AR menemukan bahwa alamat tempat kegiatan usaha WP pada basis data DJP sudah tidak sesuai dengan kondisi riil di lapangan, sehingga AR merekam data alamat terbaru untuk memperbarui basis data DJP. Kegiatan tersebut paling sesuai dengan tujuan KPDL...",
+    "opsi": {
+      "A": "Data Baru",
+      "B": "Pemetaan Wajib Pajak",
+      "C": "Validasi Formal",
+      "D": "Pemutakhiran Data"
+    },
+    "kunci": "D",
+    "pembahasan": "Memperbarui data yang sudah dimiliki DJP agar tetap valid termasuk tujuan 'Pemutakhiran Data', yaitu menindaklanjuti dan/atau memutakhirkan data yang telah dimiliki/diperoleh DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "menindaklanjuti dan/atau memutakhirkan data dan/atau informasi yang telah dimiliki dan/atau diperoleh DJP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-007",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tim KPD menyisir seluruh bidang usaha pada suatu kawasan industri untuk mengetahui sebaran dan jumlah WP yang beroperasi di kawasan tersebut beserta potensi pajaknya. Kegiatan ini paling sesuai dengan tujuan KPDL...",
+    "opsi": {
+      "A": "Pemutakhiran Data",
+      "B": "Data Baru",
+      "C": "Memetakan Wajib Pajak",
+      "D": "Validasi Material"
+    },
+    "kunci": "C",
+    "pembahasan": "Menyisir kawasan untuk mengetahui sebaran WP dan potensi pajaknya sesuai dengan tujuan 'Memetakan Wajib Pajak' yaitu memetakan WP serta mengidentifikasi potensi pajak dalam wilayah kerja KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "memetakan Wajib Pajak serta mengidentifikasi potensi pajak yang terdapat dalam wilayah kerja KPP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-008",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan tujuan Kegiatan Pengumpulan Data Lapangan (KPDL) berdasarkan SE-11/PJ/2020, KECUALI...",
+    "opsi": {
+      "A": "memperoleh data dan/atau informasi baru terkait Wajib Pajak dan potensi pajak",
+      "B": "memetakan Wajib Pajak serta mengidentifikasi potensi pajak dalam wilayah kerja KPP",
+      "C": "menindaklanjuti dan/atau memutakhirkan data dan/atau informasi yang telah dimiliki DJP",
+      "D": "melakukan Validasi Formal atas kelengkapan dan validitas data yang direkam Kasi PKD"
+    },
+    "kunci": "D",
+    "pembahasan": "Validasi Formal oleh Kasi PKD merupakan bagian dari tahap Penjaminan Kualitas Data pada Tindak Lanjut Pelaksanaan KPD, bukan termasuk tujuan KPDL yang disebutkan (Data Baru, Pemetaan WP, Pemutakhiran Data).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "Data baru IMemetaan Wajib Pajak Pemutakhiran Data"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-009",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Manakah pernyataan yang PALING TEPAT menggambarkan tujuan 'Data Baru' dalam KPDL sesuai SE-11/PJ/2020?",
+    "opsi": {
+      "A": "Memperoleh data dan/atau informasi baru terkait Wajib Pajak dan potensi pajak yang belum dimiliki dan/atau diperoleh KPP",
+      "B": "Memperoleh data dan/atau informasi baru terkait Wajib Pajak dan potensi pajak yang belum dimiliki dan/atau diperoleh DJP",
+      "C": "Memperoleh data dan/atau informasi tambahan terkait Wajib Pajak yang telah dimiliki sebagian oleh DJP",
+      "D": "Memperoleh data dan/atau informasi baru terkait potensi pajak dari hasil ekualisasi SPT Wajib Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Rumusan yang tepat menyebut subjek 'DJP' (bukan KPP) sebagai pihak yang belum memiliki/memperoleh data, sesuai redaksi SE-11/PJ/2020.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 136,
+        "kutipan": "memperoleh data dan/atau informasi baru, terkait Wajib Pajak dan potensi pajak, yang belum dimiliki dan/atau diperoleh DJP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tujuan KPDL"
+    ]
+  },
+  {
+    "id": "PRF-01-010",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "KPD yang dilakukan oleh Petugas Pengawasan berdasarkan Zona Pengawasannya, atau Tim KPD berdasarkan Peta Kerja, dengan cara menyisir bidang, persil, unit, atau lokasi Wajib Pajak di wilayah kerja KPP merupakan jenis...",
+    "opsi": {
+      "A": "KPD Non Tusi",
+      "B": "KPD Analisis",
+      "C": "KPD Tusi Lainnya",
+      "D": "KPD Berbasis Kewilayahan"
+    },
+    "kunci": "D",
+    "pembahasan": "KPD Berbasis Kewilayahan dilakukan oleh Petugas Pengawasan berdasarkan Zona Pengawasan/WP yang diampu, atau Tim KPD berdasarkan Peta Kerja, dengan cara menyisir bidang/persil/unit/lokasi WP di wilayah kerja KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPD yang dilakukan oleh Petugas Pengawasan berdasarkan Zona Pengawasannya dan/atau WP yang diampu, atau Tim KPD berdasarkan Peta Kerja"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-011",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan SE-11/PJ/2020, KPD yang dilakukan dalam rangka pelaksanaan tusi pengawasan berbasis risiko kepatuhan Wajib Pajak melalui analisis atas laporan keuangan dan/atau analisis terhadap penerima fasilitas perpajakan sesuai Daftar Prioritas KPD disebut...",
+    "opsi": {
+      "A": "KPD Berbasis Kewilayahan",
+      "B": "KPD Analisis",
+      "C": "KPD Non Tusi",
+      "D": "KPD Eksternal"
+    },
+    "kunci": "B",
+    "pembahasan": "KPD Analisis dilakukan oleh Petugas Pengawasan dalam rangka tusi pengawasan berbasis risiko kepatuhan WP melalui analisis laporan keuangan dan/atau analisis terhadap penerima fasilitas perpajakan sesuai Daftar Prioritas KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPD yang dilakukan oleh Petugas Pengawasan dalam rangka pelaksanaan tugas dan fungsi (tusi) pengawasan berbasis risiko kepatuhan Wajib Pajak melalui kegiatan analisis atas laporan keuangan"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Analisis"
+    ]
+  },
+  {
+    "id": "PRF-01-012",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "KPD yang dilakukan oleh Petugas Pajak saat menjalankan tugas dan fungsi sesuai kewenangannya, antara lain pendaftaran, pelayanan, penyuluhan, ekstensifikasi, pengawasan, pemeriksaan, penyidikan, intelijen, penilaian, dan penagihan, disebut...",
+    "opsi": {
+      "A": "KPD Tusi Lainnya",
+      "B": "KPD Berbasis Kewilayahan",
+      "C": "KPD Non Tusi",
+      "D": "KPD Eksternal"
+    },
+    "kunci": "A",
+    "pembahasan": "KPD Tusi Lainnya dilakukan oleh Petugas Pajak saat menjalankan tugas dan fungsi sesuai kewenangannya seperti pendaftaran, pelayanan, penyuluhan, ekstensifikasi, pengawasan, pemeriksaan, penyidikan, intelijen, penilaian, dan penagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "antara lain pendaftaran, pelayanan, penyuluhan, ekstensifikasi, pengawasan, pemeriksaan, penyidikan, intelijen, penilaian, penagihan, dan fungsi lainnya"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Tusi Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-013",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan SE-11/PJ/2020, KPD yang dapat dilaksanakan oleh Pegawai DJP pada saat menemukan data dan/atau informasi terkait Wajib Pajak DI LUAR pelaksanaan tugas dan fungsinya disebut...",
+    "opsi": {
+      "A": "KPD Analisis",
+      "B": "KPD Non Tusi",
+      "C": "KPD Tusi Lainnya",
+      "D": "KPD Berbasis Kewilayahan"
+    },
+    "kunci": "B",
+    "pembahasan": "KPD Non Tusi adalah KPD yang dapat dilaksanakan Pegawai DJP pada saat menemukan data/informasi terkait WP di luar pelaksanaan tugas dan fungsinya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPD yang dapat dilaksanakan oleh Pegawai DJP pada saat menemukan data dan/atau informasi terkait Wajib Pajak di luar pelaksanaan tugas dan fungsi"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Non Tusi"
+    ]
+  },
+  {
+    "id": "PRF-01-014",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "KPDL yang dapat dilakukan oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP disebut...",
+    "opsi": {
+      "A": "KPD Tusi Lainnya",
+      "B": "KPD Analisis",
+      "C": "KPD Eksternal",
+      "D": "KPD Non Tusi"
+    },
+    "kunci": "C",
+    "pembahasan": "KPD Eksternal adalah KPDL yang dapat dilakukan oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPDL dapat dilakukan oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Eksternal"
+    ]
+  },
+  {
+    "id": "PRF-01-015",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa jenis KPD yang diuraikan dalam SE-11/PJ/2020 pada materi 'Jenis KPD' ini?",
+    "opsi": {
+      "A": "3 jenis",
+      "B": "4 jenis",
+      "C": "5 jenis",
+      "D": "6 jenis"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menguraikan 5 jenis KPD, yaitu KPD Berbasis Kewilayahan, KPD Analisis, KPD Tusi Lainnya, KPD Non Tusi, dan KPD Eksternal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "JENIS KPD"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-016",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Tidak termasuk 'fungsi lainnya', berapa banyak fungsi (tusi) yang disebutkan secara eksplisit sebagai contoh dalam definisi KPD Tusi Lainnya pada materi ini?",
+    "opsi": {
+      "A": "7 fungsi",
+      "B": "8 fungsi",
+      "C": "9 fungsi",
+      "D": "10 fungsi"
+    },
+    "kunci": "D",
+    "pembahasan": "Fungsi yang disebutkan eksplisit berjumlah 10, yaitu pendaftaran, pelayanan, penyuluhan, ekstensifikasi, pengawasan, pemeriksaan, penyidikan, intelijen, penilaian, dan penagihan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "pendaftaran, pelayanan, penyuluhan, ekstensifikasi, pengawasan, pemeriksaan, penyidikan, intelijen, penilaian, penagihan, dan fungsi lainnya"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Tusi Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-017",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "KPD Berbasis Kewilayahan dilaksanakan dengan cara...",
+    "opsi": {
+      "A": "menganalisis laporan keuangan dan penerima fasilitas perpajakan sesuai Daftar Prioritas KPD",
+      "B": "menyisir bidang, persil, unit, atau lokasi Wajib Pajak yang berada di wilayah kerja KPP",
+      "C": "menunggu laporan dari pihak eksternal berdasarkan perjanjian kerja sama",
+      "D": "menemukan data WP secara tidak sengaja di luar pelaksanaan tugas dan fungsi"
+    },
+    "kunci": "B",
+    "pembahasan": "KPD Berbasis Kewilayahan dilaksanakan dengan cara menyisir bidang, persil, unit, atau lokasi WP yang berada di wilayah kerja KPP, melalui kegiatan lapangan ataupun nonlapangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "dengan cara menyisir bidang, persil, unit, atau lokasi wajib pajak yang berada di wilayah kerja KPP, melalui kegiatan lapangan ataupun nonlapangan"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Berbasis Kewilayahan"
+    ]
+  },
+  {
+    "id": "PRF-01-018",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "KPD Analisis dilaksanakan melalui kegiatan analisis atas laporan keuangan dan/atau analisis terhadap...",
+    "opsi": {
+      "A": "data yang ditemukan secara nyata di lapangan",
+      "B": "pihak eksternal yang bekerja sama dengan DJP",
+      "C": "lokasi tempat tinggal atau kedudukan Wajib Pajak",
+      "D": "penerima fasilitas perpajakan sesuai dengan Daftar Prioritas KPD"
+    },
+    "kunci": "D",
+    "pembahasan": "KPD Analisis dilaksanakan melalui kegiatan analisis atas laporan keuangan dan/atau analisis terhadap penerima fasilitas perpajakan sesuai dengan Daftar Prioritas KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "melalui kegiatan analisis atas laporan keuangan dan/atau analisis terhadap penerima fasilitas perpajakan sesuai dengan Daftar Prioritas KPD"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Analisis"
+    ]
+  },
+  {
+    "id": "PRF-01-019",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pegawai Seksi Pelayanan menemukan indikasi potensi pajak saat melayani Wajib Pajak yang datang mendaftarkan diri untuk memperoleh NPWP. Penemuan indikasi tersebut termasuk jenis...",
+    "opsi": {
+      "A": "KPD Non Tusi",
+      "B": "KPD Tusi Lainnya",
+      "C": "KPD Eksternal",
+      "D": "KPD Analisis"
+    },
+    "kunci": "B",
+    "pembahasan": "Karena ditemukan saat menjalankan tugas dan fungsi sesuai kewenangan (pelayanan/pendaftaran), hal ini termasuk KPD Tusi Lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPD yang dilakukan oleh Petugas Pajak pada saat menjalankan tugas dan fungsi sesuai kewenangannya"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Tusi Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-020",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pegawai DJP yang sedang berbelanja pada akhir pekan (di luar jam kerja dan di luar tugas dan fungsinya) melihat sebuah gerai usaha besar yang belum terdaftar sebagai Wajib Pajak, lalu melaporkan temuan tersebut. Temuan ini termasuk jenis...",
+    "opsi": {
+      "A": "KPD Berbasis Kewilayahan",
+      "B": "KPD Analisis",
+      "C": "KPD Non Tusi",
+      "D": "KPD Tusi Lainnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Karena ditemukan di luar pelaksanaan tugas dan fungsi, temuan tersebut termasuk KPD Non Tusi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPD yang dapat dilaksanakan oleh Pegawai DJP pada saat menemukan data dan/atau informasi terkait Wajib Pajak di luar pelaksanaan tugas dan fungsi"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Non Tusi"
+    ]
+  },
+  {
+    "id": "PRF-01-021",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "KPP menjalin perjanjian kerja sama dengan PT Pos Indonesia untuk membantu pengumpulan data terkait Wajib Pajak di suatu wilayah. Kegiatan pengumpulan data yang dilakukan oleh PT Pos Indonesia tersebut termasuk jenis...",
+    "opsi": {
+      "A": "KPD Eksternal",
+      "B": "KPD Non Tusi",
+      "C": "KPD Berbasis Kewilayahan",
+      "D": "KPD Tusi Lainnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Karena dilakukan oleh pihak eksternal (PT Pos Indonesia) berdasarkan perjanjian kerja sama dengan DJP, kegiatan ini termasuk KPD Eksternal, sebagaimana dicontohkan pada materi (DJP bekerja sama dengan POS Indonesia).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "KPDL dapat dilakukan oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Eksternal"
+    ]
+  },
+  {
+    "id": "PRF-01-022",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk jenis KPD yang diuraikan dalam SE-11/PJ/2020 pada materi ini, KECUALI...",
+    "opsi": {
+      "A": "KPD Berbasis Kewilayahan",
+      "B": "KPD Non Tusi",
+      "C": "KPD Eksternal",
+      "D": "KPD Berbasis Risiko Kepatuhan"
+    },
+    "kunci": "D",
+    "pembahasan": "'KPD Berbasis Risiko Kepatuhan' bukan nama jenis KPD yang disebutkan; istilah 'risiko kepatuhan' hanya muncul sebagai bagian dari definisi KPD Analisis, bukan sebagai nama jenis tersendiri. Lima jenis yang disebutkan adalah KPD Berbasis Kewilayahan, KPD Analisis, KPD Tusi Lainnya, KPD Non Tusi, dan KPD Eksternal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "pengawasan berbasis risiko kepatuhan Wajib Pajak melalui kegiatan analisis atas laporan keuangan"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-023",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam pelaksanaan KPD Berbasis Kewilayahan, penentuan area kerja bagi seorang Petugas Pengawasan (individual) berdasarkan Zona Pengawasannya, sedangkan penentuan area kerja bagi Tim KPD berdasarkan...",
+    "opsi": {
+      "A": "Peta Kerja",
+      "B": "Daftar Prioritas KPD",
+      "C": "Perjanjian Kerja Sama",
+      "D": "Penugasan Kepala Seksi Pelayanan"
+    },
+    "kunci": "A",
+    "pembahasan": "KPD Berbasis Kewilayahan dilakukan oleh Petugas Pengawasan berdasarkan Zona Pengawasannya, atau oleh Tim KPD berdasarkan Peta Kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 137,
+        "kutipan": "oleh Petugas Pengawasan berdasarkan Zona Pengawasannya dan/atau WP yang diampu, atau Tim KPD berdasarkan Peta Kerja"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Jenis KPD",
+      "KPD Berbasis Kewilayahan"
+    ]
+  },
+  {
+    "id": "PRF-01-024",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Kewilayahan: Peta Kerja AR & KPDL Ad Hoc/Tim (pertimbangan penugasan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "KPDL Berbasis Kewilayahan ad hoc/tim yang ditetapkan berdasarkan Keputusan Kepala Kantor dapat melibatkan...",
+    "opsi": {
+      "A": "seluruh pegawai KPP",
+      "B": "hanya Account Representative Kewilayahan",
+      "C": "hanya Tim KPD",
+      "D": "hanya pegawai Seksi Pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "KPDL Berbasis Kewilayahan ad hoc/tim dapat melibatkan seluruh pegawai KPP, berdasarkan Keputusan Kepala Kantor.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 138,
+        "kutipan": "KPDL Berbasis Kewilayahan ad hoc/tim dapat melibatkan seluruh pegawai KPP, berdasarkan Keputusan Kepala Kantor"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Kewilayahan"
+    ]
+  },
+  {
+    "id": "PRF-01-025",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Kewilayahan: Peta Kerja AR & KPDL Ad Hoc/Tim (pertimbangan penugasan)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pelibatan seluruh pegawai KPP dalam KPDL Berbasis Kewilayahan ad hoc/tim ditetapkan berdasarkan...",
+    "opsi": {
+      "A": "Surat Edaran Direktur Jenderal Pajak nomor SE-19/PJ/2014",
+      "B": "Perjanjian Kerja Sama dengan pihak eksternal",
+      "C": "Daftar Prioritas KPD Analisis",
+      "D": "Keputusan Kepala Kantor"
+    },
+    "kunci": "D",
+    "pembahasan": "Pelibatan seluruh pegawai KPP pada KPDL Berbasis Kewilayahan ad hoc/tim ditetapkan berdasarkan Keputusan Kepala Kantor.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 138,
+        "kutipan": "berdasarkan Keputusan Kepala Kantor"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Kewilayahan"
+    ]
+  },
+  {
+    "id": "PRF-01-026",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Kewilayahan: Peta Kerja AR & KPDL Ad Hoc/Tim (pertimbangan penugasan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa pertimbangan yang disebutkan dalam materi untuk pelibatan seluruh pegawai KPP pada KPDL Berbasis Kewilayahan ad hoc/tim?",
+    "opsi": {
+      "A": "3 pertimbangan",
+      "B": "4 pertimbangan",
+      "C": "5 pertimbangan",
+      "D": "6 pertimbangan"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 5 pertimbangan: terdapat kawasan potensial yang perlu diprioritaskan; keterbatasan sumber daya; luas wilayah kerja KPP; kemudahan koordinasi dengan pihak terkait; dan/atau pertimbangan lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 138,
+        "kutipan": "luas wilayah kerja KPP;"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Kewilayahan"
+    ]
+  },
+  {
+    "id": "PRF-01-027",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Kewilayahan: Peta Kerja AR & KPDL Ad Hoc/Tim (pertimbangan penugasan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut adalah pertimbangan pelibatan seluruh pegawai KPP dalam KPDL Berbasis Kewilayahan ad hoc/tim sebagaimana disebutkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "terdapat kawasan potensial yang perlu diprioritaskan",
+      "B": "keterbatasan sumber daya",
+      "C": "kedekatan domisili pegawai dengan lokasi KPDL",
+      "D": "luas wilayah kerja KPP"
+    },
+    "kunci": "C",
+    "pembahasan": "'Kedekatan domisili pegawai' tidak disebutkan dalam materi. Pertimbangan yang disebutkan adalah kawasan potensial, keterbatasan sumber daya, luas wilayah kerja KPP, kemudahan koordinasi, dan pertimbangan lain.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 138,
+        "kutipan": "keterbatasan sumber daya;"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Kewilayahan"
+    ]
+  },
+  {
+    "id": "PRF-01-028",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Kewilayahan: Peta Kerja AR & KPDL Ad Hoc/Tim (pertimbangan penugasan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada ilustrasi Peta Kerja oleh AR Kewilayahan dalam materi, area batas 'PK 1' (yang ditandai dengan garis panah merah pada peta) digambarkan terletak di antara zona pengawasan...",
+    "opsi": {
+      "A": "AR 5 dan AR 6",
+      "B": "AR 1 dan AR 2",
+      "C": "AR 8 dan AR 9",
+      "D": "AR 10 dan AR 11"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada ilustrasi peta, kotak perbesaran 'PK 1' menunjukkan garis batas antara zona AR 5 dan AR 6 sebagai contoh Peta Kerja oleh AR Kewilayahan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 138,
+        "kutipan": "CONTOH Peta Kerja oleh AR Kewilayahan"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Peta Kerja AR"
+    ]
+  },
+  {
+    "id": "PRF-01-029",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Penugasan Lapangan Lainnya (Pemeriksa, Penyidik, Penilai, AR WP Strategis, Jurusita, dst)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "KPDL Berbasis Penugasan Lapangan Lainnya adalah KPDL yang dilakukan oleh pegawai DJP pada saat menjalankan tugas dan fungsi selain pengawasan berbasis kewilayahan, pada lokasi...",
+    "opsi": {
+      "A": "kantor pusat Direktorat Jenderal Pajak",
+      "B": "tempat tinggal atau kedudukan dan/atau tempat kegiatan usaha atau harta Wajib Pajak",
+      "C": "wilayah kerja Kantor Wilayah DJP",
+      "D": "zona pengawasan Account Representative"
+    },
+    "kunci": "B",
+    "pembahasan": "KPDL Berbasis Penugasan Lapangan Lainnya dilakukan pada lokasi tempat tinggal atau kedudukan dan/atau tempat kegiatan usaha atau harta Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 139,
+        "kutipan": "pada lokasi tempat tinggal atau kedudukan dan/atau tempat kegiatan usaha atau harta Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Penugasan Lapangan Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-030",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Penugasan Lapangan Lainnya (Pemeriksa, Penyidik, Penilai, AR WP Strategis, Jurusita, dst)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Juru sita yang melaksanakan fungsi penagihan di lapangan dan Penilai yang melaksanakan penilaian di lapangan merupakan contoh pelaksana...",
+    "opsi": {
+      "A": "KPDL Berbasis Kewilayahan",
+      "B": "KPDL Berbasis Penugasan Lapangan Lainnya",
+      "C": "KPDL Non Tusi",
+      "D": "KPDL Eksternal"
+    },
+    "kunci": "B",
+    "pembahasan": "Juru sita saat penagihan dan Penilai saat penilaian di lapangan disebutkan sebagai contoh pelaksana KPDL Berbasis Penugasan Lapangan Lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 139,
+        "kutipan": "3. Penilai saat penilaian di lapangan; 4. AR WP Strategis saat melaksanakan visit; 5. Juru sita saat melaksanakan fungsi penagihan;"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Penugasan Lapangan Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-031",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Penugasan Lapangan Lainnya (Pemeriksa, Penyidik, Penilai, AR WP Strategis, Jurusita, dst)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Tidak termasuk 'kegiatan lainnya', ada berapa pihak/profesi yang dicontohkan secara spesifik sebagai pelaksana KPDL Berbasis Penugasan Lapangan Lainnya dalam materi?",
+    "opsi": {
+      "A": "4 pihak",
+      "B": "5 pihak",
+      "C": "6 pihak",
+      "D": "7 pihak"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 6 pihak spesifik: Pemeriksa Pajak, Penyidik, Penilai, AR WP Strategis, Juru sita, dan Pegawai Seksi Pelayanan (poin ke-7 adalah 'Kegiatan lainnya' yang bersifat umum).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 139,
+        "kutipan": "1. Pemeriksa Pajak saat pemeriksaan lapangan; 2. Penyidik saat penyelidikan atau penyidikan; 3. Penilai saat penilaian di lapangan; 4. AR WP Strategis saat melaksanakan visit;"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Penugasan Lapangan Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-032",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Penugasan Lapangan Lainnya (Pemeriksa, Penyidik, Penilai, AR WP Strategis, Jurusita, dst)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Pemeriksa Pajak mendatangi tempat kegiatan usaha Wajib Pajak dalam rangka melaksanakan pemeriksaan lapangan. Kegiatan tersebut dikategorikan sebagai...",
+    "opsi": {
+      "A": "KPDL Non Tusi",
+      "B": "KPDL Berbasis Penugasan Lapangan Lainnya",
+      "C": "KPDL Berbasis Kewilayahan",
+      "D": "KPDL Eksternal"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksa Pajak saat pemeriksaan lapangan merupakan salah satu contoh pelaksana KPDL Berbasis Penugasan Lapangan Lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 139,
+        "kutipan": "Pemeriksa Pajak saat pemeriksaan lapangan"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Penugasan Lapangan Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-033",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+    "subtopik": "KPDL Berbasis Penugasan Lapangan Lainnya (Pemeriksa, Penyidik, Penilai, AR WP Strategis, Jurusita, dst)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk contoh pelaksana KPDL Berbasis Penugasan Lapangan Lainnya sebagaimana disebutkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Pemeriksa Pajak saat pemeriksaan lapangan",
+      "B": "Penyidik saat penyelidikan atau penyidikan",
+      "C": "Tim KPD saat menyisir bidang, persil, atau unit di wilayah kerja KPP",
+      "D": "AR WP Strategis saat melaksanakan visit"
+    },
+    "kunci": "C",
+    "pembahasan": "Tim KPD yang menyisir wilayah kerja KPP termasuk contoh pelaksana KPD Berbasis Kewilayahan, bukan KPDL Berbasis Penugasan Lapangan Lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 139,
+        "kutipan": "AR WP Strategis saat melaksanakan visit"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Berbasis Penugasan Lapangan Lainnya"
+    ]
+  },
+  {
+    "id": "PRF-01-034",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "KPDL Non Tusi & KPDL Eksternal (dasar SE-19/PJ/2014, pertimbangan kerja sama pihak eksternal)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "KPDL Non Tusi dapat dilaksanakan oleh seluruh pegawai DJP ketika menemukan data dan/atau informasi terkait Wajib Pajak dan potensi perpajakan yang...",
+    "opsi": {
+      "A": "tercantum dalam Peta Kerja Account Representative",
+      "B": "diperoleh dari hasil kerja sama dengan pihak eksternal",
+      "C": "sesuai dengan Daftar Prioritas KPD Analisis",
+      "D": "secara nyata terlihat di lapangan, walaupun tidak dalam rangka pelaksanaan tugas dan fungsinya"
+    },
+    "kunci": "D",
+    "pembahasan": "KPDL Non Tusi dilaksanakan oleh seluruh pegawai DJP ketika menemukan data/informasi terkait WP dan potensi perpajakan yang secara nyata terlihat di lapangan, walaupun tidak dalam rangka pelaksanaan tugas dan fungsinya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 140,
+        "kutipan": "secara nyata terlihat di lapangan, walaupun tidak dalam rangka pelaksanaan tugas dan fungsinya"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL Non Tusi"
+    ]
+  },
+  {
+    "id": "PRF-01-035",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "KPDL Non Tusi & KPDL Eksternal (dasar SE-19/PJ/2014, pertimbangan kerja sama pihak eksternal)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pelaksanaan KPDL Eksternal oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP mengacu pada...",
+    "opsi": {
+      "A": "Surat Edaran Direktur Jenderal Pajak nomor SE-19/PJ/2014 tentang Panduan Penyusunan Kesepakatan Bersama antara DJP dengan Pihak Lain di Dalam Negeri",
+      "B": "Surat Edaran Direktur Jenderal Pajak nomor SE-11/PJ/2020 tentang Kegiatan Pengumpulan Data Lapangan",
+      "C": "Peraturan Menteri Keuangan nomor 111/2025",
+      "D": "Undang-Undang Ketentuan Umum dan Tata Cara Perpajakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Dasar pelaksanaan KPDL Eksternal adalah SE-19/PJ/2014 tentang Panduan Penyusunan Kesepakatan Bersama antara DJP dengan Pihak Lain di Dalam Negeri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 141,
+        "kutipan": "Surat Edaran Direktur Jenderal Pajak nomor SE-19/PJ/2014 tentang Panduan Penyusunan Kesepakatan Bersama antara Direktorat Jenderal Pajak dengan Pihak Lain di Dalam Negeri"
+      }
+    ],
+    "tags": [
+      "SE-19/PJ/2014",
+      "KPDL Eksternal"
+    ]
+  },
+  {
+    "id": "PRF-01-036",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "KPDL Non Tusi & KPDL Eksternal (dasar SE-19/PJ/2014, pertimbangan kerja sama pihak eksternal)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Ada berapa pertimbangan yang disebutkan dalam materi untuk pelaksanaan KPDL oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP?",
+    "opsi": {
+      "A": "3 pertimbangan",
+      "B": "4 pertimbangan",
+      "C": "5 pertimbangan",
+      "D": "6 pertimbangan"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 5 pertimbangan: efektivitas dan efisiensi; kompetensi pihak eksternal; kerahasiaan data; jangka waktu pelaksanaan; dan pertimbangan lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 141,
+        "kutipan": "1. efektivitas dan efisiensi; 2. kompetensi pihak eksternal; 3. kerahasiaan data; 4. jangka waktu pelaksanaan; dan 5. pertimbangan lainnya"
+      }
+    ],
+    "tags": [
+      "SE-19/PJ/2014",
+      "KPDL Eksternal"
+    ]
+  },
+  {
+    "id": "PRF-01-037",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "KPDL Non Tusi & KPDL Eksternal (dasar SE-19/PJ/2014, pertimbangan kerja sama pihak eksternal)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Pada contoh kerja sama KPDL Eksternal yang ditampilkan dalam materi, DJP digambarkan menjalin kerja sama dengan pihak eksternal, yaitu...",
+    "opsi": {
+      "A": "PT Pos Indonesia",
+      "B": "Badan Pusat Statistik",
+      "C": "Otoritas Jasa Keuangan",
+      "D": "Kementerian Dalam Negeri"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menampilkan logo DJP dan POS INDONESIA sebagai contoh kerja sama pelaksanaan KPDL Eksternal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 141,
+        "kutipan": "Contoh: 3. KPDL EKSTERNAL"
+      }
+    ],
+    "tags": [
+      "SE-19/PJ/2014",
+      "KPDL Eksternal"
+    ]
+  },
+  {
+    "id": "PRF-01-038",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "KPDL Non Tusi & KPDL Eksternal (dasar SE-19/PJ/2014, pertimbangan kerja sama pihak eksternal)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berikut merupakan pertimbangan pelaksanaan KPDL oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP sebagaimana disebutkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "efektivitas dan efisiensi",
+      "B": "kompetensi pihak eksternal",
+      "C": "jumlah pegawai DJP yang tersedia di KPP",
+      "D": "jangka waktu pelaksanaan"
+    },
+    "kunci": "C",
+    "pembahasan": "'Jumlah pegawai DJP yang tersedia di KPP' tidak disebutkan. Pertimbangan yang disebutkan adalah efektivitas dan efisiensi, kompetensi pihak eksternal, kerahasiaan data, jangka waktu pelaksanaan, dan pertimbangan lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 141,
+        "kutipan": "1. efektivitas dan efisiensi; 2. kompetensi pihak eksternal; 3. kerahasiaan data; 4. jangka waktu pelaksanaan; dan 5. pertimbangan lainnya"
+      }
+    ],
+    "tags": [
+      "SE-19/PJ/2014",
+      "KPDL Eksternal"
+    ]
+  },
+  {
+    "id": "PRF-01-039",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Tahapan Proses Bisnis KPD pada materi, proses bisnis KPD terdiri atas 3 tahap utama secara berurutan, yaitu...",
+    "opsi": {
+      "A": "Perencanaan KPD, Validasi Formal, dan Penerbitan SP2DK",
+      "B": "Perencanaan KPD, Pelaksanaan KPD, dan Tindak Lanjut Pelaksanaan KPD",
+      "C": "Pengumpulan Data, Validasi Material, dan Pelaporan",
+      "D": "Penyusunan Prioritas KPD, Ekstensifikasi, dan Intensifikasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram Tahapan Proses Bisnis KPD terdiri atas 3 tahap: Perencanaan KPD, Pelaksanaan KPD, dan Tindak Lanjut Pelaksanaan KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "PERENCANAAN KPD / PELAKSANAAN KPD / TINDAK LANJUT PELAKSANAAN KPD"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tahapan Proses Bisnis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-040",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Tahapan Proses Bisnis KPD, KPD Dalam Rangka Tusi Pengawasan Berbasis Kewilayahan pada tahap Pelaksanaan KPD dilakukan oleh...",
+    "opsi": {
+      "A": "Kepala Seksi Penjaminan Kualitas Data",
+      "B": "hanya Kepala Seksi Pengawasan",
+      "C": "hanya pihak eksternal berdasarkan perjanjian kerja sama",
+      "D": "AR, KP2KP, dan Tim KPD"
+    },
+    "kunci": "D",
+    "pembahasan": "KPD Dalam Rangka Tusi Pengawasan Berbasis Kewilayahan dilakukan oleh AR, KP2KP, dan Tim KPD, berdasarkan PZP AR dan Peta Kerja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "Dilakukan oleh AR, KP2KP dan Tim KPD"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tahapan Proses Bisnis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-041",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Tahapan Proses Bisnis KPD, ada berapa kegiatan Action Selection yang disebutkan untuk KPD I (Berbasis Kewilayahan) dan II (Analisis)?",
+    "opsi": {
+      "A": "7 kegiatan",
+      "B": "8 kegiatan",
+      "C": "9 kegiatan",
+      "D": "10 kegiatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram mencantumkan 10 kegiatan Action Selection, antara lain Permintaan Bantuan Penilaian, Pembuatan Profil Wajib Pajak, berbagai Ex-Officio (Pendaftaran WP, Perubahan Data WP, Aktivasi NIK, dll.), hingga Usulan Perubahan Administrasi Layanan secara Jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "1. Permintaan Bantuan Penilaian 2. Permintaan Bantuan Operasi Intelijen 3. Pembuatan Profil Wajib Pajak (untuk WP belum terdaftar di sistem)"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tahapan Proses Bisnis KPD",
+      "Action Selection"
+    ]
+  },
+  {
+    "id": "PRF-01-042",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Tahapan Proses Bisnis KPD, ada berapa teknik yang disebutkan untuk pelaksanaan KPD?",
+    "opsi": {
+      "A": "3 teknik",
+      "B": "4 teknik",
+      "C": "5 teknik",
+      "D": "6 teknik"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 5 teknik pelaksanaan KPD: Pengamatan/Observasi, Wawancara, Tagging Lokasi, Upload Dokumen, dan Analisa Mandiri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "1. Pengamatan/ Observasi 2. Wawancara 3. Tagging Lokasi 4. Upload Dokumen 5. Analisa Mandiri"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Tahapan Proses Bisnis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-043",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam tahap Penjaminan Kualitas Data pada Tindak Lanjut Pelaksanaan KPD, Validasi Material dilakukan oleh...",
+    "opsi": {
+      "A": "Atasan Langsung",
+      "B": "Kepala Seksi Penjaminan Kualitas Data",
+      "C": "Direktorat DIP",
+      "D": "Account Representative"
+    },
+    "kunci": "A",
+    "pembahasan": "Validasi Material pada KPD I, II, dan III dilakukan oleh Atasan Langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Validasi Material (Atasan Langsung)"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Material",
+      "Tahapan Proses Bisnis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-044",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam tahap Penjaminan Kualitas Data pada Tindak Lanjut Pelaksanaan KPD, Validasi Formal dilakukan oleh...",
+    "opsi": {
+      "A": "Kepala Seksi Penjaminan Kualitas Data (Kasi PKD)",
+      "B": "Atasan Langsung",
+      "C": "Direktorat DIP",
+      "D": "Account Representative Kewilayahan"
+    },
+    "kunci": "A",
+    "pembahasan": "Validasi Formal dilakukan oleh Kepala Seksi Penjaminan Kualitas Data (Kasi PKD).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Validasi Formal (Kasi PKD)"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Formal",
+      "Tahapan Proses Bisnis KPD"
+    ]
+  },
+  {
+    "id": "PRF-01-045",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Validasi Material oleh Atasan Langsung menilai 3 unsur kelengkapan dan kebenaran data, yaitu Kelengkapan, Relevansi, dan...",
+    "opsi": {
+      "A": "Validitas",
+      "B": "Akurasi",
+      "C": "Efisiensi",
+      "D": "Kerahasiaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Validasi Material menilai Kelengkapan, Relevansi, dan Akurasi data.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Relevansi, data telah terkait klasifikasi ICALEP (Income, Cost, Asset, Lialibility, Equity dan Profile)"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Material"
+    ]
+  },
+  {
+    "id": "PRF-01-046",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Unsur 'Relevansi' dalam Validasi Material dinilai berdasarkan keterkaitan data dengan klasifikasi...",
+    "opsi": {
+      "A": "ICALEP (Income, Cost, Asset, Liability, Equity, dan Profile)",
+      "B": "SP2DK (Surat Permintaan Penjelasan atas Data dan/atau Keterangan)",
+      "C": "PZP (Peta Zona Pengawasan)",
+      "D": "DPP (Daftar Prioritas Pengawasan)"
+    },
+    "kunci": "A",
+    "pembahasan": "Relevansi dinilai dari keterkaitan data dengan klasifikasi ICALEP: Income, Cost, Asset, Liability, Equity, dan Profile.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Relevansi, data telah terkait klasifikasi ICALEP (Income, Cost, Asset, Lialibility, Equity dan Profile); dan"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Material",
+      "ICALEP"
+    ]
+  },
+  {
+    "id": "PRF-01-047",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada saat pemeriksaan kualitas data, Atasan Langsung memastikan field NIK/NPWP diisi dengan NIK yang valid, field Tujuan KPP diisi dengan KPP tujuan yang benar, dan field alamat diisi dengan alamat yang jelas dan lengkap. Pemeriksaan tersebut merupakan penerapan unsur...",
+    "opsi": {
+      "A": "Kerahasiaan",
+      "B": "Relevansi",
+      "C": "Akurasi",
+      "D": "Kelengkapan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pengisian field NIK/NPWP, Tujuan KPP, dan alamat secara lengkap merupakan contoh penerapan unsur Kelengkapan pada Validasi Material.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Field NIK / NPWP diisi dengan NIK yang valid"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Material"
+    ]
+  },
+  {
+    "id": "PRF-01-048",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa item pengecekan Kelengkapan dan Validitas Data pada Validasi Formal oleh Kasi PKD sebagaimana disebutkan dalam materi?",
+    "opsi": {
+      "A": "3 item",
+      "B": "4 item",
+      "C": "5 item",
+      "D": "6 item"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 5 item: NPWP dilakukan Sistem; NIK melalui sarana appportal; pengisian nama & alamat sesuai standardisasi; data belum terdapat dalam basis data DJP; dan Masa Pajak/Tahun Pajak belum melewati daluarsa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Pengisian nama & alamat telah sesuai dengan standardisasi penulisan dalam basis data DJP."
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Formal"
+    ]
+  },
+  {
+    "id": "PRF-01-049",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut adalah unsur yang dinilai dalam Validasi Material oleh Atasan Langsung sebagaimana disebutkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Kelengkapan",
+      "B": "Relevansi",
+      "C": "Akurasi",
+      "D": "Kelengkapan dan Validitas Data"
+    },
+    "kunci": "D",
+    "pembahasan": "'Kelengkapan dan Validitas Data' merupakan unsur yang dinilai pada Validasi Formal oleh Kasi PKD, bukan pada Validasi Material oleh Atasan Langsung yang menilai Kelengkapan, Relevansi, dan Akurasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Validasi Formal (Kasi PKD): Kelengkapan dan Validitas Data"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Validasi Material",
+      "Validasi Formal"
+    ]
+  },
+  {
+    "id": "PRF-01-050",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Kegiatan Pengumpulan Data Lapangan, ada berapa jenis Respon Wajib Pajak atas penyampaian SP2DK yang disebutkan dalam materi?",
+    "opsi": {
+      "A": "2 jenis",
+      "B": "3 jenis",
+      "C": "4 jenis",
+      "D": "5 jenis"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 4 jenis respon WP: (1) WP mendaftarkan diri; (2) WP tidak memberikan tanggapan; (3) WP memberikan tanggapan berupa menolak mendaftarkan diri/menyatakan tidak dapat didaftarkan; (4) WP tidak ditemui/WP Kempos.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "1. WP mendaftarkan diri 2. WP tidak memberikan tanggapan 3. WP memberikan tanggapan berupa menolak mendaftarkan diri atau menyatakan tidak dapat didaftarkan karena kondisi tertentu"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "SP2DK",
+      "Respon Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PRF-01-051",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Kegiatan Pengumpulan Data Lapangan, ada berapa kondisi yang menyebabkan Kegiatan P2DK TIDAK ditindaklanjuti sebagaimana disebutkan dalam materi?",
+    "opsi": {
+      "A": "4 kondisi",
+      "B": "5 kondisi",
+      "C": "6 kondisi",
+      "D": "7 kondisi"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat 6 kondisi: WP tidak dapat ditemukan; telah meninggal dunia tanpa warisan yang belum terbagi; menjadi subjek pajak luar negeri; tidak memenuhi persyaratan subjektif dan objektif; tidak memiliki indikasi kewajiban perpajakan; atau telah memenuhi kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Kegiatan P2DK tidak ditindaklanjuti, dalm hal WP: 1. Tidak dapat ditemukan 2. telah meninggal dunia dan tidak meninggalkan warisan yang belum terbagi 3. menjadi subjek pajak luar negeri"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "PRF-01-052",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada alur Ekstensifikasi (PMK 111/2025), setelah Kasi PKD melakukan distribusi kepada Kasi Pengawasan II, III, IV, V, dan VI, penugasan selanjutnya diteruskan kepada AR Tindak Lanjut yang kemudian melakukan...",
+    "opsi": {
+      "A": "Penerbitan SP2DK",
+      "B": "Validasi Formal",
+      "C": "Validasi Material",
+      "D": "Pembuatan Peta Kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah penugasan diteruskan ke AR Tindak Lanjut, langkah selanjutnya dalam alur Ekstensifikasi adalah Penerbitan SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Kasi Pengawasan II, III, IV, V, dan VI Penugasan Penerbitan SP2DK Hari Berikutnya AR Tindak Lanjut"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "PRF-01-053",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Alur Ekstensifikasi dalam diagram Kegiatan Pengumpulan Data Lapangan pada materi ini merujuk pada ketentuan...",
+    "opsi": {
+      "A": "SE-19/PJ/2014",
+      "B": "PMK 111/2025",
+      "C": "SE-11/PJ/2020",
+      "D": "Undang-Undang Ketentuan Umum dan Tata Cara Perpajakan"
+    },
+    "kunci": "B",
+    "pembahasan": "Alur Ekstensifikasi pada diagram secara eksplisit mencantumkan rujukan PMK 111/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "PMK 111/2025"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "PRF-01-054",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram Kegiatan Pengumpulan Data Lapangan, hasil KPDL direkam pada aplikasi...",
+    "opsi": {
+      "A": "Aplikasi Coretax",
+      "B": "Approweb",
+      "C": "SIDJP Nine Modul Ekstensifikasi",
+      "D": "Data Quality Management (DQM)"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram menunjukkan alur 'Rekam pada Aplikasi Coretax' setelah tahap pengamatan potensi pajak, wawancara, tagging, dan pengambilan gambar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Rekam pada Aplikasi Coretax"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "Aplikasi Coretax"
+    ]
+  },
+  {
+    "id": "PRF-01-055",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+    "subtopik": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan diagram alur Ekstensifikasi (PMK 111/2025), dalam hal WP tidak ditemui/Wajib Pajak Kempos, usulan pemberian secara jabatan dapat berupa Nomor Pokok Wajib Pajak dan...",
+    "opsi": {
+      "A": "Nomor Identitas Tempat Kegiatan Usaha",
+      "B": "Nomor Induk Kependudukan",
+      "C": "Nomor Pengukuhan Pengusaha Kena Pajak",
+      "D": "Nomor Surat Perintah Pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Usulan pemberian secara jabatan pada alur Ekstensifikasi meliputi Nomor Pokok Wajib Pajak dan Nomor Identitas Tempat Kegiatan Usaha.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Nomor Identitas Tempat Kegiatan Usaha"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK"
+    ]
+  }
+]

@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "PMR-05-001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan Alur Proses Pemeriksaan, berapa jangka waktu pengujian untuk jenis Pemeriksaan Lengkap?",
+    "opsi": {
+      "A": "3 bulan",
+      "B": "5 bulan",
+      "C": "1 bulan",
+      "D": "4 bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada bagan Alur Proses Pemeriksaan, kotak jangka waktu pengujian mencantumkan Lengkap: 5 bulan, berbeda dengan Terfokus (3 bulan) dan Spesifik (1 bulan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Lengkap: 5 bulan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan",
+      "PMK 80/2023"
+    ]
+  },
+  {
+    "id": "PMR-05-002",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan Alur Proses Pemeriksaan, berapa jangka waktu pengujian untuk jenis Pemeriksaan Terfokus?",
+    "opsi": {
+      "A": "5 bulan",
+      "B": "1 bulan",
+      "C": "3 bulan",
+      "D": "4 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan mencantumkan jangka waktu pengujian Pemeriksaan Terfokus selama 3 bulan, di antara Lengkap (5 bulan) dan Spesifik (1 bulan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Terfokus: 3 bulan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-05-003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan Alur Proses Pemeriksaan, berapa jangka waktu pengujian untuk jenis Pemeriksaan Spesifik?",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "3 bulan",
+      "C": "5 bulan",
+      "D": "10 HK"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan mencantumkan jangka waktu pengujian Pemeriksaan Spesifik selama 1 bulan, paling singkat dibanding Terfokus (3 bulan) dan Lengkap (5 bulan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Spesifik: 1 bulan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-05-004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Untuk pengujian atas data konkret, bagan Alur Proses Pemeriksaan mencantumkan jangka waktu...",
+    "opsi": {
+      "A": "5 HK",
+      "B": "10 HK",
+      "C": "30 HK",
+      "D": "1 bulan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada kotak jangka waktu pengujian, selain Lengkap/Terfokus/Spesifik dalam satuan bulan, tercantum keterangan khusus untuk data konkret yaitu 10 HK (hari kerja).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "(Data konkret: 10 HK)"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-05-005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan catatan kaki pada bagan, jangka waktu pengujian dapat diperpanjang selama berapa bulan untuk WP Grup/WP Transfer Pricing (TP)?",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "3 bulan",
+      "C": "4 bulan",
+      "D": "5 bulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Catatan kaki bagan menyatakan jangka waktu pengujian dapat diperpanjang 4 bulan khusus untuk WP Grup/WP TP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Jangka waktu pengujian dapat diperpanjang 4 bulan untuk WP Grup/WP TP"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Transfer Pricing"
+    ]
+  },
+  {
+    "id": "PMR-05-006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan catatan kaki pada bagan, cakupan pengujian untuk tipe Pemeriksaan Terfokus adalah...",
+    "opsi": {
+      "A": "seluruh jenis pajak dan seluruh Masa Pajak",
+      "B": "daftar pos dalam SPT, data, dan/atau kewajiban tertentu",
+      "C": "seluruh pos SPT tanpa kecuali",
+      "D": "hanya data konkret hasil pengumpulan pihak ketiga"
+    },
+    "kunci": "B",
+    "pembahasan": "Catatan kaki bagan menjelaskan bahwa untuk tipe Pemeriksaan Terfokus, cakupannya berupa daftar pos dalam SPT, data, dan/atau kewajiban tertentu, bukan seluruh pos SPT.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Untuk tipe Pemeriksaan Terfokus: daftar pos dalam SPT, data, dan/atau kewajiban tertentu"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-05-007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan ketentuan yang berlaku untuk Pemeriksaan Spesifik berdasarkan bagan, KECUALI...",
+    "opsi": {
+      "A": "tidak dilakukan pertemuan (entry meeting)",
+      "B": "hak dan kewajiban disampaikan bersama S Pemb. Pemeriksaan",
+      "C": "Pembahasan Temuan Sementara tidak dilakukan",
+      "D": "jangka waktu pengujian tetap 5 bulan seperti Pemeriksaan Lengkap"
+    },
+    "kunci": "D",
+    "pembahasan": "Untuk Pemeriksaan Spesifik, bagan menyatakan tidak dilakukan pertemuan serta hak & kewajiban disampaikan bersama S Pemb., dan Pembahasan Temuan Sementara dikecualikan. Jangka waktu pengujiannya justru 1 bulan, bukan 5 bulan seperti Pemeriksaan Lengkap.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Dalam hal Pemeriksaan Spesifik, tidak dilakukan pertemuan serta hak & kewajiban disampaikan bersama dengan S Pemb."
+      },
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Spesifik: 1 bulan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-05-008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan catatan kaki bagan, Pembahasan Temuan Sementara dikecualikan (tidak dilakukan) untuk jenis pemeriksaan apa?",
+    "opsi": {
+      "A": "Pemeriksaan Lengkap",
+      "B": "Pemeriksaan Terfokus",
+      "C": "Pemeriksaan Spesifik",
+      "D": "Pemeriksaan Ulang"
+    },
+    "kunci": "C",
+    "pembahasan": "Catatan kaki bagan menyatakan Pembahasan Temuan Sementara dikecualikan khusus untuk Pemeriksaan Spesifik.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "dikecualikan untuk Pemeriksaan Spesifik, Pembahasan Temuan Sementara tidak dilakukan"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Alur Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-05-009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan alur pada bagan, setelah SPHP disampaikan kepada WP, tahapan berikutnya secara berurutan adalah...",
+    "opsi": {
+      "A": "Tanggapan SPHP lalu PAHP",
+      "B": "PAHP lalu Tanggapan SPHP",
+      "C": "Risalah lalu Tanggapan SPHP",
+      "D": "QA lalu PAHP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada bagan, alur setelah SPHP adalah WP memberikan Tanggapan SPHP, kemudian dilanjutkan ke tahap PAHP (Pembahasan Akhir Hasil Pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "SPHP"
+      },
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Tanggapan SPHP"
+      },
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "PAHP"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "SPHP",
+      "PAHP"
+    ]
+  },
+  {
+    "id": "PMR-05-011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Setelah Ikhtisar/Berita Acara (BA), tahapan berikutnya pada bagan adalah...",
+    "opsi": {
+      "A": "LHP lalu KKP",
+      "B": "KKP lalu LHP",
+      "C": "SKP lalu KKP",
+      "D": "Risalah lalu KKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada bagan, setelah Ikhtisar/BA alur berlanjut ke KKP (Kertas Kerja Pemeriksaan) kemudian LHP (Laporan Hasil Pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Ikhtisar BA"
+      },
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "KKP"
+      },
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "LHP"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "LHP"
+    ]
+  },
+  {
+    "id": "PMR-05-012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, SP2 dapat diterbitkan berdasarkan dua kriteria awal, yaitu...",
+    "opsi": {
+      "A": "Kriteria Lengkap dan Kriteria Terfokus",
+      "B": "Kriteria Spesifik dan Kriteria Data Konkret",
+      "C": "Kriteria Menguji Kepatuhan dan Kriteria Tujuan Lain",
+      "D": "Kriteria Kepatuhan dan Kriteria Data Baru"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan menunjukkan dua jalur awal sebelum SP2 diterbitkan, yaitu Kriteria Menguji Kepatuhan dan Kriteria Tujuan Lain.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Kriteria Menguji Kepatuhan"
+      },
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Kriteria Tujuan Lain"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "SP2"
+    ]
+  },
+  {
+    "id": "PMR-05-013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pada bagan, kotak keterangan jangka waktu yang terletak pada alur antara SPHP dan WP bertuliskan...",
+    "opsi": {
+      "A": "5 HK",
+      "B": "10 HK",
+      "C": "30 HK",
+      "D": "1 bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada bagan, di antara kotak SPHP dan kotak WP terdapat kotak keterangan waktu bertuliskan 5 HK.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "5 HK"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "SPHP"
+    ]
+  },
+  {
+    "id": "PMR-05-014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pernyataan yang tercantum pada panah/banner di bagian paling atas bagan, membentang di atas tahap Pengujian hingga Pelaporan, adalah...",
+    "opsi": {
+      "A": "Wajib menyampaikan SPT Tahunan",
+      "B": "Dapat mengajukan keberatan",
+      "C": "Tidak dapat mengajukan permohonan angsuran",
+      "D": "Tidak dapat menyampaikan SPT/Pembetulan SPT"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada bagian atas bagan terdapat banner panah bertuliskan 'Tidak dapat menyampaikan SPT/Pembetulan SPT' yang membentang di atas tahap Pengujian dan Pelaporan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Tidak dapat menyampaikan SPT/Pembetulan SPT"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "SPT"
+    ]
+  },
+  {
+    "id": "PMR-05-015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam kotak 'Pelaksanaan Pemeriksaan' pada bagan, tercantum empat kegiatan, yaitu Pertemuan (entry meeting), Pinjam/Minta Buku Catatan Dokumen, Minta Data Informasi Keterangan, dan...",
+    "opsi": {
+      "A": "Pemblokiran Rekening",
+      "B": "Penyegelan",
+      "C": "Penyitaan",
+      "D": "Pemeriksaan Bukti Permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Kotak 'Pelaksanaan Pemeriksaan' pada bagan memuat empat kegiatan: Pertemuan (entry meeting), Pinjam/Minta Buku Catatan Dokumen, Minta Data Informasi Keterangan, dan Penyegelan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "PENYEGELAN"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Penyegelan"
+    ]
+  },
+  {
+    "id": "PMR-05-016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, dasar hukum Pengungkapan Ketidakbenaran yang dapat dilakukan WP selama proses pemeriksaan adalah...",
+    "opsi": {
+      "A": "Pasal 13 ayat (1)",
+      "B": "Pasal 36 ayat (1)",
+      "C": "Pasal 8 ayat (4)",
+      "D": "Pasal 17B"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan mencantumkan label 'Pengungkapan Ketidakbenaran 8 (4)', merujuk pada Pasal 8 ayat (4) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Pengungkapan Ketidakbenaran 8 (4)"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pengungkapan Ketidakbenaran"
+    ]
+  },
+  {
+    "id": "PMR-05-017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila WP melakukan Pengungkapan Ketidakbenaran selama pemeriksaan, berdasarkan bagan konsekuensinya adalah...",
+    "opsi": {
+      "A": "Pemeriksaan dihentikan",
+      "B": "SP2 dibatalkan",
+      "C": "WP dikenakan sanksi pidana otomatis",
+      "D": "Pemeriksaan dilanjutkan, SSP pengungkapan menjadi kredit SKP"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan menyatakan bahwa pemeriksaan tetap dilanjutkan, dan SSP atas pengungkapan ketidakbenaran menjadi kredit dalam SKP yang diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Pemeriksaan dilanjutkan, SSP pengungkapan menjadi kredit SKP"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pengungkapan Ketidakbenaran"
+    ]
+  },
+  {
+    "id": "PMR-05-018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jika SKP dan SKP PBB dibatalkan sesuai Pasal 36 ayat (1) huruf d, berdasarkan bagan pemeriksaan dilanjutkan dengan melaksanakan prosedur...",
+    "opsi": {
+      "A": "penyampaian SPHP/PAHP",
+      "B": "penerbitan SP2 baru",
+      "C": "pengajuan keberatan",
+      "D": "penagihan seketika sekaligus"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan menyatakan bahwa jika SKP dan SKP PBB dibatalkan sesuai Pasal 36 ayat (1) huruf d, pemeriksaan dilanjutkan dengan melaksanakan prosedur penyampaian SPHP/PAHP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Jika SKP dan SKP PBB dibatalkan sesuai Pasal 36 ayat (1) huruf d, pemeriksaan dilanjutkan dengan melaksanakan prosedur penyampaian SPHP/PAHP"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 36 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-05-019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal SKP batal atas pemeriksaan sebagaimana dimaksud Pasal 17B, berdasarkan bagan jangka waktu yang tertangguh adalah...",
+    "opsi": {
+      "A": "5 bulan",
+      "B": "4 bulan",
+      "C": "10 bulan",
+      "D": "12 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan menyatakan bahwa dalam hal SKP batal atas pemeriksaan 17B, jangka waktu 12 bulan tertangguh.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Dalam hal SKP batal atas pemeriksaan 17B, jangka waktu 12 bulan tertangguh"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 17B UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-05-020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, pemeriksaan ulang dilakukan terhadap data baru dan hasilnya diterbitkan dalam bentuk...",
+    "opsi": {
+      "A": "SKPKBT",
+      "B": "STP",
+      "C": "SKPN",
+      "D": "SKPLB"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan menyatakan pemeriksaan ulang dilakukan terhadap data baru dan diterbitkan SKPKBT; jika data baru berupa PBB, diterbitkan SKP PBB.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Pemeriksaan ulang dilakukan terhadap data baru dan diterbitkan SKPKBT"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "SKPKBT",
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-05-021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika WP menolak menandatangani/menerima Surat Pemberitahuan Pemeriksaan (S Pemb. Pemeriksaan/ToR), berdasarkan bagan tindak lanjutnya adalah...",
+    "opsi": {
+      "A": "Pemeriksaan otomatis dihentikan",
+      "B": "Penetapan Pajak secara jabatan/usul bukper/dasar kep untuk tujuan lain",
+      "C": "Penerbitan SKPLB",
+      "D": "Pengajuan keberatan oleh Pemeriksa"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada bagan, jalur 'Menolak' dari kotak WP/wakil/kuasa/pegawai/keluarga mengarah ke kotak Penetapan Pajak secara jabatan/usul bukper/dasar kep untuk tujuan lain.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Penetapan Pajak scr jabatan/usul bukper/dasar kep utk tujuan lain"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Penetapan Jabatan"
+    ]
+  },
+  {
+    "id": "PMR-05-022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal penetapan pajak dilakukan secara jabatan, berdasarkan bagan Pemeriksa harus membuktikan bahwa...",
+    "opsi": {
+      "A": "WP tidak/kurang menyampaikan buku, catatan, atau dokumen",
+      "B": "WP telah menyampaikan SPT tepat waktu",
+      "C": "WP telah membayar pajak terutang",
+      "D": "WP mengajukan permohonan restitusi"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan menyatakan bahwa dalam hal penetapan secara jabatan, Pemeriksa membuktikan WP tidak/kurang menyampaikan buku, catatan, atau dokumen.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 35,
+        "kutipan": "Dalam hal penetapan secara jabatan, Pemeriksa membuktikan WP tidak / kurang menyampaikan buku, catatan, atau dokumen"
+      }
+    ],
+    "tags": [
+      "Tata Cara Pemeriksaan",
+      "Penetapan Jabatan"
+    ]
+  },
+  {
+    "id": "PMR-05-023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Definisi Pembukuan dirumuskan dalam ketentuan...",
+    "opsi": {
+      "A": "Pasal 1 angka 29 UU KUP",
+      "B": "Pasal 28 ayat (7) UU KUP",
+      "C": "Pasal 28 ayat (9) UU KUP",
+      "D": "Pasal 29 UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Definisi Pembukuan dirumuskan dalam Pasal 1 angka 29 UU KUP sebagai proses pencatatan yang dilakukan secara teratur untuk mengumpulkan data dan informasi keuangan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 38,
+        "kutipan": "Pasal 1 angka 29 UU KUP"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 1 angka 29 UU KUP, proses pembukuan ditutup dengan menyusun laporan keuangan berupa...",
+    "opsi": {
+      "A": "SPT Tahunan dan SPT Masa",
+      "B": "neraca dan laporan laba rugi",
+      "C": "buku besar dan jurnal umum",
+      "D": "laporan arus kas dan catatan atas laporan keuangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 1 angka 29 UU KUP menyatakan pembukuan ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 38,
+        "kutipan": "yang ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan bahwa pembukuan sekurang-kurangnya terdiri atas catatan mengenai harta, kewajiban, modal, penghasilan dan biaya, serta penjualan dan pembelian, diatur dalam...",
+    "opsi": {
+      "A": "Pasal 1 angka 29 UU KUP",
+      "B": "Pasal 28 ayat (9) UU KUP",
+      "C": "Pasal 28 ayat (7) UU KUP",
+      "D": "Pasal 29 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Isi minimal pembukuan diatur dalam Pasal 28 ayat (7) UU KUP, yaitu catatan mengenai harta, kewajiban, modal, penghasilan dan biaya, serta penjualan dan pembelian.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 38,
+        "kutipan": "Pembukuan sekurang-kurangnya terdiri atas catatan mengenai harta, kewajiban, modal, penghasilan dan biaya, serta penjualan dan pembelian sehingga dapat dihitung besarnya pajak yang terutang"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai isi minimal Pencatatan diatur dalam...",
+    "opsi": {
+      "A": "Pasal 28 ayat (7) UU KUP",
+      "B": "Pasal 1 angka 29 UU KUP",
+      "C": "Pasal 3 ayat (7) UU KUP",
+      "D": "Pasal 28 ayat (9) UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Isi minimal Pencatatan diatur dalam Pasal 28 ayat (9) UU KUP, yaitu data yang dikumpulkan secara teratur tentang peredaran/penerimaan bruto dan/atau penghasilan bruto.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 38,
+        "kutipan": "Pasal 28 ayat (9) UU KUP"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan Pasal 28 ayat (9) UU KUP, data yang dikumpulkan dalam Pencatatan menjadi dasar untuk menghitung...",
+    "opsi": {
+      "A": "jumlah pajak yang terutang",
+      "B": "jumlah harga perolehan dan penyerahan barang/jasa",
+      "C": "besarnya modal usaha",
+      "D": "besarnya laba ditahan"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 28 ayat (9) UU KUP menyatakan data peredaran/penerimaan bruto dan/atau penghasilan bruto dalam pencatatan menjadi dasar untuk menghitung jumlah pajak yang terutang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 38,
+        "kutipan": "sebagai dasar untuk menghitung jumlah pajak yang terutang"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini adalah unsur yang wajib dicatat dalam Pembukuan menurut Pasal 28 ayat (7) UU KUP, KECUALI...",
+    "opsi": {
+      "A": "harta, kewajiban, dan modal",
+      "B": "daftar aset tetap dan penyusutan tahunan",
+      "C": "penghasilan dan biaya",
+      "D": "penjualan dan pembelian"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 28 ayat (7) UU KUP hanya menyebut harta, kewajiban, modal, penghasilan dan biaya, serta penjualan dan pembelian sebagai isi minimal pembukuan; daftar aset tetap dan penyusutan tahunan tidak disebutkan secara eksplisit.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 38,
+        "kutipan": "Pembukuan sekurang-kurangnya terdiri atas catatan mengenai harta, kewajiban, modal, penghasilan dan biaya, serta penjualan dan pembelian"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-029",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, pihak yang wajib menyelenggarakan pembukuan adalah...",
+    "opsi": {
+      "A": "seluruh WP OP tanpa kecuali",
+      "B": "hanya WP Badan",
+      "C": "WP OP kegiatan usaha/pekerjaan bebas dan Badan",
+      "D": "WP OP karyawan dan WP Badan"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan menyatakan bahwa WP OP yang melakukan kegiatan usaha/pekerjaan bebas dan WP Badan wajib menyelenggarakan pembukuan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "WP OP kegiatan usaha/pekerjaan bebas & Badan wajib menyelenggarakan pembukuan"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-030",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Buku, catatan, dan dokumen yang menjadi dasar pembukuan atau pencatatan wajib disimpan selama...",
+    "opsi": {
+      "A": "10 tahun",
+      "B": "5 tahun",
+      "C": "7 tahun",
+      "D": "3 tahun"
+    },
+    "kunci": "A",
+    "pembahasan": "Berdasarkan bagan, buku, catatan, dan dokumen wajib disimpan selama 10 tahun di Indonesia.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "Disimpan 10 tahun di Indonesia"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Buku, catatan, dan dokumen dasar pembukuan/pencatatan wajib disimpan di...",
+    "opsi": {
+      "A": "kantor akuntan publik",
+      "B": "tempat kedudukan kantor pusat di luar negeri",
+      "C": "kantor notaris",
+      "D": "Indonesia"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan menegaskan buku, catatan, dan dokumen wajib disimpan selama 10 tahun di Indonesia, bukan di luar negeri atau di pihak ketiga.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "Disimpan 10 tahun di Indonesia"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, cakupan 'buku, catatan, dokumen' yang wajib diselenggarakan WP termasuk pula...",
+    "opsi": {
+      "A": "korespondensi pribadi WP",
+      "B": "hasil pengolahan data secara elektronik/aplikasi daring",
+      "C": "laporan keuangan konsolidasi grup usaha asing",
+      "D": "dokumen kepegawaian internal"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan menyatakan bahwa cakupan buku, catatan, dokumen termasuk hasil pengolahan data secara elektronik/aplikasi daring.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "Termasuk hasil pengolahan data secara elektronik/aplikasi daring"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-033",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika WP sedang diperiksa, berdasarkan bagan kewajiban WP terhadap buku, catatan, dan dokumen adalah...",
+    "opsi": {
+      "A": "menyerahkan seluruh aset perusahaan",
+      "B": "memusnahkan dokumen lama",
+      "C": "memperlihatkan dan/atau meminjamkan",
+      "D": "menyerahkan kepada notaris"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan menyatakan bahwa jika diperiksa, WP wajib memperlihatkan dan/atau meminjamkan buku, catatan, dan dokumen kepada Pemeriksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "Jika diperiksa, WP wajib memperlihatkan dan/atau meminjamkan"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 28 UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-035",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk pengecualian dari kewajiban menyelenggarakan pembukuan berdasarkan bagan, KECUALI...",
+    "opsi": {
+      "A": "WP OP kegiatan usaha/pekerjaan bebas dapat memilih menggunakan NPPN",
+      "B": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas",
+      "C": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto (PMK 54/2021)",
+      "D": "WP Badan yang baru berdiri kurang dari 1 tahun"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan menyebutkan tiga pengecualian: WP OP yang memilih NPPN, WP OP yang tidak melakukan kegiatan usaha/pekerjaan bebas, dan WP OP kriteria tertentu berdasarkan peredaran bruto (PMK 54/2021). WP Badan baru berdiri tidak disebutkan sebagai pengecualian.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "WP OP melakukan kegiatan usaha atau pekerjaan bebas dapat memilih menggunakan NPPN"
+      },
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "WP OP yang tidak melakukan kegiatan usaha atau pekerjaan bebas"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "PMK 54/2021",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-036",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP OP yang menjalankan usaha dagang kecil memilih menggunakan Norma Penghitungan Penghasilan Neto (NPPN). Berdasarkan bagan, WP tersebut dikecualikan dari kewajiban...",
+    "opsi": {
+      "A": "membayar pajak terutang",
+      "B": "menyelenggarakan pembukuan",
+      "C": "melaporkan SPT Tahunan",
+      "D": "memiliki NPWP"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan menyatakan WP OP yang melakukan kegiatan usaha/pekerjaan bebas dapat memilih menggunakan NPPN sebagai pengecualian dari kewajiban menyelenggarakan pembukuan (diganti pencatatan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 39,
+        "kutipan": "WP OP melakukan kegiatan usaha atau pekerjaan bebas dapat memilih menggunakan NPPN"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan",
+      "NPPN"
+    ]
+  },
+  {
+    "id": "PMR-05-037",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Ketentuan Pembukuan pada bagan, pembukuan harus taat asas dengan menggunakan...",
+    "opsi": {
+      "A": "Stelsel Akrual atau Stelsel Kas",
+      "B": "Stelsel Progresif atau Stelsel Degresif",
+      "C": "Stelsel Proporsional",
+      "D": "Stelsel Final atau Stelsel Normal"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan Pembukuan pada bagan menyatakan pembukuan harus taat asas dan dengan Stelsel Akrual atau Stelsel Kas.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 40,
+        "kutipan": "Taat asas dan dengan Stelsel Akrual atau Stelsel Kas"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-038",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pembukuan wajib diselenggarakan berdasarkan Standar Akuntansi Keuangan, kecuali...",
+    "opsi": {
+      "A": "disetujui oleh akuntan publik",
+      "B": "peraturan perpajakan menentukan lain",
+      "C": "disetujui oleh RUPS",
+      "D": "terdapat perbedaan kurs mata uang"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan Pembukuan pada bagan menyatakan pembukuan berdasarkan Standar Akuntansi Keuangan, kecuali peraturan perpajakan menentukan lain.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 40,
+        "kutipan": "Berdasarkan Standar Akuntansi Keuangan, kecuali peraturan perpajakan menentukan lain"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-039",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pembukuan dengan menggunakan bahasa asing dan mata uang selain rupiah dapat diselenggarakan setelah...",
+    "opsi": {
+      "A": "mendapat rekomendasi dari KAP",
+      "B": "mendapat persetujuan DPR",
+      "C": "mendapat izin Menteri Keuangan",
+      "D": "mendapat izin Kepala KPP"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan Pembukuan pada bagan menyatakan pembukuan dengan bahasa asing dan mata uang selain rupiah dapat diselenggarakan setelah mendapat izin Menteri Keuangan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 40,
+        "kutipan": "Pembukuan dengan menggunakan bahasa asing dan mata uang selain rupiah dapat diselenggarakan setelah mendapat izin Menteri Keuangan"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-040",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan bagan, manakah ketentuan berikut yang HANYA tercantum sebagai ketentuan Pembukuan dan TIDAK disebutkan sebagai ketentuan Pencatatan?",
+    "opsi": {
+      "A": "Iktikad baik dan mencerminkan keadaan sebenarnya",
+      "B": "Dilakukan/diselenggarakan di Indonesia",
+      "C": "Menggunakan huruf Latin dan angka Arab",
+      "D": "Taat asas dengan Stelsel Akrual atau Stelsel Kas"
+    },
+    "kunci": "D",
+    "pembahasan": "Kolom Ketentuan Pencatatan pada bagan hanya memuat iktikad baik, bahasa/mata uang di Indonesia, dan disusun kronologis-sistematis; ketentuan taat asas dengan Stelsel Akrual atau Stelsel Kas hanya tercantum pada kolom Ketentuan Pembukuan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 40,
+        "kutipan": "Taat asas dan dengan Stelsel Akrual atau Stelsel Kas"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-041",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Ketentuan Pencatatan pada bagan, pencatatan harus disusun secara...",
+    "opsi": {
+      "A": "kronologis dan sistematis",
+      "B": "akrual dan proporsional",
+      "C": "konsolidatif dan material",
+      "D": "manual dan berkala"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan Pencatatan pada bagan menyatakan pencatatan disusun secara kronologis dan sistematis.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 40,
+        "kutipan": "Disusun secara kronologis dan sistematis"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-042",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+    "subtopik": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP menyusun catatan keuangannya tanpa iktikad baik dan tidak mencerminkan keadaan yang sebenarnya. Berdasarkan bagan, WP tersebut telah melanggar ketentuan yang berlaku untuk...",
+    "opsi": {
+      "A": "Pembukuan saja",
+      "B": "Pembukuan maupun Pencatatan",
+      "C": "Pencatatan saja",
+      "D": "tidak melanggar ketentuan apa pun"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan 'Iktikad baik dan mencerminkan keadaan sebenarnya' tercantum pada kedua kolom, baik Ketentuan Pembukuan maupun Ketentuan Pencatatan, sehingga berlaku untuk keduanya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 40,
+        "kutipan": "Iktikad baik dan mencerminkan keadaan sebenarnya"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembukuan dan Pencatatan"
+    ]
+  },
+  {
+    "id": "PMR-05-043",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan 'Penetapan dan Ketetapan' (PMK Nomor 80 Tahun 2023), pihak yang berwenang menerbitkan Surat Ketetapan Pajak adalah...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak",
+      "B": "Kepala Kantor Wilayah DJP",
+      "C": "Menteri Keuangan",
+      "D": "Kepala KPP Pratama"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan menyatakan Direktur Jenderal Pajak berwenang menerbitkan Surat Ketetapan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "DIREKTUR JENDERAL PAJAK berwenang menerbitkan"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "Surat Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-05-044",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, Surat Ketetapan Pajak Kurang Bayar (SKPKB) diterbitkan berdasarkan...",
+    "opsi": {
+      "A": "Hasil Penelitian",
+      "B": "Hasil Pemeriksaan",
+      "C": "Hasil Pemeriksaan Ulang",
+      "D": "Hasil Pemeriksaan Bukti Permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada tabel bagan, SKPKB diterbitkan berdasarkan Hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Kurang Bayar (SKPKB)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Berdasarkan: Hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "SKPKB"
+    ]
+  },
+  {
+    "id": "PMR-05-045",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, dasar penerbitan Surat Ketetapan Pajak Kurang Bayar Tambahan (SKPKBT) adalah...",
+    "opsi": {
+      "A": "Hasil Penelitian",
+      "B": "Hasil Pemeriksaan",
+      "C": "Hasil Pemeriksaan Ulang",
+      "D": "Hasil Keberatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada tabel bagan, SKPKBT diterbitkan berdasarkan Hasil Pemeriksaan Ulang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Kurang Bayar Tambahan (SKPKBT)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Berdasarkan: Hasil Pemeriksaan Ulang"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "SKPKBT"
+    ]
+  },
+  {
+    "id": "PMR-05-046",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, Surat Ketetapan Pajak Lebih Bayar (SKPLB) dapat diterbitkan berdasarkan...",
+    "opsi": {
+      "A": "Hasil Pemeriksaan Ulang saja",
+      "B": "Hasil Penelitian saja",
+      "C": "Hasil Pemeriksaan Bukti Permulaan",
+      "D": "Hasil Pemeriksaan dan Hasil Penelitian"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada tabel bagan, SKPLB diterbitkan berdasarkan dua dasar, yaitu Hasil Pemeriksaan dan Hasil Penelitian.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Lebih Bayar (SKPLB)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Berdasarkan: 1. Hasil Pemeriksaan 2. Hasil Penelitian"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "SKPLB"
+    ]
+  },
+  {
+    "id": "PMR-05-047",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, dasar penerbitan Surat Ketetapan Pajak Nihil (SKPN) adalah...",
+    "opsi": {
+      "A": "Hasil Penelitian",
+      "B": "Hasil Pemeriksaan Ulang",
+      "C": "Hasil Pemeriksaan",
+      "D": "Hasil Keberatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada tabel bagan, SKPN diterbitkan berdasarkan Hasil Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Nihil (SKPN)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Berdasarkan: Hasil Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "SKPN"
+    ]
+  },
+  {
+    "id": "PMR-05-048",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan, dari keempat jenis Surat Ketetapan Pajak berikut, manakah SATU-SATUNYA yang dapat diterbitkan atas dasar Hasil Penelitian?",
+    "opsi": {
+      "A": "SKPKB",
+      "B": "SKPKBT",
+      "C": "SKPN",
+      "D": "SKPLB"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada tabel bagan, hanya SKPLB yang dasarnya mencakup Hasil Penelitian selain Hasil Pemeriksaan; SKPKB, SKPKBT, dan SKPN hanya berdasarkan Hasil Pemeriksaan atau Hasil Pemeriksaan Ulang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Surat Ketetapan Pajak Lebih Bayar (SKPLB)"
+      },
+      {
+        "pdf": "C",
+        "halaman": 44,
+        "kutipan": "Berdasarkan: 1. Hasil Pemeriksaan 2. Hasil Penelitian"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "SKPLB"
+    ]
+  },
+  {
+    "id": "PMR-05-049",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Meskipun sama-sama tercantum dalam bagan kewenangan penerbitan Direktur Jenderal Pajak, manakah yang BUKAN merupakan jenis Surat Ketetapan Pajak?",
+    "opsi": {
+      "A": "SKPKB",
+      "B": "SKPN",
+      "C": "STP",
+      "D": "SKPLB"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan membedakan kotak 'SURAT KETETAPAN PAJAK' (mencakup SKPKB, SKPKBT, SKPLB, SKPN) dengan kotak terpisah 'SURAT TAGIHAN PAJAK (STP)', sehingga STP bukan termasuk jenis Surat Ketetapan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 42,
+        "kutipan": "SURAT KETETAPAN PAJAK KURANG BAYAR"
+      },
+      {
+        "pdf": "C",
+        "halaman": 42,
+        "kutipan": "SURAT TAGIHAN PAJAK (STP)"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "Surat Ketetapan Pajak",
+      "STP"
+    ]
+  },
+  {
+    "id": "PMR-05-050",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Materi mengenai jenis ketetapan pajak dan dasar penerbitannya pada bagan tersebut merujuk pada...",
+    "opsi": {
+      "A": "PMK 54/PMK.03/2021",
+      "B": "UU KUP Pasal 12",
+      "C": "PMK 17/PMK.03/2013",
+      "D": "PMK Nomor 80 Tahun 2023"
+    },
+    "kunci": "D",
+    "pembahasan": "Judul bagan mencantumkan 'Penetapan dan Ketetapan' dengan subjudul PMK Nomor 80 Tahun 2023 sebagai dasar hukum materi tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 42,
+        "kutipan": "PMK Nomor 80 Tahun 2023"
+      }
+    ],
+    "tags": [
+      "PMK 80/2023",
+      "Surat Ketetapan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-05-051",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Prinsip Self-Assessment Pasal 12 UU KUP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Prinsip Self-Assessment dalam penetapan dan ketetapan pajak diatur dalam...",
+    "opsi": {
+      "A": "Pasal 12 UU KUP",
+      "B": "Pasal 13 UU KUP",
+      "C": "Pasal 17B UU KUP",
+      "D": "Pasal 36 UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan menyatakan prinsip Self-Assessment diatur dalam Pasal 12 UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "PASAL 12 UU KUP"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 12 UU KUP",
+      "Self Assessment"
+    ]
+  },
+  {
+    "id": "PMR-05-052",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Prinsip Self-Assessment Pasal 12 UU KUP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 12 ayat (1) UU KUP, WP wajib membayar pajak terutang sesuai ketentuan perundang-undangan, dengan tidak menggantungkan pada...",
+    "opsi": {
+      "A": "persetujuan Direktur Jenderal Pajak",
+      "B": "adanya surat ketetapan pajak",
+      "C": "hasil pemeriksaan tahun sebelumnya",
+      "D": "keputusan pengadilan pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 12 ayat (1) UU KUP menyatakan WP wajib membayar pajak terutang tanpa menggantungkan pada adanya surat ketetapan pajak, sejalan dengan prinsip self-assessment.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "Setiap Wajib Pajak wajib membayar pajak yang terutang sesuai dengan ketentuan peraturan perundang-undangan perpajakan, dengan tidak menggantungkan pada adanya surat ketetapan pajak"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 12 UU KUP",
+      "Self Assessment"
+    ]
+  },
+  {
+    "id": "PMR-05-053",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Prinsip Self-Assessment Pasal 12 UU KUP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Pasal 12 ayat (3) UU KUP, apabila Direktur Jenderal Pajak mendapatkan bukti bahwa jumlah pajak terutang menurut SPT WP tidak benar, maka DJP...",
+    "opsi": {
+      "A": "membatalkan SPT tersebut",
+      "B": "memberikan teguran tertulis",
+      "C": "menetapkan jumlah pajak yang terutang",
+      "D": "mengajukan gugatan ke Pengadilan Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 12 ayat (3) UU KUP menyatakan apabila DJP mendapatkan bukti jumlah pajak terutang menurut SPT WP tidak benar, DJP menetapkan jumlah pajak yang terutang.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "Apabila Direktur Jenderal Pajak mendapatkan bukti bahwa jumlah pajak yang terutang menurut SPT yang disampaikan oleh Wajib Pajak tidak benar, Direktur Jenderal Pajak menetapkan jumlah pajak"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 12 UU KUP",
+      "Self Assessment"
+    ]
+  },
+  {
+    "id": "PMR-05-054",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Prinsip Self-Assessment Pasal 12 UU KUP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan prinsip Self-Assessment pada bagan, Wajib Pajak diberi kewenangan penuh untuk...",
+    "opsi": {
+      "A": "menetapkan sanksi administrasi sendiri",
+      "B": "mengajukan keberatan tanpa batas waktu",
+      "C": "menerbitkan surat ketetapan pajak sendiri",
+      "D": "menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan menyatakan dalam prinsip Self-Assessment, WP diberi kewenangan penuh untuk menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang yang menjadi kewajibannya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "Wajib Pajak diberi kewenangan penuh untuk menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang yang menjadi kewajibannya"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 12 UU KUP",
+      "Self Assessment"
+    ]
+  },
+  {
+    "id": "PMR-05-055",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+    "subtopik": "Prinsip Self-Assessment Pasal 12 UU KUP",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan bagan, perhitungan, pembayaran, dan pelaporan yang dilakukan WP dianggap benar, KECUALI apabila...",
+    "opsi": {
+      "A": "WP terlambat menyampaikan SPT",
+      "B": "WP mengajukan permohonan angsuran",
+      "C": "Direktur Jenderal Pajak dapat membuktikan atau memiliki data sebaliknya",
+      "D": "WP tidak memiliki NPWP"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan menyatakan perhitungan, pembayaran, dan pelaporan WP dianggap benar sepanjang Direktur Jenderal Pajak tidak dapat membuktikan atau memiliki data sebaliknya; jika DJP dapat membuktikan sebaliknya, anggapan benar tersebut gugur.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 43,
+        "kutipan": "Perhitungan, pembayaran, dan pelaporan yang dilakukan Wajib Pajak tersebut dianggap benar sepanjang Direktur Jenderal Pajak tidak dapat membuktikan atau memiliki data sebaliknya"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pasal 12 UU KUP",
+      "Self Assessment"
+    ]
+  }
+]

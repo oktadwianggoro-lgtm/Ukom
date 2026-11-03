@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "KEP-04-001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian Imbauan dilakukan terhadap pemenuhan kewajiban perpajakan Wajib Pajak yang mencakup berapa aspek kewajiban?",
+    "opsi": {
+      "A": "6 aspek kewajiban",
+      "B": "4 aspek kewajiban",
+      "C": "5 aspek kewajiban",
+      "D": "7 aspek kewajiban"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menguraikan enam aspek kewajiban (huruf a sampai f): pengukuhan PKP, pembayaran/penyetoran pajak, pelaporan pajak, angsuran pajak tahun berjalan, layanan/fasilitas perpajakan, dan kewajiban/ketentuan formal perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "dilakukan terhadap pemenuhan kewajiban perpajakan: a) pengukuhan sebagai PKP; b) pembayaran/penyetoran pajak; c) pelaporan pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu aspek kewajiban perpajakan yang menjadi dasar penerbitan Surat Imbauan adalah pemenuhan kewajiban...",
+    "opsi": {
+      "A": "pelaporan Surat Pemberitahuan Masa PPN 1111",
+      "B": "pengukuhan sebagai Pengusaha Kena Pajak",
+      "C": "pembuatan faktur pajak elektronik",
+      "D": "pengisian e-Bupot unifikasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf a pada daftar aspek kewajiban dasar Surat Imbauan adalah pengukuhan sebagai Pengusaha Kena Pajak (PKP).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "a) pengukuhan sebagai PKP;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Aspek kewajiban angsuran pajak yang menjadi dasar penerbitan Surat Imbauan adalah angsuran pajak dalam tahun pajak berjalan yang...",
+    "opsi": {
+      "A": "ditangguhkan oleh Kantor Pelayanan Pajak",
+      "B": "dibayarkan oleh pemberi kerja",
+      "C": "harus dibayar sendiri oleh Wajib Pajak",
+      "D": "dikompensasikan ke tahun pajak berikutnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf d menyebutkan 'angsuran pajak dalam tahun pajak berjalan' yang konteksnya adalah angsuran yang harus dibayar sendiri oleh Wajib Pajak (angsuran PPh Pasal 25).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "d) angsuran pajak dalam tahun pajak berjalan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain pengukuhan PKP, pembayaran, pelaporan, dan angsuran pajak, aspek kewajiban lain yang juga menjadi dasar penerbitan Surat Imbauan adalah...",
+    "opsi": {
+      "A": "keikutsertaan Wajib Pajak dalam program amnesti pajak",
+      "B": "kepemilikan Nomor Induk Berusaha",
+      "C": "keanggotaan Wajib Pajak pada asosiasi profesi",
+      "D": "layanan dan/atau fasilitas perpajakan yang diterima dan/atau dimiliki Wajib Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf e menyebutkan layanan/fasilitas perpajakan yang diterima dan/atau dimiliki oleh Wajib Pajak sebagai salah satu aspek kewajiban dasar Surat Imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "e) layanan/fasilitas perpajakan yang diterima dan/atau dimiliki oleh Wajib Pajak; dan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk aspek kewajiban perpajakan yang menjadi dasar penerbitan Surat Imbauan, KECUALI...",
+    "opsi": {
+      "A": "pemeriksaan bukti permulaan",
+      "B": "pengukuhan sebagai Pengusaha Kena Pajak",
+      "C": "pelaporan pajak",
+      "D": "kewajiban/ketentuan formal perpajakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Enam aspek dasar Surat Imbauan hanya mencakup pengukuhan PKP, pembayaran/penyetoran, pelaporan, angsuran, layanan/fasilitas, serta kewajiban/ketentuan formal perpajakan; pemeriksaan bukti permulaan bukan bagian dari daftar tersebut dan merupakan kegiatan pengawasan yang berbeda.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "f) kewajiban/ketentuan formal perpajakan sesuai ketentuan peraturan perundang-undangan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Surat Imbauan dalam rangka Pengawasan WP Terdaftar diterbitkan oleh...",
+    "opsi": {
+      "A": "Direktur Jenderal Pajak secara langsung tanpa pendelegasian",
+      "B": "Account Representative/Pegawai DJP berdasarkan surat perintah Pengawasan",
+      "C": "Kepala Kantor Wilayah DJP tanpa surat tugas",
+      "D": "Tim Pemeriksa Pajak berdasarkan surat perintah pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan bahwa Account Representative/Pegawai DJP menerbitkan Surat Imbauan berdasarkan surat perintah Pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "Account Representative/ Pegawai DJP Berdasarkan surat perintah Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu cara penyampaian Surat Imbauan kepada Wajib Pajak adalah...",
+    "opsi": {
+      "A": "melalui pengumuman di papan informasi kelurahan",
+      "B": "melalui iklan media massa nasional",
+      "C": "melalui Akun WP",
+      "D": "melalui pesan singkat (SMS) tanpa tanda terima"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan Surat Imbauan dapat disampaikan antara lain melalui Akun WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "melalui Akun WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian Surat Imbauan melalui faksimile dianggap sah apabila disertai dengan...",
+    "opsi": {
+      "A": "tanda tangan basah dari Kepala Kantor Wilayah",
+      "B": "surat pernyataan dari notaris",
+      "C": "stempel resmi Kementerian Keuangan",
+      "D": "bukti pengiriman faksimile"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan penyampaian melalui faksimile dilakukan dengan bukti pengiriman faksimile.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "melalui faksimile dengan bukti pengiriman faksimile;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penyampaian Surat Imbauan melalui pos, jasa ekspedisi, atau jasa kurir dilakukan dengan bukti pengiriman surat ke...",
+    "opsi": {
+      "A": "alamat tempat tinggal atau tempat kedudukan Wajib Pajak",
+      "B": "alamat email terdaftar Wajib Pajak",
+      "C": "alamat Kantor Wilayah DJP setempat",
+      "D": "alamat kuasa hukum yang belum memiliki surat kuasa"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan penyampaian melalui pos/jasa ekspedisi/jasa kurir disertai bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan Wajib Pajak; dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah cara/saluran penyampaian Surat Imbauan kepada Wajib Pajak yang disebutkan dalam materi?",
+    "opsi": {
+      "A": "3 cara",
+      "B": "5 cara",
+      "C": "4 cara",
+      "D": "6 cara"
+    },
+    "kunci": "B",
+    "pembahasan": "Terdapat lima cara penyampaian: melalui Akun WP, melalui pos elektronik WP, melalui faksimile, melalui pos/jasa ekspedisi/jasa kurir, dan secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "Disampaikan: - melalui Akun WP - melalui pos elektronik WP yang terdaftar dalam sistem administrasi DJP;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk cara penyampaian Surat Imbauan kepada Wajib Pajak, KECUALI...",
+    "opsi": {
+      "A": "melalui pos elektronik WP yang terdaftar dalam sistem administrasi DJP",
+      "B": "melalui faksimile dengan bukti pengiriman faksimile",
+      "C": "melalui akun media sosial resmi Direktorat Jenderal Pajak",
+      "D": "secara langsung kepada WP, wakil, kuasa, pegawai, atau anggota keluarga dewasa dari WP"
+    },
+    "kunci": "C",
+    "pembahasan": "Lima cara penyampaian Surat Imbauan hanya meliputi Akun WP, pos elektronik WP, faksimile, pos/jasa ekspedisi/jasa kurir, dan secara langsung; penyampaian melalui akun media sosial resmi DJP tidak termasuk cara yang diatur.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 21,
+        "kutipan": "secara langsung kepada WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Terhadap penyampaian Surat Imbauan secara langsung, pegawai DJP wajib membuatkan...",
+    "opsi": {
+      "A": "nota dinas internal",
+      "B": "laporan hasil pengawasan tahunan",
+      "C": "surat keterangan domisili Wajib Pajak",
+      "D": "berita acara penyampaian surat imbauan"
+    },
+    "kunci": "D",
+    "pembahasan": "Judul materi menegaskan bahwa terhadap penyampaian Surat Imbauan secara langsung dibuatkan berita acara penyampaian surat imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 22,
+        "kutipan": "Terhadap penyampaian Surat Imbauan secara langsung, dibuatkan berita acara penyampaian surat imbauan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-013",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam kondisi normal, Berita Acara Penyampaian Surat Imbauan secara langsung ditandatangani oleh...",
+    "opsi": {
+      "A": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP",
+      "B": "hanya Account Representative/Pegawai DJP yang ditugaskan",
+      "C": "Kepala Seksi Pengawasan dan Konsultasi tanpa kehadiran WP",
+      "D": "notaris yang ditunjuk oleh Kantor Pelayanan Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram menunjukkan BA ditandatangani oleh pihak yang menerima surat, yaitu WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 22,
+        "kutipan": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-014",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada saat kunjungan penyampaian Surat Imbauan, petugas tidak menemukan Wajib Pajak maupun pihak yang berwenang menerima surat tersebut. Dalam kondisi ini, Berita Acara hanya ditandatangani oleh...",
+    "opsi": {
+      "A": "Kepala Kantor Pelayanan Pajak",
+      "B": "Account Representative/Pegawai DJP yang ditugaskan",
+      "C": "ketua rukun tetangga setempat",
+      "D": "saksi yang tidak terkait dengan DJP"
+    },
+    "kunci": "B",
+    "pembahasan": "Jika WP tidak ditemukan atau tidak bersedia menerima Surat Imbauan, Berita Acara hanya ditandatangani oleh Account Representative/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 22,
+        "kutipan": "hanya ditandatangani oleh AR/Pegawai DJP yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-015",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Wajib Pajak tidak ditemukan atau tidak bersedia menerima Surat Imbauan yang disampaikan secara langsung, maka konsekuensinya adalah...",
+    "opsi": {
+      "A": "kegiatan Penyampaian Imbauan otomatis dihentikan",
+      "B": "Surat Imbauan dinyatakan batal demi hukum",
+      "C": "Wajib Pajak dianggap menerima Surat Imbauan dan tidak memberikan tanggapan",
+      "D": "petugas wajib mengulang penyampaian hingga tiga kali"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menegaskan jika WP tidak ditemukan atau tidak bersedia menerima Surat Imbauan, WP dianggap menerima Surat Imbauan dan tidak memberikan tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 22,
+        "kutipan": "WP dianggap menerima Surat Imbauan dan tidak memberikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-016",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa lama jangka waktu yang diberikan kepada Wajib Pajak untuk memberikan tanggapan atas Surat Imbauan sejak surat tersebut diterima?",
+    "opsi": {
+      "A": "7 hari",
+      "B": "21 hari",
+      "C": "30 hari",
+      "D": "14 hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan jangka waktu tanggapan Wajib Pajak atas Surat Imbauan adalah 14 hari sejak surat diterima.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "14 hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-017",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Perhitungan jangka waktu 14 hari untuk tanggapan Surat Imbauan dihitung sejak...",
+    "opsi": {
+      "A": "peristiwa yang lebih dahulu terjadi di antara beberapa kemungkinan peristiwa penyampaian",
+      "B": "tanggal terbit Surat Imbauan tanpa memperhatikan cara penyampaian",
+      "C": "tanggal rata-rata dari seluruh kemungkinan peristiwa penyampaian",
+      "D": "tanggal terakhir dari seluruh kemungkinan peristiwa penyampaian"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan jangka waktu dihitung sejak peristiwa yang lebih dahulu terjadi di antara beberapa titik acuan penyampaian.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "sejak peristiwa yang lebih dahulu antara"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-018",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Surat Imbauan disampaikan melalui Akun Wajib Pajak, titik awal perhitungan 14 hari dihitung sejak...",
+    "opsi": {
+      "A": "tanggal Wajib Pajak membuka Akun WP",
+      "B": "tanggal penerbitan surat imbauan",
+      "C": "tanggal penutupan masa pajak berjalan",
+      "D": "tanggal konfirmasi telepon dari Account Representative"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf a menyebutkan titik acuan berupa tanggal penerbitan surat imbauan dalam hal disampaikan melalui Akun Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "tanggal penerbitan surat imbauan dalam hal disampaikan melalui Akun Wajib Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-019",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Surat Imbauan disampaikan melalui pos elektronik Wajib Pajak yang terdaftar dalam sistem administrasi DJP, titik awal perhitungan 14 hari dihitung sejak...",
+    "opsi": {
+      "A": "tanggal surat imbauan dibuka oleh Wajib Pajak",
+      "B": "tanggal Wajib Pajak membalas pos elektronik",
+      "C": "tanggal pengiriman surat imbauan melalui pos elektronik tersebut",
+      "D": "tanggal berakhirnya masa aktif pos elektronik"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf b menyebutkan titik acuan berupa tanggal pengiriman surat imbauan melalui pos elektronik WP yang terdaftar dalam sistem administrasi DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "tanggal pengiriman surat imbauan melalui pos elektronik Wajib Pajak yang terdaftar dalam sistem administrasi Direktorat Jenderal Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-020",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Surat Imbauan disampaikan melalui pos, jasa ekspedisi, atau jasa kurir, titik awal perhitungan 14 hari dihitung sejak...",
+    "opsi": {
+      "A": "tanggal penerbitan surat imbauan",
+      "B": "tanggal Wajib Pajak menghubungi Account Representative",
+      "C": "tanggal akhir masa pajak terkait",
+      "D": "tanggal bukti pengiriman surat imbauan"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf d menyebutkan titik acuan berupa tanggal bukti pengiriman surat imbauan melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "tanggal bukti pengiriman surat imbauan melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-021",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk peristiwa yang menjadi titik awal perhitungan jangka waktu 14 hari tanggapan Surat Imbauan, KECUALI...",
+    "opsi": {
+      "A": "tanggal diterbitkannya Surat Ketetapan Pajak oleh Kantor Pelayanan Pajak",
+      "B": "tanggal penerbitan surat imbauan dalam hal disampaikan melalui Akun Wajib Pajak",
+      "C": "tanggal bukti pengiriman surat imbauan melalui faksimile",
+      "D": "tanggal bukti pengiriman surat imbauan melalui pos, jasa ekspedisi, atau jasa kurir"
+    },
+    "kunci": "A",
+    "pembahasan": "Titik awal perhitungan hanya mengacu pada peristiwa penyampaian Surat Imbauan (melalui Akun WP, pos elektronik, faksimile, pos/jasa ekspedisi/kurir, atau langsung), bukan pada penerbitan Surat Ketetapan Pajak yang merupakan produk hukum berbeda.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "tanggal bukti pengiriman surat imbauan melalui faksimile dalam hal disampaikan melalui faksimile;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-022",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa peristiwa (titik acuan) yang digunakan untuk menentukan permulaan jangka waktu 14 hari tanggapan atas Surat Imbauan?",
+    "opsi": {
+      "A": "3 peristiwa",
+      "B": "5 peristiwa",
+      "C": "4 peristiwa",
+      "D": "6 peristiwa"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menguraikan lima peristiwa (huruf a sampai e) sebagai titik acuan, yaitu terkait Akun WP, pos elektronik, faksimile, pos/jasa ekspedisi/kurir, dan penyampaian secara langsung; perhitungan 14 hari dimulai dari peristiwa yang lebih dahulu terjadi di antara kelimanya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "sejak peristiwa yang lebih dahulu antara"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-023",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak dapat memberikan tanggapan atas Surat Imbauan dengan dua bentuk, yaitu memenuhi kewajiban perpajakan dan/atau...",
+    "opsi": {
+      "A": "mengajukan keberatan ke Pengadilan Pajak",
+      "B": "meminta penangguhan pemeriksaan",
+      "C": "menyampaikan penjelasan atas kewajiban perpajakan sebagaimana tercantum dalam Surat Imbauan",
+      "D": "mengajukan permohonan pengurangan sanksi administrasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan tanggapan WP berupa a) memenuhi kewajiban perpajakan; dan/atau b) menyampaikan penjelasan atas kewajiban perpajakan sebagaimana tercantum dalam Surat Imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 23,
+        "kutipan": "menyampaikan penjelasan atas kewajiban perpajakan, sebagaimana tercantum dalam Surat Imbauan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-024",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penyampaian penjelasan oleh Wajib Pajak sebagai bentuk tanggapan atas Surat Imbauan dapat dilakukan melalui Akun WP dengan syarat...",
+    "opsi": {
+      "A": "Wajib Pajak memiliki sertifikat elektronik aktif",
+      "B": "Wajib Pajak berdomisili di wilayah kerja Kantor Pelayanan Pajak Madya",
+      "C": "Wajib Pajak telah menunjuk kuasa hukum resmi",
+      "D": "Wajib Pajak telah melakukan aktivasi Akun WP dan tersedia saluran penyampaian melalui Akun WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf a menyebutkan penyampaian penjelasan melalui Akun WP dapat dilakukan dalam hal WP telah melakukan aktivasi Akun WP dan surat imbauan telah tersedia saluran penyampaian melalui Akun WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "melalui Akun WP, dalam hal WP telah melakukan aktivasi Akun WP dan surat imbauan telah tersedia saluran penyampaian melalui Akun WP;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-025",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penyampaian penjelasan melalui pos, jasa ekspedisi, atau jasa kurir dilakukan dengan bukti pengiriman surat yang ditujukan ke...",
+    "opsi": {
+      "A": "Kantor Pelayanan Pajak yang menerbitkan surat imbauan",
+      "B": "Kantor Wilayah DJP yang membawahi Wajib Pajak",
+      "C": "alamat domisili Account Representative",
+      "D": "Direktorat Jenderal Pajak pusat"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf b menyebutkan penyampaian melalui pos/jasa ekspedisi/jasa kurir dengan bukti pengiriman surat ke Kantor Pelayanan Pajak yang menerbitkan surat imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat ke Kantor Pelayanan Pajak yang menerbitkan surat imbauan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-026",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak dapat menyampaikan penjelasan secara langsung pada saat dilakukan...",
+    "opsi": {
+      "A": "Pemeriksaan Bukti Permulaan",
+      "B": "Kunjungan",
+      "C": "Penagihan Aktif",
+      "D": "Penyidikan"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf c menyebutkan penyampaian penjelasan secara langsung dapat dilakukan pada saat dilakukan Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "secara langsung pada saat dilakukan Kunjungan; dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-027",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu cara penyampaian penjelasan secara langsung oleh Wajib Pajak adalah datang ke...",
+    "opsi": {
+      "A": "Kantor Wilayah DJP Wajib Besar",
+      "B": "kantor notaris rekanan DJP",
+      "C": "Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan",
+      "D": "Pengadilan Pajak setempat"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf d angka 1 menyebutkan penyampaian langsung ke Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "ke Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-028",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selain ke Kantor Pelayanan Pajak penerbit surat, Wajib Pajak juga dapat menyampaikan penjelasan secara langsung ke...",
+    "opsi": {
+      "A": "Kantor Pusat Direktorat Jenderal Pajak",
+      "B": "Kantor Wilayah Bea dan Cukai terdekat",
+      "C": "Dinas Pendapatan Daerah setempat",
+      "D": "Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan di bawah Kantor Pelayanan Pajak penerbit surat"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf d angka 2 menyebutkan penyampaian dapat dilakukan ke Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan yang berada di bawah Kantor Pelayanan Pajak penerbit surat.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "ke Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan yang berada di bawah Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-029",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penyampaian penjelasan secara langsung oleh Wajib Pajak juga dapat dilakukan melalui media daring dengan...",
+    "opsi": {
+      "A": "video conference",
+      "B": "pesan singkat berbasis aplikasi",
+      "C": "surat elektronik tanpa tanda tangan",
+      "D": "panggilan telepon biasa"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf d angka 3 menyebutkan penyampaian dapat dilakukan melalui media daring dengan video conference.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "melalui media daring dengan video conference."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-030",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada penyampaian penjelasan secara langsung (huruf d), tersedia berapa pilihan tempat/metode yang dapat dipilih Wajib Pajak?",
+    "opsi": {
+      "A": "2 pilihan",
+      "B": "3 pilihan",
+      "C": "4 pilihan",
+      "D": "5 pilihan"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf d memuat tiga pilihan: 1) ke Kantor Pelayanan Pajak penerbit surat; 2) ke Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan di bawahnya; atau 3) melalui media daring dengan video conference.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "secara langsung: 1) ke Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-031",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk cara penyampaian penjelasan oleh Wajib Pajak atas Surat Imbauan, KECUALI...",
+    "opsi": {
+      "A": "melalui Akun WP yang telah diaktivasi",
+      "B": "melalui pos, jasa ekspedisi, atau jasa kurir ke Kantor Pelayanan Pajak penerbit surat",
+      "C": "melalui pengumuman resmi di situs web Kantor Pelayanan Pajak",
+      "D": "melalui media daring dengan video conference"
+    },
+    "kunci": "C",
+    "pembahasan": "Cara penyampaian penjelasan yang diatur meliputi Akun WP, pos/jasa ekspedisi/kurir, langsung saat Kunjungan, serta langsung ke kantor pajak atau video conference; pengumuman di situs web bukan merupakan cara penyampaian tanggapan oleh WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 24,
+        "kutipan": "secara langsung: 1) ke Kantor Pelayanan Pajak yang menerbitkan surat permintaan penjelasan atas data dan/atau keterangan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-032",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak telah menyampaikan tanggapan atas Surat Imbauan, namun kemudian ingin melengkapi tanggapannya dengan data tambahan sebelum batas waktu berakhir. Berdasarkan ketentuan, tindakan tersebut...",
+    "opsi": {
+      "A": "tidak diperkenankan karena tanggapan hanya dapat disampaikan satu kali",
+      "B": "hanya diperkenankan apabila mendapat izin tertulis dari Direktur Jenderal Pajak",
+      "C": "hanya diperkenankan apabila dilakukan melalui pengadilan pajak",
+      "D": "diperkenankan karena WP dapat menyampaikan tanggapan lebih dari satu kali dengan memperhatikan jangka waktu penyampaian"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan WP dapat menyampaikan tanggapan lebih dari 1 (satu) kali dengan memperhatikan jangka waktu penyampaian tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 25,
+        "kutipan": "WP dapat menyampaikan tanggapan sebagaimana dimaksud pada ayat (1) lebih dari 1 (satu) kali, dengan memperhatikan jangka waktu penyampaian tanggapan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-033",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Sesuai ketentuan, Wajib Pajak dapat menyampaikan tanggapan atas Surat Imbauan sebanyak...",
+    "opsi": {
+      "A": "lebih dari 1 kali dengan memperhatikan jangka waktu penyampaian",
+      "B": "hanya 1 kali",
+      "C": "maksimal 2 kali",
+      "D": "tanpa batas tanpa memperhatikan jangka waktu"
+    },
+    "kunci": "A",
+    "pembahasan": "WP dapat menyampaikan tanggapan lebih dari 1 (satu) kali, namun tetap harus memperhatikan jangka waktu penyampaian tanggapan yang berlaku.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 25,
+        "kutipan": "WP dapat menyampaikan tanggapan sebagaimana dimaksud pada ayat (1) lebih dari 1 (satu) kali"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-034",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila hingga batas waktu 14 hari Wajib Pajak sama sekali tidak menyampaikan tanggapan atas Surat Imbauan, maka terhadap WP tersebut dapat dilakukan...",
+    "opsi": {
+      "A": "penyitaan aset secara langsung",
+      "B": "Pembahasan atau Kunjungan",
+      "C": "pemblokiran rekening tanpa pemberitahuan",
+      "D": "pencabutan status PKP secara otomatis"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan jika WP tidak menyampaikan tanggapan, dapat dilakukan Pembahasan atau Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 26,
+        "kutipan": "Tidak menyampaikan tanggapan Dapat dilakukan Pembahasan atau Kunjungan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-035",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Atas tanggapan yang disampaikan Wajib Pajak terkait Surat Imbauan, pegawai DJP melakukan...",
+    "opsi": {
+      "A": "Pemeriksaan Bukti Permulaan",
+      "B": "Penyidikan tindak pidana perpajakan",
+      "C": "Penelitian atas tanggapan",
+      "D": "Penagihan seketika dan sekaligus"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan alur: Wajib Pajak memberikan tanggapan, kemudian dilakukan Penelitian atas tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 26,
+        "kutipan": "dilakukan Penelitian atas tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-036",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan hasil penelitian, apabila diketahui bahwa tanggapan Wajib Pajak atas Surat Imbauan tidak sesuai, maka dapat dilakukan...",
+    "opsi": {
+      "A": "penerbitan Surat Ketetapan Pajak secara otomatis",
+      "B": "pemeriksaan lapangan tanpa pemberitahuan",
+      "C": "penghentian seluruh kegiatan pengawasan",
+      "D": "Pembahasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menunjukkan jika tanggapan WP tidak sesuai, dapat dilakukan Pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 26,
+        "kutipan": "Tanggapan WP tidak sesuai Dapat dilakukan Pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-037",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Ketentuan mengenai pembahasan dan pembuatan berita acara pelaksanaan penyampaian imbauan mengacu secara mutatis mutandis pada ketentuan pembahasan dan berita acara pelaksanaan...",
+    "opsi": {
+      "A": "permintaan penjelasan atas data dan/atau keterangan",
+      "B": "pemeriksaan pajak",
+      "C": "keberatan dan banding",
+      "D": "penagihan pajak dengan surat paksa"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan ketentuan pembahasan dan berita acara pelaksanaan permintaan penjelasan atas data dan/atau keterangan berlaku secara mutatis mutandis terhadap pembahasan dan berita acara pelaksanaan penyampaian imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "berlaku secara mutatis mutandis terhadap pembahasan dan pembuatan berita acara pelaksanaan penyampaian imbauan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-038",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan dengan Wajib Pajak atas tanggapan Surat Imbauan dapat dilakukan oleh Direktur Jenderal Pajak dengan cara...",
+    "opsi": {
+      "A": "memanggil WP melalui pengumuman media massa",
+      "B": "menerbitkan surat undangan pembahasan",
+      "C": "melimpahkan kewenangan ke Pengadilan Pajak",
+      "D": "menunjuk notaris sebagai mediator"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan Direktur Jenderal Pajak dapat melakukan pembahasan dengan WP dengan menerbitkan surat undangan pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "Direktur Jenderal Pajak dapat melakukan pembahasan dengan WP dengan menerbitkan surat undangan pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-039",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan atas Surat Imbauan dilakukan terhadap surat imbauan, tanggapan WP, dan...",
+    "opsi": {
+      "A": "laporan keuangan audited lima tahun terakhir",
+      "B": "riwayat kepatuhan WP sejak NPWP terbit",
+      "C": "data dan/atau keterangan tambahan yang diperoleh setelah surat imbauan disampaikan",
+      "D": "putusan pengadilan terkait WP"
+    },
+    "kunci": "C",
+    "pembahasan": "Pembahasan dilakukan terhadap surat imbauan, tanggapan WP (jika ada), dan data/keterangan tambahan yang diperoleh setelah surat imbauan disampaikan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "data dan/atau keterangan tambahan, dalam hal terdapat data dan/atau keterangan tambahan yang diperoleh setelah surat imbauan disampaikan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-040",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini termasuk objek yang dibahas dalam Pembahasan atas Tanggapan Surat Imbauan, KECUALI...",
+    "opsi": {
+      "A": "surat imbauan",
+      "B": "tanggapan WP",
+      "C": "data dan/atau keterangan tambahan",
+      "D": "laporan hasil pemeriksaan bukti permulaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek pembahasan hanya meliputi surat imbauan, tanggapan WP, dan data/keterangan tambahan; laporan hasil pemeriksaan bukti permulaan bukan bagian dari objek pembahasan atas Surat Imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "Pembahasan dilakukan terhadap: surat imbauan tanggapan WP, dalam hal WP menyampaikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-041",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan atas Tanggapan Surat Imbauan dilakukan secara luring dengan tatap muka langsung atau secara daring dengan...",
+    "opsi": {
+      "A": "video conference",
+      "B": "panggilan telepon tanpa rekaman",
+      "C": "surat elektronik satu arah",
+      "D": "pesan singkat berbasis aplikasi"
+    },
+    "kunci": "A",
+    "pembahasan": "Pembahasan dilakukan secara a) luring dengan tatap muka langsung; atau b) daring dengan video conference, sesuai dengan undangan pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "daring dengan video conference, sesuai dengan undangan pembahasan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-042",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Dalam hal diperlukan, pembahasan berikutnya setelah pembahasan pertama dapat dilakukan dengan cara...",
+    "opsi": {
+      "A": "mengajukan permohonan ke Pengadilan Pajak",
+      "B": "menerbitkan surat undangan pembahasan baru atau sesuai kesepakatan dalam berita acara pelaksanaan penyampaian imbauan",
+      "C": "menunggu instruksi dari Kementerian Keuangan",
+      "D": "menghentikan seluruh proses pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan pembahasan berikutnya dapat dilakukan dengan menerbitkan surat undangan pembahasan baru, atau sesuai kesepakatan yang tertuang dalam berita acara pelaksanaan penyampaian imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "dapat dilakukan pembahasan berikutnya dengan menerbitkan surat undangan pembahasan baru; atau sesuai dengan kesepakatan yang tertuang dalam berita acara"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-043",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Berita acara pelaksanaan penyampaian imbauan atas hasil pembahasan dibuat oleh...",
+    "opsi": {
+      "A": "notaris yang ditunjuk WP",
+      "B": "konsultan pajak pendamping WP",
+      "C": "Account Representative atau pegawai DJP yang ditugaskan",
+      "D": "Kepala Kantor Wilayah DJP secara pribadi"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan terhadap hasil pembahasan dibuatkan berita acara pelaksanaan penyampaian imbauan yang dibuat oleh Account Representative atau pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "dibuat oleh Account Representative atau pegawai DJP yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-044",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Pembahasan atas Tanggapan Surat Imbauan dilaksanakan secara daring melalui video conference. Dalam hal ini, berita acara pelaksanaan penyampaian imbauan...",
+    "opsi": {
+      "A": "tidak perlu dibuat karena dilakukan secara daring",
+      "B": "harus ditandatangani di hadapan notaris",
+      "C": "batal demi hukum karena tidak tatap muka langsung",
+      "D": "ditandatangani secara elektronik"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan dalam hal pembahasan secara daring, berita acara ditandatangani secara elektronik.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "dalam hal pembahasan secara daring, berita acara ditandatangai secara elektronik"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-045",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Wajib Pajak hadir dalam pembahasan atas tanggapan Surat Imbauan, namun menolak menandatangani berita acara pelaksanaan penyampaian imbauan. Dalam kondisi ini, berita acara tersebut ditandatangani oleh...",
+    "opsi": {
+      "A": "Account Representative dan/atau pegawai DJP yang ditugaskan",
+      "B": "saksi independen dari luar DJP",
+      "C": "kuasa hukum WP tanpa persetujuan WP",
+      "D": "Kepala Kantor Pelayanan Pajak secara pribadi"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan berita acara ditandatangani oleh Account Representative dan/atau pegawai DJP yang ditugaskan dalam hal WP menghadiri pembahasan namun tidak bersedia menandatangani berita acara.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "WP menghadiri pembahasan namun tidak bersedia menandatangani berita acara pelaksanaan penyampaian imbauan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-046",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Pembahasan atas Tanggapan Surat Imbauan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Surat undangan pembahasan atas Tanggapan Surat Imbauan dapat disampaikan kepada Wajib Pajak melalui...",
+    "opsi": {
+      "A": "pengumuman di media sosial pribadi pegawai DJP",
+      "B": "Akun WP",
+      "C": "surat kabar nasional",
+      "D": "radio komunitas setempat"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan surat undangan pembahasan disampaikan kepada WP melalui Akun WP, pos elektronik WP, pos/jasa ekspedisi/kurir, dan/atau secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 27,
+        "kutipan": "Surat undangan pembahasan disampaikan kepada Wajib Pajak melalui Akun WP;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-047",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah usulan tindak lanjut yang dapat dihasilkan dari kegiatan Penyampaian Imbauan sebagaimana diuraikan dalam materi (huruf a sampai l)?",
+    "opsi": {
+      "A": "10 usulan",
+      "B": "11 usulan",
+      "C": "12 usulan",
+      "D": "13 usulan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menguraikan dua belas usulan hasil kegiatan Penyampaian Imbauan, dari huruf a hingga huruf l.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "Usulan berupa: a. penutupan kegiatan penyampaian imbauan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-048",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu usulan hasil kegiatan Penyampaian Imbauan apabila Wajib Pajak telah memenuhi kewajibannya adalah...",
+    "opsi": {
+      "A": "pemblokiran seluruh rekening WP",
+      "B": "pencabutan izin usaha WP",
+      "C": "pembekuan sementara NPWP",
+      "D": "penutupan kegiatan penyampaian imbauan"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf a menyebutkan usulan berupa penutupan kegiatan penyampaian imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "penutupan kegiatan penyampaian imbauan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-049",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu usulan hasil kegiatan Penyampaian Imbauan terkait kewajiban angsuran adalah...",
+    "opsi": {
+      "A": "penetapan nilai angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak",
+      "B": "pembebasan angsuran pajak secara permanen",
+      "C": "pengalihan kewajiban angsuran kepada pihak ketiga",
+      "D": "penghapusan seluruh tunggakan angsuran"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf b menyebutkan usulan berupa penetapan nilai angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "penetapan nilai angsuran pajak dalam tahun pajak berjalan yang harus dibayar sendiri oleh Wajib Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-050",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Jika hasil kegiatan Penyampaian Imbauan menunjukkan Wajib Pajak belum dikukuhkan sebagai Pengusaha Kena Pajak padahal telah memenuhi syarat, usulan yang tepat adalah...",
+    "opsi": {
+      "A": "penghapusan Nomor Pokok Wajib Pajak secara jabatan",
+      "B": "pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "C": "pencabutan pemungut Bea Meterai",
+      "D": "pembatasan layanan publik tertentu"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf e menyebutkan usulan berupa pengukuhan Pengusaha Kena Pajak secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "pengukuhan Pengusaha Kena Pajak secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-051",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Usulan hasil kegiatan Penyampaian Imbauan terkait objek Pajak Bumi dan Bangunan yang belum terdaftar adalah...",
+    "opsi": {
+      "A": "penghapusan objek pajak Pajak Bumi dan Bangunan",
+      "B": "pembebasan Pajak Bumi dan Bangunan secara permanen",
+      "C": "pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan",
+      "D": "pengalihan objek pajak kepada pemerintah daerah"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf f menyebutkan usulan berupa pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-052",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila data objek Pajak Bumi dan Bangunan milik Wajib Pajak perlu dimutakhirkan berdasarkan hasil Penyampaian Imbauan, usulan yang sesuai adalah...",
+    "opsi": {
+      "A": "penghapusan surat pemberitahuan pajak terutang",
+      "B": "pencabutan pendaftaran objek pajak secara permanen",
+      "C": "pengalihan objek pajak kepada ahli waris",
+      "D": "perubahan data objek pajak Pajak Bumi dan Bangunan secara jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf g menyebutkan usulan berupa perubahan data objek pajak Pajak Bumi dan Bangunan secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "perubahan data objek pajak Pajak Bumi dan Bangunan secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-053",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Usulan hasil kegiatan Penyampaian Imbauan terkait surat keterangan terdaftar objek Pajak Bumi dan Bangunan yang sudah tidak relevan adalah...",
+    "opsi": {
+      "A": "pencabutan pendaftaran surat keterangan terdaftar objek pajak Pajak Bumi dan Bangunan secara jabatan",
+      "B": "penerbitan surat ketetapan pajak kurang bayar",
+      "C": "penangguhan pembayaran Pajak Bumi dan Bangunan",
+      "D": "pengalihan kewenangan ke pemerintah daerah"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf h menyebutkan usulan berupa pencabutan pendaftaran surat keterangan terdaftar objek pajak Pajak Bumi dan Bangunan secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "pencabutan pendaftaran surat keterangan terdaftar objek pajak Pajak Bumi dan Bangunan secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-054",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Usulan hasil kegiatan Penyampaian Imbauan terkait administrasi layanan dan fasilitas perpajakan Wajib Pajak adalah...",
+    "opsi": {
+      "A": "pembatalan seluruh fasilitas perpajakan tanpa evaluasi",
+      "B": "perubahan administrasi layanan perpajakan dan/atau administrasi fasilitas perpajakan yang diterima atau dimiliki Wajib Pajak",
+      "C": "pemberian fasilitas perpajakan tambahan secara otomatis",
+      "D": "pengalihan fasilitas perpajakan kepada WP lain"
+    },
+    "kunci": "B",
+    "pembahasan": "Huruf j menyebutkan usulan berupa perubahan administrasi layanan perpajakan dan/atau administrasi fasilitas perpajakan yang diterima atau dimiliki Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "perubahan administrasi layanan perpajakan dan/atau administrasi fasilitas perpajakan yang diterima atau dimiliki Wajib Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-055",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu usulan hasil kegiatan Penyampaian Imbauan yang berkaitan dengan Bea Meterai adalah...",
+    "opsi": {
+      "A": "penetapan tarif Bea Meterai baru",
+      "B": "pembebasan Bea Meterai untuk seluruh dokumen",
+      "C": "pencabutan pemungut Bea Meterai",
+      "D": "penunjukan pemungut Bea Meterai baru"
+    },
+    "kunci": "C",
+    "pembahasan": "Huruf k menyebutkan usulan berupa pencabutan pemungut Bea Meterai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "pencabutan pemungut Bea Meterai; dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-056",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Usulan terakhir (huruf l) dalam hasil kegiatan Penyampaian Imbauan adalah...",
+    "opsi": {
+      "A": "penyitaan aset Wajib Pajak",
+      "B": "pencabutan status Wajib Pajak secara permanen",
+      "C": "pelimpahan berkas ke penyidik pajak",
+      "D": "pembatasan atau pemblokiran layanan publik tertentu"
+    },
+    "kunci": "D",
+    "pembahasan": "Huruf l menyebutkan usulan berupa pembatasan atau pemblokiran layanan publik tertentu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "pembatasan atau pemblokiran layanan publik tertentu."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-057",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jika hasil Penyampaian Imbauan menunjukkan terdapat kesalahan status Wajib Pajak yang perlu dikoreksi, usulan yang sesuai adalah...",
+    "opsi": {
+      "A": "perubahan status secara jabatan",
+      "B": "penerbitan Nomor Pokok Wajib Pajak baru",
+      "C": "penghentian seluruh kewajiban pelaporan",
+      "D": "pembekuan sertifikat elektronik WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Huruf i menyebutkan usulan berupa perubahan status secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "perubahan status secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-058",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk usulan hasil kegiatan Penyampaian Imbauan sebagaimana diuraikan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "penghapusan Nomor Pokok Wajib Pajak secara jabatan",
+      "B": "penerbitan Surat Ketetapan Pajak Kurang Bayar",
+      "C": "perubahan data secara jabatan",
+      "D": "pengukuhan Pengusaha Kena Pajak secara jabatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Dua belas usulan hasil Penyampaian Imbauan (huruf a-l) tidak mencakup penerbitan Surat Ketetapan Pajak Kurang Bayar, yang merupakan produk hukum dari kegiatan pemeriksaan, bukan dari Penyampaian Imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "penghapusan Nomor Pokok Wajib Pajak secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-059",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk usulan hasil kegiatan Penyampaian Imbauan, KECUALI...",
+    "opsi": {
+      "A": "perubahan data secara jabatan",
+      "B": "pembatasan atau pemblokiran layanan publik tertentu",
+      "C": "pemeriksaan bukti permulaan terhadap Wajib Pajak",
+      "D": "pencabutan pemungut Bea Meterai"
+    },
+    "kunci": "C",
+    "pembahasan": "Dua belas usulan hasil Penyampaian Imbauan merupakan tindakan administratif (penutupan kegiatan, penetapan angsuran, perubahan/penghapusan data secara jabatan, dan sejenisnya), bukan pemeriksaan bukti permulaan yang merupakan kegiatan pengawasan berbeda.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "perubahan data secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-04-060",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Penyampaian Imbauan",
+    "subtopik": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Hasil kegiatan Penyampaian Imbauan menunjukkan bahwa Wajib Pajak orang pribadi yang semula berstatus karyawan kini telah terdaftar sebagai pemungut dokumen yang tidak lagi memenuhi kriteria sebagai pemungut Bea Meterai. Usulan tindak lanjut yang paling tepat adalah...",
+    "opsi": {
+      "A": "penghapusan Nomor Pokok Wajib Pajak secara jabatan",
+      "B": "pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "C": "pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan",
+      "D": "pencabutan pemungut Bea Meterai"
+    },
+    "kunci": "D",
+    "pembahasan": "Usulan huruf k secara spesifik mengatur pencabutan pemungut Bea Meterai sebagai tindak lanjut hasil Penyampaian Imbauan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 28,
+        "kutipan": "pencabutan pemungut Bea Meterai; dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  }
+]

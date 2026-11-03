@@ -1,0 +1,1714 @@
+[
+ {
+  "id": "ADV-08-001",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-257/PMK.011/2011 - PPh atas Uplift dan Pengalihan Participating Interest (Migas)",
+  "tipe": "angka",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan PMK 257/PMK.011/2011, penghasilan Kontraktor berupa Uplift atau imbalan lain yang sejenis dikenai Pajak Penghasilan final dengan tarif sebesar...",
+  "opsi": {
+   "A": "7% dari jumlah bruto",
+   "B": "20% dari jumlah bruto",
+   "C": "5% dari jumlah bruto",
+   "D": "0,1% dari jumlah bruto"
+  },
+  "kunci": "B",
+  "pembahasan": "Sesuai PMK 257/PMK.011/2011, penghasilan Uplift atau imbalan lain yang sejenis dikenai Pajak Penghasilan yang bersifat final dengan tarif 20% dari jumlah bruto, dipotong oleh Kontraktor yang melakukan pembayaran pada saat penghasilan dibayar atau diakui sebagai biaya.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 417,
+    "kutipan": "20% jumlah bruto"
+   }
+  ],
+  "tags": [
+   "PMK 257/PMK.011/2011"
+  ]
+ },
+ {
+  "id": "ADV-08-002",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-257/PMK.011/2011 - PPh atas Uplift dan Pengalihan Participating Interest (Migas)",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai PMK 257/PMK.011/2011, besaran tarif PPh final atas pengalihan Participating Interest (PI) oleh Kontraktor migas adalah...",
+  "opsi": {
+   "A": "5% dari jumlah bruto untuk masa Eksplorasi dan 7% dari jumlah bruto untuk masa Eksploitasi",
+   "B": "20% dari jumlah bruto untuk masa Eksplorasi dan Eksploitasi",
+   "C": "7% dari jumlah bruto untuk masa Eksplorasi dan 5% dari jumlah bruto untuk masa Eksploitasi",
+   "D": "5% dari jumlah bruto untuk masa Eksplorasi dan Eksploitasi"
+  },
+  "kunci": "A",
+  "pembahasan": "Tarif PPh final atas pengalihan PI adalah 5% dari jumlah bruto untuk pengalihan PI selama masa Eksplorasi, dan 7% dari jumlah bruto untuk pengalihan PI selama masa Eksploitasi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 420,
+    "kutipan": "5% dari jumlah bruto, untuk pengalihan PI selama masa Eksplorasi"
+   },
+   {
+    "pdf": "B",
+    "halaman": 420,
+    "kutipan": "7% dari jumlah bruto, untuk pengalihan PI selama masa Eksploitasi"
+   }
+  ],
+  "tags": [
+   "PMK 257/PMK.011/2011"
+  ]
+ },
+ {
+  "id": "ADV-08-003",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-257/PMK.011/2011 - PPh atas Uplift dan Pengalihan Participating Interest (Migas)",
+  "tipe": "dasar_hukum",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Ketentuan bahwa Penghasilan Kena Pajak sesudah dikurangi PPh final atas Uplift tidak dikenai Pajak Penghasilan merupakan perubahan sebagaimana diatur dalam...",
+  "opsi": {
+   "A": "Pasal 18 ayat (4) Undang-Undang Pajak Penghasilan",
+   "B": "Pasal 4 ayat (1) huruf d Undang-Undang Pajak Penghasilan",
+   "C": "PP 93 Tahun 2021",
+   "D": "Pasal 27 ayat (1a) PP 27 Tahun 2017"
+  },
+  "kunci": "D",
+  "pembahasan": "Ketentuan bahwa Penghasilan Kena Pajak sesudah dikurangi Pajak Penghasilan final yang berasal dari Uplift atau imbalan lain yang sejenis tidak dikenai Pajak Penghasilan merupakan perubahan yang telah diatur dengan Pasal 27 ayat (1a) PP 27 Tahun 2017.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 417,
+    "kutipan": "Telah diubah dengan Pasal 27 ayat (1a) PP 27 Tahun 2017"
+   }
+  ],
+  "tags": [
+   "PMK 257/PMK.011/2011",
+   "Pasal 27 ayat (1a) PP 27 Tahun 2017"
+  ]
+ },
+ {
+  "id": "ADV-08-004",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-257/PMK.011/2011 - PPh atas Uplift dan Pengalihan Participating Interest (Migas)",
+  "tipe": "kasus",
+  "kesulitan": "sulit",
+  "prioritas": 1,
+  "pertanyaan": "Kontraktor X mengalihkan sebagian kepemilikan Participating Interest (PI) secara langsung dalam masa Eksplorasi. PI tersebut telah dimiliki selama 4 tahun dan di Wilayah Kerja telah dilakukan investasi pada kegiatan Eksplorasi. Namun, pengalihan tersebut dilakukan dengan tujuan memperoleh keuntungan. Bagaimana perlakuan PPh atas pengalihan PI tersebut sesuai PMK 257/PMK.011/2011?",
+  "opsi": {
+   "A": "Tetap dikenai PPh final karena tidak memenuhi seluruh kriteria pengalihan PI yang tidak dikenai PPh final",
+   "B": "Tidak dikenai PPh final karena telah memenuhi kriteria kepemilikan PI lebih dari 3 tahun",
+   "C": "Tidak dikenai PPh final karena pengalihan dilakukan hanya sebagian, bukan seluruhnya",
+   "D": "Tidak dikenai PPh final karena telah ada investasi pada kegiatan Eksplorasi di Wilayah Kerja"
+  },
+  "kunci": "A",
+  "pembahasan": "Pengalihan PI pada masa Eksplorasi tidak dikenai PPh final hanya apabila memenuhi seluruh kriteria, yaitu: tidak mengalihkan seluruh PI, PI telah dimiliki lebih dari 3 tahun, telah ada investasi Eksplorasi di Wilayah Kerja, dan pengalihan PI tidak dimaksudkan untuk memperoleh keuntungan. Karena pada kasus ini pengalihan bertujuan memperoleh keuntungan, salah satu kriteria tidak terpenuhi sehingga pengalihan tetap dikenai PPh final.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 419,
+    "kutipan": "Dalam masa Eksplorasi, apabila memenuhi seluruh kriteria:"
+   },
+   {
+    "pdf": "B",
+    "halaman": 419,
+    "kutipan": "d. pengalihan PI tidak dimaksudkan untuk memperoleh keuntungan"
+   }
+  ],
+  "tags": [
+   "PMK 257/PMK.011/2011",
+   "PP 93/2021"
+  ]
+ },
+ {
+  "id": "ADV-08-005",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-34/PMK.010/2017 - Pemungutan PPh Pasal 22",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "PMK 34/PMK.010/2017 mengatur mengenai Pemungutan PPh Pasal 22 sehubungan dengan pembayaran atas penyerahan barang dan kegiatan di bidang...",
+  "opsi": {
+   "A": "Pengalihan Participating Interest Kontraktor migas",
+   "B": "Penjualan saham di bursa efek",
+   "C": "Impor atau kegiatan usaha di bidang lain",
+   "D": "Premi asuransi dan reasuransi ke luar negeri"
+  },
+  "kunci": "C",
+  "pembahasan": "PMK 34/PMK.010/2017 mengatur Pemungutan PPh Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 421,
+    "kutipan": "Pemungutan PPh Pasal 22 Sehubungan dengan Pembayaran atas Penyerahan Barang dan Kegiatan di Bidang Impor atau Kegiatan Usaha di Bidang Lain"
+   }
+  ],
+  "tags": [
+   "PMK 34/PMK.010/2017"
+  ]
+ },
+ {
+  "id": "ADV-08-006",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-34/PMK.010/2017 - Pemungutan PPh Pasal 22",
+  "tipe": "fakta",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai PMK 34/PMK.010/2017, pemungut PPh Pasal 22 yang sebelumnya disebut 'bendahara pemerintah' kini disebut sebagai...",
+  "opsi": {
+   "A": "Badan Usaha Tertentu",
+   "B": "Instansi Pemerintah",
+   "C": "Bank Devisa",
+   "D": "Emiten"
+  },
+  "kunci": "B",
+  "pembahasan": "Pemungut PPh Pasal 22 yang sebelumnya disebut sebagai 'bendahara pemerintah' kini disebut sebagai 'Instansi Pemerintah', yang memungut PPh Pasal 22 atas pembayaran atas pembelian barang baik mekanisme UP maupun langsung.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 422,
+    "kutipan": "Sebelumnya: bendahara pemerintah"
+   }
+  ],
+  "tags": [
+   "PMK 34/PMK.010/2017"
+  ]
+ },
+ {
+  "id": "ADV-08-007",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-34/PMK.010/2017 - Pemungutan PPh Pasal 22",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai PMK 34/PMK.010/2017, atas impor barang selain yang termasuk dalam Lampiran Huruf A, B, atau C yang dilakukan dengan menggunakan Angka Pengenal Impor (API), tarif PPh Pasal 22 yang dikenakan adalah...",
+  "opsi": {
+   "A": "2,5%",
+   "B": "7,5%",
+   "C": "10%",
+   "D": "0,5%"
+  },
+  "kunci": "A",
+  "pembahasan": "Tarif PPh Pasal 22 atas impor barang selain yang termasuk Lampiran Huruf A, B, atau C yang dilakukan dengan API adalah 2,5%, sedangkan tanpa API dikenakan 7,5%.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 422,
+    "kutipan": "2,5% selain a,b,c dengan API"
+   }
+  ],
+  "tags": [
+   "PMK 34/PMK.010/2017"
+  ]
+ },
+ {
+  "id": "ADV-08-008",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-34/PMK.010/2017 - Pemungutan PPh Pasal 22",
+  "tipe": "proses",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai PMK 34/PMK.010/2017, PPh Pasal 22 yang dipungut oleh Instansi Pemerintah wajib disetorkan paling lambat pada...",
+  "opsi": {
+   "A": "tanggal 10 bulan berikutnya setelah Masa Pajak berakhir",
+   "B": "tanggal 20 bulan berikutnya setelah Masa Pajak berakhir",
+   "C": "tanggal 15 bulan berikutnya setelah Masa Pajak berakhir",
+   "D": "tanggal 7 bulan berikutnya setelah Masa Pajak berakhir"
+  },
+  "kunci": "C",
+  "pembahasan": "PPh Pasal 22 yang dipungut oleh Instansi Pemerintah disetorkan dengan SSP a.n. Instansi Pemerintah, dengan jatuh tempo penyetoran pada tanggal 15 bulan berikutnya setelah Masa Pajak berakhir, dan dilaporkan dalam SPT Masa PPh Unifikasi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 425,
+    "kutipan": "Tanggal 15 bulan berikutnya setelah Masa Pajak Berakhir"
+   }
+  ],
+  "tags": [
+   "PMK 34/PMK.010/2017"
+  ]
+ },
+ {
+  "id": "ADV-08-009",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-34/PMK.010/2017 - Pemungutan PPh Pasal 22",
+  "tipe": "negasi",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Berikut ini termasuk badan usaha tertentu yang menjadi pemungut PPh Pasal 22 sesuai PMK 34/PMK.010/2017, KECUALI...",
+  "opsi": {
+   "A": "Badan Usaha Milik Daerah (BUMD)",
+   "B": "BUMN",
+   "C": "PT Bank Syariah Indonesia Tbk",
+   "D": "Badan Usaha dan BUMN hasil restrukturisasi yang dilakukan oleh pemerintah"
+  },
+  "kunci": "A",
+  "pembahasan": "Badan usaha tertentu pemungut PPh Pasal 22 meliputi BUMN; Badan Usaha dan BUMN hasil restrukturisasi yang dilakukan oleh pemerintah; serta badan usaha tertentu yang dimiliki secara langsung oleh BUMN, di antaranya PT Bank Syariah Indonesia Tbk. Badan Usaha Milik Daerah (BUMD) tidak disebutkan dalam daftar tersebut.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 422,
+    "kutipan": "a. BUMN; b.Badan Usaha dan BUMN hasil restrukturisasi yang dilakukan oleh pemerintah; c. badan usaha tertentu yang dimiliki secara langsung oleh BUMN, diantaranya PT Bank Syariah Indonesia Tbk."
+   }
+  ],
+  "tags": [
+   "PMK 34/PMK.010/2017"
+  ]
+ },
+ {
+  "id": "ADV-08-010",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Berdasarkan diagram penghitungan Angsuran PPh Pasal 25 secara umum dalam penyesuaian ketentuan PMK 215/PMK.03/2018, Angsuran PPh Pasal 25 dihitung dari selisih PPh Terutang di SPT Sebelumnya dengan Kredit Pajak (PPh 21, PPh 22, PPh 23, PPh 24), yang kemudian dibagi dengan...",
+  "opsi": {
+   "A": "12 bulan atau banyaknya bulan dalam Bagian Tahun Pajak",
+   "B": "3 bulan, sebagaimana berlaku bagi Wajib Pajak Lainnya dan Wajib Pajak masuk bursa",
+   "C": "12 bulan, tanpa memperhatikan Bagian Tahun Pajak",
+   "D": "banyaknya Masa Pajak yang telah menyetorkan Kredit Pajak PPh 21, 22, 23, dan 24"
+  },
+  "kunci": "A",
+  "pembahasan": "Rumus umum Angsuran PPh Pasal 25 adalah (PPh Terutang di SPT Sebelumnya dikurangi Kredit Pajak PPh 21/22/23/24) dibagi 12 bulan atau banyaknya bulan dalam Bagian Tahun Pajak. Pembagi 3 bulan hanya berlaku pada skema khusus WP Lainnya/WP masuk bursa, bukan skema umum ini.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 427,
+    "kutipan": "12 bulan atau banyaknya bulan dalam Bagian Tahun Pajak"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018"
+  ]
+ },
+ {
+  "id": "ADV-08-011",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Bagi Wajib Pajak Bank, dasar Penghasilan Neto untuk menghitung Angsuran PPh Pasal 25 Masa Pajak yang dilaporkan diambil dari laporan keuangan yang disampaikan kepada OJK untuk periode...",
+  "opsi": {
+   "A": "setiap triwulan sejak awal Tahun Pajak sampai dengan periode yang dilaporkan",
+   "B": "sejak awal Tahun Pajak sampai dengan Masa Pajak yang dilaporkan",
+   "C": "satu tahun penuh yang telah diaudit akuntan publik",
+   "D": "satu Masa Pajak sebelum Masa Pajak yang dilaporkan"
+  },
+  "kunci": "B",
+  "pembahasan": "Bagi Bank, Angsuran PPh Pasal 25 dihitung berdasarkan laporan keuangan yang disampaikan kepada OJK sejak awal Tahun Pajak sampai dengan Masa Pajak yang dilaporkan, berbeda dengan WP Lainnya/WP masuk bursa yang basisnya laporan triwulanan.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 428,
+    "kutipan": "Laporan keuangan yang disampaikan kepada OJK sejak awal Tahun Pajak s.d. Masa Pajak yang dilaporkan"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018"
+  ]
+ },
+ {
+  "id": "ADV-08-012",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Bagi Wajib Pajak Lainnya (sektor perasuransian, dana pensiun, lembaga pembiayaan, dan lembaga jasa keuangan lainnya) dan Wajib Pajak masuk bursa, hasil penghitungan berdasarkan laporan keuangan triwulanan berlaku sebagai Angsuran PPh Pasal 25 untuk...",
+  "opsi": {
+   "A": "12 Masa Pajak berikutnya, dengan pembagi 12 bulan",
+   "B": "1 Masa Pajak berikutnya, dengan pembagi 1 bulan",
+   "C": "3 Masa Pajak berikutnya, dengan pembagi 3 bulan",
+   "D": "6 Masa Pajak berikutnya, dengan pembagi 6 bulan"
+  },
+  "kunci": "C",
+  "pembahasan": "Bagi WP Lainnya dan WP masuk bursa, Angsuran PPh Pasal 25 berdasarkan Penghasilan Neto menurut laporan keuangan triwulanan berlaku untuk 3 Masa Pajak berikutnya, dengan denominator 3 bulan dalam rumusnya.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 429,
+    "kutipan": "Angsuran PPh Pasal untuk 3 Masa Pajak berikutnya"
+   },
+   {
+    "pdf": "B",
+    "halaman": 430,
+    "kutipan": "3 bulan"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018"
+  ]
+ },
+ {
+  "id": "ADV-08-013",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "kasus",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Badan Usaha Milik Negara dan Badan Usaha Milik Daerah (selain Bank, WP Masuk Bursa, dan WP Lainnya) menghitung Angsuran PPh Pasal 25 untuk setiap Masa Pajak dalam Tahun Pajak bersangkutan berdasarkan Penghasilan Neto Fiskal menurut...",
+  "opsi": {
+   "A": "laporan keuangan triwulanan yang disampaikan kepada OJK",
+   "B": "laporan keuangan tahunan yang telah diaudit akuntan publik",
+   "C": "SPT Tahunan PPh Badan Tahun Pajak sebelumnya",
+   "D": "RKAP Tahun Pajak bersangkutan yang telah disahkan"
+  },
+  "kunci": "D",
+  "pembahasan": "BUMN/BUMD menghitung Angsuran PPh Pasal 25 berdasarkan Penghasilan Neto Fiskal menurut RKAP Tahun Pajak bersangkutan yang telah disahkan, dikalikan Tarif PPh Badan, dikurangi Kredit Pajak tahun lalu, dibagi 12 bulan.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 431,
+    "kutipan": "RKAP Tahun Pajak bersangkutan yang telah disahkan"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018"
+  ]
+ },
+ {
+  "id": "ADV-08-014",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "proses",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Bank, Badan Usaha Milik Negara, badan usaha milik daerah, Wajib Pajak masuk bursa, dan Wajib Pajak Lainnya wajib menyampaikan laporan penghitungan Angsuran PPh Pasal 25 kepada Direktur Jenderal Pajak paling lama...",
+  "opsi": {
+   "A": "20 (dua puluh) hari setelah berakhirnya periode pelaporan",
+   "B": "15 (lima belas) hari setelah berakhirnya periode pelaporan",
+   "C": "10 (sepuluh) hari setelah berakhirnya periode pelaporan",
+   "D": "30 (tiga puluh) hari setelah berakhirnya periode pelaporan"
+  },
+  "kunci": "A",
+  "pembahasan": "Kelompok WP tersebut wajib menyampaikan laporan penghitungan Angsuran PPh Pasal 25 kepada Dirjen Pajak paling lama 20 hari setelah berakhirnya periode pelaporan.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 432,
+    "kutipan": "harus menyampaikan laporan penghitungan angsuran PPh Pasal 25 kepada Direktur Jenderal Pajak paling lama 20 (dua puluh) hari setelah berakhirnya periode perlaporan"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018"
+  ]
+ },
+ {
+  "id": "ADV-08-015",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "kasus",
+  "kesulitan": "sulit",
+  "prioritas": 2,
+  "pertanyaan": "Dalam rekalkulasi penghitungan Angsuran PPh Pasal 25, apabila PPh Pasal 25 sebelum rekalkulasi ternyata lebih kecil dibanding PPh Pasal 25 setelah rekalkulasi, maka atas kekurangan setorannya...",
+  "opsi": {
+   "A": "dapat dikreditkan dalam SPT PPh Tahunan tanpa dikenai sanksi",
+   "B": "wajib disetor dan Wajib Pajak dikenai sanksi administratif sesuai UU KUP",
+   "C": "dapat dimintakan pengembalian atas kelebihan pembayaran pajak",
+   "D": "diperhitungkan otomatis oleh sistem pada Masa Pajak berikutnya"
+  },
+  "kunci": "B",
+  "pembahasan": "Jika PPh Pasal 25 sebelum rekalkulasi lebih kecil dibanding setelah rekalkulasi, atas kekurangan setorannya wajib disetor dan WP dikenai sanksi administratif sesuai UU KUP. Sebaliknya, jika lebih besar (kelebihan setoran), dapat dimintakan pengembalian dan/atau dikreditkan dalam SPT PPh.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 434,
+    "kutipan": "PPh 25 sebelum rekalkulasi lebih kecil dibanding PPh 25 setelah rekalkulasi, atas kekurangan setorannya wajib disetor WP dikenai sanksi administratif sesuai UU KUP"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018",
+   "UU KUP"
+  ]
+ },
+ {
+  "id": "ADV-08-016",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "angka",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Bagi Wajib Pajak Orang Pribadi Pengusaha Tertentu (WP OPPT), Angsuran PPh Pasal 25 dihitung sebesar tarif tertentu dikalikan jumlah peredaran bruto setiap bulan dari masing-masing tempat usaha. Tarif yang dimaksud adalah...",
+  "opsi": {
+   "A": "0,5%",
+   "B": "1%",
+   "C": "0,75%",
+   "D": "1,5%"
+  },
+  "kunci": "C",
+  "pembahasan": "Angsuran PPh Pasal 25 bagi WP OPPT dihitung sebesar 0,75% dikalikan jumlah peredaran bruto setiap bulan dari masing-masing tempat usaha, termasuk tempat usaha yang berada di tempat tinggal Wajib Pajak, dan merupakan kredit pajak atas PPh yang terutang untuk Tahun Pajak bersangkutan.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 436,
+    "kutipan": "0,75% Jumlah peredaran bruto setiap bulan dari masing-masing tempat usaha"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018"
+  ]
+ },
+ {
+  "id": "ADV-08-017",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-215/PMK.03/2018 - Penghitungan Angsuran PPh Pasal 25 Tahun Berjalan",
+  "tipe": "dasar_hukum",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Dalam struktur pasal pada materi penyesuaian PMK 215/PMK.03/2018 mengenai Wajib Pajak Baru, ketentuan Angsuran PPh Pasal 25 sebesar NIHIL bagi Wajib Pajak Baru selain bank, WP masuk bursa, BUMN/BUMD, dan WP Lainnya merujuk pada...",
+  "opsi": {
+   "A": "Pasal 215",
+   "B": "Pasal 236",
+   "C": "Pasal 238",
+   "D": "Pasal 235"
+  },
+  "kunci": "D",
+  "pembahasan": "Diagram Penghitungan Angsuran PPh Pasal 25 untuk Wajib Pajak Baru menandai kelompok WP Baru selain bank/WP masuk bursa/BUMN-BUMD/WP Lainnya dengan rujukan Pasal 235 (Angsuran PPh Pasal 25 NIHIL), sedangkan kelompok WP Baru hasil penggabungan/peleburan/pengambilalihan/pemekaran usaha dan perubahan bentuk badan usaha dirujuk pada Pasal 236.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 438,
+    "kutipan": "Pasal 235"
+   }
+  ],
+  "tags": [
+   "PMK 215/PMK.03/2018",
+   "Pasal 235"
+  ]
+ },
+ {
+  "id": "ADV-08-018",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "KMK-434/1999, KMK-624/1994, KMK-282/1997 - PPh Pasal 26/Final atas Penjualan Saham & Premi Asuransi ke Luar Negeri",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan KMK 434/KMK.04/1999, PPh Pasal 26 atas keuntungan penjualan saham oleh WPLN selain BUT dipotong sebesar 20% dari perkiraan penghasilan neto, yang besarnya ditetapkan sebesar...",
+  "opsi": {
+   "A": "50% dari harga jual",
+   "B": "10% dari harga jual",
+   "C": "5% dari harga jual",
+   "D": "25% dari harga jual"
+  },
+  "kunci": "D",
+  "pembahasan": "Sesuai KMK 434/KMK.04/1999, PPh Pasal 26 atas keuntungan penjualan saham oleh WPLN selain BUT dipotong sebesar 20% dari perkiraan penghasilan neto dan bersifat final, dengan perkiraan penghasilan neto ditetapkan sebesar 25% dari harga jual.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 440,
+    "kutipan": "20% dari perkiraan penghasilan neto"
+   },
+   {
+    "pdf": "B",
+    "halaman": 440,
+    "kutipan": "25% dari hargajual"
+   }
+  ],
+  "tags": [
+   "KMK 434/KMK.04/1999"
+  ]
+ },
+ {
+  "id": "ADV-08-019",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "KMK-434/1999, KMK-624/1994, KMK-282/1997 - PPh Pasal 26/Final atas Penjualan Saham & Premi Asuransi ke Luar Negeri",
+  "tipe": "angka",
+  "kesulitan": "sulit",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai KMK 624/KMK.04/1994, perkiraan penghasilan neto atas premi asuransi dan premi reasuransi yang dibayarkan kepada perusahaan asuransi di luar negeri dihitung dengan persentase tertentu yang bergantung pada pihak pembayar dan penerima premi, yaitu sebesar...",
+  "opsi": {
+   "A": "20%, 15%, atau 10%",
+   "B": "50%, 25%, atau 20%",
+   "C": "25%, 10%, atau 5%",
+   "D": "50%, 10%, atau 5%"
+  },
+  "kunci": "D",
+  "pembahasan": "Perkiraan penghasilan neto atas premi asuransi/reasuransi yang dibayar ke luar negeri dihitung dari persentase tertentu dikalikan jumlah premi yang dibayar, dengan persentase tertentu sebesar 50%, 10%, atau 5% tergantung pihak pembayar dan penerima premi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 442,
+    "kutipan": "Persentase tertentu : 50% / 10% / 5% tergantung pihak pembayar & penerima premi."
+   }
+  ],
+  "tags": [
+   "KMK 624/KMK.04/1994"
+  ]
+ },
+ {
+  "id": "ADV-08-020",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "KMK-434/1999, KMK-624/1994, KMK-282/1997 - PPh Pasal 26/Final atas Penjualan Saham & Premi Asuransi ke Luar Negeri",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan KMK 282/KMK.04/1997, berikut ini termasuk dalam pengertian saham pendiri yang dikenakan tambahan PPh final atas nilai saham pada saat IPO, yaitu saham yang berasal dari...",
+  "opsi": {
+   "A": "Pembagian dividen dalam bentuk saham",
+   "B": "Pemecahan saham pendiri",
+   "C": "Pelaksanaan HMETD, waran, obligasi konversi, dan efek konversi lainnya",
+   "D": "Kepemilikan oleh pendiri perusahaan reksa dana"
+  },
+  "kunci": "B",
+  "pembahasan": "Saham pendiri yang termasuk dalam pengenaan tambahan PPh final meliputi saham dari kapitalisasi agio yang dikeluarkan setelah IPO dan dari pemecahan saham pendiri. Sedangkan saham dari pembagian dividen dalam bentuk saham, pelaksanaan HMETD/waran/obligasi konversi, serta pendiri perusahaan reksa dana tidak termasuk.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 446,
+    "kutipan": "Dari pemecahan saham pendiri"
+   }
+  ],
+  "tags": [
+   "KMK 282/KMK.04/1997"
+  ]
+ },
+ {
+  "id": "ADV-08-021",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "KMK-434/1999, KMK-624/1994, KMK-282/1997 - PPh Pasal 26/Final atas Penjualan Saham & Premi Asuransi ke Luar Negeri",
+  "tipe": "angka",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai KMK 282/KMK.04/1997, PPh final atas penghasilan dari transaksi penjualan saham di bursa efek dikenakan dengan tarif sebesar...",
+  "opsi": {
+   "A": "Final 0,1% dari jumlah bruto nilai transaksi",
+   "B": "Final 0,5% dari jumlah bruto nilai transaksi",
+   "C": "Final 0,1% dari nilai saham pada saat IPO",
+   "D": "Final 0,5% dari nilai saham pada saat IPO"
+  },
+  "kunci": "A",
+  "pembahasan": "Atas penghasilan yang diterima atau diperoleh dari transaksi penjualan saham di bursa efek dikenakan PPh final sebesar 0,1% dari jumlah bruto nilai transaksi, dipotong oleh penyelenggara bursa efek (BEI) melalui perantara pedagang efek pada saat pelunasan transaksi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 444,
+    "kutipan": "Final 0,1% dari jumlah bruto nilai transaksi"
+   }
+  ],
+  "tags": [
+   "KMK 282/KMK.04/1997"
+  ]
+ },
+ {
+  "id": "ADV-08-022",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "KMK-434/1999, KMK-624/1994, KMK-282/1997 - PPh Pasal 26/Final atas Penjualan Saham & Premi Asuransi ke Luar Negeri",
+  "tipe": "kasus",
+  "kesulitan": "sulit",
+  "prioritas": 1,
+  "pertanyaan": "Seorang Emiten tidak melakukan penyetoran tambahan PPh atas saham pendiri dalam jangka waktu 1 (satu) bulan setelah IPO sebagaimana diatur dalam KMK 282/KMK.04/1997. Apa konsekuensi perpajakan atas penjualan saham pendiri tersebut?",
+  "opsi": {
+   "A": "Tetap dikenai PPh final 0,5% tanpa sanksi tambahan apapun",
+   "B": "Dibebaskan sepenuhnya dari pengenaan Pajak Penghasilan",
+   "C": "Dikenai Pajak Penghasilan sesuai dengan Pasal 17 Undang-Undang PPh",
+   "D": "Dikenai Pajak Penghasilan sesuai dengan Pasal 18 ayat (4) Undang-Undang PPh"
+  },
+  "kunci": "C",
+  "pembahasan": "Jika tidak dilakukan penyetoran tambahan PPh saham pendiri dalam jangka waktu 1 bulan setelah IPO, maka atas penjualan saham pendiri dikenai Pajak Penghasilan sesuai dengan Pasal 17 Undang-Undang PPh, bukan lagi dikenakan tarif final 0,5%.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 447,
+    "kutipan": "Jika tidak dilakukan penyetoran tambahan PPh saham pendiri dalam jangka waktu 1 bulan setelah IPO, atas penjualan saham pendiri dikenai PPh sesuai Pasal 17 UU PPh"
+   }
+  ],
+  "tags": [
+   "KMK 282/KMK.04/1997",
+   "Pasal 17 UU PPh"
+  ]
+ },
+ {
+  "id": "ADV-08-023",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "dasar_hukum",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "PMK 79/PMK.02/2012 sebagaimana disajikan dalam materi mengatur Tata Cara Penyetoran dan Pelaporan Penerimaan Negara dari Kegiatan Usaha Hulu Migas serta penghitungan PPh untuk keperluan pembayaran PPh Migas berupa apa?",
+  "opsi": {
+   "A": "Volume minyak bumi dan/atau gas bumi",
+   "B": "Saham perusahaan kontraktor migas",
+   "C": "Mata uang asing hasil penjualan migas",
+   "D": "Surat berharga negara seri migas"
+  },
+  "kunci": "A",
+  "pembahasan": "PMK 79/PMK.02/2012 mengatur Tata Cara Penyetoran dan Pelaporan Penerimaan Negara dari Kegiatan Usaha Hulu Minyak Bumi dan/atau Gas Bumi dan Penghitungan PPh untuk Keperluan Pembayaran PPh Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 448,
+    "kutipan": "Penghitungan PPh untuk Keperluan Pembayaran PPh Minyak Bumi dan/atau Gas Bumi Berupa Volume Minyak Bumi dan/atau Gas Bumi"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-024",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Berdasarkan materi, Penerimaan Negara dari Kegiatan Usaha Hulu Migas terdiri atas dua komponen, yaitu...",
+  "opsi": {
+   "A": "Bagian Negara dan Pajak Pertambahan Nilai Migas",
+   "B": "Bagian Negara dan Pajak Penghasilan Migas",
+   "C": "Pajak Penghasilan Migas dan Bea Masuk",
+   "D": "Bagian Kontraktor dan Pajak Penghasilan Migas"
+  },
+  "kunci": "B",
+  "pembahasan": "Penerimaan Negara Kegiatan Usaha Hulu Migas terdiri dari a. Bagian Negara dan b. Pajak Penghasilan Migas.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 449,
+    "kutipan": "a. Bagian Negara b. Pajak Penghasilan Migas Penerimaan Negara Kegiatan Usaha Hulu Migas"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-025",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Penyerahan Pajak Penghasilan (PPh) dalam bentuk Volume Minyak Bumi dari bagian Kontraktor kepada Pemerintah dilakukan dengan menggunakan harga apa?",
+  "opsi": {
+   "A": "Harga rata-rata tertimbang penjualan Kontraktor",
+   "B": "Harga pasar dunia pada akhir tahun pajak",
+   "C": "ICP (Indonesian Crude Price) pada bulan saat PPh terutang",
+   "D": "Harga yang ditetapkan oleh SKK Migas setiap triwulan"
+  },
+  "kunci": "C",
+  "pembahasan": "PPh dalam bentuk Volume Minyak Bumi diserahkan kepada Pemerintah dengan ketentuan diserahkan menggunakan ICP pada bulan saat PPh terutang. Harga rata-rata tertimbang (opsi A) adalah ketentuan untuk PPh dalam bentuk Volume Gas Bumi, bukan minyak bumi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 454,
+    "kutipan": "Diserahkan menggunakan ICP pada bulan saat PPh terutang;"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-026",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Harga gas bumi yang digunakan untuk menghitung besarnya Pajak Penghasilan dalam bentuk Volume Gas Bumi ditetapkan dengan...",
+  "opsi": {
+   "A": "Keputusan Direktur Jenderal Pajak",
+   "B": "Peraturan SKK Migas",
+   "C": "Surat Edaran Direktorat Jenderal Anggaran",
+   "D": "Keputusan Menteri Keuangan (KMK)"
+  },
+  "kunci": "D",
+  "pembahasan": "Harga gas bumi yang digunakan untuk menghitung besarnya Pajak Penghasilan dalam bentuk Volume Gas Bumi ditetapkan dengan KMK (Keputusan Menteri Keuangan), sedangkan penghitungannya sendiri menggunakan harga rata-rata tertimbang penjualan Kontraktor.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 455,
+    "kutipan": "Harga gas bumi yang digunakan untuk menghitung besarnya Pajak Penghasilan ditetapkan dengan KMK"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-027",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "angka",
+  "kesulitan": "sulit",
+  "prioritas": 2,
+  "pertanyaan": "Pembayaran Pajak Penghasilan (PPh) dalam bentuk Volume Minyak Bumi dan/atau Gas Bumi wajib dilakukan Kontraktor paling lama pada tanggal berapa?",
+  "opsi": {
+   "A": "Tanggal 15 bulan berikutnya setelah masa pajak berakhir",
+   "B": "Tanggal 10 bulan berikutnya setelah masa pajak berakhir",
+   "C": "Tanggal 20 bulan berikutnya setelah masa pajak berakhir",
+   "D": "Tanggal 25 bulan berikutnya setelah masa pajak berakhir"
+  },
+  "kunci": "A",
+  "pembahasan": "Pembayaran PPh dalam bentuk Volume Minyak Bumi dan/atau Gas Bumi wajib dilakukan paling lama pada tanggal 15 (lima belas) bulan berikutnya setelah masa pajak berakhir.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 460,
+    "kutipan": "Pembayaran PPh ini wajib dilakukan paling lama pada tanggal 15 (lima belas) bulan berikutnya setelah masa pajak berakhir;"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-028",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "kasus",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Hasil perhitungan final lifting suatu Wilayah Kerja migas menunjukkan kondisi Overlifting Kontraktor. Berdasarkan ketentuan dalam materi, SKK Migas melakukan penagihan kepada...",
+  "opsi": {
+   "A": "Direktorat Jenderal Anggaran",
+   "B": "Kontraktor",
+   "C": "Direktorat Jenderal Pajak",
+   "D": "Pemerintah"
+  },
+  "kunci": "B",
+  "pembahasan": "Dalam hal hasil perhitungan final lifting menunjukkan Overlifting Kontraktor, SKK Migas melakukan penagihan ke Kontraktor; sebaliknya jika terjadi Underlifting Kontraktor, penagihan dilakukan ke Pemerintah.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 458,
+    "kutipan": "Overlifting Kontraktor Dilakukan penagihan ke Kontraktor oleh SKK MIGAS"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-029",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-79/PMK.02/2012 - Penyetoran, Pelaporan Penerimaan Negara Hulu Migas & PPh Migas",
+  "tipe": "negasi",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Berikut ini adalah ketentuan terkait penyetoran Bagian Negara dari hasil penjualan dan/atau pengiriman Lifting sebagaimana diatur dalam materi, KECUALI...",
+  "opsi": {
+   "A": "Disetor kepada Negara tanpa pengurangan biaya-biaya administrasi",
+   "B": "Dilaporkan per Wilayah Kerja setiap bulan berdasarkan nilai tagihan atau dokumen",
+   "C": "Disetor setelah dikurangi biaya operasional lifting oleh SKK Migas",
+   "D": "Disetor paling lambat pada akhir bulan berikutnya"
+  },
+  "kunci": "C",
+  "pembahasan": "Penyetoran Bagian Negara dari hasil penjualan/pengiriman lifting dilakukan tanpa pengurangan biaya-biaya administrasi, dilaporkan per WK setiap bulan berdasarkan nilai tagihan atau dokumen, dan disetor paling lambat akhir bulan berikutnya; bukan 'setelah dikurangi biaya operasional'.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 457,
+    "kutipan": "Tanpa pengurangan biaya-biaya administrasi"
+   },
+   {
+    "pdf": "B",
+    "halaman": 457,
+    "kutipan": "paling lambat pada akhir bulan berikutnya"
+   }
+  ],
+  "tags": [
+   "PMK 79/PMK.02/2012"
+  ]
+ },
+ {
+  "id": "ADV-08-030",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-120/PMK.03/2019 - VAT Refund bagi Turis Asing",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "Sesuai materi, VAT Refund merupakan insentif perpajakan berupa apa yang diberikan kepada Turis Asing?",
+  "opsi": {
+   "A": "Pembebasan PPh atas penghasilan yang diperoleh selama berada di Indonesia",
+   "B": "Pengembalian Bea Masuk atas barang bawaan penumpang",
+   "C": "Pengurangan tarif PPN atas pembelian barang mewah",
+   "D": "Pengembalian PPN yang sudah dibayar atas pembelian BKP yang dibawa ke luar daerah pabean"
+  },
+  "kunci": "D",
+  "pembahasan": "VAT Refund merupakan insentif perpajakan yang diberikan kepada orang pribadi pemegang paspor luar negeri (Turis Asing) berupa pengembalian PPN yang sudah dibayar atas pembelian BKP yang kemudian dibawa Turis Asing tersebut ke luar daerah pabean.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 467,
+    "kutipan": "pengembalian PPN yang sudah dibayar atas pembelian BKP yang kemudian dibawa Turis Asing tersebut ke luar daerah pabean"
+   }
+  ],
+  "tags": [
+   "PMK 120/PMK.03/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-031",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-120/PMK.03/2019 - VAT Refund bagi Turis Asing",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Berapa nilai PPN minimum yang dapat diajukan untuk VAT Refund, baik secara keseluruhan maupun pada masing-masing Faktur Pajak?",
+  "opsi": {
+   "A": "Paling sedikit Rp500.000 secara keseluruhan dan Rp50.000 pada masing-masing Faktur Pajak",
+   "B": "Paling sedikit Rp1.000.000 secara keseluruhan dan Rp100.000 pada masing-masing Faktur Pajak",
+   "C": "Paling sedikit Rp250.000 secara keseluruhan dan Rp25.000 pada masing-masing Faktur Pajak",
+   "D": "Paling sedikit Rp500.000 secara keseluruhan tanpa batas minimum pada Faktur Pajak"
+  },
+  "kunci": "A",
+  "pembahasan": "Nilai PPN Barang Bawaan yang dapat diajukan paling sedikit Rp500.000, tercantum dalam 1 Faktur Pajak atau hasil penggabungan lebih dari 1 Faktur Pajak, dan nilai PPN pada masing-masing Faktur Pajak paling sedikit Rp50.000.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 470,
+    "kutipan": "paling sedikit Rp500.000; tercantum dalam 1 (satu) FP atau hasil penggabungan lebih dari 1 (satu) FP; dan nilai PPN pada masing-masing FP paling sedikit Rp50.000."
+   }
+  ],
+  "tags": [
+   "PMK 120/PMK.03/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-032",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-120/PMK.03/2019 - VAT Refund bagi Turis Asing",
+  "tipe": "proses",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Dalam skema transfer administrasi VAT Refund, setelah SKPLB dan Nothit Pengembalian Kelebihan Pembayaran Pajak diterbitkan oleh KPP yang ditunjuk, SKPKPP wajib diterbitkan dalam jangka waktu paling lama berapa hari kerja?",
+  "opsi": {
+   "A": "5 hari kerja",
+   "B": "3 hari kerja",
+   "C": "7 hari kerja",
+   "D": "10 hari kerja"
+  },
+  "kunci": "B",
+  "pembahasan": "Berdasarkan alur administrasi skema transfer, proses penerbitan SKPLB, Nothit Pengembalian Kelebihan Pembayaran Pajak, hingga SKPKPP berlangsung dalam waktu 3 hari kerja, dengan keseluruhan proses dari KPP yang ditunjuk hingga SPMKP berlangsung dalam waktu 1 bulan.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 472,
+    "kutipan": "SKPLB Nothit Pengembalian Kelebihan Pembayaran Pajak KPP yang ditunjuk 3 hari kerja SKPKPP 3 hari kerja SPMKP 1 bulan"
+   }
+  ],
+  "tags": [
+   "PMK 120/PMK.03/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-033",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-120/PMK.03/2019 - VAT Refund bagi Turis Asing",
+  "tipe": "negasi",
+  "kesulitan": "sulit",
+  "prioritas": 1,
+  "pertanyaan": "Berikut ini adalah bandara yang ditetapkan sebagai lokasi pengajuan VAT Refund sebagaimana disebutkan dalam materi, KECUALI...",
+  "opsi": {
+   "A": "Bandara Internasional Soekarno-Hatta",
+   "B": "Bandara Internasional Ngurah Rai",
+   "C": "Bandara Internasional Sultan Hasanuddin",
+   "D": "Bandara Internasional Kualanamu"
+  },
+  "kunci": "C",
+  "pembahasan": "Bandara yang ditetapkan untuk pengajuan VAT Refund menurut materi adalah Bandara Internasional Soekarno-Hatta, Ngurah Rai, Juanda, Yogyakarta, dan Kualanamu. Bandara Internasional Sultan Hasanuddin tidak disebutkan dalam materi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 470,
+    "kutipan": "Bandara Internasional Soekarno-Hatta; Bandara Internasional Ngurah Rai; Bandara Internasional Juanda; Bandara Internasional Yogyakarta; dan Bandara Internasional Kualanamu."
+   }
+  ],
+  "tags": [
+   "PMK 120/PMK.03/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-034",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Berdasarkan materi Penyesuaian Ketentuan PMK 32/PMK.010/2019, berapa tarif Pajak Pertambahan Nilai yang digunakan dalam penghitungan PPN atas Ekspor Jasa Kena Pajak (PPN = DPP x Tarif)?",
+  "opsi": {
+   "A": "11%",
+   "B": "12%",
+   "C": "0%",
+   "D": "1%"
+  },
+  "kunci": "C",
+  "pembahasan": "Skema penghitungan PPN atas Ekspor Jasa Kena Pajak menunjukkan PPN = DPP (Penggantian) x Tarif, dengan Tarif yang digunakan sebesar 0%.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 477,
+    "kutipan": "PPN =\nPenggantian\nDPP\nTarif\n0%"
+   }
+  ],
+  "tags": [
+   "PMK 32/PMK.010/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-035",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak",
+  "tipe": "fakta",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Siapa yang dimaksud dengan 'Penerima Ekspor Jasa Kena Pajak' menurut PMK 32/PMK.010/2019?",
+  "opsi": {
+   "A": "Setiap Pengusaha Kena Pajak dalam negeri yang menerima penyerahan Barang Kena Pajak dari luar Daerah Pabean",
+   "B": "Orang pribadi atau badan yang melakukan perikatan dan menerima manfaat langsung atas Ekspor Jasa Kena Pajak, berada di luar Daerah Pabean, dan merupakan Wajib Pajak Luar Negeri tanpa Bentuk Usaha Tetap di Indonesia",
+   "C": "Instansi pemerintah di luar negeri yang menerbitkan izin atas kegiatan ekspor jasa",
+   "D": "Bank devisa yang memfasilitasi pembayaran atas transaksi Ekspor Jasa Kena Pajak"
+  },
+  "kunci": "B",
+  "pembahasan": "Penerima Ekspor Jasa Kena Pajak didefinisikan sebagai orang pribadi atau badan yang melakukan perikatan dan menerima manfaat langsung atas Ekspor JKP, berada di luar Daerah Pabean, dan merupakan Wajib Pajak Luar Negeri yang tidak mempunyai Bentuk Usaha Tetap di Indonesia.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 478,
+    "kutipan": "Penerima Ekspor Jasa Kena Pajak adalah orang pribadi atau badan yang melakukan perikatan dan menerima manfaat langsung atas Ekspor Jasa \nKena Pajak, berada di luar Daerah Pabean, dan merupakan Waji"
+   }
+  ],
+  "tags": [
+   "PMK 32/PMK.010/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-036",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak",
+  "tipe": "negasi",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Berikut ini termasuk contoh Jasa Kena Pajak berupa kegiatan pelayanan yang melekat pada barang bergerak yang dikeluarkan untuk dimanfaatkan di luar Daerah Pabean, KECUALI...",
+  "opsi": {
+   "A": "Jasa Maklon",
+   "B": "Jasa Perawatan dan Perbaikan",
+   "C": "Jasa Pengurusan Transportasi (freight forwarding) terkait barang untuk tujuan ekspor",
+   "D": "Jasa Konsultansi Konstruksi"
+  },
+  "kunci": "D",
+  "pembahasan": "Jasa Maklon, Jasa Perawatan dan Perbaikan, serta Jasa Pengurusan Transportasi (freight forwarding) terkait barang untuk tujuan ekspor merupakan contoh JKP yang melekat pada barang bergerak. Jasa Konsultansi Konstruksi termasuk kategori JKP yang melekat pada barang tidak bergerak.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 479,
+    "kutipan": "Jasa Maklon\nJasa Perawatan dan \nPerbaikan\nJasa Pengurusan \nTransportasi (freight \nforwarding) terkait \nbarang untuk tujuan \nekspor"
+   },
+   {
+    "pdf": "B",
+    "halaman": 480,
+    "kutipan": "Jenis Jasa Kena Pajak berupa kegiatan pelayanan yang melekat pada barang tidak bergerak yang \nberada di luar Daerah Pabean\nJasa Konsultansi Konstruksi"
+   }
+  ],
+  "tags": [
+   "PMK 32/PMK.010/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-037",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak",
+  "tipe": "proses",
+  "kesulitan": "sulit",
+  "prioritas": 2,
+  "pertanyaan": "Agar penyerahan jasa maklon ke pihak luar negeri dapat digolongkan sebagai Ekspor Jasa Kena Pajak, bagaimana ketentuan mengenai kepemilikan atas Barang Kena Pajak yang dihasilkan dari proses maklon tersebut?",
+  "opsi": {
+   "A": "Kepemilikan atas Barang Kena Pajak yang dihasilkan tetap berada pada Penerima Ekspor Jasa Kena Pajak",
+   "B": "Kepemilikan atas Barang Kena Pajak yang dihasilkan beralih kepada pengusaha jasa maklon",
+   "C": "Kepemilikan atas Barang Kena Pajak yang dihasilkan dibagi antara pengusaha jasa maklon dan Penerima Ekspor JKP",
+   "D": "Kepemilikan atas Barang Kena Pajak yang dihasilkan menjadi milik negara sampai barang diekspor"
+  },
+  "kunci": "A",
+  "pembahasan": "Salah satu syarat jasa maklon digolongkan sebagai Ekspor Jasa Kena Pajak adalah kepemilikan atas Barang Kena Pajak yang dihasilkan dari proses maklon tetap berada pada Penerima Ekspor Jasa Kena Pajak.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 479,
+    "kutipan": "kepemilikan atas BKP yang dihasilkan \nberada pada Penerima Ekspor JKP; \ndan"
+   }
+  ],
+  "tags": [
+   "PMK 32/PMK.010/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-038",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak",
+  "tipe": "kasus",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Sebuah PKP menyerahkan jasa konsultansi bisnis kepada klien di luar Daerah Pabean, namun tidak terdapat perikatan/perjanjian tertulis yang mencantumkan jenis, rincian kegiatan, dan nilai penyerahan jasa tersebut sebagaimana disyaratkan. Bagaimana perlakuan PPN atas penyerahan jasa tersebut?",
+  "opsi": {
+   "A": "Tetap dianggap Ekspor Jasa Kena Pajak dengan tarif PPN 0%",
+   "B": "Dibebaskan dari pengenaan PPN karena jasa dimanfaatkan di luar Daerah Pabean",
+   "C": "Dianggap sebagai penyerahan Jasa Kena Pajak di dalam Daerah Pabean yang dikenai PPN",
+   "D": "Dikenai PPN dengan tarif khusus sebesar setengah dari tarif PPN umum"
+  },
+  "kunci": "C",
+  "pembahasan": "Kegiatan pelayanan yang tidak memenuhi ketentuan (perikatan/perjanjian tertulis dan bukti pembayaran) dianggap sebagai penyerahan Jasa Kena Pajak di dalam Daerah Pabean yang dikenai PPN.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 483,
+    "kutipan": "Kegiatan pelayanan yang tidak memenuhi\nketentuan dianggap sebagai penyerahan\nJasa Kena Pajak di dalam Daerah Pabean\nyang dikenai PPN"
+   }
+  ],
+  "tags": [
+   "PMK 32/PMK.010/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-039",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-32/PMK.010/2019 - Batasan Kegiatan & Jenis Ekspor Jasa Kena Pajak",
+  "tipe": "dasar_hukum",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Format Pemberitahuan Ekspor Jasa Kena Pajak dibuat sesuai dengan format yang tercantum dalam Lampiran peraturan apa?",
+  "opsi": {
+   "A": "PMK-215/PMK.03/2018",
+   "B": "PMK-120/PMK.03/2019",
+   "C": "PMK-8/PMK.03/2021",
+   "D": "PMK-32"
+  },
+  "kunci": "D",
+  "pembahasan": "Pemberitahuan Ekspor Jasa Kena Pajak dibuat sesuai dengan format yang tercantum dalam Lampiran PMK-32 (PMK 32/PMK.010/2019).",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 484,
+    "kutipan": "Pemberitahuan Ekspor Jasa Kena Pajak dibuat sesuai dengan\nformat tercantum dalam Lampiran PMK-32."
+   }
+  ],
+  "tags": [
+   "PMK 32/PMK.010/2019"
+  ]
+ },
+ {
+  "id": "ADV-08-040",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-65/PMK.03/2010 - Pengurangan PPN atas BKP yang Dikembalikan (Retur) & JKP yang Dibatalkan",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Dalam hal terjadi pengembalian (retur) Barang Kena Pajak, kewajiban pembeli BKP menurut penyesuaian ketentuan PMK 65/PMK.03/2010 adalah...",
+  "opsi": {
+   "A": "membuat Nota Retur pada saat BKP dikembalikan dan menyampaikannya kepada PKP penjual BKP",
+   "B": "mengurangi Pajak Keluaran dan PPnBM yang terutang dalam Masa Pajak terjadinya pengembalian BKP",
+   "C": "mengurangi Pajak Masukan yang telah dikreditkan dalam Masa Pajak terjadinya pengembalian BKP",
+   "D": "menyampaikan Nota Retur untuk memperoleh persetujuan Direktorat Jenderal Pajak sebelum BKP dikembalikan"
+  },
+  "kunci": "A",
+  "pembahasan": "Kewajiban pembeli BKP saat terjadi retur adalah membuat Nota Retur pada saat BKP dikembalikan dan menyampaikannya kepada PKP penjual BKP. Mengurangi Pajak Keluaran/PPnBM adalah pengurangan bagi PKP penjual, sedangkan mengurangi Pajak Masukan adalah pengurangan bagi pembeli BKP, bukan kewajiban utamanya.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 489,
+    "kutipan": "Membuat Nota Retur pada saat BKP dikembalikan dan menyampaikannya kepada PKP penjual BKP."
+   }
+  ],
+  "tags": [
+   "Pasal 287 (1)"
+  ]
+ },
+ {
+  "id": "ADV-08-041",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-65/PMK.03/2010 - Pengurangan PPN atas BKP yang Dikembalikan (Retur) & JKP yang Dibatalkan",
+  "tipe": "negasi",
+  "kesulitan": "sulit",
+  "prioritas": 2,
+  "pertanyaan": "Pengembalian (retur) Barang Kena Pajak dianggap TIDAK TERJADI dalam hal-hal berikut, KECUALI...",
+  "opsi": {
+   "A": "nota retur tidak dibuat pada saat BKP tersebut dikembalikan",
+   "B": "nota retur dibuat sesuai ketentuan dan disampaikan kepada PKP penjual BKP pada saat BKP dikembalikan",
+   "C": "nota retur tidak disampaikan kepada PKP penjual BKP",
+   "D": "BKP yang dikembalikan diganti dengan BKP yang sama, baik dalam jumlah fisik, jenis, maupun harganya"
+  },
+  "kunci": "B",
+  "pembahasan": "Pengembalian BKP dianggap tidak terjadi antara lain jika nota retur tidak dibuat sesuai ketentuan, tidak dibuat pada saat BKP dikembalikan, tidak disampaikan kepada PKP penjual, atau BKP diganti dengan BKP yang sama persis. Retur yang nota returnya dibuat sesuai ketentuan dan disampaikan tepat waktu adalah retur yang sah/diakui terjadi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 492,
+    "kutipan": "nota retur tidak dibuat pada saat BKP tersebut dikembalikan; dan/atau nota retur tidak disampaikan kepada PKP penjual BKP"
+   },
+   {
+    "pdf": "B",
+    "halaman": 489,
+    "kutipan": "Pengembalian BKP dianggap tidak terjadi dalam hal BKP yang dikembalikan diganti dengan BKP yang sama"
+   }
+  ],
+  "tags": [
+   "Pasal 288 (5)"
+  ]
+ },
+ {
+  "id": "ADV-08-042",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-65/PMK.03/2010 - Pengurangan PPN atas BKP yang Dikembalikan (Retur) & JKP yang Dibatalkan",
+  "tipe": "dasar_hukum",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Salah satu syarat pembuatan Nota Retur dan Nota Pembatalan menurut penyesuaian ketentuan PMK 65/PMK.03/2010 adalah bahwa dokumen tersebut ditandatangani dengan menggunakan...",
+  "opsi": {
+   "A": "format yang tercantum dalam Lampiran huruf RR dan SS PMK semata, tanpa tanda tangan",
+   "B": "modul dalam Portal Wajib Pajak sebagai pengganti tanda tangan",
+   "C": "Tanda Tangan Elektronik",
+   "D": "persetujuan Direktorat Jenderal Pajak yang disampaikan secara tertulis"
+  },
+  "kunci": "C",
+  "pembahasan": "Nota Retur dan Nota Pembatalan dibuat dengan ketentuan antara lain berbentuk elektronik, dibuat dan diunggah melalui modul dalam Portal Wajib Pajak, ditandatangani dengan menggunakan Tanda Tangan Elektronik, dan memperoleh persetujuan Direktorat Jenderal Pajak.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 491,
+    "kutipan": "ditandatangani dengan menggunakan Tanda Tangan Elektronik"
+   }
+  ],
+  "tags": [
+   "Pasal 288 (2)",
+   "Pasal 289 (2)"
+  ]
+ },
+ {
+  "id": "ADV-08-043",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-65/PMK.03/2010 - Pengurangan PPN atas BKP yang Dikembalikan (Retur) & JKP yang Dibatalkan",
+  "tipe": "proses",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Nota Retur dan Nota Pembatalan dibuat dan diunggah melalui...",
+  "opsi": {
+   "A": "ditandatangani dengan Tanda Tangan Elektronik, tanpa perlu diunggah ke sistem tertentu",
+   "B": "dicantumkan dalam Lampiran huruf RR dan SS PMK sebagai syarat utama",
+   "C": "memperoleh persetujuan Direktorat Jenderal Pajak secara lisan",
+   "D": "modul dalam Portal Wajib Pajak atau laman lain yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak"
+  },
+  "kunci": "D",
+  "pembahasan": "Nota Retur dan Nota Pembatalan dibuat dan diunggah melalui modul dalam Portal Wajib Pajak atau laman lain yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak, sebagai salah satu syarat selain berbentuk elektronik, ditandatangani dengan TTE, dan memperoleh persetujuan DJP.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 491,
+    "kutipan": "dibuat dan diunggah melalui modul dalam Portal Wajib Pajak atau laman lain yang terintegrasi dengan sistem administrasi Direktorat Jenderal Pajak"
+   }
+  ],
+  "tags": [
+   "Pasal 288 (2)"
+  ]
+ },
+ {
+  "id": "ADV-08-044",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-65/PMK.03/2010 - Pengurangan PPN atas BKP yang Dikembalikan (Retur) & JKP yang Dibatalkan",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Dengan berlakunya ketentuan baru hasil penyesuaian, status Peraturan Menteri Keuangan Nomor 65/PMK.03/2010 tentang Tata Cara Pengurangan Pajak Pertambahan Nilai atau PPN dan PPnBM atas BKP yang Dikembalikan dan PPN atas JKP yang Dibatalkan adalah...",
+  "opsi": {
+   "A": "diubah sebagian hanya pada ketentuan format Nota Retur",
+   "B": "dicabut",
+   "C": "tetap berlaku sepanjang tidak bertentangan dengan ketentuan baru",
+   "D": "ditangguhkan pemberlakuannya sampai terbit aturan pelaksana baru"
+  },
+  "kunci": "B",
+  "pembahasan": "PMK 65/PMK.03/2010 dinyatakan dicabut, sebagaimana ditandai dengan stempel 'DICABUT' pada salinan peraturan tersebut dan rujukan Pasal 483 angka 6 dalam materi penyesuaian.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 493,
+    "kutipan": "DICABUT"
+   },
+   {
+    "pdf": "B",
+    "halaman": 493,
+    "kutipan": "Pasal 483 angka 6"
+   }
+  ],
+  "tags": [
+   "PMK 65/PMK.03/2010",
+   "Pasal 483 angka 6"
+  ]
+ },
+ {
+  "id": "ADV-08-045",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN",
+  "tipe": "angka",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan materi Penyesuaian Ketentuan PMK 8/PMK.03/2021, berapa batas nilai pembayaran (termasuk PPN) yang dikecualikan dari pemungutan PPN oleh BUMN sebagai Pemungut PPN, sepanjang bukan merupakan pecahan dari transaksi yang nilai sebenarnya lebih besar?",
+  "opsi": {
+   "A": "Rp1.000.000,00",
+   "B": "Rp2.000.000,00",
+   "C": "Rp20.000.000,00",
+   "D": "Rp10.000.000,00"
+  },
+  "kunci": "D",
+  "pembahasan": "Pembayaran yang jumlahnya paling banyak Rp10.000.000,00 termasuk PPN/PPnBM yang terutang, dan bukan merupakan pembayaran yang dipecah dari transaksi yang nilai sebenarnya lebih dari Rp10.000.000,00, dikecualikan dari pemungutan oleh Pemungut PPN (dipungut, disetor, dilaporkan oleh Rekanan).",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 498,
+    "kutipan": "Pembayaran yang jumlahnya paling banyak Rp10.000.000,00 (sepuluh juta rupiah) termasuk jumlah PPN atau PPN\ndan PPnBM yang terutang dan bukan merupakan pembayaran yang dipecah dari suatu transaksi yan"
+   }
+  ],
+  "tags": [
+   "PMK 8/PMK.03/2021",
+   "Pasal 294"
+  ]
+ },
+ {
+  "id": "ADV-08-046",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Perusahaan tertentu yang dimiliki secara langsung oleh BUMN dapat ditetapkan sebagai Pemungut PPN apabila kepemilikan saham BUMN pada perusahaan tersebut berada di atas berapa persen?",
+  "opsi": {
+   "A": "20%",
+   "B": "25%",
+   "C": "30%",
+   "D": "50%"
+  },
+  "kunci": "B",
+  "pembahasan": "Pemungut PPN mencakup perusahaan tertentu yang dimiliki secara langsung oleh BUMN dengan kepemilikan saham di atas 25%.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 496,
+    "kutipan": "Perusahaan tertentu yang dimiliki secara\nlangsung oleh BUMN, dengan kepemilikan saham di \natas 25% **"
+   }
+  ],
+  "tags": [
+   "PMK 8/PMK.03/2021",
+   "Pasal 1 angka 135",
+   "Pasal 292"
+  ]
+ },
+ {
+  "id": "ADV-08-047",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN",
+  "tipe": "dasar_hukum",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Pasal berapa yang mengatur bahwa PPN atau PPN dan PPnBM yang terutang atas penyerahan BKP dan/atau JKP oleh rekanan kepada Pemungut PPN dipungut, disetor, dan dilaporkan oleh Pemungut PPN?",
+  "opsi": {
+   "A": "Pasal 291",
+   "B": "Pasal 293",
+   "C": "Pasal 295",
+   "D": "Pasal 297"
+  },
+  "kunci": "A",
+  "pembahasan": "Pasal 291 mengatur bahwa PPN atau PPN dan PPnBM yang terutang atas penyerahan BKP dan/atau JKP oleh rekanan kepada Pemungut PPN dipungut, disetor, dan dilaporkan oleh Pemungut PPN.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 495,
+    "kutipan": "PPN atau PPN dan PPnBM yang terutang atas penyerahan Barang Kena Pajak (BKP)\ndan/atau Jasa Kena Pajak (JKP) oleh rekanan kepada pemungut PPN, dipungut, disetor,\ndan dilaporkan oleh Pemungut PPN."
+   }
+  ],
+  "tags": [
+   "PMK 8/PMK.03/2021",
+   "Pasal 291"
+  ]
+ },
+ {
+  "id": "ADV-08-048",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN",
+  "tipe": "proses",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Kapan saat pemungutan PPN oleh Pemungut PPN (BUMN/anak BUMN tertentu) dilakukan atas penyerahan BKP/JKP oleh rekanan?",
+  "opsi": {
+   "A": "Pada saat SPT Masa PPN dilaporkan ke Kantor Pelayanan Pajak",
+   "B": "Pada akhir bulan berikutnya setelah Masa Pajak pemungutan berakhir",
+   "C": "Bersamaan dengan saat dibuatnya Faktur Pajak oleh PKP rekanan",
+   "D": "Pada saat Surat Setoran Pajak diterbitkan oleh Pemungut PPN"
+  },
+  "kunci": "C",
+  "pembahasan": "Pemungutan PPN dilakukan pada saat yang bersamaan dengan saat dibuatnya Faktur Pajak oleh PKP rekanan.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 501,
+    "kutipan": "Pemungutan PPN dilakukan pada saat yang bersamaan dengan saat dibuatnya Faktur Pajak oleh PKP rekanan."
+   }
+  ],
+  "tags": [
+   "PMK 8/PMK.03/2021",
+   "Pasal 296"
+  ]
+ },
+ {
+  "id": "ADV-08-049",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN",
+  "tipe": "negasi",
+  "kesulitan": "sulit",
+  "prioritas": 1,
+  "pertanyaan": "Berikut ini termasuk pembayaran yang dikecualikan dari pemungutan PPN oleh BUMN sebagai Pemungut PPN, KECUALI...",
+  "opsi": {
+   "A": "Pembayaran atas penyerahan bahan bakar minyak oleh PT Pertamina (Persero) dan/atau anak usahanya",
+   "B": "Pembayaran atas penyerahan jasa telekomunikasi oleh perusahaan telekomunikasi",
+   "C": "Pembayaran atas jasa angkutan udara yang diserahkan oleh perusahaan penerbangan",
+   "D": "Pembayaran atas jasa konsultansi manajemen oleh BUMN kepada rekanan swasta dengan nilai di atas Rp10.000.000,00"
+  },
+  "kunci": "D",
+  "pembahasan": "Pengecualian dari pemungutan PPN oleh Pemungut PPN mencakup antara lain pembayaran BBM/BBM bukan minyak oleh PT Pertamina (Persero) dan anak usahanya, jasa telekomunikasi, dan jasa angkutan udara oleh perusahaan penerbangan. Pembayaran jasa konsultansi manajemen dengan nilai di atas Rp10.000.000,00 tidak termasuk dalam daftar pengecualian tersebut.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 498,
+    "kutipan": "Pembayaran atas penyerahan bahan bakar minyak dan/atau bahan bakar bukan minyak oleh PT Pertamina (Persero)\ndan/atau anak usaha PT Pertamina (Persero). *\nPembayaran atas penyerahan jasa telekomunikas"
+   }
+  ],
+  "tags": [
+   "PMK 8/PMK.03/2021",
+   "Pasal 294"
+  ]
+ },
+ {
+  "id": "ADV-08-050",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-8/PMK.03/2021 - Pemungutan PPN oleh BUMN dan Perusahaan Tertentu Anak BUMN",
+  "tipe": "kasus",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "PT Y merupakan perusahaan yang sebagian sahamnya dimiliki secara langsung oleh BUMN di atas 25% dan telah ditetapkan sebagai Pemungut PPN. Jika kemudian seluruh saham BUMN pada PT Y dialihkan sehingga PT Y tidak lagi dimiliki secara langsung oleh BUMN, apa konsekuensinya terhadap status PT Y sebagai Pemungut PPN?",
+  "opsi": {
+   "A": "PT Y tetap berstatus Pemungut PPN selama belum ada KMK pencabutan baru",
+   "B": "PT Y tidak lagi ditunjuk sebagai Pemungut PPN",
+   "C": "PT Y otomatis menjadi Rekanan dari BUMN yang mengalihkan sahamnya",
+   "D": "Status Pemungut PPN berpindah secara otomatis kepada pemegang saham baru PT Y"
+  },
+  "kunci": "B",
+  "pembahasan": "Dalam hal perusahaan tidak lagi dimiliki secara langsung oleh BUMN, perusahaan dimaksud tidak lagi ditunjuk sebagai Pemungut PPN.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 496,
+    "kutipan": "Dalam hal perusahaan tidak lagi dimiliki secara langsung oleh BUMN, perusahaan dimaksud \ntidak lagi ditunjuk sebagai Pemungut PPN."
+   }
+  ],
+  "tags": [
+   "PMK 8/PMK.03/2021",
+   "Pasal 292"
+  ]
+ },
+ {
+  "id": "ADV-08-051",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-73/PMK.03/2010 & PMK-166/PMK.03/2018 - Pemungutan PPN oleh Kontraktor Migas/Panas Bumi & Pemegang IUPK",
+  "tipe": "fakta",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan Pasal 298 ayat (1) PMK 73/PMK.03/2010 sebagaimana telah disesuaikan, pihak yang ditunjuk sebagai Pemungut PPN adalah...",
+  "opsi": {
+   "A": "Pengusaha Kena Pajak Rekanan yang menyerahkan Barang Kena Pajak dan/atau Jasa Kena Pajak",
+   "B": "Kontraktor Kontrak Kerja Sama Pengusahaan Minyak dan Gas Bumi serta Kontraktor atau Pemegang Kuasa/Pemegang Izin Pengusahaan Sumber Daya Panas Bumi",
+   "C": "Direktorat Jenderal Pajak melalui Kantor Pelayanan Pajak setempat",
+   "D": "PT Pertamina (Persero) beserta seluruh anak usahanya"
+  },
+  "kunci": "B",
+  "pembahasan": "Berdasarkan Pasal 298 ayat (1) PMK 73/PMK.03/2010, Kontraktor Kontrak Kerja Sama Pengusahaan Minyak dan Gas Bumi serta Kontraktor atau Pemegang Kuasa/Pemegang Izin Pengusahaan Sumber Daya Panas Bumi ditunjuk sebagai Pemungut PPN.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 505,
+    "kutipan": "Kontraktor atau Pemegang Kuasa/Pemegang Izin ditunjuk sebagai Pemungut PPN (Pasal 298 ayat (1))"
+   }
+  ],
+  "tags": [
+   "PMK 73/PMK.03/2010",
+   "Pasal 298 ayat (1)"
+  ]
+ },
+ {
+  "id": "ADV-08-052",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-73/PMK.03/2010 & PMK-166/PMK.03/2018 - Pemungutan PPN oleh Kontraktor Migas/Panas Bumi & Pemegang IUPK",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan PMK 73/PMK.03/2010, PPN atau PPN dan PPnBM tidak dipungut oleh Kontraktor/Pemegang Kuasa/Pemegang Izin apabila nilai pembayaran (termasuk PPN) tidak melebihi...",
+  "opsi": {
+   "A": "Rp1.000.000,00",
+   "B": "Rp2.000.000,00",
+   "C": "Rp5.000.000,00",
+   "D": "Rp10.000.000,00"
+  },
+  "kunci": "D",
+  "pembahasan": "PMK 73/PMK.03/2010 mengatur bahwa PPN atau PPN dan PPnBM tidak dipungut oleh Kontraktor/Pemegang Kuasa apabila nilai pembayaran paling banyak Rp10.000.000,00 termasuk PPN, sepanjang bukan pemecahan dari transaksi yang nilai sebenarnya lebih besar dari Rp10.000.000,00.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 507,
+    "kutipan": "Pembayaran yang jumlahnya paling banyak Rp10.000.000,00 (sepuluh juta rupiah) termasuk jumlah PPN atau PPN dan PPnBM yang terutang"
+   }
+  ],
+  "tags": [
+   "PMK 73/PMK.03/2010",
+   "Pasal 301 ayat (1)"
+  ]
+ },
+ {
+  "id": "ADV-08-053",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-73/PMK.03/2010 & PMK-166/PMK.03/2018 - Pemungutan PPN oleh Kontraktor Migas/Panas Bumi & Pemegang IUPK",
+  "tipe": "dasar_hukum",
+  "kesulitan": "mudah",
+  "prioritas": 1,
+  "pertanyaan": "Berdasarkan Pasal 303 ayat (2) dan ayat (3) PMK 73/PMK.03/2010, penyetoran PPN yang telah dipungut menggunakan SSP atau sarana administrasi lain yang disamakan dengan SSP dicantumkan dengan menggunakan nama...",
+  "opsi": {
+   "A": "Kontraktor atau Pemegang Kuasa/Pemegang Izin",
+   "B": "Rekanan yang menyerahkan Barang Kena Pajak dan/atau Jasa Kena Pajak",
+   "C": "Direktorat Jenderal Pajak",
+   "D": "Kantor Pelayanan Pajak tempat Rekanan terdaftar"
+  },
+  "kunci": "A",
+  "pembahasan": "Pasal 303 ayat (2) dan ayat (3) PMK 73/PMK.03/2010 mengatur bahwa penyetoran PPN menggunakan SSP atau sarana administrasi lain yang disamakan dengan SSP dengan menggunakan nama Kontraktor atau Pemegang Kuasa/Pemegang Izin.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 506,
+    "kutipan": "menggunakan SSP atau sarana administrasi lain yang disamakan dengan SSP dengan menggunakan nama Kontraktor atau Pemegang Kuasa/Pemegang Izin (Pasal 303 ayat (2) dan ayat (3))"
+   }
+  ],
+  "tags": [
+   "PMK 73/PMK.03/2010",
+   "Pasal 303 ayat (2)",
+   "Pasal 303 ayat (3)"
+  ]
+ },
+ {
+  "id": "ADV-08-054",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-73/PMK.03/2010 & PMK-166/PMK.03/2018 - Pemungutan PPN oleh Kontraktor Migas/Panas Bumi & Pemegang IUPK",
+  "tipe": "negasi",
+  "kesulitan": "sulit",
+  "prioritas": 1,
+  "pertanyaan": "Berikut ini merupakan kriteria Pemegang Izin Usaha Pertambangan Khusus Operasi Produksi yang ditunjuk sebagai Pemungut PPN berdasarkan Pasal 305 ayat (2) PMK 166/PMK.03/2018, KECUALI...",
+  "opsi": {
+   "A": "Merupakan perubahan bentuk usaha pertambangan dari Kontrak Karya yang belum berakhir kontraknya",
+   "B": "Bergerak di bidang usaha pertambangan mineral",
+   "C": "Telah beroperasi secara komersial paling singkat 5 (lima) tahun sejak izin diterbitkan",
+   "D": "Izinnya diterbitkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang energi dan sumber daya mineral sampai dengan tanggal 31 Desember 2019"
+  },
+  "kunci": "C",
+  "pembahasan": "Pasal 305 ayat (2) PMK 166/PMK.03/2018 menetapkan tiga kriteria: merupakan perubahan bentuk usaha dari Kontrak Karya yang belum berakhir, bergerak di bidang usaha pertambangan mineral, dan izinnya diterbitkan oleh Menteri ESDM sampai dengan 31 Desember 2019. Ketentuan masa operasi komersial minimal 5 tahun tidak diatur dalam pasal tersebut.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 509,
+    "kutipan": "Merupakan perubahan bentuk usaha pertambangan dari Kontrak Karya yang berlum berakhir kontraknya; b. Bergerak di bidang usaha pertambangan mineral; c. Izinnya diterbitkan oleh Menteri"
+   }
+  ],
+  "tags": [
+   "PMK 166/PMK.03/2018",
+   "Pasal 305 ayat (2)"
+  ]
+ },
+ {
+  "id": "ADV-08-055",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-67/PMK.03/2022 - PPN atas Jasa Agen Asuransi, Pialang Asuransi, dan Pialang Reasuransi",
+  "tipe": "fakta",
+  "kesulitan": "mudah",
+  "prioritas": 2,
+  "pertanyaan": "Berdasarkan PMK 67/PMK.03/2022, pihak yang wajib memungut, menyetor, dan melaporkan PPN atas jasa agen asuransi, jasa pialang asuransi, dan jasa pialang reasuransi adalah...",
+  "opsi": {
+   "A": "Otoritas Jasa Keuangan selaku regulator industri asuransi",
+   "B": "Perusahaan asuransi, perusahaan asuransi syariah, perusahaan reasuransi, dan perusahaan reasuransi syariah",
+   "C": "Agen Asuransi dan perusahaan pialang asuransi/reasuransi itu sendiri",
+   "D": "Direktorat Jenderal Pajak melalui sistem elektronik"
+  },
+  "kunci": "B",
+  "pembahasan": "PMK 67/PMK.03/2022 menetapkan perusahaan asuransi, perusahaan asuransi syariah, perusahaan reasuransi, dan perusahaan reasuransi syariah sebagai Pemungut PPN yang wajib memungut, menyetor, dan melaporkan PPN yang terutang.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 513,
+    "kutipan": "Perusahaan asuransi, perusahaan asuransi syariah, perusahaan reasuransi, dan perusahaan reasuransi syariah wajib memungut, menyetor, dan melaporkan PPN yang terutang"
+   }
+  ],
+  "tags": [
+   "PMK 67/PMK.03/2022"
+  ]
+ },
+ {
+  "id": "ADV-08-056",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-67/PMK.03/2022 - PPN atas Jasa Agen Asuransi, Pialang Asuransi, dan Pialang Reasuransi",
+  "tipe": "angka",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Sebelum tarif PPN 12% berlaku, besaran tertentu PPN atas jasa agen asuransi yang dipungut dari nilai komisi atau imbalan adalah sebesar...",
+  "opsi": {
+   "A": "1,2%",
+   "B": "2,2%",
+   "C": "1,1%",
+   "D": "2,4%"
+  },
+  "kunci": "C",
+  "pembahasan": "Besaran tertentu PPN atas jasa agen asuransi ditetapkan sebesar 1,1% dari nilai komisi atau imbalan yang dibayarkan kepada Agen Asuransi, sebelum tarif PPN 12% berlaku.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 514,
+    "kutipan": "1,1% Jasa Agen Asuransi komisi atau imbalan* dengan nama dan dalam bentuk apapun yang dibayarkan kepada Agen Asuransi"
+   }
+  ],
+  "tags": [
+   "PMK 67/PMK.03/2022"
+  ]
+ },
+ {
+  "id": "ADV-08-057",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-67/PMK.03/2022 - PPN atas Jasa Agen Asuransi, Pialang Asuransi, dan Pialang Reasuransi",
+  "tipe": "dasar_hukum",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Penyesuaian besaran tertentu PPN atas jasa agen asuransi menjadi 1,2% dan jasa pialang asuransi/reasuransi menjadi 2,4% berlaku seiring pemberlakuan tarif PPN 12% yang diatur dalam...",
+  "opsi": {
+   "A": "Pasal 298 ayat (1) PMK 73/PMK.03/2010",
+   "B": "Pasal 305 ayat (2) PMK 166/PMK.03/2018",
+   "C": "Pasal 301 ayat (1) PMK 73/PMK.03/2010",
+   "D": "Pasal 7 ayat (1) huruf b UU HPP"
+  },
+  "kunci": "D",
+  "pembahasan": "Tarif PPN sebesar 12% yang mulai berlaku paling lambat 1 Januari 2025 diatur dalam Pasal 7 ayat (1) huruf b UU HPP, yang menjadi dasar penyesuaian besaran tertentu PPN jasa agen asuransi dan jasa pialang asuransi/reasuransi.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 516,
+    "kutipan": "Tarif Pajak Pertambahan Nilai yaitu sebesar 12% (dua belas persen) yang mulai berlaku paling lambat pada tanggal 1 Januari 2025 (Pasal 7 ayat (1) huruf b UU HPP)"
+   }
+  ],
+  "tags": [
+   "PMK 67/PMK.03/2022",
+   "Pasal 7 ayat (1) huruf b UU HPP"
+  ]
+ },
+ {
+  "id": "ADV-08-058",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-67/PMK.03/2022 - PPN atas Jasa Agen Asuransi, Pialang Asuransi, dan Pialang Reasuransi",
+  "tipe": "proses",
+  "kesulitan": "sedang",
+  "prioritas": 2,
+  "pertanyaan": "Dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak untuk penyerahan jasa agen asuransi wajib dibuat paling lama...",
+  "opsi": {
+   "A": "Akhir bulan berikutnya setelah bulan diterimanya pembayaran komisi atau imbalan oleh Agen Asuransi",
+   "B": "Pada saat pembayaran komisi diterima oleh Agen Asuransi",
+   "C": "Akhir Masa Pajak berikutnya setelah penyerahan jasa dilakukan",
+   "D": "Pada saat penyerahan jasa agen asuransi dilakukan"
+  },
+  "kunci": "A",
+  "pembahasan": "Dokumen tertentu yang dipersamakan dengan Faktur Pajak untuk jasa agen asuransi wajib dibuat paling lama akhir bulan berikutnya setelah bulan diterimanya pembayaran komisi atau imbalan oleh Agen Asuransi; sedangkan untuk jasa pialang dibuat pada saat penyerahan jasa.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 519,
+    "kutipan": "Wajib dibuat: paling lama akhir bulan berikutnya setelah bulan diterimanya pembayaran komisi atau imbalan dengan nama dan dalam bentuk apapun oleh Agen Asuransi"
+   }
+  ],
+  "tags": [
+   "PMK 67/PMK.03/2022"
+  ]
+ },
+ {
+  "id": "ADV-08-059",
+  "kompetensi": "Advokasi Kebijakan Perpajakan",
+  "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+  "subtopik": "PMK-67/PMK.03/2022 - PPN atas Jasa Agen Asuransi, Pialang Asuransi, dan Pialang Reasuransi",
+  "tipe": "kasus",
+  "kesulitan": "sulit",
+  "prioritas": 2,
+  "pertanyaan": "PT Asuransi Makmur selaku Pemungut PPN berstatus PKP melakukan kesalahan pemungutan PPN atas jasa agen asuransi sehingga PPN yang dipungut lebih besar dari yang seharusnya. Sesuai PMK 67/PMK.03/2022, kelebihan pemungutan tersebut dapat...",
+  "opsi": {
+   "A": "diajukan permohonan pengembalian pembayaran pajak yang seharusnya tidak terutang",
+   "B": "dibebankan sebagai biaya pada SPT Tahunan Pajak Penghasilan",
+   "C": "diperhitungkan sebagai pengurang Pajak Keluaran pada SPT Masa PPN Masa Pajak yang sama",
+   "D": "dikompensasikan ke Masa Pajak berikutnya tanpa batas waktu"
+  },
+  "kunci": "C",
+  "pembahasan": "Dalam hal terjadi kesalahan pemungutan PPN yang mengakibatkan PPN dipungut lebih besar dari seharusnya, atas kelebihan pemungutan oleh Pemungut PPN yang berstatus PKP diperhitungkan sebagai pengurang Pajak Keluaran pada perhitungan PPN kurang/lebih bayar dalam Masa Pajak yang sama pada SPT Masa PPN. Opsi pengembalian berlaku untuk Pemungut PPN yang bukan berstatus PKP.",
+  "sumber": [
+   {
+    "pdf": "B",
+    "halaman": 525,
+    "kutipan": "diperhitungkan sebagai pengurang PK pada perhitungan PPN kurang bayar atau PPN lebih bayar dalam Masa Pajak yang sama pada SPT Masa PPN oleh Pemungut PPN yang berstatus PKP"
+   }
+  ],
+  "tags": [
+   "PMK 67/PMK.03/2022"
+  ]
+ }
+]

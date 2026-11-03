@@ -1,0 +1,1860 @@
+[
+  {
+    "id": "POT-04-001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Kategori yang memuat berbagai produk hukum seperti STP, SKPN, SKPKB, dan SKPLB pada skema 'Data-data di Sistem Informasi DJP' disebut kategori...",
+    "opsi": {
+      "A": "Pemeriksaan",
+      "B": "Bukper dan Penyidikan",
+      "C": "Ketetapan",
+      "D": "Pengawasan"
+    },
+    "kunci": "C",
+    "pembahasan": "Skema Data-data di Sistem Informasi DJP mengelompokkan data menjadi tiga kolom, salah satunya kolom 'Ketetapan' yang memuat STP, SKPN, SKPKB, SKPLB, SKPKBT, hingga ketetapan PBB.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "Ketetapan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "1) STP"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Ketetapan"
+    ]
+  },
+  {
+    "id": "POT-04-002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah tahapan yang tercantum dalam kolom 'Pemeriksaan' pada skema Data-data di Sistem Informasi DJP?",
+    "opsi": {
+      "A": "7",
+      "B": "8",
+      "C": "6",
+      "D": "9"
+    },
+    "kunci": "B",
+    "pembahasan": "Kolom Pemeriksaan memuat 8 tahap berurutan dari Penerbitan Instruksi hingga LHP (Laporan Hasil Pemeriksaan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "8) LHP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "1) Penerbitan Instruksi"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "POT-04-003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah jenis produk ketetapan yang tercantum dalam kolom 'Ketetapan' pada skema Data-data di Sistem Informasi DJP?",
+    "opsi": {
+      "A": "9",
+      "B": "8",
+      "C": "11",
+      "D": "10"
+    },
+    "kunci": "D",
+    "pembahasan": "Kolom Ketetapan memuat 10 jenis data, diakhiri dengan item ke-10 yaitu Reg. Pengiriman Ketetapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "10) Reg. Pengiriman Ketetapan"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Ketetapan"
+    ]
+  },
+  {
+    "id": "POT-04-004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pada kolom 'Bukper dan Penyidikan' dalam skema Data-data di Sistem Informasi DJP, selain 'Riwayat Bukper', data lain yang tercantum adalah...",
+    "opsi": {
+      "A": "Riwayat Penyidikan",
+      "B": "Pembahasan Hasil Pemeriksaan",
+      "C": "Reg. Pengiriman Ketetapan",
+      "D": "Penyusunan Audit Plan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kolom Bukper dan Penyidikan hanya memuat dua data, yaitu Riwayat Bukper dan Riwayat Penyidikan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "1) Riwayat Bukper"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "2) Riwayat Penyidikan"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Bukti Permulaan",
+      "Penyidikan"
+    ]
+  },
+  {
+    "id": "POT-04-005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Menurut urutan pada kolom 'Pemeriksaan' dalam skema Data-data di Sistem Informasi DJP, tahap yang dilakukan tepat setelah 'SP2' adalah...",
+    "opsi": {
+      "A": "Pembahasan Hasil Pemeriksaan",
+      "B": "SPPL dan SPPK",
+      "C": "SPHP",
+      "D": "Penyusunan Audit Plan dan Audit Program"
+    },
+    "kunci": "B",
+    "pembahasan": "Urutan kolom Pemeriksaan adalah Penerbitan Instruksi, Penyusunan Audit Plan dan Audit Program, SP2, SPPL dan SPPK, SPHP, Pembahasan Hasil Pemeriksaan, KKP, lalu LHP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "3) SP2"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "4) SPPL dan SPPK"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "POT-04-006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tahap yang menjadi urutan pertama dalam kolom 'Pemeriksaan' pada skema Data-data di Sistem Informasi DJP adalah...",
+    "opsi": {
+      "A": "SP2",
+      "B": "Penerbitan Instruksi",
+      "C": "SPHP",
+      "D": "Penyusunan Audit Plan dan Audit Program"
+    },
+    "kunci": "B",
+    "pembahasan": "Urutan pertama pada kolom Pemeriksaan adalah 'Penerbitan Instruksi', sebelum Penyusunan Audit Plan dan Audit Program.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "1) Penerbitan Instruksi"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "POT-04-007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk dalam daftar 'Ketetapan' pada skema Data-data di Sistem Informasi DJP, KECUALI...",
+    "opsi": {
+      "A": "SKPKB",
+      "B": "SKPKBT",
+      "C": "SKPLB",
+      "D": "SPHP"
+    },
+    "kunci": "D",
+    "pembahasan": "SPHP (Surat Pemberitahuan Hasil Pemeriksaan) merupakan bagian dari kolom Pemeriksaan, bukan kolom Ketetapan. SKPKB, SKPLB, dan SKPKBT adalah bagian dari kolom Ketetapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "5) SPHP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "3) SKPKB"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "4) SKPLB"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "5) SKPKBT"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Ketetapan",
+      "Pemeriksaan"
+    ]
+  },
+  {
+    "id": "POT-04-008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam urutan ketetapan PBB pada skema Data-data di Sistem Informasi DJP, setelah 'STP PBB' (butir ke-7), ketetapan berikutnya yang tercantum adalah...",
+    "opsi": {
+      "A": "SKKP PBB",
+      "B": "Reg. Pengiriman Ketetapan",
+      "C": "SKPKBT",
+      "D": "SKP PBB"
+    },
+    "kunci": "D",
+    "pembahasan": "Urutan ketetapan PBB adalah SPPT PBB (6), STP PBB (7), SKP PBB (8), lalu SKKP PBB (9).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "7) STP PBB"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "8) SKP PBB"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Ketetapan",
+      "PBB"
+    ]
+  },
+  {
+    "id": "POT-04-009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan dokumen 'Rincian Perubahan Data Pemicu', berapa jenis data pemicu yang dipertahankan?",
+    "opsi": {
+      "A": "23",
+      "B": "18",
+      "C": "28",
+      "D": "13"
+    },
+    "kunci": "C",
+    "pembahasan": "Dokumen tersebut menyebutkan '28 Jenis Data Pemicu yang Dipertahankan' pada bagian A. Rincian Perubahan Data Pemicu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "28 Jenis Data Pemicu yang Dipertahankan"
+      }
+    ],
+    "tags": [
+      "Data Pemicu"
+    ]
+  },
+  {
+    "id": "POT-04-010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jenis data pemicu nomor 1 dalam daftar 'Jenis Data Pemicu yang Dipertahankan' adalah...",
+    "opsi": {
+      "A": "PPN Disetor Dimuka Tanpa/Kurang Pembayaran",
+      "B": "FP Sudah Approve tapi belum lapor SPT",
+      "C": "Selisih Pembayaran SPT PPh 21/26 vs MPN",
+      "D": "Missmatch PPh 29 vs MPN"
+    },
+    "kunci": "B",
+    "pembahasan": "Data pemicu nomor 1 pada daftar adalah 'FP Sudah Approve tapi belum lapor SPT'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "FP Sudah Approve tapi belum lapor SPT"
+      }
+    ],
+    "tags": [
+      "Data Pemicu",
+      "Faktur Pajak"
+    ]
+  },
+  {
+    "id": "POT-04-011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Data pemicu yang berkaitan dengan penyandingan data pertukaran informasi otomatis (EOI) rekening keuangan inbound dengan penghasilan dari luar negeri merupakan data pemicu nomor...",
+    "opsi": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "kunci": "A",
+    "pembahasan": "Data pemicu nomor 3 adalah 'Penyandingan antara data EOI Rekening Keuangan (Inbound) dengan penghasilan Luar Negeri'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "Penyandingan antara data EOI Rekening Keuangan (Inbound) dengan penghasilan Luar Negeri"
+      }
+    ],
+    "tags": [
+      "Data Pemicu",
+      "EOI"
+    ]
+  },
+  {
+    "id": "POT-04-012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang PKP ditemukan mengkreditkan Pajak Masukan atas PPN Impor dengan nilai lebih besar daripada nilai yang tercantum pada SSP PPN Impor. Kondisi ini termasuk jenis data pemicu yang disebut...",
+    "opsi": {
+      "A": "Selisih Pembayaran SPT PPh 4 ayat (2) vs MPN",
+      "B": "Pengkreditan PM atas Faktur Pajak Masukan yang telah diganti",
+      "C": "PKP Mengkreditkan PPN Impor Lebih Besar dari SSP PPN Impor",
+      "D": "PPN Disetor Dimuka Tanpa/Kurang Pembayaran"
+    },
+    "kunci": "C",
+    "pembahasan": "Kondisi tersebut sesuai dengan data pemicu nomor 6, yaitu 'PKP Mengkreditkan PPN Impor Lebih Besar dari SSP PPN Impor'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "PKP Mengkreditkan PPN Impor Lebih Besar dari SSP PPN Impor"
+      }
+    ],
+    "tags": [
+      "Data Pemicu",
+      "PPN"
+    ]
+  },
+  {
+    "id": "POT-04-013",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan jenis data pemicu yang berkaitan dengan selisih/mismatch pembayaran PPh terhadap data MPN, KECUALI...",
+    "opsi": {
+      "A": "Mismatch Setoran PPh PP 23/46 dengan MPN",
+      "B": "Selisih Pembayaran SPT PPh 21/26 vs MPN",
+      "C": "Pengkreditan PM atas Faktur Pajak Masukan yang telah diganti",
+      "D": "Missmatch PPh 29 vs MPN"
+    },
+    "kunci": "C",
+    "pembahasan": "'Pengkreditan PM atas Faktur Pajak Masukan yang telah diganti' berkaitan dengan PPN/Pajak Masukan, bukan mismatch pembayaran PPh terhadap MPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "Pengkreditan PM atas Faktur Pajak Masukan yang telah diganti"
+      },
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "Selisih Pembayaran SPT PPh 21/26 vs MPN"
+      },
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "Mismatch Setoran PPh PP 23/46 dengan MPN"
+      },
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "Missmatch PPh 29 vs MPN"
+      }
+    ],
+    "tags": [
+      "Data Pemicu",
+      "PPh"
+    ]
+  },
+  {
+    "id": "POT-04-014",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema Data-data di Sistem Informasi DJP, jumlah sub-item pada kolom 'Bukper dan Penyidikan' adalah...",
+    "opsi": {
+      "A": "3",
+      "B": "1",
+      "C": "4",
+      "D": "2"
+    },
+    "kunci": "D",
+    "pembahasan": "Kolom Bukper dan Penyidikan hanya memuat 2 item, yaitu Riwayat Bukper dan Riwayat Penyidikan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "1) Riwayat Bukper"
+      },
+      {
+        "pdf": "A",
+        "halaman": 59,
+        "kutipan": "2) Riwayat Penyidikan"
+      }
+    ],
+    "tags": [
+      "Data Sistem Informasi DJP",
+      "Bukti Permulaan"
+    ]
+  },
+  {
+    "id": "POT-04-015",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ditemukan PKP yang melaporkan kelebihan kompensasi PPN dalam SPT Masa PPN-nya. Data ini akan ditandai sistem DJP sebagai jenis data pemicu yang disebut...",
+    "opsi": {
+      "A": "Missmatch PPh 29 vs MPN",
+      "B": "Pengkreditan PM atas Faktur Pajak Masukan yang telah diganti",
+      "C": "Data Kelebihan Kompensasi PPN",
+      "D": "PPN Disetor Dimuka Tanpa/Kurang Pembayaran"
+    },
+    "kunci": "C",
+    "pembahasan": "Kondisi tersebut sesuai dengan data pemicu nomor 5, yaitu 'Data Kelebihan Kompensasi PPN'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 60,
+        "kutipan": "Data Kelebihan Kompensasi PPN"
+      }
+    ],
+    "tags": [
+      "Data Pemicu",
+      "PPN"
+    ]
+  },
+  {
+    "id": "POT-04-016",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam analisis laporan keuangan mandiri, sering ditemukan kondisi penyusutan yang tidak sesuai dengan...",
+    "opsi": {
+      "A": "masa manfaatnya",
+      "B": "tahun perolehannya",
+      "C": "metode penyusutannya",
+      "D": "golongan hartanya"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan 'Sering ditemukan penyusutan yang tidak sesuai golongan hartanya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Sering ditemukan penyusutan yang tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "sesuai golongan hartanya."
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Penyusutan"
+    ]
+  },
+  {
+    "id": "POT-04-017",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Teknik analisis 'Jembreng PPN' dilakukan dengan cara...",
+    "opsi": {
+      "A": "Penyandingan SPT PPN dalam satu halaman",
+      "B": "Rekonsiliasi fiskal dan komersial",
+      "C": "Ekualisasi SPT Masa dan Tahunan",
+      "D": "Pembandingan omzet dengan data pihak ketiga"
+    },
+    "kunci": "A",
+    "pembahasan": "Jembreng PPN merupakan 'Penyandingan SPT PPN dalam satu halaman'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Penyandingan SPT PPN dalam satu halaman"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Jembreng PPN"
+    ]
+  },
+  {
+    "id": "POT-04-018",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada analisis Jembreng PPN, pemeriksa sering menemukan kompensasi yang tidak nyambung antarmasa, serta...",
+    "opsi": {
+      "A": "Faktur Pajak belum diapprove",
+      "B": "PPN disetorkan di masa yang sama, tanpa setoran",
+      "C": "SPT Masa PPN belum dilaporkan",
+      "D": "Pajak Masukan lebih besar dari SSP Impor"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan: 'Sering ditemukan: kompensasi tidak nyambung dan PPN disetorkan di masa yang sama, tanpa setoran.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "PPN disetorkan di masa yang sama, tanpa setoran"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Jembreng PPN"
+    ]
+  },
+  {
+    "id": "POT-04-019",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ekualisasi dalam analisis laporan keuangan mandiri didefinisikan sebagai...",
+    "opsi": {
+      "A": "penyusutan yang tidak sesuai dengan golongan hartanya",
+      "B": "pemanfaatan data penguji, Apportal, dan data lain",
+      "C": "penyandingan SPT PPN dalam satu halaman saja",
+      "D": "penggunaan logika dasar dalam analisis kepatuhan material"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan Ekualisasi 'Merupakan penggunaan logika dasar dalam analisis kepatuhan material.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Merupakan penggunaan logika dasar dalam"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis kepatuhan material."
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Ekualisasi"
+    ]
+  },
+  {
+    "id": "POT-04-020",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sesuai materi Analisis Mandiri (SE-05/PJ/2022), potensi analisis mandiri dapat dilakukan antara lain melalui berapa jenis analisis?",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "3",
+      "D": "2"
+    },
+    "kunci": "A",
+    "pembahasan": "Disebutkan empat jenis analisis: analisis SPT, analisis laporan keuangan, analisis Transfer Pricing, dan analisis proses bisnis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "potensi analisis mandiri,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis SPT, analisis"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis Transfer Pricing,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis proses bisnis"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Mandiri"
+    ]
+  },
+  {
+    "id": "POT-04-021",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk jenis analisis yang disebutkan sebagai potensi analisis mandiri dalam SE-05/PJ/2022, KECUALI...",
+    "opsi": {
+      "A": "Analisis SPT",
+      "B": "Analisis Proses Bisnis",
+      "C": "Analisis Restitusi",
+      "D": "Analisis Transfer Pricing"
+    },
+    "kunci": "C",
+    "pembahasan": "Empat jenis analisis yang disebutkan adalah analisis SPT, analisis laporan keuangan, analisis Transfer Pricing, dan analisis proses bisnis. 'Analisis Restitusi' tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis SPT, analisis"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "laporan keuangan,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis Transfer Pricing,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis proses bisnis"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Mandiri"
+    ]
+  },
+  {
+    "id": "POT-04-022",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai pemanfaatan data dan analisis mandiri (analisis SPT, laporan keuangan, Transfer Pricing, dan proses bisnis) sebagaimana tercantum dalam materi ini diatur dalam...",
+    "opsi": {
+      "A": "SE-05/PJ/2022",
+      "B": "PMK-05/PJ/2022",
+      "C": "KEP-05/PJ/2022",
+      "D": "PER-05/PJ/2022"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi mencantumkan rujukan '(SE-05/PJ/2022)' pada bagian potensi analisis mandiri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "(SE-05/PJ/2022)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "POT-04-023",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam analisis laporan keuangan, data yang dapat dimanfaatkan pemeriksa antara lain data penguji, Apportal, dan...",
+    "opsi": {
+      "A": "data SIKKA",
+      "B": "data Approweb",
+      "C": "data e-Faktur",
+      "D": "data lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan: 'Manfaatkan data penguji, Apportal, dan data lain'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Manfaatkan data penguji, Apportal,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "dan data lain"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Laporan Keuangan"
+    ]
+  },
+  {
+    "id": "POT-04-024",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pemeriksa menemukan nilai penyusutan aset tetap WP tidak sesuai dengan kelompok/golongan hartanya. Temuan ini termasuk dalam fokus analisis...",
+    "opsi": {
+      "A": "Transfer Pricing",
+      "B": "Penyusutan",
+      "C": "Jembreng PPN",
+      "D": "Ekualisasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Fokus analisis 'Penyusutan' menyoroti temuan penyusutan yang tidak sesuai golongan hartanya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Penyusutan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Sering ditemukan penyusutan yang tidak"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Penyusutan"
+    ]
+  },
+  {
+    "id": "POT-04-025",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa menyandingkan data pada SPT Tahunan PPh Badan dengan data pada SPT Masa lain menggunakan logika dasar analisis kepatuhan material untuk menguji kewajaran angka yang dilaporkan. Teknik ini disebut...",
+    "opsi": {
+      "A": "Jembreng PPN",
+      "B": "Analisis Proses Bisnis",
+      "C": "Ekualisasi",
+      "D": "Penyusutan"
+    },
+    "kunci": "C",
+    "pembahasan": "Ekualisasi merupakan 'penggunaan logika dasar dalam analisis kepatuhan material.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Ekualisasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Merupakan penggunaan logika dasar dalam"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Ekualisasi"
+    ]
+  },
+  {
+    "id": "POT-04-026",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Istilah-istilah berikut digunakan dalam pembahasan Analisis Laporan Keuangan Mandiri pada materi SE-05/PJ/2022, KECUALI...",
+    "opsi": {
+      "A": "Ekualisasi",
+      "B": "Profiling Risiko",
+      "C": "Jembreng PPN",
+      "D": "Penyusutan"
+    },
+    "kunci": "B",
+    "pembahasan": "Tiga istilah yang dibahas pada diagram Analisis Laporan Keuangan adalah Penyusutan, Jembreng PPN, dan Ekualisasi. 'Profiling Risiko' tidak disebutkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Penyusutan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Jembreng PPN"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Ekualisasi"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Laporan Keuangan"
+    ]
+  },
+  {
+    "id": "POT-04-027",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Judul besar pada diagram yang memuat potensi analisis mandiri melalui analisis SPT, laporan keuangan, Transfer Pricing, dan proses bisnis adalah...",
+    "opsi": {
+      "A": "ANALISIS MANDIRI",
+      "B": "ANALISIS KEPATUHAN",
+      "C": "ANALISIS RISIKO",
+      "D": "ANALISIS LAPORAN KEUANGAN"
+    },
+    "kunci": "A",
+    "pembahasan": "Judul pada diagram tersebut adalah 'ANALISIS MANDIRI'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "ANALISIS"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "MANDIRI"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Mandiri"
+    ]
+  },
+  {
+    "id": "POT-04-028",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada diagram lingkaran (donut chart) dalam materi analisis mandiri, judul yang menaungi pembahasan Penyusutan, Jembreng PPN, dan Ekualisasi adalah...",
+    "opsi": {
+      "A": "ANALISIS TRANSFER PRICING",
+      "B": "ANALISIS LAPORAN KEUANGAN",
+      "C": "ANALISIS PROSES BISNIS",
+      "D": "ANALISIS SPT"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram donut tersebut berjudul 'ANALISIS LAPORAN KEUANGAN', mencakup Penyusutan, Jembreng PPN, dan Ekualisasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "ANALISIS LAPORAN KEUANGAN"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Laporan Keuangan"
+    ]
+  },
+  {
+    "id": "POT-04-029",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pada diagram donut 'Analisis Laporan Keuangan' dalam materi ini, segmen diagram digambarkan dengan nomor urut dari 01 sampai dengan...",
+    "opsi": {
+      "A": "03",
+      "B": "04",
+      "C": "06",
+      "D": "05"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram donut pada materi digambarkan dengan lima segmen bernomor 01, 02, 03, 04, dan 05 (terlihat pada ilustrasi halaman).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "01"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "05"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Laporan Keuangan"
+    ]
+  },
+  {
+    "id": "POT-04-030",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu jenis analisis yang disebutkan dalam potensi analisis mandiri SE-05/PJ/2022, yang berfokus pada kewajaran transaksi dengan pihak-pihak yang mempunyai hubungan istimewa, adalah analisis...",
+    "opsi": {
+      "A": "Proses Bisnis",
+      "B": "Transfer Pricing",
+      "C": "SPT",
+      "D": "Laporan Keuangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan 'analisis Transfer Pricing' sebagai salah satu dari empat jenis potensi analisis mandiri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "analisis Transfer Pricing,"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Transfer Pricing"
+    ]
+  },
+  {
+    "id": "POT-04-031",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "negasi",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berikut adalah istilah yang muncul dalam diagram donut Analisis Laporan Keuangan pada materi ini, KECUALI...",
+    "opsi": {
+      "A": "Ekualisasi",
+      "B": "Penyusutan",
+      "C": "Rekonsiliasi Bank",
+      "D": "Jembreng PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram donut Analisis Laporan Keuangan memuat istilah Penyusutan, Jembreng PPN, dan Ekualisasi, bukan Rekonsiliasi Bank.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Penyusutan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Jembreng PPN"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Ekualisasi"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Laporan Keuangan"
+    ]
+  },
+  {
+    "id": "POT-04-032",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Fokus analisis 'Jembreng PPN' dilakukan dengan cara menyandingkan SPT PPN dalam...",
+    "opsi": {
+      "A": "seluruh tahun pajak",
+      "B": "satu masa pajak saja",
+      "C": "satu halaman",
+      "D": "dua periode berbeda"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan 'Penyandingan SPT PPN dalam satu halaman' sebagai teknik Jembreng PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Penyandingan SPT PPN dalam satu halaman"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Jembreng PPN"
+    ]
+  },
+  {
+    "id": "POT-04-033",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Ditemukan fakta WP menyetorkan PPN pada masa yang sama dengan masa pelaporan tanpa bukti setoran yang sah, serta kompensasi lebih bayar yang tidak dapat ditelusuri kesinambungannya antarmasa. Dua indikasi ini merupakan temuan umum dalam teknik analisis...",
+    "opsi": {
+      "A": "Penyusutan",
+      "B": "Jembreng PPN",
+      "C": "Analisis Proses Bisnis",
+      "D": "Ekualisasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Dua indikasi tersebut sesuai dengan temuan dalam Jembreng PPN: 'kompensasi tidak nyambung dan PPN disetorkan di masa yang sama, tanpa setoran.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Sering ditemukan: kompensasi tidak nyambung dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "PPN disetorkan di masa yang sama, tanpa setoran"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Jembreng PPN"
+    ]
+  },
+  {
+    "id": "POT-04-034",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Istilah 'ANALISIS MANDIRI' pada materi SE-05/PJ/2022 menaungi pembahasan mengenai...",
+    "opsi": {
+      "A": "potensi analisis mandiri melalui analisis SPT, laporan keuangan, Transfer Pricing, dan proses bisnis",
+      "B": "jenis-jenis produk hukum ketetapan seperti STP, SKPKB, SKPLB, dan SKPKBT",
+      "C": "tahapan penerbitan instruksi hingga penyusunan laporan hasil pemeriksaan",
+      "D": "tata cara pemeriksaan bukti permulaan dan penyidikan tindak pidana perpajakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Di bawah judul 'ANALISIS MANDIRI' tercantum keterangan 'potensi analisis mandiri, antara lain melalui analisis SPT, analisis laporan keuangan, analisis Transfer Pricing, analisis proses bisnis (SE-05/PJ/2022)'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "ANALISIS"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "potensi analisis mandiri,"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Analisis Mandiri"
+    ]
+  },
+  {
+    "id": "POT-04-035",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pasangan istilah dan definisinya berikut ini yang TEPAT sesuai materi Analisis Laporan Keuangan Mandiri adalah...",
+    "opsi": {
+      "A": "Jembreng PPN - penggunaan logika dasar dalam analisis kepatuhan material",
+      "B": "Penyusutan - penyandingan SPT PPN dalam satu halaman",
+      "C": "Ekualisasi - penggunaan logika dasar dalam analisis kepatuhan material",
+      "D": "Ekualisasi - penyusutan yang tidak sesuai golongan harta"
+    },
+    "kunci": "C",
+    "pembahasan": "Ekualisasi didefinisikan sebagai 'penggunaan logika dasar dalam analisis kepatuhan material', berbeda dengan Penyusutan (golongan harta) dan Jembreng PPN (penyandingan SPT PPN).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Ekualisasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Merupakan penggunaan logika dasar dalam"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "Ekualisasi"
+    ]
+  },
+  {
+    "id": "POT-04-036",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Menurut materi Analisis Mandiri, aspek WP strategis yang idealnya diketahui oleh pemeriksa adalah...",
+    "opsi": {
+      "A": "Hanya aspek keuangan WP",
+      "B": "Hanya aspek kepatuhan formal",
+      "C": "Semua aspek dari WP strategis",
+      "D": "Hanya aspek transaksi afiliasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan: 'Semua aspek dari WP strategis idealnya kita ketahui.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Semua aspek dari WP strategis"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "idealnya kita ketahui. Semakin besar"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-037",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Semakin besar skala suatu WP strategis, maka aspek-aspek yang perlu diketahui pemeriksa menjadi semakin...",
+    "opsi": {
+      "A": "terbatas",
+      "B": "sederhana",
+      "C": "seragam",
+      "D": "kompleks"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan: 'Semakin besar skala WP semakin kompleks aspek-aspeknya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "skala WP semakin kompleks aspek-"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "aspeknya."
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-038",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Terhadap WP penentu penerimaan di masing-masing seksi, langkah yang diarahkan dalam materi Fokus WP Strategis adalah memastikan WP tersebut divisit dan...",
+    "opsi": {
+      "A": "dipastikan keberadaannya",
+      "B": "dilakukan pemeriksaan lapangan rutin",
+      "C": "dilakukan pemblokiran akses",
+      "D": "diterbitkan surat teguran"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan: 'Pastikan WP penentu penerimaan di masing-masing seksi divisit dan dipastikan keberadaanya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Pastikan WP penentu penerimaan di"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "masing-masing seksi divisit dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "dipastikan keberadaanya."
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-039",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini sesuai dengan arahan mengenai fokus WP strategis dalam analisis mandiri, KECUALI...",
+    "opsi": {
+      "A": "Semua aspek WP strategis idealnya diketahui pemeriksa",
+      "B": "Semakin besar skala WP semakin kompleks aspeknya",
+      "C": "WP penentu penerimaan perlu dipastikan keberadaannya",
+      "D": "WP strategis cukup dianalisis sewaktu-waktu tanpa pemantauan berkala"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi mengarahkan agar semua aspek WP strategis diketahui, skala besar berarti aspek lebih kompleks, dan WP penentu penerimaan dipastikan keberadaannya -- bukan dianalisis sewaktu-waktu tanpa pemantauan berkala.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Semua aspek dari WP strategis"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "skala WP semakin kompleks aspek-"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Pastikan WP penentu penerimaan di"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-040",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Seorang pemeriksa ditugaskan mengawasi sebuah WP badan besar dengan banyak lini usaha dan entitas terkait. Sesuai arahan fokus WP strategis, sikap yang tepat bagi pemeriksa adalah...",
+    "opsi": {
+      "A": "cukup fokus pada aspek PPN saja",
+      "B": "hanya memantau SPT Tahunan PPh Badan",
+      "C": "menyerahkan sepenuhnya ke seksi lain",
+      "D": "berusaha mengetahui semua aspek dari WP strategis tersebut"
+    },
+    "kunci": "D",
+    "pembahasan": "Karena skala WP besar berarti aspeknya semakin kompleks, materi mengarahkan agar semua aspek dari WP strategis tersebut idealnya diketahui.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Semua aspek dari WP strategis"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "skala WP semakin kompleks aspek-"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-041",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Terhadap WP penentu penerimaan di masing-masing seksi, materi menyebutkan dua hal yang harus dipastikan, yaitu divisit dan dipastikan...",
+    "opsi": {
+      "A": "keberadaannya",
+      "B": "labanya",
+      "C": "omzetnya",
+      "D": "NPWP-nya"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan WP penentu penerimaan harus 'divisit dan dipastikan keberadaanya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "masing-masing seksi divisit dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "dipastikan keberadaanya."
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-042",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Seksi Pengawasan menemukan bahwa seorang WP yang selama ini berkontribusi besar terhadap penerimaan di wilayah kerjanya belum pernah dikunjungi langsung oleh pemeriksa. Berdasarkan arahan mengenai fokus WP strategis, tindakan yang seharusnya dilakukan adalah...",
+    "opsi": {
+      "A": "mengabaikan karena sudah tercatat di sistem",
+      "B": "memastikan WP tersebut divisit dan dipastikan keberadaannya",
+      "C": "menunggu WP tersebut melapor SPT",
+      "D": "melimpahkan ke KPP lain tanpa verifikasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi mengarahkan agar WP penentu penerimaan di masing-masing seksi 'divisit dan dipastikan keberadaanya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Pastikan WP penentu penerimaan di"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "masing-masing seksi divisit dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "dipastikan keberadaanya."
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-043",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Dalam konteks fokus analisis mandiri, istilah 'WP penentu penerimaan' pada materi ini merujuk pada WP yang perlu dipastikan keberadaannya di...",
+    "opsi": {
+      "A": "kantor wilayah saja",
+      "B": "seluruh KPP se-Indonesia",
+      "C": "masing-masing seksi",
+      "D": "direktorat pusat"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan: 'Pastikan WP penentu penerimaan di masing-masing seksi divisit dan dipastikan keberadaanya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "Pastikan WP penentu penerimaan di"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "masing-masing seksi divisit dan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-044",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Istilah yang digunakan pada materi ini untuk menyebut kunjungan langsung ke WP guna memastikan keberadaannya adalah...",
+    "opsi": {
+      "A": "divisit",
+      "B": "diobservasi",
+      "C": "diinvestigasi",
+      "D": "disurvei"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menggunakan kata 'divisit' pada kalimat 'masing-masing seksi divisit dan dipastikan keberadaanya.'",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "masing-masing seksi divisit dan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-045",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+    "subtopik": "Fokus WP Strategis dalam Analisis Mandiri",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Arahan mengenai fokus WP strategis dalam analisis mandiri pada materi ini berada dalam satu kesatuan bagan bertajuk 'ANALISIS MANDIRI' yang merujuk pada ketentuan...",
+    "opsi": {
+      "A": "KEP-05/PJ/2022",
+      "B": "PMK-05/PJ/2022",
+      "C": "SE-05/PJ/2022",
+      "D": "PER-05/PJ/2022"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan 'ANALISIS MANDIRI' pada halaman tersebut mencantumkan rujukan '(SE-05/PJ/2022)'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "ANALISIS"
+      },
+      {
+        "pdf": "A",
+        "halaman": 62,
+        "kutipan": "(SE-05/PJ/2022)"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022",
+      "WP Strategis"
+    ]
+  },
+  {
+    "id": "POT-04-046",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema Kompleksitas vs Kesederhanaan Galpot OP, WP OP dikelompokkan menjadi dua kategori utama, yaitu Karyawan dan...",
+    "opsi": {
+      "A": "Badan Usaha",
+      "B": "Pengusaha",
+      "C": "Profesi",
+      "D": "Non Karyawan"
+    },
+    "kunci": "D",
+    "pembahasan": "Skema tersebut membagi WP OP menjadi 'Karyawan' dan 'Non Karyawan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Karyawan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Non Karyawan"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-047",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam skema tersebut, kategori 'Non Karyawan' terbagi lagi menjadi dua sub-kategori, yaitu Profesi dan...",
+    "opsi": {
+      "A": "Pengusaha",
+      "B": "Freelancer",
+      "C": "Investor",
+      "D": "Pensiunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Non Karyawan terbagi menjadi 'Profesi' dan 'Pengusaha'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Profesi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Pengusaha"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-048",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Menurut skema Galpot OP, WP OP kategori 'Profesi' menggunakan metode penghitungan penghasilan berupa...",
+    "opsi": {
+      "A": "Norma Perhitungan Penghasilan Netto",
+      "B": "Pembukuan/Pencatatan Transaksi",
+      "C": "Daftar Nominatif Biaya Entertainment",
+      "D": "Rekonsiliasi Fiskal Laba Rugi"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam skema tersebut, jalur 'Profesi' terhubung ke 'Norma Perhitungan Penghasilan Netto'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Norma Perhitungan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Penghasilan Netto"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Norma Penghitungan"
+    ]
+  },
+  {
+    "id": "POT-04-049",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "WP OP kategori 'Pengusaha' dalam skema Kompleksitas vs Kesederhanaan Galpot OP menggunakan metode...",
+    "opsi": {
+      "A": "Withholding Tax",
+      "B": "Pembukuan/Pencatatan",
+      "C": "Norma Perhitungan Penghasilan Netto",
+      "D": "Self Assessment murni"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam skema tersebut, jalur 'Pengusaha' terhubung ke 'Pembukuan/Pencatatan'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Pembukuan/"
+      },
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Pencatatan"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "Pembukuan"
+    ]
+  },
+  {
+    "id": "POT-04-050",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Hasil akhir dari proses pengumpulan data internal, data eksternal, analisis mandiri, dan pencarian data baru (KPD) terhadap WP OP dituangkan dalam bentuk...",
+    "opsi": {
+      "A": "STP WP Orang Pribadi",
+      "B": "LHPt/LHA/KKA WP Orang Pribadi",
+      "C": "SPHP WP Orang Pribadi",
+      "D": "Nota Penghitungan WP Orang Pribadi"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada skema tersebut, keempat jenis data mengalir menuju kotak 'LHPt/LHA/KKA WP Orang Pribadi'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "LHPt/LHA/KKA"
+      },
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "WP Orang Pribadi"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-051",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk karakteristik ('Cons') dalam Galpot WP OP yang disebutkan dalam materi, KECUALI...",
+    "opsi": {
+      "A": "Data internal sangat terbatas",
+      "B": "Cukup analisis sederhana",
+      "C": "Karakteristik defensive dan tertutup",
+      "D": "Transaksi cash"
+    },
+    "kunci": "B",
+    "pembahasan": "'Cukup analisis sederhana' merupakan bagian dari daftar 'Pros', bukan 'Cons'. Daftar Cons meliputi antara lain data internal sangat terbatas, karakteristik defensive dan tertutup, serta transaksi cash.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Cukup analisis sederhana"
+      },
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Data internal sangat terbatas"
+      },
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Karakteristik defensive dan tertutup"
+      },
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Transaksi cash"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-052",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah poin 'Cons' (tantangan) yang disebutkan dalam skema Kompleksitas vs Kesederhanaan Galpot OP?",
+    "opsi": {
+      "A": "6",
+      "B": "5",
+      "C": "8",
+      "D": "7"
+    },
+    "kunci": "D",
+    "pembahasan": "Daftar Cons memuat 7 poin, dari 'Perilaku sangat beragam' hingga 'Comskill harus mumpuni'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Comskill harus mumpuni"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-053",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah poin 'Pros' (kemudahan) yang disebutkan dalam skema tersebut?",
+    "opsi": {
+      "A": "6",
+      "B": "7",
+      "C": "5",
+      "D": "4"
+    },
+    "kunci": "A",
+    "pembahasan": "Daftar Pros memuat 6 poin, dari 'Cukup analisis sederhana' hingga 'Resilience modal utama'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Resilience modal utama"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-054",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang pemeriksa menggali potensi pajak atas WP OP berprofesi pengacara yang cenderung tertutup, bertransaksi tunai, dan memiliki data internal yang sangat terbatas. Karakteristik ini sesuai dengan sisi mana dari skema Kompleksitas vs Kesederhanaan Galpot OP?",
+    "opsi": {
+      "A": "Cons",
+      "B": "Norma",
+      "C": "Pembukuan",
+      "D": "Pros"
+    },
+    "kunci": "A",
+    "pembahasan": "Karakteristik defensive dan tertutup, transaksi cash, serta data internal sangat terbatas merupakan bagian dari daftar Cons pada skema tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Karakteristik defensive dan tertutup"
+      },
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Transaksi cash"
+      },
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Data internal sangat terbatas"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  },
+  {
+    "id": "POT-04-055",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Salah satu kemudahan (Pros) dalam Galpot OP adalah pemeriksa dapat melakukan komunikasi langsung kepada...",
+    "opsi": {
+      "A": "kuasa hukum WP",
+      "B": "kantor pusat WP",
+      "C": "penanggung pajak",
+      "D": "notaris WP"
+    },
+    "kunci": "C",
+    "pembahasan": "Daftar Pros menyebutkan 'Komunikasi langsung ke penanggung pajak' sebagai salah satu kemudahan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 64,
+        "kutipan": "Komunikasi langsung ke penanggung pajak"
+      }
+    ],
+    "tags": [
+      "Galpot OP"
+    ]
+  }
+]

@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "PRF-03-001",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan materi Profiling Wajib Pajak (SE-11/PJ/2020), manfaat utama penyusunan pohon kepemilikan yang dibuat lengkap adalah untuk...",
+    "opsi": {
+      "A": "memudahkan deteksi transaksi hubungan istimewa",
+      "B": "mempercepat proses pengukuhan PKP secara jabatan",
+      "C": "menentukan besaran sanksi administrasi perpajakan",
+      "D": "menetapkan nilai jual objek pajak bumi dan bangunan"
+    },
+    "kunci": "A",
+    "pembahasan": "Slide 'Pohon kepemilikan' menegaskan bahwa pohon kepemilikan yang dibuat lengkap memudahkan deteksi transaksi hubungan istimewa, sebagai bagian dari materi Profiling WP berbasis SE-11/PJ/2020.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Pohon kepemilikan yang dibuat lengkap memudahkan deteksi transaksi hubungan istimewa"
+      }
+    ],
+    "tags": ["SE-11/PJ/2020", "Pohon Kepemilikan", "Hubungan Istimewa"]
+  },
+  {
+    "id": "PRF-03-002",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada contoh pohon kepemilikan PT Banjarmasin Trading dalam materi Profiling WP, PT. Kalsel Indah tercatat memiliki persentase kepemilikan saham sebesar...",
+    "opsi": {
+      "A": "90%",
+      "B": "99%",
+      "C": "95%",
+      "D": "65%"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram pohon kepemilikan menunjukkan PT. Kalsel Indah menyetor 990.000.000 dengan persentase kepemilikan 99% atas PT Banjarmasin Trading.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "PT. Kalsel Indah 990.000.000 99%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Banjarmasin Trading"]
+  },
+  {
+    "id": "PRF-03-003",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada contoh pohon kepemilikan yang sama, berapa persentase kepemilikan saham Paijo Paijan atas PT Banjarmasin Trading?",
+    "opsi": {
+      "A": "5%",
+      "B": "10%",
+      "C": "1%",
+      "D": "30%"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan Paijo Paijan menyetor Rp10.000.000 dengan persentase kepemilikan 1% atas PT Banjarmasin Trading.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Paijo Paijan Rp. 10.000.000 1%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Banjarmasin Trading"]
+  },
+  {
+    "id": "PRF-03-004",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa nilai setoran modal PT. Kalsel Indah pada PT Banjarmasin Trading sesuai contoh pohon kepemilikan?",
+    "opsi": {
+      "A": "Rp10.000.000",
+      "B": "Rp99.000.000",
+      "C": "Rp900.000.000",
+      "D": "Rp990.000.000"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada diagram, PT. Kalsel Indah tercatat memiliki setoran senilai 990.000.000 dengan kepemilikan 99% atas PT Banjarmasin Trading.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "PT. Kalsel Indah 990.000.000"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Banjarmasin Trading"]
+  },
+  {
+    "id": "PRF-03-005",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam struktur pohon kepemilikan PT. Kalsel Indah pada contoh materi, pemegang saham dengan persentase kepemilikan terbesar adalah...",
+    "opsi": {
+      "A": "Brama K.",
+      "B": "Parmin Paijan",
+      "C": "Sembara",
+      "D": "Paijo Paijan"
+    },
+    "kunci": "A",
+    "pembahasan": "Dari tiga pemegang saham PT. Kalsel Indah (Parmin Paijan 30%, Sembara 5%, Brama K. 65%), Brama K. memiliki persentase kepemilikan terbesar yaitu 65%.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Brama K. 65%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Kalsel Indah"]
+  },
+  {
+    "id": "PRF-03-006",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa persentase kepemilikan saham Parmin Paijan atas PT. Kalsel Indah menurut contoh pohon kepemilikan?",
+    "opsi": {
+      "A": "65%",
+      "B": "30%",
+      "C": "5%",
+      "D": "99%"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan Parmin Paijan memiliki persentase kepemilikan 30% atas PT. Kalsel Indah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Parmin Paijan 30%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Kalsel Indah"]
+  },
+  {
+    "id": "PRF-03-007",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Siapakah pemegang saham PT. Kalsel Indah dengan persentase kepemilikan paling kecil pada contoh pohon kepemilikan tersebut?",
+    "opsi": {
+      "A": "Brama K.",
+      "B": "Parmin Paijan",
+      "C": "Sembara",
+      "D": "PT Banjarmasin Trading"
+    },
+    "kunci": "C",
+    "pembahasan": "Dari tiga pemegang saham PT. Kalsel Indah, Sembara memiliki persentase kepemilikan terkecil yaitu 5%.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Sembara 5%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Kalsel Indah"]
+  },
+  {
+    "id": "PRF-03-008",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah pihak berikut yang TIDAK termasuk sebagai pemegang saham langsung PT. Kalsel Indah pada contoh pohon kepemilikan tersebut?",
+    "opsi": {
+      "A": "Parmin Paijan",
+      "B": "Sembara",
+      "C": "Brama K.",
+      "D": "Paijo Paijan"
+    },
+    "kunci": "D",
+    "pembahasan": "Parmin Paijan, Sembara, dan Brama K. adalah pemegang saham langsung PT. Kalsel Indah, sedangkan Paijo Paijan merupakan pemegang saham langsung PT Banjarmasin Trading (1%), bukan PT. Kalsel Indah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Parmin Paijan 30% Sembara 5% Brama K. 65%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "PT Kalsel Indah"]
+  },
+  {
+    "id": "PRF-03-009",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan struktur pohon kepemilikan tersebut, pihak manakah yang memiliki potensi hubungan istimewa paling signifikan dengan PT Banjarmasin Trading dilihat dari persentase kepemilikan saham secara langsung?",
+    "opsi": {
+      "A": "PT. Kalsel Indah",
+      "B": "Paijo Paijan",
+      "C": "Brama K.",
+      "D": "Sembara"
+    },
+    "kunci": "A",
+    "pembahasan": "PT. Kalsel Indah memiliki 99% saham PT Banjarmasin Trading secara langsung, jauh melebihi kepemilikan langsung Paijo Paijan (1%), sehingga paling berpotensi memiliki hubungan istimewa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "PT. Kalsel Indah 990.000.000 99%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "Hubungan Istimewa"]
+  },
+  {
+    "id": "PRF-03-010",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jika dihitung secara tidak langsung melalui PT. Kalsel Indah, berapa persentase kepemilikan efektif Brama K. atas PT Banjarmasin Trading (65% x 99%)?",
+    "opsi": {
+      "A": "65,00%",
+      "B": "64,35%",
+      "C": "99,00%",
+      "D": "30,35%"
+    },
+    "kunci": "B",
+    "pembahasan": "Kepemilikan efektif dihitung dari persentase Brama K. di PT. Kalsel Indah (65%) dikalikan persentase PT. Kalsel Indah di PT Banjarmasin Trading (99%), yaitu 65% x 99% = 64,35%.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 153,
+        "kutipan": "Brama K. 65% ... PT. Kalsel Indah 990.000.000 99%"
+      }
+    ],
+    "tags": ["Pohon Kepemilikan", "Hubungan Istimewa", "Kepemilikan Efektif"]
+  },
+  {
+    "id": "PRF-03-011",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Struktur Organisasi - Identifikasi Pengambil Keputusan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan materi Profiling WP (SE-11/PJ/2020), pemahaman struktur organisasi Wajib Pajak penting terutama untuk mengetahui...",
+    "opsi": {
+      "A": "besaran tarif pajak yang berlaku",
+      "B": "jangka waktu penyimpanan dokumen",
+      "C": "siapa pengambil keputusan di perusahaan",
+      "D": "jenis Barang Kena Pajak yang diperjualbelikan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan bahwa pentingnya struktur organisasi adalah untuk mengetahui siapa pengambil keputusan di perusahaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 154,
+        "kutipan": "Mengetahui siapa pengambil keputusan di perusahaan."
+      }
+    ],
+    "tags": ["SE-11/PJ/2020", "Struktur Organisasi"]
+  },
+  {
+    "id": "PRF-03-012",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Struktur Organisasi - Identifikasi Pengambil Keputusan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Selain mengetahui pengambil keputusan, manfaat kedua memahami struktur organisasi WP menurut materi ini adalah untuk mengetahui...",
+    "opsi": {
+      "A": "besaran gaji karyawan pada tiap divisi",
+      "B": "jumlah cabang perusahaan yang terdaftar",
+      "C": "nilai aset tetap yang dimiliki WP",
+      "D": "dengan siapa AR berkomunikasi sesuai jobdesk perusahaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan manfaat kedua struktur organisasi adalah mengetahui dengan siapa Account Representative (AR) berkomunikasi sesuai jobdesk perusahaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 154,
+        "kutipan": "Dengan siapa AR berkomunikasi sesuai jobdesk perusahaan"
+      }
+    ],
+    "tags": ["Struktur Organisasi", "Account Representative"]
+  },
+  {
+    "id": "PRF-03-013",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Struktur Organisasi - Identifikasi Pengambil Keputusan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Pada contoh struktur organisasi 'Elppa Store' dalam materi, posisi tertinggi pada bagan tersebut dijabat oleh...",
+    "opsi": {
+      "A": "Manager",
+      "B": "Admin",
+      "C": "Purchasing",
+      "D": "Marketing"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan struktur organisasi 'Elppa Store' menempatkan Manager di posisi puncak, membawahi Keuangan, Purchasing, Bag. Gudang, Marketing, dan Admin.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 154,
+        "kutipan": "Struktur Organisasi Elppa Store ... Manager"
+      }
+    ],
+    "tags": ["Struktur Organisasi", "Elppa Store"]
+  },
+  {
+    "id": "PRF-03-014",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Struktur Organisasi - Identifikasi Pengambil Keputusan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Manakah bagian berikut yang TIDAK termasuk dalam contoh struktur organisasi 'Elppa Store' pada materi Profiling WP?",
+    "opsi": {
+      "A": "Keuangan",
+      "B": "Supplier",
+      "C": "Purchasing",
+      "D": "Bag. Gudang"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan struktur organisasi 'Elppa Store' terdiri dari Keuangan, Purchasing, Bag. Gudang, Marketing, dan Admin di bawah Manager; Supplier adalah pihak eksternal pada diagram Proses Bisnis WP, bukan bagian internal struktur organisasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 154,
+        "kutipan": "Keuangan Purchasing Bag. Gudang Marketing Admin"
+      }
+    ],
+    "tags": ["Struktur Organisasi", "Elppa Store"]
+  },
+  {
+    "id": "PRF-03-015",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Struktur Organisasi - Identifikasi Pengambil Keputusan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Seorang Account Representative ingin mengonfirmasi keputusan strategis terkait kebijakan pembelian barang dalam jumlah besar pada 'Elppa Store'. Berdasarkan struktur organisasi pada materi, posisi yang paling tepat dihubungi sebagai pengambil keputusan adalah...",
+    "opsi": {
+      "A": "Admin",
+      "B": "Bag. Gudang",
+      "C": "Manager",
+      "D": "Marketing"
+    },
+    "kunci": "C",
+    "pembahasan": "Karena pentingnya struktur organisasi adalah mengetahui siapa pengambil keputusan, dan Manager berada di posisi puncak bagan 'Elppa Store', maka Manager adalah pihak yang tepat dihubungi untuk keputusan strategis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 154,
+        "kutipan": "Mengetahui siapa pengambil keputusan di perusahaan."
+      }
+    ],
+    "tags": ["Struktur Organisasi", "Elppa Store"]
+  },
+  {
+    "id": "PRF-03-016",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan materi Profiling WP (SE-11/PJ/2020), diagram Proses Bisnis WP membedakan arus informasi menjadi dua jenis, yaitu...",
+    "opsi": {
+      "A": "arus kas masuk dan arus kas keluar",
+      "B": "arus impor dan arus ekspor",
+      "C": "arus produksi dan arus distribusi",
+      "D": "arus dokumen dan uang serta arus barang"
+    },
+    "kunci": "D",
+    "pembahasan": "Legenda diagram Proses Bisnis WP membedakan dua jenis arus, yaitu 'arus dokumen dan uang' dan 'arus barang'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Arus dokumen dan uang Arus barang"
+      }
+    ],
+    "tags": ["SE-11/PJ/2020", "Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-017",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pada diagram Proses Bisnis WP, entitas yang menjadi penghubung sentral antara Suppliers dan Customers adalah...",
+    "opsi": {
+      "A": "WP",
+      "B": "Gudang",
+      "C": "Toko/Outlet",
+      "D": "Toko/Outlet Cabang"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam diagram, kotak WP berada di tengah dan terhubung langsung dengan Suppliers maupun Customers melalui arus dokumen dan uang.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Supliers ... WP ... Customers"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-018",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan diagram Proses Bisnis WP, arus barang pertama kali mengalir dari Suppliers menuju...",
+    "opsi": {
+      "A": "Toko/Outlet",
+      "B": "Gudang",
+      "C": "Customers",
+      "D": "WP"
+    },
+    "kunci": "B",
+    "pembahasan": "Garis arus barang pada diagram menunjukkan aliran dari Suppliers menuju Gudang sebelum diteruskan ke Toko/Outlet.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Supliers ... Gudang ... Arus barang"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-019",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah melalui Gudang, arus barang pada diagram Proses Bisnis WP selanjutnya diteruskan ke...",
+    "opsi": {
+      "A": "Customers",
+      "B": "Suppliers",
+      "C": "Toko/Outlet",
+      "D": "WP"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan arus barang mengalir dari Gudang ke Toko/Outlet, kemudian ke Toko/Outlet Cabang, sebelum sampai ke Customers.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Gudang ... Tok/Outlet"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-020",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah pihak/entitas yang digambarkan dalam diagram Proses Bisnis WP pada materi Profiling WP (termasuk WP)?",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "6"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menggambarkan 6 entitas: Suppliers, Gudang, WP, Toko/Outlet, Toko/Outlet Cabang, dan Customers.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Supliers Gudang WP Toko/Outlet Tok/Outlet Cabang Customers"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-021",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tujuan akhir arus barang pada diagram Proses Bisnis WP, setelah melalui Toko/Outlet dan Toko/Outlet Cabang, adalah...",
+    "opsi": {
+      "A": "Customers",
+      "B": "Suppliers",
+      "C": "WP",
+      "D": "Gudang"
+    },
+    "kunci": "A",
+    "pembahasan": "Arus barang pada diagram berakhir di Customers setelah melalui Gudang, Toko/Outlet, dan Toko/Outlet Cabang.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Tok/Outlet Cabang ... Customers"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-022",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Manakah pihak berikut yang TIDAK digambarkan sebagai bagian dari diagram Proses Bisnis WP pada materi Profiling WP?",
+    "opsi": {
+      "A": "Suppliers",
+      "B": "AR (Account Representative)",
+      "C": "Gudang",
+      "D": "Toko/Outlet Cabang"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram Proses Bisnis WP hanya menggambarkan Suppliers, Gudang, WP, Toko/Outlet, Toko/Outlet Cabang, dan Customers; AR disebutkan pada materi Struktur Organisasi di halaman sebelumnya, bukan pada diagram ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Supliers Gudang WP Toko/Outlet Tok/Outlet Cabang Customers"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-023",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pada diagram Proses Bisnis WP, garis panah berwarna biru tua (navy) merepresentasikan jenis arus...",
+    "opsi": {
+      "A": "arus barang",
+      "B": "arus distribusi",
+      "C": "arus dokumen dan uang",
+      "D": "arus produksi"
+    },
+    "kunci": "C",
+    "pembahasan": "Legenda diagram menunjukkan garis berwarna biru tua merepresentasikan arus dokumen dan uang, sedangkan garis biru muda merepresentasikan arus barang.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Arus dokumen dan uang"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-024",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam diagram Proses Bisnis WP, pembayaran yang diterima WP dari Customers digambarkan sebagai bagian dari jenis arus...",
+    "opsi": {
+      "A": "arus barang",
+      "B": "arus distribusi",
+      "C": "arus produksi",
+      "D": "arus dokumen dan uang"
+    },
+    "kunci": "D",
+    "pembahasan": "Garis dari Customers ke WP pada diagram digambarkan dengan warna navy, yang menurut legenda mewakili arus dokumen dan uang, termasuk pembayaran dari Customers.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Arus dokumen dan uang ... Customers"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-025",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+    "subtopik": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Dalam kegiatan profiling Wajib Pajak, pemetaan Proses Bisnis WP seperti pada diagram Gudang-Supplier-WP-Customer-Toko/Cabang bermanfaat untuk memahami...",
+    "opsi": {
+      "A": "keterkaitan arus dokumen/uang dan arus barang dalam kegiatan usaha WP",
+      "B": "besaran tarif pajak final yang berlaku bagi WP",
+      "C": "jangka waktu daluwarsa penagihan pajak WP",
+      "D": "jumlah pegawai yang bekerja pada WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram 'Proses Bisnis WP' menggambarkan secara eksplisit keterkaitan arus dokumen dan uang maupun arus barang antara Suppliers, Gudang, WP, Toko/Outlet, dan Customers sebagai bagian dari profil kegiatan usaha WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 155,
+        "kutipan": "Proses Bisnis WP"
+      }
+    ],
+    "tags": ["Proses Bisnis WP"]
+  },
+  {
+    "id": "PRF-03-026",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan materi Profiling WP (SE-11/PJ/2020), elemen pertama yang ditelusuri dalam penilaian Kepatuhan Formal WP adalah...",
+    "opsi": {
+      "A": "riwayat pelaporan masa",
+      "B": "riwayat kepemilikan saham",
+      "C": "riwayat perubahan alamat",
+      "D": "riwayat permohonan keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi 'Kepatuhan Formal WP' menyebutkan riwayat pelaporan masa sebagai elemen pertama yang ditelusuri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Riwayat pelaporan masa"
+      }
+    ],
+    "tags": ["SE-11/PJ/2020", "Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-027",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Elemen kedua dalam penilaian Kepatuhan Formal WP menurut materi ini adalah riwayat pelaporan tahunan, termasuk status SPT...",
+    "opsi": {
+      "A": "PKP dan non-PKP",
+      "B": "nihil/LB/KB",
+      "C": "lapor dan tidak lapor saja",
+      "D": "aktif dan nonaktif"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan riwayat pelaporan tahunan termasuk status SPT nihil/LB/KB sebagai elemen kedua Kepatuhan Formal WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Riwayat pelaporan tahunan termasuk status SPT nihil/LB/KB"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-028",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berapa jumlah status SPT tahunan yang disebutkan secara eksplisit dalam materi Kepatuhan Formal WP?",
+    "opsi": {
+      "A": "2",
+      "B": "4",
+      "C": "3",
+      "D": "5"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan 3 status SPT tahunan, yaitu nihil, LB (Lebih Bayar), dan KB (Kurang Bayar).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "status SPT nihil/LB/KB"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-029",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Elemen ketiga dalam penilaian Kepatuhan Formal WP menurut materi ini adalah riwayat pemeriksaan yang meliputi...",
+    "opsi": {
+      "A": "hanya pemeriksaan khusus",
+      "B": "hanya pemeriksaan rutin restitusi",
+      "C": "hanya pemeriksaan bukti permulaan",
+      "D": "seluruh jenis pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan riwayat pemeriksaan meliputi seluruh jenis pemeriksaan sebagai elemen ketiga Kepatuhan Formal WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Riwayat pemeriksaan meliputi seluruh jenis pemeriksaan"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-030",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Menurut materi, hasil tabulasi dari riwayat pelaporan masa, tahunan, dan pemeriksaan dapat digunakan untuk memetakan...",
+    "opsi": {
+      "A": "sejauh mana kepatuhan formal WP",
+      "B": "besaran sanksi administrasi yang harus dibayar WP",
+      "C": "nilai jual objek pajak WP",
+      "D": "jumlah pegawai WP yang terdaftar"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyatakan bahwa tabulasi dari riwayat-riwayat tersebut dapat memetakan sejauh mana kepatuhan formal WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Tabulasi dari Riwayat di atas dapat memetakan sejauh mana kepatuhan formal WP"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-031",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain memetakan sejauh mana kepatuhan formal WP, tabulasi riwayat tersebut juga mengindikasikan...",
+    "opsi": {
+      "A": "jenis usaha WP",
+      "B": "tingkat kooperatif WP",
+      "C": "besaran utang pajak WP",
+      "D": "lokasi tempat kegiatan usaha WP"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyatakan bahwa tabulasi riwayat kepatuhan formal mengindikasikan tingkat kooperatif WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "yang mengindikasikan tingkat kooperatif WP"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-032",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Manakah berikut ini yang TIDAK termasuk dalam cakupan Kepatuhan Formal WP menurut materi Profiling WP?",
+    "opsi": {
+      "A": "riwayat pelaporan masa",
+      "B": "riwayat pelaporan tahunan",
+      "C": "riwayat kepemilikan saham",
+      "D": "riwayat pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi 'Kepatuhan Formal WP' hanya mencakup riwayat pelaporan masa, riwayat pelaporan tahunan, dan riwayat pemeriksaan; riwayat kepemilikan saham dibahas pada materi Pohon Kepemilikan, bukan Kepatuhan Formal WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Riwayat pelaporan masa ... Riwayat pelaporan tahunan ... Riwayat pemeriksaan"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-033",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP diketahui beberapa kali menyampaikan SPT Tahunan dengan status Lebih Bayar (LB) secara berturut-turut. Dalam kerangka Kepatuhan Formal WP pada materi ini, informasi tersebut termasuk bagian dari evaluasi...",
+    "opsi": {
+      "A": "riwayat pembukuan",
+      "B": "riwayat penyegelan",
+      "C": "riwayat penagihan aktif",
+      "D": "riwayat pelaporan tahunan"
+    },
+    "kunci": "D",
+    "pembahasan": "Status SPT nihil/LB/KB merupakan bagian dari riwayat pelaporan tahunan yang ditelusuri dalam penilaian Kepatuhan Formal WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Riwayat pelaporan tahunan termasuk status SPT nihil/LB/KB"
+      }
+    ],
+    "tags": ["Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-034",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan materi Profiling WP (SE-11/PJ/2020), penilaian tingkat kooperatif WP pada tahap Kepatuhan Formal disusun dari tabulasi riwayat apa saja secara lengkap?",
+    "opsi": {
+      "A": "riwayat pelaporan masa, pelaporan tahunan, dan pemeriksaan",
+      "B": "riwayat pelaporan masa dan riwayat pembayaran saja",
+      "C": "riwayat pemeriksaan dan riwayat penagihan saja",
+      "D": "riwayat pelaporan tahunan dan riwayat keberatan saja"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan tiga riwayat yang ditabulasi untuk menilai kepatuhan formal dan tingkat kooperatif WP, yaitu riwayat pelaporan masa, riwayat pelaporan tahunan, dan riwayat pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 156,
+        "kutipan": "Riwayat pelaporan masa ... Riwayat pelaporan tahunan ... Riwayat pemeriksaan ... mengindikasikan tingkat kooperatif WP"
+      }
+    ],
+    "tags": ["SE-11/PJ/2020", "Kepatuhan Formal WP"]
+  },
+  {
+    "id": "PRF-03-035",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut materi Profiling WP, salah satu bentuk ekualisasi yang dilakukan adalah membandingkan Omzet PPN dengan...",
+    "opsi": {
+      "A": "Biaya Gaji pada SPT PPh 21",
+      "B": "PPh Badan/OP",
+      "C": "Pemotongan PPh 23/PPh Final",
+      "D": "28 data pemicu lainnya"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi 'Ekualisasi' menyebutkan perbandingan Omzet PPN vs PPh Badan/OP sebagai bentuk ekualisasi pertama.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 157,
+        "kutipan": "Omzet PPN vs PPh Badan/OP"
+      }
+    ],
+    "tags": ["Ekualisasi"]
+  },
+  {
+    "id": "PRF-03-036",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ekualisasi kedua yang disebutkan dalam materi adalah membandingkan Biaya Gaji dengan...",
+    "opsi": {
+      "A": "Omzet PPN",
+      "B": "Pemotongan PPh 23/PPh Final",
+      "C": "jumlah penghasilan di SPT PPh 21",
+      "D": "28 data pemicu lainnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyebutkan perbandingan Biaya Gaji vs jumlah penghasilan di SPT PPh 21 sebagai bentuk ekualisasi kedua.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 157,
+        "kutipan": "Biaya Gaji vs jumlah penghasilan di SPT PPh 21"
+      }
+    ],
+    "tags": ["Ekualisasi"]
+  },
+  {
+    "id": "PRF-03-037",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ekualisasi ketiga pada materi membandingkan Biaya sewa dengan...",
+    "opsi": {
+      "A": "Omzet PPN",
+      "B": "jumlah penghasilan di SPT PPh 21",
+      "C": "PPh Badan/OP",
+      "D": "Pemotongan PPh 23/PPh Final"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan perbandingan Biaya sewa vs Pemotongan PPh 23/PPh Final sebagai bentuk ekualisasi ketiga.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 157,
+        "kutipan": "Biaya sewa vs Pemotongan PPh 23/PPh Final"
+      }
+    ],
+    "tags": ["Ekualisasi"]
+  },
+  {
+    "id": "PRF-03-038",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selain tiga ekualisasi utama, materi juga menyebut ekualisasi-ekualisasi lain seperti ekualisasi pada berapa data pemicu?",
+    "opsi": {
+      "A": "28 data pemicu",
+      "B": "65 data pemicu",
+      "C": "99 data pemicu",
+      "D": "30 data pemicu"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan ekualisasi-ekualisasi lain seperti ekualisasi pada 28 data pemicu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 157,
+        "kutipan": "Ekualisasi-ekualisasi lain (seperti ekualisasi pada 28 data pemicu)"
+      }
+    ],
+    "tags": ["Ekualisasi"]
+  },
+  {
+    "id": "PRF-03-039",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam langkah-langkah kegiatan profiling (Approach Two), langkah ke-06 menurut materi adalah...",
+    "opsi": {
+      "A": "Lakukan Ekualisasi",
+      "B": "Jembreng SPT PPN",
+      "C": "Pemanfaatan data eksternal",
+      "D": "Lakukan Analisis Laporan Keuangan Menyeluruh"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi 'Langkah Langkah Kegiatan Profiling (lanjutan)' menempatkan 'Jembreng SPT PPN' sebagai langkah ke-06 pada Approach Two.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 158,
+        "kutipan": "06 Jembreng SPT PPN"
+      }
+    ],
+    "tags": ["Ekualisasi", "Langkah Profiling"]
+  },
+  {
+    "id": "PRF-03-040",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah langkah 'Jembreng SPT PPN' (langkah 06), langkah berikutnya (07) pada Approach Two adalah...",
+    "opsi": {
+      "A": "Pemanfaatan data eksternal",
+      "B": "Lakukan Analisis Laporan Keuangan Menyeluruh",
+      "C": "Lakukan Ekualisasi",
+      "D": "Menyusun pohon kepemilikan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menempatkan 'Lakukan Ekualisasi' sebagai langkah ke-07 pada Approach Two, setelah 'Jembreng SPT PPN' (06).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 158,
+        "kutipan": "07 Lakukan Ekualisasi"
+      }
+    ],
+    "tags": ["Ekualisasi", "Langkah Profiling"]
+  },
+  {
+    "id": "PRF-03-041",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Langkah terakhir (09) pada Approach Two dalam materi Langkah-Langkah Kegiatan Profiling adalah...",
+    "opsi": {
+      "A": "Lakukan Ekualisasi",
+      "B": "Jembreng SPT PPN",
+      "C": "Lakukan Analisis Laporan Keuangan Menyeluruh",
+      "D": "Pemanfaatan data eksternal (jika ada)"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menempatkan 'Pemanfaatan data eksternal (jika ada)' sebagai langkah terakhir (09) pada Approach Two.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 158,
+        "kutipan": "09 Pemanfaatan data eksternal (jika ada)"
+      }
+    ],
+    "tags": ["Ekualisasi", "Langkah Profiling"]
+  },
+  {
+    "id": "PRF-03-042",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah berikut ini yang TIDAK termasuk contoh ekualisasi yang disebutkan secara eksplisit dalam materi Profiling WP?",
+    "opsi": {
+      "A": "Riwayat pelaporan masa vs Riwayat pemeriksaan",
+      "B": "Omzet PPN vs PPh Badan/OP",
+      "C": "Biaya Gaji vs jumlah penghasilan di SPT PPh 21",
+      "D": "Biaya sewa vs Pemotongan PPh 23/PPh Final"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi 'Ekualisasi' hanya menyebutkan tiga contoh perbandingan: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs penghasilan SPT PPh 21, dan Biaya sewa vs Pemotongan PPh 23/PPh Final; 'Riwayat pelaporan masa vs Riwayat pemeriksaan' adalah elemen Kepatuhan Formal WP, bukan bentuk ekualisasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 157,
+        "kutipan": "Omzet PPN vs PPh Badan/OP ... Biaya Gaji vs jumlah penghasilan di SPT PPh 21 ... Biaya sewa vs Pemotongan PPh 23/PPh Final"
+      }
+    ],
+    "tags": ["Ekualisasi"]
+  },
+  {
+    "id": "PRF-03-043",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pemeriksa menemukan bahwa nilai Biaya sewa pada laporan keuangan WP tidak sebanding dengan jumlah Pemotongan PPh 23/PPh Final yang dilaporkan. Temuan ini merupakan hasil dari proses...",
+    "opsi": {
+      "A": "tabulasi kepatuhan formal",
+      "B": "ekualisasi biaya sewa vs pemotongan PPh 23/PPh Final",
+      "C": "penyusunan pohon kepemilikan",
+      "D": "analisis struktur organisasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan perbandingan Biaya sewa vs Pemotongan PPh 23/PPh Final sebagai salah satu bentuk ekualisasi dalam kegiatan profiling WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 157,
+        "kutipan": "Biaya sewa vs Pemotongan PPh 23/PPh Final"
+      }
+    ],
+    "tags": ["Ekualisasi"]
+  },
+  {
+    "id": "PRF-03-044",
+    "kompetensi": "Profiling Wajib Pajak",
+    "topik": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+    "subtopik": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan materi Profiling WP (SE-11/PJ/2020) mengenai Langkah-Langkah Kegiatan Profiling Approach Two, langkah 'Lakukan Ekualisasi' berada pada urutan ke berapa?",
+    "opsi": {
+      "A": "06",
+      "B": "08",
+      "C": "07",
+      "D": "09"
+    },
+    "kunci": "C",
+    "pembahasan": "Dalam urutan Approach Two pada materi, 'Lakukan Ekualisasi' berada pada langkah ke-07, setelah 'Jembreng SPT PPN' (06) dan sebelum 'Lakukan Analisis Laporan Keuangan Menyeluruh' (08).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 158,
+        "kutipan": "07 Lakukan Ekualisasi"
+      }
+    ],
+    "tags": ["SE-11/PJ/2020", "Ekualisasi", "Langkah Profiling"]
+  }
+]

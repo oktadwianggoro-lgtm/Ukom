@@ -1,0 +1,396 @@
+[
+  {
+    "id": "PMR-03-001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria dan Jangka Waktu Pemeriksaan",
+    "subtopik": "Persetujuan/Penugasan Pemeriksaan oleh Kepala KPP & Tanggung Jawab Tim Pemeriksa (Fungsional vs Petugas Pemeriksa)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pemeriksaan Rutin merupakan pemeriksaan yang dilakukan sehubungan dengan apa?",
+    "opsi": {
+      "A": "Permintaan tertulis dari Wajib Pajak",
+      "B": "Pemenuhan hak dan/atau pelaksanaan kewajiban perpajakan Wajib Pajak",
+      "C": "Hasil analisis risiko ketidakpatuhan Wajib Pajak",
+      "D": "Keterangan lain berupa data konkret"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksaan Rutin merupakan pemeriksaan yang dilakukan sehubungan dengan pemenuhan hak dan/atau pelaksanaan kewajiban perpajakan Wajib Pajak, berbeda dengan Pemeriksaan Khusus yang berdasarkan data konkret atau analisis risiko.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 132,
+        "kutipan": "merupakan pemeriksaan yang dilakukan sehubungan dengan pemenuhan hak dan/atau pelaksanaan kewajiban perpajakan Wajib Pajak."
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Rutin"
+    ]
+  },
+  {
+    "id": "PMR-03-003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria dan Jangka Waktu Pemeriksaan",
+    "subtopik": "Persetujuan/Penugasan Pemeriksaan oleh Kepala KPP & Tanggung Jawab Tim Pemeriksa (Fungsional vs Petugas Pemeriksa)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk tanggung jawab Tim Pemeriksa Pajak yang terdiri dari Pejabat Fungsional Pemeriksa Pajak, KECUALI pemeriksaan?",
+    "opsi": {
+      "A": "Restitusi PPN pada tahun berjalan",
+      "B": "Dengan ruang lingkup seluruh jenis pajak",
+      "C": "PBB",
+      "D": "Ulang"
+    },
+    "kunci": "C",
+    "pembahasan": "Tim yang terdiri dari Pejabat Fungsional Pemeriksa Pajak bertanggung jawab atas pemeriksaan restitusi PPN tahun berjalan, ruang lingkup seluruh jenis pajak, dan pemeriksaan ulang. Pemeriksaan PBB termasuk tanggung jawab Tim yang terdiri dari Petugas Pemeriksa Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 133,
+        "kutipan": "bertanggung jawab atas pemeriksaan restitusi PPN pada tahun berjalan, pemeriksaan dengan ruang lingkup seluruh jenis pajak, dan pemeriksaan ulang"
+      }
+    ],
+    "tags": [
+      "Tim Pemeriksa Pajak"
+    ]
+  },
+  {
+    "id": "PMR-03-004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria dan Jangka Waktu Pemeriksaan",
+    "subtopik": "Persetujuan/Penugasan Pemeriksaan oleh Kepala KPP & Tanggung Jawab Tim Pemeriksa (Fungsional vs Petugas Pemeriksa)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penugasan pemeriksaan tujuan lain yang bersifat administratif sebagaimana dimaksud dalam materi Persetujuan Pemeriksaan meliputi berapa jenis kegiatan?",
+    "opsi": {
+      "A": "2 jenis",
+      "B": "3 jenis",
+      "C": "4 jenis",
+      "D": "5 jenis"
+    },
+    "kunci": "B",
+    "pembahasan": "Penugasan pemeriksaan tujuan lain bersifat administratif meliputi 3 jenis kegiatan: penerbitan NPWP dan/atau pengukuhan PKP secara jabatan; penghapusan NPWP dan/atau pencabutan pengukuhan PKP; dan Pemeriksaan Fisik Barang Dalam Rangka Pencocokan Data dan/atau Alat Keterangan dari TLDDP ke Kawasan Bebas.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 131,
+        "kutipan": "penerbitan NPWP dan/atau pengukuhan PKP secara jabatan, penghapusan NPWP dan/atau pencabutan pengukuhan PKP baik melalui permohonan maupun secara jabatan, Pemeriksaan Fisik Barang"
+      }
+    ],
+    "tags": [
+      "Persetujuan Pemeriksaan"
+    ]
+  },
+  {
+    "id": "PMR-03-005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria dan Jangka Waktu Pemeriksaan",
+    "subtopik": "Persetujuan/Penugasan Pemeriksaan oleh Kepala KPP & Tanggung Jawab Tim Pemeriksa (Fungsional vs Petugas Pemeriksa)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Wajib Pajak Orang Pribadi akan meninggalkan Indonesia untuk selama-lamanya. Berdasarkan kriteria Daftar Nominatif, kondisi tersebut termasuk dasar penugasan pemeriksaan jenis apa?",
+    "opsi": {
+      "A": "Pemeriksaan tujuan lain administratif",
+      "B": "Pemeriksaan khusus berdasarkan data konkret",
+      "C": "Pemeriksaan rutin",
+      "D": "Pemeriksaan khusus berdasarkan analisis risiko"
+    },
+    "kunci": "C",
+    "pembahasan": "Wajib Pajak Orang Pribadi akan meninggalkan Indonesia untuk selama-lamanya merupakan salah satu kriteria SPT dalam Daftar Nominatif yang menjadi dasar penugasan pemeriksaan rutin.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 131,
+        "kutipan": "Wajib Pajak Orang Pribadi akan meninggalkan Indonesia untuk selama-lamanya, Wajib Pajak tidak menyampaikan SPOP PBB"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Rutin"
+    ]
+  },
+  {
+    "id": "PMR-03-006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Kriteria dan Jangka Waktu Pemeriksaan",
+    "subtopik": "Persetujuan/Penugasan Pemeriksaan oleh Kepala KPP & Tanggung Jawab Tim Pemeriksa (Fungsional vs Petugas Pemeriksa)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Tim Pemeriksa Pajak yang terdiri dari Petugas Pemeriksa Pajak bertanggung jawab atas pemeriksaan dengan ruang lingkup?",
+    "opsi": {
+      "A": "Restitusi PPN pada tahun berjalan",
+      "B": "Satu atau beberapa jenis pajak",
+      "C": "Seluruh jenis pajak",
+      "D": "Pemeriksaan ulang"
+    },
+    "kunci": "B",
+    "pembahasan": "Tim yang terdiri dari Petugas Pemeriksa Pajak bertanggung jawab atas pemeriksaan dengan ruang lingkup satu atau beberapa jenis pajak, termasuk pemeriksaan khusus data konkret, PBB, dan SPT Masa Pengungkapan Aset secara Sukarela dengan Tarif Final.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 133,
+        "kutipan": "bertanggung jawab atas pemeriksaan dengan ruang lingkup pemeriksaan satu atau beberapa jenis pajak, termasuk di dalamnya pemeriksaan khusus berdasarkan keterangan lain berupa data konkret"
+      }
+    ],
+    "tags": [
+      "Tim Pemeriksa Pajak"
+    ]
+  },
+  {
+    "id": "PMR-03-007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SE-15/PJ/2018 menetapkan berapa kriteria Pemeriksaan Efektif?",
+    "opsi": {
+      "A": "2 kriteria",
+      "B": "3 kriteria",
+      "C": "4 kriteria",
+      "D": "5 kriteria"
+    },
+    "kunci": "C",
+    "pembahasan": "SE-15/PJ/2018 menetapkan 4 kriteria Pemeriksaan Efektif, yaitu pemeriksaan selesai dan pencairan optimal, upaya hukum minimal, restitusi terkendali, dan menciptakan kepatuhan berkelanjutan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 15,
+        "kutipan": "KRITERIA PEMERIKSAAN EFEKTIF ... SE - 15/PJ/2018"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria Pemeriksaan Efektif sebagaimana dibahas dalam materi ini diatur dalam Surat Edaran Direktur Jenderal Pajak nomor?",
+    "opsi": {
+      "A": "SE-11/PJ/2020",
+      "B": "SE-15/PJ/2018",
+      "C": "SE-10/PJ/2017",
+      "D": "SE-06/PJ/2019"
+    },
+    "kunci": "B",
+    "pembahasan": "Kriteria Pemeriksaan Efektif merupakan ketentuan dalam SE-15/PJ/2018.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "SE - 15/PJ/2018"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Agar Pemeriksa Pajak dapat optimal mengerjakan pemeriksaan pada tahun berjalan, apa yang harus diminimalisasi sesuai kriteria pemeriksaan selesai dan pencairan optimal?",
+    "opsi": {
+      "A": "Jumlah Wajib Pajak terdaftar",
+      "B": "Tunggakan pemeriksaan",
+      "C": "Jumlah tim pemeriksa",
+      "D": "Anggaran pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Tunggakan pemeriksaan harus diminimalisasi sehingga Pemeriksa Pajak dapat optimal untuk mengerjakan pemeriksaan pada tahun berjalan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "Tunggakan pemeriksaan harus diminimalisasi sehingga Pemeriksa Pajak dapat optimal untuk mengerjakan pemeriksaan pada tahun berjalan"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-010",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria upaya hukum minimal dalam Pemeriksaan Efektif dicapai melalui?",
+    "opsi": {
+      "A": "Peningkatan kualitas pemeriksaan agar hasilnya lebih baik",
+      "B": "Penambahan jumlah Pemeriksa Pajak",
+      "C": "Percepatan penerbitan SKP",
+      "D": "Pengurangan jangka waktu pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kualitas pemeriksaan harus lebih ditingkatkan lagi agar hasil pemeriksaan menjadi lebih baik, sehingga upaya hukum atas hasil pemeriksaan dapat diminimalkan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "Kualitas pemeriksaan harus lebih ditingkatkan lagi agar hasil pemeriksaan menjadi lebih baik."
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria restitusi terkendali dikaitkan dengan kriteria Wajib Pajak sebagaimana diatur dalam Pasal 17C dan 17D UU KUP serta pasal berapa UU PPN?",
+    "opsi": {
+      "A": "Pasal 9 ayat (4c)",
+      "B": "Pasal 9 ayat (6e)",
+      "C": "Pasal 16D",
+      "D": "Pasal 1A ayat (1)"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengendalian restitusi dilakukan melalui optimalisasi pengembalian pendahuluan bagi Wajib Pajak yang memenuhi kriteria Pasal 17C dan 17D UU KUP serta Pasal 9 ayat (4c) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "sebagaimana ditetapkan dalam Pasal 17C dan 17D Undang-Undang KUP serta Pasal 9 ayat (4c) Undang-Undang PPN"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018",
+      "UU KUP",
+      "UU PPN"
+    ]
+  },
+  {
+    "id": "PMR-03-012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengendalian restitusi terkendali dilakukan melalui optimalisasi?",
+    "opsi": {
+      "A": "Penagihan piutang pajak",
+      "B": "Pengembalian pendahuluan kelebihan pembayaran pajak",
+      "C": "Pemeriksaan bukti permulaan",
+      "D": "Penyegelan tempat usaha"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengendalian restitusi dilakukan melalui optimalisasi pengembalian pendahuluan kelebihan pembayaran pajak bagi Wajib Pajak yang memenuhi kriteria tertentu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "Pengendalian restitusi dilakukan melalui optimalisasi pengembalian pendahuluan kelebihan pembayaran pajak"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah dilakukan pemeriksaan, SPT Wajib Pajak pada tahun-tahun berikutnya menunjukkan dinamisasi berupa pelaporan yang tetap patuh dan wajar. Kondisi ini mencerminkan terpenuhinya kriteria Pemeriksaan Efektif berupa?",
+    "opsi": {
+      "A": "Pemeriksaan selesai dan pencairan optimal",
+      "B": "Upaya hukum minimal",
+      "C": "Restitusi terkendali",
+      "D": "Menciptakan kepatuhan berkelanjutan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pemeriksaan yang efektif harus mampu menciptakan kepatuhan Wajib Pajak yang berkelanjutan, terlihat dari dinamisasi SPT untuk tahun-tahun setelah dilakukan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "Kepatuhan berkelanjutan dapat terlihat dari dinamisasi SPT untuk tahun-tahun setelah dilakukan pemeriksaan."
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kepatuhan berkelanjutan sebagai salah satu kriteria Pemeriksaan Efektif tidak hanya berarti kepatuhan?",
+    "opsi": {
+      "A": "Jangka panjang",
+      "B": "Sesaat setelah dilakukan pemeriksaan",
+      "C": "Formal semata",
+      "D": "Material semata"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemeriksaan yang efektif harus mampu menciptakan kepatuhan Wajib Pajak yang berkelanjutan, tidak hanya kepatuhan sesaat setelah dilakukan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 134,
+        "kutipan": "tidak hanya kepatuhan sesaat setelah dilakukan pemeriksaan"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  },
+  {
+    "id": "PMR-03-015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+    "subtopik": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk 4 kriteria Pemeriksaan Efektif menurut SE-15/PJ/2018, KECUALI?",
+    "opsi": {
+      "A": "Pemeriksaan selesai dan pencairan optimal",
+      "B": "Upaya hukum minimal",
+      "C": "Peningkatan jumlah Wajib Pajak terdaftar",
+      "D": "Menciptakan kepatuhan berkelanjutan"
+    },
+    "kunci": "C",
+    "pembahasan": "Empat kriteria Pemeriksaan Efektif adalah pemeriksaan selesai dan pencairan optimal, upaya hukum minimal, restitusi terkendali, dan menciptakan kepatuhan berkelanjutan. Peningkatan jumlah Wajib Pajak terdaftar bukan termasuk kriteria tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 15,
+        "kutipan": "Pemeriksaan selesai dan pencairan optimal / Upaya hukum minimal / Restitusi terkendali / Menciptakan kepatuhan berkelanjutan"
+      }
+    ],
+    "tags": [
+      "SE-15/PJ/2018"
+    ]
+  }
+]

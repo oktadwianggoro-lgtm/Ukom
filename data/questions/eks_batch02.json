@@ -1,0 +1,2009 @@
+[
+  {
+    "id": "EKS-02-001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut materi, apa yang dilakukan Tim Ekstensifikasi pada tahap Gain Understanding setelah menerima penugasan case?",
+    "opsi": {
+      "A": "Menyusun berita acara penyampaian SP2DK",
+      "B": "Melakukan pemahaman atas Wajib Pajak",
+      "C": "Mengajukan permintaan bantuan kegiatan Intelijen",
+      "D": "Menerbitkan surat perintah Pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Tahap Gain Understanding diawali dengan: \"Tim Ekstensifikasi menerima penugasan case dan melakukan pemahaman atas Wajib Pajak\" melalui akses profil WP, aplikasi di luar CTAS, dan pembuatan sub-case Working Paper.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Tim Ekstensifikasi menerima penugasan case dan melakukan pemahaman atas Wajib Pajak:"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Gain Understanding"
+    ]
+  },
+  {
+    "id": "EKS-02-002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pada tahap Gain Understanding, Tim Ekstensifikasi mengakses profil Wajib Pajak melalui menu apa pada CTAS?",
+    "opsi": {
+      "A": "Working Paper",
+      "B": "General Information",
+      "C": "Approval Center",
+      "D": "Case Management"
+    },
+    "kunci": "B",
+    "pembahasan": "Salah satu kegiatan Gain Understanding adalah \"Mengakses Profil Wajib Pajak pada General Information di CTAS\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Mengakses Profil Wajib Pajak pada General Information di CTAS;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "CTAS",
+      "Gain Understanding"
+    ]
+  },
+  {
+    "id": "EKS-02-003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dokumen apa yang dibuat Tim Ekstensifikasi sebagai sub-case pada tahap Gain Understanding?",
+    "opsi": {
+      "A": "Nota Dinas Pengawasan",
+      "B": "Sub-case Working Paper",
+      "C": "Berita acara penyampaian SP2DK",
+      "D": "Surat Perintah Pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Rangkaian Gain Understanding diakhiri dengan \"Membuat sub-case Working Paper\" sebagai dokumentasi pemahaman atas WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Membuat sub-case Working Paper."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Working Paper"
+    ]
+  },
+  {
+    "id": "EKS-02-004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Permintaan Data Pihak Ketiga yang dapat diajukan Tim Ekstensifikasi melalui CTAS bersumber dari pihak mana?",
+    "opsi": {
+      "A": "ILAP dan IBK",
+      "B": "SIDJP dan e-Faktur",
+      "C": "Approweb dan SIKKA",
+      "D": "OPDAM dan ALPP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada tahap Permintaan Data dan Informasi disebutkan \"Permintaan Data Pihak Ketiga (ILAP dan IBK)\" sebagai salah satu jenis permintaan melalui CTAS.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan Data Pihak Ketiga (ILAP dan IBK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "ILAP",
+      "IBK"
+    ]
+  },
+  {
+    "id": "EKS-02-005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam isi SP2DK, permintaan penjelasan atas data dan/atau informasi yang dimiliki DJP berkaitan dengan data apa?",
+    "opsi": {
+      "A": "Income, Cost, Asset, Liability, dan Equity",
+      "B": "Omzet, laba, dan rugi usaha tahun berjalan",
+      "C": "Nilai jual objek pajak dan luas tanah",
+      "D": "Penghasilan kena pajak dan PTKP"
+    },
+    "kunci": "A",
+    "pembahasan": "Isi SP2DK poin kedua adalah \"Permintaan penjelasan atas data dan atau informasi yang dimiliki DJP, data terkait Income, Cost, Asset, Liability, dan Equity\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan penjelasan atas data dan atau informasi yang dimiliki DJP, data terkait Income, Cost, Asset, Liability, dan Equity"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Isi SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-02-006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa jenis permintaan data dan informasi yang dapat diajukan Tim Ekstensifikasi melalui CTAS?",
+    "opsi": {
+      "A": "2 jenis",
+      "B": "3 jenis",
+      "C": "5 jenis",
+      "D": "4 jenis"
+    },
+    "kunci": "D",
+    "pembahasan": "Empat jenis permintaan pada tahap Permintaan Data dan Informasi: Permintaan bantuan Penilaian, Permintaan Data Pihak Ketiga (ILAP dan IBK), Permintaan Data ke Pihak Terkait, dan Update data Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan bantuan Penilaian"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan Data Pihak Ketiga (ILAP dan IBK)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan Data ke Pihak Terkait"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Update data Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Permintaan Data dan Informasi"
+    ]
+  },
+  {
+    "id": "EKS-02-007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SP2DK memberikan jangka waktu paling lama berapa hari kalender kepada Wajib Pajak untuk menyampaikan tanggapan atau klarifikasi?",
+    "opsi": {
+      "A": "7 hari kalender",
+      "B": "21 hari kalender",
+      "C": "14 hari kalender",
+      "D": "30 hari kalender"
+    },
+    "kunci": "C",
+    "pembahasan": "Isi SP2DK poin ketiga menyebutkan \"Wajib Pajak diberikan jangka waktu paling lama 14 hari kalender untuk menyampaikan tanggapan atau klarifikasi\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Wajib Pajak diberikan jangka waktu paling lama 14 hari kalender untuk menyampaikan tanggapan atau klarifikasi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Jangka Waktu 14 Hari"
+    ]
+  },
+  {
+    "id": "EKS-02-008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa cara penyampaian SP2DK yang disebutkan pada tahap Penyampaian SP2DK?",
+    "opsi": {
+      "A": "3 cara",
+      "B": "2 cara",
+      "C": "4 cara",
+      "D": "5 cara"
+    },
+    "kunci": "A",
+    "pembahasan": "SP2DK disampaikan melalui tiga cara: Portal WP, Pos/Kurir, dan Visit ke Lokasi WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "SP2DK disampaikan melalui:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Portal WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Pos/Kurir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Visit ke Lokasi WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Penyampaian SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-02-009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SP2DK kepada Wajib Pajak risiko tinggi disampaikan oleh Fungsional Penyuluh sesuai dengan proses bisnis apa?",
+    "opsi": {
+      "A": "Pengawasan",
+      "B": "Pemeriksaan",
+      "C": "Edukasi",
+      "D": "Ekstensifikasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan menyebutkan \"SP2DK atas Wajib Pajak risiko tinggi disampaikan oleh Fungsional Penyuluh sesuai dengan proses bisnis Edukasi\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "SP2DK atas Wajib Pajak risiko tinggi disampaikan oleh Fungsional Penyuluh sesuai dengan proses bisnis Edukasi."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Segmentasi Risiko"
+    ]
+  },
+  {
+    "id": "EKS-02-010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Urutan tahapan yang benar dalam rangkaian Penyusunan dan Penyampaian SP2DK adalah?",
+    "opsi": {
+      "A": "Permintaan Data dan Informasi - Gain Understanding - Penyampaian SP2DK - Penyusunan SP2DK",
+      "B": "Gain Understanding - Permintaan Data dan Informasi - Penyusunan SP2DK - Penyampaian SP2DK",
+      "C": "Penyusunan SP2DK - Gain Understanding - Penyampaian SP2DK - Permintaan Data dan Informasi",
+      "D": "Penyampaian SP2DK - Penyusunan SP2DK - Permintaan Data dan Informasi - Gain Understanding"
+    },
+    "kunci": "B",
+    "pembahasan": "Rangkaian proses pada materi tersusun berurutan: Gain Understanding, Permintaan Data dan Informasi, Penyusunan SP2DK, lalu Penyampaian SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Gain Understanding"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan Data dan Informasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Penyusunan SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Penyampaian SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Alur Proses"
+    ]
+  },
+  {
+    "id": "EKS-02-011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apa tindakan Tim Ekstensifikasi apabila Wajib Pajak tidak ditemukan pada saat visit ke lokasi WP dalam rangka penyampaian SP2DK?",
+    "opsi": {
+      "A": "Langsung menerbitkan surat ketetapan pajak secara jabatan",
+      "B": "Menghentikan proses pengawasan tanpa tindak lanjut",
+      "C": "Melakukan permintaan bantuan kegiatan Intelijen atau pengamatan",
+      "D": "Mengalihkan kasus kepada Fungsional Pemeriksa Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi menyatakan: \"Dalam hal WP tidak ditemukan pada saat visit, Tim Ekstensifikasi dapat melakukan permintaan bantuan kegiatan Intelijen atau pengamatan.\"",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Dalam hal WP tidak ditemukan pada saat visit, Tim Ekstensifikasi dapat melakukan permintaan bantuan kegiatan Intelijen atau pengamatan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Visit WP"
+    ]
+  },
+  {
+    "id": "EKS-02-012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk rangkaian kegiatan pada tahap Gain Understanding, KECUALI...",
+    "opsi": {
+      "A": "Mengakses Profil Wajib Pajak pada General Information di CTAS",
+      "B": "Mengajukan Permintaan Data Pihak Ketiga (ILAP dan IBK)",
+      "C": "Mengakses informasi Wajib Pajak pada aplikasi di luar CTAS",
+      "D": "Membuat sub-case Working Paper"
+    },
+    "kunci": "B",
+    "pembahasan": "Permintaan Data Pihak Ketiga (ILAP dan IBK) merupakan bagian dari tahap Permintaan Data dan Informasi, bukan Gain Understanding.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Mengakses Profil Wajib Pajak pada General Information di CTAS;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Mengakses informasi Wajib Pajak pada aplikasi di luar CTAS;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Membuat sub-case Working Paper."
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan Data Pihak Ketiga (ILAP dan IBK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Gain Understanding"
+    ]
+  },
+  {
+    "id": "EKS-02-013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Account Representative menangani Wajib Pajak hasil profiling dengan segmentasi risiko Sedang. Siapa yang bertugas menyampaikan SP2DK kepada WP tersebut?",
+    "opsi": {
+      "A": "Tim Ekstensifikasi",
+      "B": "Fungsional Penyuluh",
+      "C": "Fungsional Pemeriksa Pajak",
+      "D": "Kepala Seksi Pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan menyebutkan \"SP2DK atas Wajib Pajak risiko Sedang/Rendah disampaikan ke Wajib Pajak oleh Tim Ekstensifikasi\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "SP2DK atas Wajib Pajak risiko Sedang/Rendah disampaikan ke Wajib"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Pajak oleh Tim Ekstensifikasi."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Segmentasi Risiko"
+    ]
+  },
+  {
+    "id": "EKS-02-014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Account Representative memerlukan bantuan penilaian atas aset Wajib Pajak untuk memperkuat data sebelum menyusun SP2DK. Permintaan apa yang harus diajukan melalui CTAS?",
+    "opsi": {
+      "A": "Permintaan bantuan Penilaian",
+      "B": "Permintaan Data Pihak Ketiga",
+      "C": "Update data Wajib Pajak",
+      "D": "Permintaan Data ke Pihak Terkait"
+    },
+    "kunci": "A",
+    "pembahasan": "Jenis permintaan yang sesuai adalah \"Permintaan bantuan Penilaian\" sebagaimana disebutkan pada tahap Permintaan Data dan Informasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan bantuan Penilaian"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Permintaan Data dan Informasi"
+    ]
+  },
+  {
+    "id": "EKS-02-015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+    "subtopik": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan isi SP2DK yang disusun Tim Ekstensifikasi, KECUALI...",
+    "opsi": {
+      "A": "Penjelasan atas pelaksanaan kewajiban perpajakan (pendaftaran, pembayaran, dan/atau pelaporan SPT)",
+      "B": "Permintaan penjelasan atas data terkait Income, Cost, Asset, Liability, dan Equity",
+      "C": "Jangka waktu paling lama 14 hari kalender untuk menyampaikan tanggapan",
+      "D": "Perintah pelaksanaan pemeriksaan bukti permulaan terhadap Wajib Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Isi SP2DK hanya mencakup tiga poin yaitu penjelasan pelaksanaan kewajiban, permintaan penjelasan data DJP, dan jangka waktu 14 hari kalender; tidak memuat perintah pemeriksaan bukti permulaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Penjelasan atas pelaksanaan kewajiban perpajakan (pendaftaran,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "pembayaran, dan/atau pelaporan SPT)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Permintaan penjelasan atas data dan atau informasi yang dimiliki DJP, data terkait Income, Cost, Asset, Liability, dan Equity"
+      },
+      {
+        "pdf": "A",
+        "halaman": 85,
+        "kutipan": "Wajib Pajak diberikan jangka waktu paling lama 14 hari kalender untuk menyampaikan tanggapan atau klarifikasi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Isi SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-02-016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pengawasan terhadap Wajib Pajak belum terdaftar dilakukan terhadap pemenuhan kewajiban perpajakan sejak kapan?",
+    "opsi": {
+      "A": "Sejak Wajib Pajak terdaftar di KPP",
+      "B": "Sejak diterbitkannya NPWP",
+      "C": "Sejak disampaikannya SP2DK",
+      "D": "Sejak timbulnya kewajiban perpajakan"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyatakan pengawasan WP belum terdaftar \"dilakukan terhadap pemenuhan kewajiban perpajakan sejak timbulnya kewajiban perpajakan\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "dilakukan terhadap"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "pemenuhan kewajiban"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "perpajakan sejak timbulnya"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Pengawasan WP Belum Terdaftar"
+    ]
+  },
+  {
+    "id": "EKS-02-017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pengawasan Wajib Pajak belum terdaftar dilaksanakan melalui kegiatan permintaan penjelasan atas data dan/atau keterangan dengan menerbitkan surat apa?",
+    "opsi": {
+      "A": "SP2DK",
+      "B": "SPHP",
+      "C": "SPP",
+      "D": "STP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengawasan dilakukan \"melalui kegiatan Permintaan penjelasan atas data, dan/atau keterangan (P2DK)\" yaitu \"dengan menerbitkan SP2DK\" kepada Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "Permintaan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "penjelasan atas data,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "dan/atau keterangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "(P2DK)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "dengan menerbitkan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "P2DK"
+    ]
+  },
+  {
+    "id": "EKS-02-018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "SP2DK yang disampaikan melalui pos, jasa ekspedisi, atau jasa kurir harus disertai bukti pengiriman surat ke alamat mana?",
+    "opsi": {
+      "A": "Alamat domisili kuasa hukum WP",
+      "B": "Alamat tempat tinggal atau tempat kedudukan WP",
+      "C": "Alamat kantor pusat Direktorat Jenderal Pajak",
+      "D": "Alamat terdaftar di Dinas Kependudukan"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan penyampaian \"melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan WP\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- melalui pos, jasa ekspedisi, atau jasa kurir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "dengan bukti pengiriman surat ke alamat"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "tempat tinggal atau tempat kedudukan WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Penyampaian via Pos"
+    ]
+  },
+  {
+    "id": "EKS-02-019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Selain kepada Wajib Pajak sendiri, SP2DK yang disampaikan secara langsung dapat diterima oleh siapa saja?",
+    "opsi": {
+      "A": "Notaris dan Pejabat Pembuat Akta Tanah yang ditunjuk oleh Wajib Pajak",
+      "B": "Account Representative yang bertugas di KPP lain selain KPP terdaftar",
+      "C": "Wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP",
+      "D": "Camat dan Lurah yang berwenang di wilayah domisili Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyampaian secara langsung ditujukan \"kepada Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- secara langsung kepada Wajib Pajak, wakil,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "kuasa, pegawai, atau anggota keluarga yang"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Penyampaian Langsung"
+    ]
+  },
+  {
+    "id": "EKS-02-020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan Step 1 penyampaian SP2DK, ada berapa saluran yang dapat digunakan untuk menyampaikan SP2DK kepada Wajib Pajak belum terdaftar?",
+    "opsi": {
+      "A": "3 saluran",
+      "B": "2 saluran",
+      "C": "4 saluran",
+      "D": "5 saluran"
+    },
+    "kunci": "A",
+    "pembahasan": "SP2DK disampaikan melalui tiga saluran: melalui Akun WP, melalui pos/jasa ekspedisi/jasa kurir, atau secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- melalui Akun WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- melalui pos, jasa ekspedisi, atau jasa kurir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- secara langsung kepada Wajib Pajak, wakil,"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Penyampaian SP2DK (Step 1)"
+    ]
+  },
+  {
+    "id": "EKS-02-021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Account Representative/Pegawai DJP menyampaikan SP2DK secara langsung kepada Wajib Pajak berdasarkan dokumen apa?",
+    "opsi": {
+      "A": "Surat tugas pemeriksaan",
+      "B": "Nota dinas Kepala Seksi",
+      "C": "Surat perintah membayar",
+      "D": "Surat perintah Pengawasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyampaian langsung oleh Account Representative/Pegawai DJP dilakukan \"Berdasarkan surat perintah Pengawasan\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "Berdasarkan surat"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "perintah Pengawasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Surat Perintah Pengawasan"
+    ]
+  },
+  {
+    "id": "EKS-02-022",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Terhadap penyampaian SP2DK secara langsung, dibuatkan dokumen administratif apa sebagai bukti penyampaian?",
+    "opsi": {
+      "A": "Laporan Hasil Pengawasan",
+      "B": "Berita acara penyampaian SP2DK",
+      "C": "Nota penghitungan",
+      "D": "Surat pemberitahuan hasil penelitian"
+    },
+    "kunci": "B",
+    "pembahasan": "Materi menyebutkan: \"Terhadap penyampaian SP2DK secara langsung, dibuatkan berita acara penyampaian SP2DK\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Terhadap penyampaian SP2DK secara"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "langsung, dibuatkan berita acara"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "penyampaian SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Berita Acara"
+    ]
+  },
+  {
+    "id": "EKS-02-023",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam kondisi normal (Wajib Pajak ditemukan dan bersedia menerima), Berita Acara penyampaian SP2DK secara langsung ditandatangani oleh pihak mana saja?",
+    "opsi": {
+      "A": "Hanya oleh AR/Pegawai DJP yang ditugaskan berdasarkan surat perintah Pengawasan",
+      "B": "Hanya oleh Wajib Pajak sendiri tanpa kehadiran AR/Pegawai DJP yang ditugaskan",
+      "C": "Wajib Pajak/wakil/kuasa/pegawai/keluarga dewasa dari WP, dan AR/Pegawai DJP yang ditugaskan",
+      "D": "Kepala KPP dan Wajib Pajak tanpa melibatkan AR/Pegawai DJP yang ditugaskan"
+    },
+    "kunci": "C",
+    "pembahasan": "Berita acara \"ditandatangani oleh\" pihak \"Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP\" dan \"AR/Pegawai DJP yang ditugaskan\" pada kondisi normal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Wajib Pajak, wakil, kuasa,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "pegawai, atau anggota"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "keluarga yang telah dewasa"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "dari WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "AR/Pegawai DJP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "yang ditugaskan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "BA Penyampaian Langsung"
+    ]
+  },
+  {
+    "id": "EKS-02-024",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Wajib Pajak tidak ditemukan atau tidak bersedia menerima SP2DK, Berita Acara penyampaian SP2DK hanya ditandatangani oleh siapa?",
+    "opsi": {
+      "A": "Wajib Pajak atau kuasanya",
+      "B": "Kepala Seksi Pengawasan",
+      "C": "Saksi dari RT/RW setempat",
+      "D": "AR/Pegawai DJP yang ditugaskan"
+    },
+    "kunci": "D",
+    "pembahasan": "Dalam kondisi \"Tidak ditemukan atau tidak bersedia menerima SP2DK\", berita acara \"hanya ditandatangani oleh\" AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Tidak ditemukan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "atau tidak bersedia"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "menerima SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "hanya"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "BA Penyampaian Langsung"
+    ]
+  },
+  {
+    "id": "EKS-02-025",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Berita Acara penyampaian SP2DK hanya ditandatangani oleh AR/Pegawai DJP karena Wajib Pajak tidak ditemukan, bagaimana status SP2DK tersebut menurut ketentuan?",
+    "opsi": {
+      "A": "SP2DK dianggap batal dan harus diterbitkan ulang",
+      "B": "SP2DK dianggap belum disampaikan sampai WP ditemukan",
+      "C": "Proses pengawasan dihentikan tanpa tindak lanjut",
+      "D": "Wajib Pajak dianggap menerima SP2DK dan tidak memberikan tanggapan"
+    },
+    "kunci": "D",
+    "pembahasan": "Ketentuan menyatakan: \"WP dianggap menerima SP2DK dan tidak memberikan tanggapan\" apabila berita acara hanya ditandatangani AR/Pegawai DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "WP dianggap menerima"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "SP2DK dan tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "memberikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Akibat BA"
+    ]
+  },
+  {
+    "id": "EKS-02-026",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Urutan langkah penyampaian SP2DK secara langsung oleh AR/Pegawai DJP sesuai materi adalah?",
+    "opsi": {
+      "A": "Membuat berita acara penyampaian terlebih dahulu - baru mendatangi WP - menyampaikan SP2DK - menerbitkan surat perintah Pengawasan",
+      "B": "Menyampaikan SP2DK melalui Akun WP terlebih dahulu - mencetak berita acara - baru mendatangi WP secara langsung",
+      "C": "Mendatangi WP berdasarkan surat perintah Pengawasan - menyampaikan SP2DK - membuat berita acara - berita acara ditandatangani",
+      "D": "Menandatangani berita acara lebih dulu - menyampaikan SP2DK - mendatangi WP - baru menerbitkan surat perintah Pengawasan"
+    },
+    "kunci": "C",
+    "pembahasan": "Urutannya: AR/Pegawai DJP bertindak berdasarkan surat perintah Pengawasan, menyampaikan SP2DK, membuat berita acara penyampaian, lalu berita acara ditandatangani para pihak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "Berdasarkan surat"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "perintah Pengawasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "langsung, dibuatkan berita acara"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Alur Penyampaian Langsung"
+    ]
+  },
+  {
+    "id": "EKS-02-027",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "AR mendatangi alamat Wajib Pajak untuk menyampaikan SP2DK secara langsung, namun WP maupun pihak keluarga dewasa tidak ada di tempat. Bagaimana status penyampaian SP2DK tersebut?",
+    "opsi": {
+      "A": "Penyampaian SP2DK dianggap gagal sepenuhnya dan harus dikirim ulang melalui jasa pos tercatat",
+      "B": "AR wajib kembali mendatangi alamat WP hingga tiga kali sebelum berita acara boleh dibuat",
+      "C": "WP dianggap menerima SP2DK dan tidak memberikan tanggapan; BA hanya ditandatangani AR/Pegawai DJP",
+      "D": "SP2DK otomatis dialihkan penyampaiannya melalui Akun WP tanpa perlu dibuat berita acara"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai ketentuan, apabila WP \"Tidak ditemukan atau tidak bersedia menerima SP2DK\", berita acara \"hanya ditandatangani\" AR/Pegawai DJP dan \"WP dianggap menerima SP2DK dan tidak memberikan tanggapan\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Tidak ditemukan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "atau tidak bersedia"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "menerima SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "WP dianggap menerima"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "SP2DK dan tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "memberikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Kasus BA"
+    ]
+  },
+  {
+    "id": "EKS-02-028",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Wajib Pajak ingin menerima SP2DK tanpa harus bertemu langsung dengan petugas maupun melalui pos. Saluran apa yang dapat digunakan sesuai Step 1 Penyampaian SP2DK?",
+    "opsi": {
+      "A": "Melalui media sosial resmi KPP",
+      "B": "Melalui Akun WP",
+      "C": "Melalui panggilan telepon AR",
+      "D": "Melalui aplikasi pesan instan pribadi AR"
+    },
+    "kunci": "B",
+    "pembahasan": "Salah satu saluran penyampaian SP2DK pada Step 1 adalah \"Disampaikan: - melalui Akun WP\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "Disampaikan:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- melalui Akun WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Akun WP"
+    ]
+  },
+  {
+    "id": "EKS-02-029",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang kuasa Wajib Pajak yang telah mendapat surat kuasa menerima penyampaian SP2DK secara langsung dari petugas DJP di alamat WP. Apakah penyampaian tersebut sesuai ketentuan?",
+    "opsi": {
+      "A": "Tidak sesuai, karena SP2DK hanya boleh diterima Wajib Pajak sendiri",
+      "B": "Sesuai, karena kuasa termasuk pihak yang dapat menerima SP2DK secara langsung",
+      "C": "Tidak sesuai, karena penyampaian langsung hanya berlaku bagi WP risiko tinggi",
+      "D": "Sesuai, tetapi harus diulang dengan kehadiran Wajib Pajak sendiri"
+    },
+    "kunci": "B",
+    "pembahasan": "SP2DK secara langsung dapat disampaikan \"kepada Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP\", sehingga penerimaan oleh kuasa adalah sah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- secara langsung kepada Wajib Pajak, wakil,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "kuasa, pegawai, atau anggota keluarga yang"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Penyampaian Langsung"
+    ]
+  },
+  {
+    "id": "EKS-02-030",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut adalah saluran penyampaian SP2DK kepada Wajib Pajak belum terdaftar pada Step 1, KECUALI...",
+    "opsi": {
+      "A": "Melalui Akun WP",
+      "B": "Melalui pos, jasa ekspedisi, atau jasa kurir",
+      "C": "Secara langsung kepada WP, wakil, kuasa, pegawai, atau keluarga dewasa",
+      "D": "Melalui pengumuman pada papan informasi KPP"
+    },
+    "kunci": "D",
+    "pembahasan": "Tiga saluran resmi yang diatur adalah melalui Akun WP, melalui pos/jasa ekspedisi/kurir, dan secara langsung; pengumuman pada papan informasi KPP tidak termasuk saluran yang diatur.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- melalui Akun WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- melalui pos, jasa ekspedisi, atau jasa kurir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 86,
+        "kutipan": "- secara langsung kepada Wajib Pajak, wakil,"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Penyampaian SP2DK (Step 1)"
+    ]
+  },
+  {
+    "id": "EKS-02-031",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak dapat memberikan tanggapan atas SP2DK dengan cara apa saja?",
+    "opsi": {
+      "A": "Mengajukan permohonan perpanjangan jangka waktu tanggapan secara lisan kepada Account Representative",
+      "B": "Membuat dan menandatangani sendiri berita acara penyampaian SP2DK tanpa melibatkan petugas DJP",
+      "C": "Menyampaikan tanggapan atas SP2DK melalui akun media sosial resmi Direktorat Jenderal Pajak",
+      "D": "Memenuhi kewajiban perpajakan dan/atau menyampaikan penjelasan kewajiban perpajakan dalam SP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi menyebutkan WP memberikan tanggapan dengan \"a. memenuhi kewajiban perpajakan; dan/atau b. menyampaikan penjelasan atas kewajiban perpajakan, sebagaimana tercantum dalam SP2DK\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "Wajib Pajak memberikan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "tanggapan dengan:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "a. memenuhi kewajiban"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "perpajakan; dan/atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "b. menyampaikan penjelasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "atas kewajiban perpajakan,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "sebagaimana tercantum dalam"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-02-032",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemberitahuan perpanjangan jangka waktu tanggapan SP2DK disampaikan Wajib Pajak kepada siapa?",
+    "opsi": {
+      "A": "Kantor Wilayah DJP setempat",
+      "B": "Direktorat Pemeriksaan dan Penagihan",
+      "C": "KPP yang menerbitkan SP2DK",
+      "D": "Kantor Pusat DJP"
+    },
+    "kunci": "C",
+    "pembahasan": "WP \"dapat menyampaikan pemberitahuan perpanjangan secara tertulis kepada KPP yang menerbitkan SP2DK\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "WP dapat menyampaikan pemberitahuan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "perpanjangan secara tertulis kepada KPP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "yang menerbitkan SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Perpanjangan Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-033",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pemberitahuan perpanjangan jangka waktu tanggapan SP2DK harus sudah diterima KPP sebelum apa?",
+    "opsi": {
+      "A": "Sebelum jangka waktu 7 hari berakhir",
+      "B": "Sebelum SP2DK diterbitkan",
+      "C": "Sebelum jangka waktu 14 hari berakhir",
+      "D": "Sebelum Akun WP diaktivasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan menyebutkan pemberitahuan perpanjangan \"Harus diterima KPP sebelum jangka waktu 14 hari berakhir\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "Harus diterima KPP sebelum jangka waktu 14 hari berakhir"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Perpanjangan Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-034",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemberitahuan perpanjangan jangka waktu tanggapan SP2DK dapat disampaikan melalui Akun WP dengan syarat apa?",
+    "opsi": {
+      "A": "Dalam hal Wajib Pajak berstatus risiko tinggi",
+      "B": "Dalam hal SP2DK disampaikan secara langsung",
+      "C": "Dalam hal Wajib Pajak memiliki kuasa hukum",
+      "D": "Dalam hal sudah aktivasi dan saluran telah tersedia"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyampaian pemberitahuan perpanjangan \"melalui akun WP dalam hal sudah aktivasi dan saluran telah tersedia\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "a. melalui akun WP dalam hal sudah aktivasi dan saluran telah tersedia;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Saluran Perpanjangan"
+    ]
+  },
+  {
+    "id": "EKS-02-035",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tanpa mengajukan perpanjangan, Wajib Pajak diberikan jangka waktu berapa hari untuk menanggapi SP2DK sejak diterima?",
+    "opsi": {
+      "A": "7 hari",
+      "B": "14 hari",
+      "C": "21 hari",
+      "D": "30 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan \"14 hari\" dengan keterangan \"tanpa perpanjangan\" sebagai jangka waktu tanggapan sejak SP2DK diterima.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "14 hari"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "tanpa"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "perpanjangan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Jangka Waktu Tanggapan"
+    ]
+  },
+  {
+    "id": "EKS-02-036",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Wajib Pajak mengajukan perpanjangan, berapa tambahan hari yang diberikan setelah jangka waktu 14 hari pertama?",
+    "opsi": {
+      "A": "3 hari",
+      "B": "5 hari",
+      "C": "10 hari",
+      "D": "7 hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menunjukkan tambahan \"7 hari\" dengan keterangan \"dengan perpanjangan\" setelah masa 14 hari pertama.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "dengan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "perpanjangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "7 hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Perpanjangan 7 Hari"
+    ]
+  },
+  {
+    "id": "EKS-02-037",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa total jangka waktu maksimal Wajib Pajak untuk menanggapi SP2DK apabila mengajukan perpanjangan (14 hari ditambah masa perpanjangan)?",
+    "opsi": {
+      "A": "14 hari",
+      "B": "18 hari",
+      "C": "28 hari",
+      "D": "21 hari"
+    },
+    "kunci": "D",
+    "pembahasan": "Total jangka waktu dengan perpanjangan adalah 14 hari ditambah 7 hari perpanjangan, yaitu 21 hari, sebagaimana digambarkan pada diagram \"14 hari\" dan \"7 hari\" dengan keterangan \"dengan perpanjangan\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "dengan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "perpanjangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "7 hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Total Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-038",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemberitahuan perpanjangan jangka waktu tanggapan SP2DK dapat disampaikan melalui berapa saluran?",
+    "opsi": {
+      "A": "3 saluran",
+      "B": "2 saluran",
+      "C": "4 saluran",
+      "D": "5 saluran"
+    },
+    "kunci": "A",
+    "pembahasan": "Pemberitahuan perpanjangan disampaikan melalui akun WP, pos/jasa ekspedisi/jasa kurir, atau secara langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "a. melalui akun WP dalam hal sudah aktivasi dan saluran telah tersedia;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "b. melalui pos, jasa ekspedisi, atau jasa kurir; atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "c. secara langsung."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Saluran Perpanjangan"
+    ]
+  },
+  {
+    "id": "EKS-02-039",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu tanggapan SP2DK dihitung sejak peristiwa yang lebih dahulu terjadi di antara berapa kemungkinan peristiwa pemicu yang diatur?",
+    "opsi": {
+      "A": "2 peristiwa",
+      "B": "3 peristiwa",
+      "C": "4 peristiwa",
+      "D": "5 peristiwa"
+    },
+    "kunci": "C",
+    "pembahasan": "Diatur empat kemungkinan peristiwa pemicu (a-d): tanggal penerbitan surat, tanggal aktivasi Akun WP, tanggal bukti pengiriman surat, dan tanggal penyampaian langsung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "sejak peristiwa yang lebih dahulu antara:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "b. tanggal aktivasi Akun Wajib Pajak dalam hal Akun Wajib Pajak belum aktif;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Cara Hitung Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-040",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Akun Wajib Pajak telah aktif, jangka waktu tanggapan SP2DK dihitung sejak tanggal apa?",
+    "opsi": {
+      "A": "Tanggal aktivasi Akun Wajib Pajak oleh petugas pelayanan pajak terdaftar",
+      "B": "Tanggal bukti pengiriman surat melalui pos, jasa ekspedisi, atau jasa kurir",
+      "C": "Tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan",
+      "D": "Tanggal penyampaian surat secara langsung kepada Wajib Pajak di tempat tinggalnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan huruf a menyebutkan dihitung sejak \"tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan dalam hal Akun Wajib Pajak telah aktif\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "a. tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "dalam hal Akun Wajib Pajak telah aktif;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Cara Hitung Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-041",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal Akun Wajib Pajak belum aktif, jangka waktu tanggapan SP2DK dihitung sejak tanggal apa?",
+    "opsi": {
+      "A": "Tanggal aktivasi Akun Wajib Pajak",
+      "B": "Tanggal penerbitan surat permintaan penjelasan",
+      "C": "Tanggal bukti pengiriman surat melalui kurir",
+      "D": "Tanggal penyampaian surat secara langsung"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan huruf b menyebutkan dihitung sejak \"tanggal aktivasi Akun Wajib Pajak dalam hal Akun Wajib Pajak belum aktif\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "b. tanggal aktivasi Akun Wajib Pajak dalam hal Akun Wajib Pajak belum aktif;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Cara Hitung Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-042",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal SP2DK disampaikan melalui pos, jasa ekspedisi, atau jasa kurir, jangka waktu tanggapan dihitung sejak tanggal apa?",
+    "opsi": {
+      "A": "Tanggal surat permintaan penjelasan diterima dan dibaca oleh Wajib Pajak di alamat tujuan",
+      "B": "Tanggal SP2DK diterbitkan oleh KPP sebelum dikirimkan kepada Wajib Pajak",
+      "C": "Tanggal bukti pengiriman surat permintaan penjelasan atas data dan/atau keterangan",
+      "D": "Tanggal Akun Wajib Pajak diaktivasi oleh petugas pelayanan pajak terdaftar"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan huruf c menyebutkan dihitung sejak \"tanggal bukti pengiriman surat permintaan penjelasan atas data dan/atau keterangan melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "c. tanggal bukti pengiriman surat permintaan penjelasan atas data dan/atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "keterangan melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "surat; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Cara Hitung Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-043",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila SP2DK disampaikan secara langsung kepada Wajib Pajak, jangka waktu tanggapan dihitung sejak tanggal apa?",
+    "opsi": {
+      "A": "Tanggal penyampaian surat secara langsung kepada WP, wakil, kuasa, pegawai, atau anggota keluarga dewasa dari WP",
+      "B": "Tanggal pembuatan dan penandatanganan berita acara oleh Kepala Seksi Pengawasan selaku supervisor",
+      "C": "Tanggal diterbitkannya surat perintah Pengawasan oleh Kepala KPP kepada tim ekstensifikasi",
+      "D": "Tanggal Wajib Pajak menandatangani SP2DK secara langsung di kantor pelayanan pajak terdaftar"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan huruf d menyebutkan dihitung sejak \"tanggal penyampaian surat permintaan penjelasan atas data dan/atau keterangan secara langsung kepada Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari Wajib Pajak\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "d. tanggal penyampaian surat permintaan penjelasan atas data dan/atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "keterangan secara langsung kepada Wajib Pajak, wakil, kuasa, pegawai, atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Cara Hitung Jangka Waktu"
+    ]
+  },
+  {
+    "id": "EKS-02-044",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Bagaimana prinsip penentuan saat mulai berlakunya jangka waktu tanggapan SP2DK apabila terdapat beberapa kemungkinan peristiwa pemicu (penerbitan surat, aktivasi akun, bukti pengiriman, atau penyampaian langsung)?",
+    "opsi": {
+      "A": "Dihitung sejak peristiwa yang lebih dahulu terjadi di antara peristiwa-peristiwa tersebut",
+      "B": "Dihitung sejak peristiwa yang paling akhir terjadi di antara peristiwa-peristiwa tersebut",
+      "C": "Dihitung sejak tanggal SP2DK diterbitkan tanpa memperhatikan peristiwa lain",
+      "D": "Dihitung sejak Wajib Pajak mengonfirmasi penerimaan SP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menegaskan jangka waktu dihitung \"sejak peristiwa yang lebih dahulu antara\" beberapa kemungkinan peristiwa pemicu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "sejak peristiwa yang lebih dahulu antara:"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Prinsip Peristiwa Terdahulu"
+    ]
+  },
+  {
+    "id": "EKS-02-045",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Urutan langkah yang tepat apabila Wajib Pajak ingin memperoleh tambahan waktu untuk menanggapi SP2DK adalah?",
+    "opsi": {
+      "A": "Mengajukan permohonan perpanjangan secara lisan kepada AR - menunggu persetujuan lisan Kepala KPP - jangka waktu otomatis menjadi 30 hari",
+      "B": "Menyusun pemberitahuan perpanjangan secara tertulis - menyampaikan kepada KPP penerbit SP2DK sebelum 14 hari berakhir - jangka waktu tanggapan bertambah 7 hari",
+      "C": "Menyampaikan surat keberatan kepada Kepala Kantor Wilayah DJP - menunggu putusan keberatan - jangka waktu tanggapan dihitung ulang dari awal",
+      "D": "Mengabaikan SP2DK hingga jangka waktu 14 hari berakhir - baru mengajukan perpanjangan setelahnya - KPP tetap wajib memberi tambahan 7 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "WP menyusun pemberitahuan perpanjangan secara tertulis, menyampaikannya kepada KPP yang menerbitkan SP2DK sebelum jangka waktu 14 hari berakhir, sehingga jangka waktu tanggapan bertambah 7 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "WP dapat menyampaikan pemberitahuan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "perpanjangan secara tertulis kepada KPP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "yang menerbitkan SP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "Harus diterima KPP sebelum jangka waktu 14 hari berakhir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "7 hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Alur Perpanjangan"
+    ]
+  },
+  {
+    "id": "EKS-02-046",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pernyataan berikut mengenai jangka waktu dan perpanjangan tanggapan SP2DK adalah benar, KECUALI...",
+    "opsi": {
+      "A": "Tanpa perpanjangan, WP diberikan waktu 14 hari sejak SP2DK diterima",
+      "B": "Dengan perpanjangan, jangka waktu tanggapan menjadi 30 hari sejak SP2DK diterima",
+      "C": "Pemberitahuan perpanjangan harus diterima KPP sebelum jangka waktu 14 hari berakhir",
+      "D": "Pemberitahuan perpanjangan dapat disampaikan melalui akun WP apabila sudah aktivasi dan saluran tersedia"
+    },
+    "kunci": "B",
+    "pembahasan": "Dengan perpanjangan, jangka waktu tanggapan menjadi 21 hari (14 hari ditambah 7 hari), bukan 30 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "14 hari"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "7 hari"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "Harus diterima KPP sebelum jangka waktu 14 hari berakhir"
+      },
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "a. melalui akun WP dalam hal sudah aktivasi dan saluran telah tersedia;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Jangka Waktu Tanggapan"
+    ]
+  },
+  {
+    "id": "EKS-02-047",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "SP2DK diterbitkan terhadap Wajib Pajak yang Akun WP-nya sudah aktif. Sejak tanggal apa jangka waktu tanggapan mulai dihitung?",
+    "opsi": {
+      "A": "Tanggal aktivasi Akun Wajib Pajak oleh petugas pelayanan pajak terdaftar",
+      "B": "Tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan",
+      "C": "Tanggal Wajib Pajak membaca SP2DK pertama kali melalui Akun WP miliknya",
+      "D": "Tanggal berakhirnya masa pajak terakhir sebelum SP2DK diterbitkan KPP"
+    },
+    "kunci": "B",
+    "pembahasan": "Karena Akun WP telah aktif, jangka waktu dihitung sejak \"tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan dalam hal Akun Wajib Pajak telah aktif\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "a. tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "dalam hal Akun Wajib Pajak telah aktif;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Kasus Cara Hitung"
+    ]
+  },
+  {
+    "id": "EKS-02-048",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "SP2DK dikirim kepada Wajib Pajak melalui jasa kurir dengan bukti pengiriman bertanggal 1 Maret, namun surat baru diterima WP pada 5 Maret. Sejak tanggal berapa jangka waktu tanggapan mulai dihitung?",
+    "opsi": {
+      "A": "1 Maret, yaitu tanggal bukti pengiriman surat",
+      "B": "5 Maret, yaitu tanggal surat diterima WP",
+      "C": "Tanggal SP2DK diterbitkan oleh KPP",
+      "D": "Tanggal WP memberikan tanggapan pertama kali"
+    },
+    "kunci": "A",
+    "pembahasan": "Untuk penyampaian via jasa kurir, jangka waktu dihitung sejak \"tanggal bukti pengiriman surat\", bukan tanggal surat diterima WP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "c. tanggal bukti pengiriman surat permintaan penjelasan atas data dan/atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "keterangan melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "surat; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Kasus Cara Hitung"
+    ]
+  },
+  {
+    "id": "EKS-02-049",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak ingin mengajukan pemberitahuan perpanjangan jangka waktu tanggapan SP2DK, namun Akun WP belum aktif dan WP tidak ingin menggunakan jasa pos/ekspedisi/kurir. Saluran apa yang masih dapat digunakan?",
+    "opsi": {
+      "A": "Secara langsung",
+      "B": "Melalui media sosial resmi DJP",
+      "C": "Melalui surat elektronik pribadi AR",
+      "D": "Tidak ada saluran lain yang dapat digunakan"
+    },
+    "kunci": "A",
+    "pembahasan": "Selain akun WP dan pos/jasa ekspedisi/kurir, pemberitahuan perpanjangan dapat disampaikan \"c. secara langsung\".",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 88,
+        "kutipan": "c. secara langsung."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Kasus Saluran Perpanjangan"
+    ]
+  },
+  {
+    "id": "EKS-02-050",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+    "subtopik": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut adalah peristiwa yang menjadi acuan mulai dihitungnya jangka waktu tanggapan SP2DK sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "Tanggal penerbitan surat permintaan penjelasan apabila Akun WP telah aktif",
+      "B": "Tanggal aktivasi Akun Wajib Pajak apabila Akun WP belum aktif",
+      "C": "Tanggal bukti pengiriman surat melalui pos, jasa ekspedisi, atau jasa kurir",
+      "D": "Tanggal Wajib Pajak membuka dan membaca SP2DK melalui surel pribadi"
+    },
+    "kunci": "D",
+    "pembahasan": "Empat peristiwa pemicu yang diatur adalah tanggal penerbitan surat, tanggal aktivasi Akun WP, tanggal bukti pengiriman surat, dan tanggal penyampaian langsung; tanggal WP membuka surel pribadi tidak diatur sebagai acuan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "a. tanggal penerbitan surat permintaan penjelasan atas data dan/atau keterangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "b. tanggal aktivasi Akun Wajib Pajak dalam hal Akun Wajib Pajak belum aktif;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 89,
+        "kutipan": "c. tanggal bukti pengiriman surat permintaan penjelasan atas data dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SP2DK",
+      "Pengawasan WP Belum Terdaftar",
+      "Cara Hitung Jangka Waktu"
+    ]
+  }
+]

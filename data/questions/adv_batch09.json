@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "ADV-09-001",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut PMK 61/PMK.03/2022, Kegiatan Membangun Sendiri (KMS) adalah kegiatan membangun bangunan yang hasilnya digunakan untuk...",
+    "opsi": {
+      "A": "digunakan sendiri atau digunakan pihak lain",
+      "B": "disewakan kepada pihak ketiga dengan imbalan tertentu",
+      "C": "dijual kembali sebagai barang dagangan utama",
+      "D": "dijadikan jaminan utang kepada pihak bank"
+    },
+    "kunci": "A",
+    "pembahasan": "KMS adalah kegiatan membangun bangunan, baik baru maupun perluasan, yang dilakukan tidak dalam kegiatan usaha/pekerjaan oleh OP/badan yang hasilnya digunakan sendiri atau digunakan pihak lain.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "yang dilakukan tidak dalam kegiatan usaha atau pekerjaan oleh orang pribadi atau badan yang hasilnya digunakan sendiri atau digunakan pihak lain."
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-002",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu kriteria bangunan yang menyebabkan Kegiatan Membangun Sendiri (KMS) terutang PPN menurut PMK 61/PMK.03/2022 adalah luas keseluruhan bangunan paling sedikit...",
+    "opsi": {
+      "A": "150 m2",
+      "B": "200 m2",
+      "C": "250 m2",
+      "D": "300 m2"
+    },
+    "kunci": "B",
+    "pembahasan": "Salah satu kriteria bangunan KMS terutang PPN adalah luas keseluruhan paling sedikit 200 m2, selain kriteria konstruksi utama dan peruntukan sebagai tempat tinggal/tempat kegiatan usaha.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "luas keseluruhan paling sedikit 200m2."
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-003",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dibandingkan ketentuan sebelumnya yang mensyaratkan konstruksi utama bangunan \"terdiri dari\" bahan tertentu, PMK 61/PMK.03/2022 mengubah ketentuan tersebut menjadi konstruksi utama...",
+    "opsi": {
+      "A": "harus seluruhnya terbuat dari beton bertulang",
+      "B": "wajib menggunakan baja ringan berstandar SNI",
+      "C": "dapat berupa kayu, beton, pasangan batu bata, atau bahan sejenis/baja",
+      "D": "harus mendapat sertifikasi laik fungsi bangunan dari Dinas PU setempat"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria konstruksi utama bangunan diubah dari sebelumnya 'terdiri dari' menjadi 'dapat berupa' kayu, beton, pasangan batu bata atau bahan sejenis, dan/atau baja.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "konstruksi utamanya *dapat berupa kayu, beton, pasangan batu bata atau bahan sejenis, dan/atau baja;"
+      },
+      {
+        "pdf": "B",
+        "halaman": 531,
+        "kutipan": "*aturan sebelumnya “terdiri dari”"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-004",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Menurut PMK 61/PMK.03/2022, saat terutang dan tempat terutang PPN atas Kegiatan Membangun Sendiri (KMS) secara berurutan adalah...",
+    "opsi": {
+      "A": "saat bangunan selesai; tempat domisili pemilik bangunan",
+      "B": "saat permohonan IMB diterbitkan; tempat KPP terdaftar",
+      "C": "saat pembayaran termin pertama; tempat kontraktor berdomisili",
+      "D": "mulai dibangunnya bangunan sampai bangunan selesai; tempat bangunan didirikan"
+    },
+    "kunci": "D",
+    "pembahasan": "Saat terutang PPN KMS adalah mulai dibangunnya bangunan sampai dengan bangunan selesai, sedangkan tempat terutangnya adalah tempat bangunan didirikan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 532,
+        "kutipan": "Saat terutang : mulai dibangunnya bangunan sampai dengan bangunan selesai"
+      },
+      {
+        "pdf": "B",
+        "halaman": 532,
+        "kutipan": "Tempat terutang : tempat bangunan didirikan"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-005",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Formula penghitungan PPN terutang atas Kegiatan Membangun Sendiri (KMS) menurut PMK 61/PMK.03/2022 adalah...",
+    "opsi": {
+      "A": "PPN Terutang = 20% x Tarif PPN x DPP",
+      "B": "PPN Terutang = 10% x Tarif PPN x DPP Nilai Lain",
+      "C": "PPN Terutang = Tarif PPN x 20% dari Harga Jual",
+      "D": "PPN Terutang = 20% x DPP Nilai Impor"
+    },
+    "kunci": "A",
+    "pembahasan": "PPN terutang KMS dihitung sebesar besaran tertentu 20% dikalikan Tarif PPN sesuai Pasal 7 ayat (1) UU PPN dikalikan DPP (jumlah biaya membangun bangunan).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 533,
+        "kutipan": "PPN TERUTANG = 20% TARIF PPN BESARAN TERTENTU DPP"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-006",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dasar Pengenaan Pajak (DPP) dalam penghitungan PPN terutang atas KMS menurut PMK 61/PMK.03/2022 adalah jumlah biaya yang dikeluarkan/dibayarkan untuk membangun bangunan tiap Masa Pajak sampai bangunan selesai, dengan ketentuan...",
+    "opsi": {
+      "A": "termasuk biaya perolehan tanah dan perizinan",
+      "B": "tidak termasuk biaya perolehan tanah",
+      "C": "hanya mencakup biaya material bangunan saja",
+      "D": "dihitung berdasarkan NJOP bangunan terakhir"
+    },
+    "kunci": "B",
+    "pembahasan": "DPP KMS berupa nilai tertentu sebesar jumlah biaya yang dikeluarkan dan/atau dibayarkan untuk membangun bangunan setiap Masa Pajak sampai dengan bangunan selesai, tidak termasuk biaya perolehan tanah.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 533,
+        "kutipan": "tidak termasuk biaya perolehan tanah"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-007",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP Orang Pribadi melakukan KMS di suatu lokasi. Sesuai PMK 61/PMK.03/2022, pada kolom NPWP dalam SSP (atau sarana administrasi lain yang disamakan dengan SSP) untuk penyetoran PPN KMS tersebut dicantumkan...",
+    "opsi": {
+      "A": "NPWP sesuai lokasi bangunan didirikan",
+      "B": "NPWP kontraktor pelaksana pembangunan",
+      "C": "NPWP OP atau Badan yang melakukan KMS",
+      "D": "NPWP KPP tempat bangunan terdaftar"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan baru mengharuskan kolom NPWP SSP diisi dengan NPWP OP/Badan yang melakukan KMS, berbeda dari aturan sebelumnya yang menggunakan NPWP sesuai lokasi bangunan didirikan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 534,
+        "kutipan": "*NPWP OP atau Badan yang melakukan KMS"
+      },
+      {
+        "pdf": "B",
+        "halaman": 534,
+        "kutipan": "*aturan sebelumnya menggunakan NPWP sesuai lokasi bangunan didirikan"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-008",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-61/PMK.03/2022 - PPN atas Kegiatan Membangun Sendiri (KMS)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "PT ABC melakukan Kegiatan Membangun Sendiri (KMS) untuk kantor cabang barunya. Atas perolehan BKP/JKP sehubungan dengan KMS tersebut, PPN masukan yang dibayar PT ABC kepada pemasoknya...",
+    "opsi": {
+      "A": "dapat dikreditkan seluruhnya tanpa syarat",
+      "B": "dapat dikreditkan hanya 80%-nya",
+      "C": "dapat direstitusi langsung ke kas negara",
+      "D": "tidak dapat dikreditkan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pajak Masukan atas perolehan BKP dan/atau JKP sehubungan dengan KMS tidak dapat dikreditkan. Namun PPN KMS yang tercantum dalam SSP PPN KMS (dokumen tertentu) dapat dikreditkan sepanjang memenuhi ketentuan pengkreditan Pajak Masukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 535,
+        "kutipan": "Perolehan BKP dan/atau JKP sehubungan dengan KMS"
+      },
+      {
+        "pdf": "B",
+        "halaman": 535,
+        "kutipan": "Tidak dapat dikreditkan"
+      }
+    ],
+    "tags": [
+      "PMK-61/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-009",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "PMK 60/PMK.03/2022 mengatur tata cara penunjukan pemungut, pemungutan, penyetoran, dan pelaporan PPN atas pemanfaatan BKP tidak berwujud dan/atau JKP dari luar Daerah Pabean di dalam Daerah Pabean melalui...",
+    "opsi": {
+      "A": "Perdagangan Melalui Sistem Elektronik (PMSE)",
+      "B": "Kerja Sama Operasi dengan pihak luar negeri",
+      "C": "Kawasan Berikat dan Gudang Berikat",
+      "D": "Perjanjian Penghindaran Pajak Berganda"
+    },
+    "kunci": "A",
+    "pembahasan": "PMK 60/PMK.03/2022 mengatur tata cara penunjukan pemungut, pemungutan, penyetoran, dan pelaporan PPN atas pemanfaatan BKPTB dan/atau JKP dari luar Daerah Pabean di dalam Daerah Pabean melalui PMSE.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 530,
+        "kutipan": "Pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean Melalui Perdagangan Melalui Sistem Elektronik"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-010",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam PMK 60/PMK.03/2022, Barang Kena Pajak Tidak Berwujud yang dimanfaatkan dari luar Daerah Pabean melalui PMSE termasuk...",
+    "opsi": {
+      "A": "Barang Kena Cukai",
+      "B": "Barang Digital",
+      "C": "Barang Modal Impor Sementara",
+      "D": "Barang Kiriman Pos"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemanfaatan BKP tidak berwujud dari luar Daerah Pabean melalui PMSE termasuk Barang Digital, yaitu barang tidak berwujud berbentuk informasi elektronik/digital.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 540,
+        "kutipan": "Pemanfaatan BKP tidak berwujud * dari luar Daerah Pabean di dalam Daerah Pabean melalui PMSE"
+      },
+      {
+        "pdf": "B",
+        "halaman": 540,
+        "kutipan": "* Termasuk Barang Digital"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-011",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ketentuan mengenai objek pemungutan PPN atas pemanfaatan BKPTB/JKP dari luar Daerah Pabean melalui PMSE dalam PMK 60/PMK.03/2022 (sebagaimana disesuaikan dalam PMK 81/2024) diatur dalam...",
+    "opsi": {
+      "A": "Pasal 4 ayat (1) huruf d angka 3 UU PPh",
+      "B": "Pasal 13 ayat (5) dan ayat (9) UU PPN",
+      "C": "Pasal 1 angka 196 & 198, Pasal 332 (1), Pasal 333",
+      "D": "Pasal 9 ayat (8) UU PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "Objek pemungutan PPN PMSE diatur dalam Pasal 1 angka 196 & 198, Pasal 332 ayat (1), dan Pasal 333.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 540,
+        "kutipan": "Pasal 1 angka 196 & 198, Pasal 332 (1), Pasal 333"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022",
+      "Pasal 332",
+      "Pasal 333"
+    ]
+  },
+  {
+    "id": "ADV-09-012",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah transaksi pemanfaatan JKP dari luar Daerah Pabean TIDAK dilakukan melalui Penyelenggara PMSE, dan Penyedia Jasa Luar Negeri tersebut tidak ditunjuk sebagai Pihak Lain. Sesuai skema PMK 60/PMK.03/2022, PPN atas transaksi tersebut...",
+    "opsi": {
+      "A": "tidak terutang karena bukan objek PPN",
+      "B": "dipungut otomatis oleh bank penerbit kartu kredit",
+      "C": "dibebaskan karena nilai transaksi di bawah batas tertentu",
+      "D": "disetor sendiri oleh Pemanfaat Barang/Pemanfaat Jasa"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika tidak melalui Penyelenggara PMSE dan Pedagang/Penyedia Jasa Luar Negeri tidak ditunjuk sebagai Pihak Lain, maka Pemanfaat Barang/Jasa menyetor sendiri PPN sesuai Pasal 3A ayat (3) UU PPN.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 542,
+        "kutipan": "Pemanfaat Barang/ Pemanfaat Jasa menyetor sendiri PPN (Pasal 3A (3) UU PPN)"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-013",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kriteria yang menjadi dasar penunjukan Pedagang Luar Negeri/Penyedia Jasa Luar Negeri/Penyelenggara PMSE sebagai Pihak Lain pemungut PPN PMSE, sebagaimana diatur dalam Pasal 334, meliputi...",
+    "opsi": {
+      "A": "nilai transaksi dan/atau traffic pengakses melebihi jumlah tertentu dalam 12 bulan",
+      "B": "jumlah pegawai tetap yang dipekerjakan di Indonesia melebihi 50 orang",
+      "C": "telah memiliki kantor perwakilan tetap yang terdaftar resmi di Indonesia",
+      "D": "telah terdaftar sebagai Pengusaha Kena Pajak di negara asal pendiriannya"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria penunjukan sebagai Pihak Lain adalah nilai transaksi Pemanfaat Barang dan/atau Pemanfaat Jasa di Indonesia melebihi jumlah tertentu dalam 12 bulan, dan/atau jumlah traffic/pengakses melebihi jumlah tertentu dalam 12 bulan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 543,
+        "kutipan": "nilai transaksi Pemanfaat Barang dengan dan/atau Pemanfaat Jasa di Indonesia melebihi jumlah tertentu dalam 12 (dua belas) bulan"
+      },
+      {
+        "pdf": "B",
+        "halaman": 543,
+        "kutipan": "jumlah traffic atau pengakses melebihi jumlah tertentu dalam 12 (dua belas) bulan."
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022",
+      "Pasal 334"
+    ]
+  },
+  {
+    "id": "ADV-09-014",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Pemanfaat Jasa di Indonesia melakukan pembayaran layanan streaming luar negeri menggunakan kartu kredit yang diterbitkan oleh bank di Indonesia. Berdasarkan kriteria Pasal 335 PMK 60/PMK.03/2022, Pemanfaat Jasa tersebut dianggap...",
+    "opsi": {
+      "A": "bukan subjek pemungutan karena transaksi dilakukan secara daring",
+      "B": "berada di Indonesia karena menggunakan fasilitas pembayaran institusi di Indonesia",
+      "C": "berada di luar negeri mengikuti domisili penyedia jasa",
+      "D": "dikecualikan karena nilai transaksi di bawah batas tertentu"
+    },
+    "kunci": "B",
+    "pembahasan": "Pemanfaat Barang/Jasa dianggap berada di Indonesia antara lain jika melakukan pembayaran menggunakan fasilitas debit, kredit, dan/atau fasilitas pembayaran lainnya yang disediakan oleh institusi di Indonesia.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 544,
+        "kutipan": "melakukan pembayaran menggunakan fasilitas debit, kredit, dan/atau fasilitas pembayaran lainnya yang disediakan oleh institusi di Indonesia"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022",
+      "Pasal 335"
+    ]
+  },
+  {
+    "id": "ADV-09-015",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dasar Pengenaan Pajak untuk pemungutan PPN PMSE oleh Pihak Lain, sebagaimana diatur dalam Pasal 336 PMK 60/PMK.03/2022, adalah...",
+    "opsi": {
+      "A": "harga pasar wajar barang/jasa sejenis di Indonesia",
+      "B": "nilai kurs tengah Bank Indonesia pada saat transaksi",
+      "C": "nilai uang yang dibayar Pemanfaat Barang/Jasa, tidak termasuk PPN yang dipungut",
+      "D": "nilai lain sebesar 10% dari harga jual sebagaimana diatur Pasal 8A UU PPN"
+    },
+    "kunci": "C",
+    "pembahasan": "DPP PPN PMSE adalah nilai berupa uang yang dibayar oleh Pemanfaat Barang dan/atau Pemanfaat Jasa, tidak termasuk PPN yang dipungut.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 545,
+        "kutipan": "Nilai berupa uang yang dibayar oleh Pemanfaat Barang dan/atau Pemanfaat Jasa, tidak termasuk PPN yang dipungut."
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022",
+      "Pasal 336"
+    ]
+  },
+  {
+    "id": "ADV-09-016",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-60/PMK.03/2022 - PPN atas PMSE (Pemanfaatan BKPTB/JKP dari Luar Daerah Pabean)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sesuai Pasal 338-339 PMK 60/PMK.03/2022, batas waktu penyetoran dan pelaporan PPN yang dipungut oleh Pihak Lain untuk setiap Masa Pajak adalah...",
+    "opsi": {
+      "A": "paling lambat akhir Masa Pajak yang bersangkutan",
+      "B": "paling lambat tanggal 15 bulan berikutnya setelah Masa Pajak berakhir",
+      "C": "paling lambat 20 hari setelah Masa Pajak berakhir",
+      "D": "paling lambat akhir bulan berikutnya setelah Masa Pajak berakhir"
+    },
+    "kunci": "D",
+    "pembahasan": "Pihak Lain wajib menyetorkan PPN yang dipungut ke kas negara dan melaporkannya untuk setiap Masa Pajak paling lambat akhir bulan berikutnya setelah Masa Pajak berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 547,
+        "kutipan": "wajib menyetorkan PPN yang dipungut ke kas negara untuk setiap Masa Pajak paling lambat akhir bulan berikutnya setelah Masa Pajak berakhir"
+      }
+    ],
+    "tags": [
+      "PMK-60/PMK.03/2022",
+      "Pasal 338-339"
+    ]
+  },
+  {
+    "id": "ADV-09-017",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-68/PMK.03/2022 - PPN dan PPh atas Transaksi Perdagangan Aset Kripto",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Menurut PMK 68/PMK.03/2022, tarif PPh Pasal 22 atas transaksi perdagangan aset kripto yang dipungut exchanger yang terdaftar di Bappebti adalah...",
+    "opsi": {
+      "A": "0,1% dari nilai transaksi aset kripto",
+      "B": "0,2% dari nilai transaksi aset kripto",
+      "C": "0,5% dari nilai transaksi aset kripto",
+      "D": "1% dari nilai transaksi aset kripto"
+    },
+    "kunci": "A",
+    "pembahasan": "Tarif PPh Pasal 22 atas transaksi aset kripto adalah 0,1% dari nilai transaksi jika exchanger terdaftar di Bappebti.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 551,
+        "kutipan": "0,1% jika exchanger terdaftar di Bappebti"
+      },
+      {
+        "pdf": "B",
+        "halaman": 551,
+        "kutipan": "Dari nilai transaksi aset kripto"
+      }
+    ],
+    "tags": [
+      "PMK-68/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-018",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-68/PMK.03/2022 - PPN dan PPh atas Transaksi Perdagangan Aset Kripto",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Jika exchanger penyelenggara perdagangan aset kripto TIDAK terdaftar di Bappebti, tarif PPh Pasal 22 yang dipungut atas transaksi aset kripto menjadi...",
+    "opsi": {
+      "A": "0,1% dari nilai transaksi",
+      "B": "0,2% dari nilai transaksi",
+      "C": "0,3% dari nilai transaksi",
+      "D": "0,4% dari nilai transaksi"
+    },
+    "kunci": "B",
+    "pembahasan": "Tarif PPh Pasal 22 atas transaksi aset kripto naik menjadi 0,2% dari nilai transaksi apabila exchanger tidak terdaftar di Bappebti.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 551,
+        "kutipan": "0,2% jika Exchanger tidak terdaftar di Bappebti"
+      }
+    ],
+    "tags": [
+      "PMK-68/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-019",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-68/PMK.03/2022 - PPN dan PPh atas Transaksi Perdagangan Aset Kripto",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Penghasilan penambang (miner) aset kripto dikenai PPh Pasal 22 sebesar 0,1% dari penghasilan yang diterima/diperoleh. Berikut ini TIDAK termasuk dalam penghasilan yang dikenai tarif tersebut, yaitu...",
+    "opsi": {
+      "A": "block reward yang diterima dari kegiatan penambangan aset kripto",
+      "B": "jasa pelayanan verifikasi transaksi aset kripto yang dilakukan",
+      "C": "imbalan jasa manajemen kelompok penambang aset kripto (Mining Pool)",
+      "D": "penghasilan lain yang diperoleh dari sistem aset kripto"
+    },
+    "kunci": "C",
+    "pembahasan": "Tarif 0,1% x penghasilan berlaku atas penghasilan penambangan aset kripto (block reward, jasa verifikasi transaksi, penghasilan lain dari sistem aset kripto), tetapi tidak termasuk imbalan atas jasa manajemen kelompok penambang aset kripto (Mining Pool).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 551,
+        "kutipan": "0,1% x penghasilan yang diterima atau diperoleh."
+      },
+      {
+        "pdf": "B",
+        "halaman": 551,
+        "kutipan": "Tidak termasuk penghasilan berupa imbalan atas jasa manajemen kelompok penambang aset kripto (Mining Pool)"
+      }
+    ],
+    "tags": [
+      "PMK-68/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-020",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-68/PMK.03/2022 - PPN dan PPh atas Transaksi Perdagangan Aset Kripto",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Sesuai PMK 68/PMK.03/2022, PPh Pasal 22 atas transaksi aset kripto yang dipungut PPMSE disetorkan dan dilaporkan dengan urutan batas waktu...",
+    "opsi": {
+      "A": "disetor paling lambat akhir bulan berikutnya, dilaporkan paling lambat tanggal 15 bulan berikutnya pula",
+      "B": "disetor dan dilaporkan bersamaan paling lambat tanggal 10 bulan berikutnya setelah Masa Pajak berakhir",
+      "C": "disetor paling lambat 20 hari, dilaporkan paling lambat akhir bulan berikutnya setelah Masa Pajak berakhir",
+      "D": "disetor paling lambat tanggal 15, dilaporkan dalam SPT Masa PPh Unifikasi paling lambat 20 hari setelahnya"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyetoran PPh Pasal 22 kripto dilakukan untuk setiap Masa Pajak paling lambat tanggal 15 bulan berikutnya, dan dilaporkan dalam SPT Masa PPh Unifikasi paling lambat 20 hari setelah Masa Pajak berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 554,
+        "kutipan": "Untuk setiap Masa Pajak, paling lambat tanggal 15 bulan berikutnya setelah Masa Pajak berakhir"
+      },
+      {
+        "pdf": "B",
+        "halaman": 554,
+        "kutipan": "Dilaporkan dalam SPT Masa PPh Unifikasi, paling lambat 20 hari setelah Masa Pajak berakhir)"
+      }
+    ],
+    "tags": [
+      "PMK-68/PMK.03/2022"
+    ]
+  },
+  {
+    "id": "ADV-09-021",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "PMK 18/PMK.03/2021 yang dibahas pada bagian ini merupakan pelaksanaan dari Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di bidang...",
+    "opsi": {
+      "A": "PPh, PPN & PPnBM, serta KUP",
+      "B": "Kepabeanan dan Cukai",
+      "C": "Penanaman Modal dan Investasi",
+      "D": "Ketenagakerjaan dan Pengupahan"
+    },
+    "kunci": "A",
+    "pembahasan": "PMK 18/PMK.03/2021 adalah pelaksanaan UU No. 11 Tahun 2020 tentang Cipta Kerja di bidang PPh, PPN & PPnBM, serta KUP, mencakup bagian pengecualian PPh dividen, pengkreditan PM, dan pembuatan/pembetulan Faktur Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 555,
+        "kutipan": "Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 Tentang Cipta Kerja di Bidang PPh, PPN & PPnBM, serta KUP."
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-022",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Agar dividen dari dalam negeri yang diterima WP Orang Pribadi dalam negeri dikecualikan dari pengenaan PPh, syarat yang harus dipenuhi adalah...",
+    "opsi": {
+      "A": "dividen tersebut harus dibagikan dalam bentuk saham bonus kepada pemegang saham",
+      "B": "memenuhi kriteria investasi dan menyampaikan laporan realisasi investasi",
+      "C": "pemegang saham penerima dividen harus berstatus Wajib Pajak Badan",
+      "D": "dividen harus diterima paling lambat akhir tahun buku perseroan berjalan"
+    },
+    "kunci": "B",
+    "pembahasan": "Dividen DN yang diterima WP OP DN dikecualikan dari PPh apabila memenuhi kriteria bentuk, tata cara, dan jangka waktu investasi, serta memenuhi kewajiban penyampaian laporan realisasi investasi.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 556,
+        "kutipan": "Memenuhi kriteria bentuk investasi, tata cara investasi, dan jangka waktu investasi; dan"
+      },
+      {
+        "pdf": "B",
+        "halaman": 556,
+        "kutipan": "Memenuhi kewajiban penyampaian laporan realisasi investasi"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-023",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu investasi atas dividen atau penghasilan lain yang diterima agar dapat dikecualikan dari pengenaan PPh, dihitung setelah Tahun Pajak berakhir, ditetapkan paling lambat...",
+    "opsi": {
+      "A": "akhir bulan kedua untuk WP OP dan akhir bulan ketiga untuk WP Badan",
+      "B": "akhir bulan keempat untuk WP OP dan akhir bulan keenam untuk WP Badan",
+      "C": "akhir bulan ketiga untuk WP OP dan akhir bulan keempat untuk WP Badan",
+      "D": "akhir bulan ketiga untuk seluruh jenis Wajib Pajak tanpa pembeda"
+    },
+    "kunci": "C",
+    "pembahasan": "Batas Waktu Investasi adalah akhir bulan ketiga untuk Wajib Pajak orang pribadi, atau akhir bulan keempat untuk Wajib Pajak badan, setelah Tahun Pajak berakhir.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 558,
+        "kutipan": "akhir bulan ketiga, untuk Wajib Pajak orang pribadi; atau"
+      },
+      {
+        "pdf": "B",
+        "halaman": 558,
+        "kutipan": "akhir bulan keempat, untuk Wajib Pajak badan, setelah Tahun Pajak berakhir"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-024",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu holding investasi minimal bagi dividen/penghasilan lain yang diinvestasikan agar tetap dikecualikan dari pengenaan PPh adalah...",
+    "opsi": {
+      "A": "paling singkat 1 Tahun Pajak",
+      "B": "paling singkat 2 Tahun Pajak",
+      "C": "paling singkat 5 Tahun Pajak",
+      "D": "paling singkat 3 Tahun Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Jangka Waktu Holding Investasi adalah paling singkat selama 3 Tahun Pajak terhitung sejak Tahun Pajak dividen atau penghasilan lain diterima atau diperoleh.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 558,
+        "kutipan": "paling singkat selama 3 Tahun Pajak terhitung sejak Tahun Pajak dividen atau penghasilan lain diterima atau diperoleh"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-025",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila dividen atau penghasilan lain dari luar negeri tidak memenuhi syarat pengecualian PPh, maka PPh yang terutang dihitung dan dilaporkan dengan ketentuan...",
+    "opsi": {
+      "A": "berdasarkan ketentuan umum Pasal 17 UU PPh, dilaporkan dalam SPT Tahunan PPh",
+      "B": "tarif final 10% disetor sendiri paling lambat tanggal 15 bulan berikutnya setelah diterima",
+      "C": "tarif final 20% dipotong langsung oleh pemberi dividen saat pembayaran",
+      "D": "bebas sepenuhnya dari pengenaan pajak selama digunakan untuk konsumsi pribadi"
+    },
+    "kunci": "A",
+    "pembahasan": "PPh terutang atas dividen/penghasilan lain luar negeri yang tidak memenuhi syarat pengecualian dihitung berdasarkan ketentuan umum Pasal 17 UU PPh dan dilaporkan dalam SPT Tahunan PPh untuk Tahun Pajak saat diterima/diperoleh, berbeda dari ketentuan sebelumnya yang menggunakan PPh final 10% disetor sendiri.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 557,
+        "kutipan": "dihitung berdasarkan ketentuan umum PPh Pasal 17 UU PPh dan dilaporkan dalam SPT Tahunan PPh untuk Tahun Pajak saat Dividen atau penghasilan lain diterima atau diperoleh."
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 17 UU PPh"
+    ]
+  },
+  {
+    "id": "ADV-09-026",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal pengusaha terlambat dikukuhkan sebagai PKP, pedoman pengkreditan Pajak Masukan untuk Masa Pajak sebelum pengukuhan dihitung sebesar...",
+    "opsi": {
+      "A": "60% dari Pajak Keluaran yang seharusnya dipungut",
+      "B": "80% dari Pajak Keluaran yang seharusnya dipungut",
+      "C": "70% dari Pajak Keluaran yang seharusnya dipungut",
+      "D": "90% dari Pajak Keluaran yang seharusnya dipungut"
+    },
+    "kunci": "B",
+    "pembahasan": "PKP dapat mengkreditkan Pajak Masukan dengan pedoman pengkreditan sebesar 80% dari Pajak Keluaran (PPN) yang seharusnya dipungut oleh PKP atas penyerahan BKP/JKP sebelum pengusaha dikukuhkan sebagai PKP.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 562,
+        "kutipan": "sebesar 80% dari Pajak Keluaran (PPN) yang seharusnya dipungut oleh PKP atas penyerahan BKP/JKP."
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 378",
+      "Pasal 379"
+    ]
+  },
+  {
+    "id": "ADV-09-027",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pajak Masukan yang tercantum dalam dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak, namun belum dikreditkan pada Masa Pajak yang sama, masih dapat dikreditkan pada Masa Pajak berikutnya paling lama...",
+    "opsi": {
+      "A": "1 (satu) Masa Pajak setelah dokumen tertentu dibuat",
+      "B": "2 (dua) Masa Pajak setelah dokumen tertentu dibuat",
+      "C": "3 (tiga) Masa Pajak setelah berakhirnya Masa Pajak saat dokumen tertentu dibuat",
+      "D": "6 (enam) Masa Pajak setelah berakhirnya Masa Pajak saat dokumen tertentu dibuat"
+    },
+    "kunci": "C",
+    "pembahasan": "Pajak Masukan dalam dokumen tertentu yang belum dikreditkan pada Masa Pajak yang sama masih dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 Masa Pajak setelah berakhirnya Masa Pajak saat dokumen tertentu dibuat.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 560,
+        "kutipan": "dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 (tiga) Masa Pajak setelah berakhirnya Masa Pajak saat dokumen tertentu yang kedudukannya"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 376"
+    ]
+  },
+  {
+    "id": "ADV-09-028",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Faktur Pajak yang dibuat oleh PKP setelah melewati jangka waktu 3 (tiga) bulan sejak saat Faktur Pajak seharusnya dibuat memiliki akibat hukum, KECUALI...",
+    "opsi": {
+      "A": "tidak diperlakukan sebagai Faktur Pajak",
+      "B": "PKP dianggap tidak membuat Faktur Pajak dan dikenai sanksi UU KUP",
+      "C": "PPN yang tercantum merupakan Pajak Masukan yang tidak dapat dikreditkan",
+      "D": "PPN yang tercantum tetap dapat dikreditkan penuh oleh pembeli"
+    },
+    "kunci": "D",
+    "pembahasan": "Faktur Pajak yang dibuat setelah melewati 3 bulan sejak seharusnya dibuat tidak diperlakukan sebagai Faktur Pajak, PKP dianggap tidak membuat Faktur Pajak dan dikenai sanksi UU KUP, serta PPN yang tercantum merupakan Pajak Masukan yang tidak dapat dikreditkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 567,
+        "kutipan": "Faktur Pajak yang dibuat oleh PKP setelah melewati jangka waktu 3 (tiga) bulan sejak saat Faktur Pajak seharusnya dibuat tidak diperlakukan sebagai Faktur Pajak."
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 382-384"
+    ]
+  },
+  {
+    "id": "ADV-09-029",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Pengecualian PPh Dividen & Tata Cara Pengkreditan PM/Pembuatan-Pembetulan Faktur Pajak",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam pembuatan Faktur Pajak dan pengkreditan Pajak Masukan, Nomor Induk Kependudukan (NIK) bagi subjek pajak dalam negeri orang pribadi mempunyai kedudukan...",
+    "opsi": {
+      "A": "yang sama dengan NPWP",
+      "B": "lebih tinggi daripada NPWP",
+      "C": "hanya berlaku untuk transaksi di bawah Rp1 juta",
+      "D": "sebagai syarat tambahan selain NPWP yang tetap wajib dicantumkan"
+    },
+    "kunci": "A",
+    "pembahasan": "NIK mempunyai kedudukan yang sama dengan NPWP dalam rangka pembuatan Faktur Pajak dan pengkreditan Pajak Masukan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 568,
+        "kutipan": "NIK mempunyai kedudukan yang sama dengan NPWP dalam rangka pembuatan Faktur Pajak dan pengkreditan Pajak Masukan."
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021",
+      "Pasal 385",
+      "Pasal 391"
+    ]
+  },
+  {
+    "id": "ADV-09-030",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-52/PMK.010/2017 - Penggunaan Nilai Buku atas Penggabungan, Peleburan, Pemekaran, Pengambilalihan Usaha",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Dasar hukum yang menyatakan bahwa keuntungan karena pengalihan harta dalam rangka penggabungan, peleburan, pemekaran, pemecahan, atau pengambilalihan usaha merupakan objek Pajak Penghasilan adalah...",
+    "opsi": {
+      "A": "Pasal 10 ayat (3) UU PPh",
+      "B": "Pasal 4 ayat (1) huruf d angka 3 UU PPh",
+      "C": "Pasal 31A UU PPh",
+      "D": "Pasal 4A UU PPN"
+    },
+    "kunci": "B",
+    "pembahasan": "Pasal 4 ayat (1) huruf d angka 3 UU PPh menyatakan keuntungan karena penjualan/pengalihan harta karena likuidasi, penggabungan, peleburan, pemekaran, pemecahan, pengambilalihan usaha, atau reorganisasi merupakan objek PPh.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 575,
+        "kutipan": "keuntungan karena penjualan atau karena pengalihan harta karena likuidasi, penggabungan, peleburan, pemekaran, pemecahan, pengambilalihan usaha, atau reorganisasi"
+      }
+    ],
+    "tags": [
+      "PMK-52/PMK.010/2017",
+      "Pasal 4 ayat (1) huruf d angka 3 UU PPh"
+    ]
+  },
+  {
+    "id": "ADV-09-031",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-52/PMK.010/2017 - Penggunaan Nilai Buku atas Penggabungan, Peleburan, Pemekaran, Pengambilalihan Usaha",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Nilai buku atas pengalihan harta dalam rangka penggabungan, peleburan, pemekaran, atau pengambilalihan usaha dapat digunakan oleh Wajib Pajak badan dalam negeri yang modalnya terbagi atas saham, setelah...",
+    "opsi": {
+      "A": "mendapatkan izin dari Otoritas Jasa Keuangan",
+      "B": "melaporkan rencana merger ke Kementerian Investasi",
+      "C": "mendapatkan persetujuan Direktur Jenderal Pajak",
+      "D": "memperoleh opini wajar tanpa pengecualian dari akuntan publik"
+    },
+    "kunci": "C",
+    "pembahasan": "Nilai buku atas pengalihan harta dapat digunakan oleh WP badan dalam negeri yang modalnya terbagi atas saham dalam rangka penggabungan, peleburan, pemekaran, atau pengambilalihan usaha, setelah mendapatkan persetujuan Direktur Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 577,
+        "kutipan": "Setelah mendapatkan persetujuan Direktur Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-52/PMK.010/2017",
+      "Pasal 392 ayat (2) PMK 81"
+    ]
+  },
+  {
+    "id": "ADV-09-032",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-52/PMK.010/2017 - Penggunaan Nilai Buku atas Penggabungan, Peleburan, Pemekaran, Pengambilalihan Usaha",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "PT Maju menerima pengalihan harta dari suatu penggabungan usaha dengan tanggal efektif 1 Maret 2023. Pada 1 Februari 2024, PT Maju bermaksud memindahtangankan aktiva tetap tersebut tanpa alasan peningkatan efisiensi perusahaan. Tindakan tersebut...",
+    "opsi": {
+      "A": "diperbolehkan karena sudah lewat 10 bulan sejak tanggal efektif",
+      "B": "diperbolehkan tanpa syarat apa pun karena merupakan hak milik penuh PT Maju sepenuhnya",
+      "C": "hanya diperbolehkan jika dilaporkan ke OJK terlebih dahulu",
+      "D": "tidak diperbolehkan karena belum melewati jangka waktu paling singkat 2 tahun"
+    },
+    "kunci": "D",
+    "pembahasan": "Harta berupa aktiva tetap dari penggabungan/peleburan/pemekaran/pengambilalihan usaha tidak boleh dipindahtangankan paling singkat 2 tahun setelah tanggal efektif, kecuali untuk tujuan peningkatan efisiensi perusahaan. Pada 1 Februari 2024 belum genap 2 tahun sejak 1 Maret 2023.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 590,
+        "kutipan": "tidak boleh dipindahtangankan oleh Wajib Pajak yang menerima pengalihan harta paling singkat 2 (dua) tahun setelah tanggal efektif, kecuali"
+      }
+    ],
+    "tags": [
+      "PMK-52/PMK.010/2017"
+    ]
+  },
+  {
+    "id": "ADV-09-033",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-52/PMK.010/2017 - Penggunaan Nilai Buku atas Penggabungan, Peleburan, Pemekaran, Pengambilalihan Usaha",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Wajib Pajak yang melakukan pemekaran usaha dengan menggunakan nilai buku, yang badan usaha hasil pemekarannya mendapat tambahan modal dari penanaman modal asing, wajib memenuhi persyaratan khusus apabila tambahan modal tersebut paling sedikit sebesar...",
+    "opsi": {
+      "A": "Rp500.000.000.000,00 (lima ratus miliar rupiah)",
+      "B": "Rp250.000.000.000,00 (dua ratus lima puluh miliar rupiah)",
+      "C": "Rp1.000.000.000.000,00 (satu triliun rupiah)",
+      "D": "Rp100.000.000.000,00 (seratus miliar rupiah)"
+    },
+    "kunci": "A",
+    "pembahasan": "Persyaratan khusus pemekaran investasi berlaku apabila badan usaha hasil pemekaran mendapatkan tambahan modal dari penanaman modal asing paling sedikit Rp500.000.000.000,00 (lima ratus miliar rupiah).",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 584,
+        "kutipan": "mendapatkan tambahan modal dari penanaman modal asing paling sedikit Rp500.000.000.000,00 (lima ratus miliar rupiah)"
+      }
+    ],
+    "tags": [
+      "PMK-52/PMK.010/2017"
+    ]
+  },
+  {
+    "id": "ADV-09-034",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Salah satu bentuk fasilitas Tax Allowance menurut PMK 11/PMK.010/2020 adalah pengurangan penghasilan neto 30% dari jumlah nilai penanaman modal, yang dibebankan...",
+    "opsi": {
+      "A": "10% per tahun selama 3 tahun",
+      "B": "5% per tahun selama 6 tahun",
+      "C": "6% per tahun selama 5 tahun",
+      "D": "15% per tahun selama 2 tahun"
+    },
+    "kunci": "B",
+    "pembahasan": "Bentuk fasilitas Tax Allowance berupa pengurangan penghasilan neto 30% dari jumlah nilai penanaman modal, yang dibebankan 5% per tahun selama 6 tahun.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 593,
+        "kutipan": "Pengurangan Penghasilan Neto 30% dari Jumlah Nilai Penanaman Modal yang dibebankan 5% per tahun selama 6 tahun"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020",
+      "Pasal 408"
+    ]
+  },
+  {
+    "id": "ADV-09-035",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "PT Sejahtera, WP Badan dalam negeri penerima fasilitas Tax Allowance, membagikan dividen kepada pemegang saham WP Luar Negeri (bukan BUT) di Indonesia. Tarif PPh atas dividen tersebut adalah...",
+    "opsi": {
+      "A": "15% final tanpa pengecualian",
+      "B": "20% sesuai tarif umum Pasal 26 tanpa pengecualian P3B",
+      "C": "10% atau tarif lebih rendah berdasarkan P3B",
+      "D": "0% karena termasuk fasilitas Tax Allowance"
+    },
+    "kunci": "C",
+    "pembahasan": "Salah satu bentuk fasilitas Tax Allowance adalah tarif PPh 10% atas dividen yang dibayarkan kepada WP Luar Negeri selain BUT di Indonesia, atau tarif yang lebih rendah berdasarkan P3B.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 593,
+        "kutipan": "Tarif PPh 10% atas Dividen yang Dibayarkan kepada Wajib Pajak Luar Negeri selain Bentuk Usaha Tetap di Indonesia atau tarif yang lebih rendah berdasarkan P3B"
+      }
+    ],
+    "tags": [
+      "PMK-11/PMK.010/2020",
+      "Pasal 408"
+    ]
+  },
+  {
+    "id": "ADV-09-036",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "PT X mulai berproduksi komersial pada Mei tahun pajak 2024 dan memanfaatkan fasilitas Investment Allowance Padat Karya PMK 16/PMK.010/2020, yang mensyaratkan rata-rata tenaga kerja Indonesia minimal 300 orang. Jika rata-rata tenaga kerja Indonesia PT X pada tahun pajak 2024 hanya 297,5 orang, pengurang penghasilan neto yang diperoleh PT X untuk tahun pajak 2024 adalah...",
+    "opsi": {
+      "A": "10%",
+      "B": "5%",
+      "C": "20%",
+      "D": "0%"
+    },
+    "kunci": "D",
+    "pembahasan": "Berdasarkan ilustrasi PMK 16/PMK.010/2020, syarat mempekerjakan TKI minimal 300 orang dihitung dari rata-rata tahun pajak. Pada ilustrasi PT X tahun 2024 rata-rata hanya 297,5 (di bawah 300), sehingga pengurang penghasilan neto tahun 2024 adalah 0%, berbeda dengan tahun 2025-2029 yang rata-ratanya mencapai 300 sehingga mendapat 10% per tahun.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 619,
+        "kutipan": "Mempekerjakan TKI Minimal 300 Orang"
+      },
+      {
+        "pdf": "B",
+        "halaman": 619,
+        "kutipan": "Pengurang Penghasilan Neto 0% 10% 10% 10% 10% 10% -"
+      }
+    ],
+    "tags": [
+      "PMK-16/PMK.010/2020"
+    ]
+  },
+  {
+    "id": "ADV-09-037",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Fasilitas Investment Allowance Padat Karya menurut PMK 16/PMK.010/2020 diberikan untuk bidang usaha yang mencakup...",
+    "opsi": {
+      "A": "17 Kelompok Industri dan 45 Bidang Usaha (KBLI)",
+      "B": "10 Kelompok Industri dan 30 Bidang Usaha (KBLI)",
+      "C": "20 Kelompok Industri dan 50 Bidang Usaha (KBLI)",
+      "D": "25 Kelompok Industri dan 60 Bidang Usaha (KBLI)"
+    },
+    "kunci": "A",
+    "pembahasan": "Fasilitas Investment Allowance Padat Karya diberikan untuk 17 Kelompok Industri dan 45 Bidang Usaha (KBLI) sebagaimana tercantum dalam Lampiran PMK.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 610,
+        "kutipan": "17 Kelompok Industri"
+      },
+      {
+        "pdf": "B",
+        "halaman": 610,
+        "kutipan": "45 Bidang Usaha (KBLI)"
+      }
+    ],
+    "tags": [
+      "PMK-16/PMK.010/2020",
+      "Pasal 423"
+    ]
+  },
+  {
+    "id": "ADV-09-038",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Fasilitas Super Deduction untuk kegiatan penelitian dan pengembangan (litbang) menurut PMK 153/PMK.010/2020 berupa pengurangan penghasilan bruto dari jumlah biaya litbang yang dikeluarkan, paling tinggi sebesar...",
+    "opsi": {
+      "A": "150%",
+      "B": "300%",
+      "C": "200%",
+      "D": "250%"
+    },
+    "kunci": "B",
+    "pembahasan": "Fasilitas Super Deduction litbang berupa pengurangan penghasilan bruto paling tinggi 300% dari jumlah biaya yang dikeluarkan untuk kegiatan litbang, terdiri dari pengurangan dasar 100% ditambah tambahan pengurangan paling tinggi 200%.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 625,
+        "kutipan": "Pengurangan penghasilan bruto Paling Tinggi 300% dari jumlah biaya yang dikeluarkan untuk kegiatan litbang"
+      }
+    ],
+    "tags": [
+      "PMK-153/PMK.010/2020",
+      "Pasal 432"
+    ]
+  },
+  {
+    "id": "ADV-09-039",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-11/PMK.010/2020, PMK-16/PMK.010/2020, PMK-153/PMK.010/2020 - Fasilitas PPh Penanaman Modal (Tax Allowance, Investment Allowance Padat Karya, Super Deduction Litbang)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini termasuk kriteria kegiatan litbang yang mendapat fasilitas Super Deduction menurut PMK 153/PMK.010/2020, KECUALI...",
+    "opsi": {
+      "A": "bertujuan untuk memperoleh penemuan baru",
+      "B": "terencana dan memiliki anggaran",
+      "C": "riset pemasaran",
+      "D": "memiliki ketidakpastian atas hasil akhirnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria litbang antara lain bertujuan memperoleh penemuan baru, berdasarkan konsep/hipotesa orisinal, memiliki ketidakpastian hasil akhir, serta terencana dan memiliki anggaran. Riset pemasaran termasuk dalam daftar kegiatan yang tidak termasuk litbang.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 627,
+        "kutipan": "i) riset pemasaran."
+      },
+      {
+        "pdf": "B",
+        "halaman": 627,
+        "kutipan": "Tidak termasuk"
+      }
+    ],
+    "tags": [
+      "PMK-153/PMK.010/2020",
+      "Pasal 434"
+    ]
+  },
+  {
+    "id": "ADV-09-040",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Kriteria Keahlian Tertentu & Tata Cara Pengenaan PPh bagi WNA",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "WNA yang telah menjadi Subjek Pajak Dalam Negeri dan memiliki keahlian tertentu dapat memilih dikenai PPh hanya atas penghasilan yang diterima/diperoleh di Indonesia. Fasilitas ini berlaku selama...",
+    "opsi": {
+      "A": "2 (dua) Tahun Pajak sejak menjadi SPDN",
+      "B": "3 (tiga) Tahun Pajak sejak menjadi SPDN",
+      "C": "5 (lima) Tahun Pajak sejak menjadi SPDN",
+      "D": "4 (empat) Tahun Pajak sejak menjadi SPDN"
+    },
+    "kunci": "D",
+    "pembahasan": "Fasilitas pengenaan PPh hanya atas penghasilan di Indonesia bagi WNA berkeahlian tertentu berlaku selama 4 (empat) Tahun Pajak dihitung sejak menjadi Subjek Pajak Dalam Negeri.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 637,
+        "kutipan": "Berlaku selama 4 (empat) Tahun Pajak dihitung sejak menjadi SPDN"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-041",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Kriteria Keahlian Tertentu & Tata Cara Pengenaan PPh bagi WNA",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Kriteria WNA dengan keahlian tertentu sebagaimana diatur dalam PMK 18/PMK.03/2021 dibuktikan dengan dokumen berupa...",
+    "opsi": {
+      "A": "sertifikat keahlian, ijazah pendidikan, dan pengalaman kerja min. 5 tahun",
+      "B": "hanya paspor dan visa kerja yang masih berlaku hingga saat ini",
+      "C": "surat keterangan domisili dari kelurahan atau kecamatan setempat",
+      "D": "kontrak kerja dan slip gaji 3 bulan terakhir dari perusahaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria WNA dengan keahlian tertentu dibuktikan dengan sertifikat keahlian, ijazah pendidikan, dan pengalaman kerja minimal 5 tahun.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 638,
+        "kutipan": "Sertifikat keahlian"
+      },
+      {
+        "pdf": "B",
+        "halaman": 638,
+        "kutipan": "Ijazah pendidikan"
+      },
+      {
+        "pdf": "B",
+        "halaman": 638,
+        "kutipan": "Pengalaman kerja minimal 5 tahun"
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-042",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-18/PMK.03/2021 bagian Kriteria Keahlian Tertentu & Tata Cara Pengenaan PPh bagi WNA",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "WNA dengan keahlian tertentu yang ingin memanfaatkan skema pengenaan PPh hanya atas penghasilan di Indonesia mengajukan permohonan kepada Direktur Jenderal Pajak, yang akan menerbitkan Surat Persetujuan atau Surat Penolakan paling lama...",
+    "opsi": {
+      "A": "5 hari kerja setelah bukti penerimaan diterbitkan",
+      "B": "10 hari kerja setelah bukti penerimaan diterbitkan",
+      "C": "15 hari kerja setelah bukti penerimaan diterbitkan",
+      "D": "20 hari kerja setelah bukti penerimaan diterbitkan"
+    },
+    "kunci": "B",
+    "pembahasan": "Direktur Jenderal Pajak menerbitkan Surat Persetujuan atau Surat Penolakan atas permohonan WNA berkeahlian tertentu paling lama 10 (sepuluh) hari kerja setelah bukti penerimaan surat diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 639,
+        "kutipan": "Paling lama 10 (sepuluh) hari kerja setelah bukti penerimaan diterbitkan."
+      }
+    ],
+    "tags": [
+      "PMK-18/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-043",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-54/PMK.03/2021 - Tata Cara Pencatatan & Kriteria Pembukuan dengan Stelsel Kas",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "WP Orang Pribadi yang melakukan kegiatan usaha/pekerjaan bebas dapat menggunakan pencatatan (bukan pembukuan) apabila memenuhi kriteria tertentu, yaitu peredaran bruto dikenai PPh final dan/atau bukan objek pajak serta...",
+    "opsi": {
+      "A": "tidak melebihi Rp1,8 miliar dalam 1 Tahun Pajak",
+      "B": "tidak melebihi Rp10 miliar dalam 1 Tahun Pajak",
+      "C": "tidak melebihi Rp4,8 miliar dalam 1 Tahun Pajak",
+      "D": "tidak melebihi Rp50 miliar dalam 1 Tahun Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Kriteria tertentu WP OP yang boleh melakukan pencatatan: melakukan kegiatan usaha/pekerjaan bebas, dengan peredaran bruto dikenai PPh final dan/atau bukan objek pajak, dan tidak melebihi Rp4,8 miliar dalam 1 Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 641,
+        "kutipan": "Dikenai PPh final dan/atau bukan objek pajak; dan"
+      },
+      {
+        "pdf": "B",
+        "halaman": 641,
+        "kutipan": "Tidak melebihi 4,8 miliar dalam 1 (satu) Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-54/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-044",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-54/PMK.03/2021 - Tata Cara Pencatatan & Kriteria Pembukuan dengan Stelsel Kas",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jangka waktu penyampaian Pemberitahuan penggunaan Norma Penghitungan Penghasilan Neto (NPPN) kepada Direktur Jenderal Pajak bagi WP Orang Pribadi yang sudah terdaftar sebelumnya adalah...",
+    "opsi": {
+      "A": "1 (satu) bulan pertama Tahun Pajak bersangkutan",
+      "B": "6 (enam) bulan pertama Tahun Pajak bersangkutan",
+      "C": "sepanjang Tahun Pajak bersangkutan tanpa batas waktu",
+      "D": "3 (tiga) bulan pertama Tahun Pajak bersangkutan"
+    },
+    "kunci": "D",
+    "pembahasan": "Jangka waktu Pemberitahuan NPPN kepada Dirjen Pajak adalah 3 (tiga) bulan pertama Tahun Pajak bersangkutan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 641,
+        "kutipan": "3 (tiga) bulan pertama Tahun Pajak bersangkutan"
+      }
+    ],
+    "tags": [
+      "PMK-54/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-045",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-54/PMK.03/2021 - Tata Cara Pencatatan & Kriteria Pembukuan dengan Stelsel Kas",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang WP OP yang memenuhi kriteria tertentu untuk melakukan pencatatan TIDAK menyampaikan Pemberitahuan NPPN sesuai jangka waktu yang ditentukan. Akibatnya, WP tersebut...",
+    "opsi": {
+      "A": "dianggap memilih menyelenggarakan Pembukuan",
+      "B": "tetap dapat menggunakan pencatatan tanpa konsekuensi apapun",
+      "C": "dikenai sanksi pidana sesuai UU KUP",
+      "D": "dicabut NPWP-nya secara jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "WP OP yang tidak melakukan Pemberitahuan NPPN sesuai jangka waktu yang ditentukan dianggap memilih menyelenggarakan Pembukuan.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 641,
+        "kutipan": "Tidak melakukan Pemberitahuan NPPN, dianggap memilih menyelenggarakan Pembukuan"
+      }
+    ],
+    "tags": [
+      "PMK-54/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-046",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-54/PMK.03/2021 - Tata Cara Pencatatan & Kriteria Pembukuan dengan Stelsel Kas",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam pembukuan dengan stelsel kas (pembukuan sederhana) menurut PMK 54/PMK.03/2021, penghasilan dan biaya diakui dengan ketentuan...",
+    "opsi": {
+      "A": "penghasilan diakui saat timbul hak, biaya diakui saat timbul kewajiban membayar",
+      "B": "penghasilan diakui saat diterima tunai, biaya diakui saat benar-benar dibayar tunai",
+      "C": "penghasilan dan biaya diakui sepenuhnya berdasarkan prinsip akrual penuh",
+      "D": "penghasilan diakui pada akhir tahun, biaya diakui pada awal tahun pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada stelsel kas, penghasilan diakui apabila telah diterima secara tunai dalam suatu Tahun Pajak, dan biaya diakui apabila benar-benar telah dibayar secara tunai dalam suatu Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 642,
+        "kutipan": "Penghasilan diakui apabila telah diterima secara tunai dalam suatu Tahun Pajak; dan"
+      },
+      {
+        "pdf": "B",
+        "halaman": 642,
+        "kutipan": "Biaya diakui apabila benar-benar telah dibayar secara tunai dalam suatu Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-54/PMK.03/2021"
+    ]
+  },
+  {
+    "id": "ADV-09-047",
+    "kompetensi": "Advokasi Kebijakan Perpajakan",
+    "topik": "Penyesuaian Ketentuan PMK-81/2024 atas Berbagai PMK Lama",
+    "subtopik": "PMK-54/PMK.03/2021 - Tata Cara Pencatatan & Kriteria Pembukuan dengan Stelsel Kas",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Apabila Wajib Pajak menyampaikan Pemberitahuan Pembukuan Stelsel Kas sesuai jangka waktu yang ditentukan, Direktorat Jenderal Pajak menerbitkan Surat Keterangan penyelenggaraan Pembukuan dengan Stelsel Kas paling lama...",
+    "opsi": {
+      "A": "3 (tiga) hari kerja setelah diterbitkan bukti penerimaan surat",
+      "B": "5 (lima) hari kerja setelah diterbitkan bukti penerimaan surat",
+      "C": "1 (satu) hari kerja setelah diterbitkan bukti penerimaan surat",
+      "D": "10 (sepuluh) hari kerja setelah diterbitkan bukti penerimaan surat"
+    },
+    "kunci": "C",
+    "pembahasan": "Jika Pemberitahuan Pembukuan Stelsel Kas disampaikan sesuai jangka waktu, Surat Keterangan penyelenggaraan Pembukuan dengan Stelsel Kas terbit paling lama 1 (satu) hari kerja setelah diterbitkan bukti penerimaan surat.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 643,
+        "kutipan": "Paling lama 1 (satu) hari kerja setelah diterbitkan bukti penerimaan surat"
+      }
+    ],
+    "tags": [
+      "PMK-54/PMK.03/2021"
+    ]
+  }
+]

@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "PMR-07-001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Upaya hukum Pembetulan dalam bagan Upaya Hukum Perpajakan didasarkan pada pasal berikut dalam UU KUP:",
+    "opsi": {
+      "A": "Pasal 36 ayat (1)",
+      "B": "Pasal 25",
+      "C": "Pasal 16",
+      "D": "Pasal 27C"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada bagan Upaya Hukum Perpajakan, kotak Pembetulan mencantumkan dasar hukum Pasal 16 UU KUP dan PMK-11/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "PEMBETULAN Pasal 16 UU KUP PMK-11/2013"
+      }
+    ],
+    "tags": [
+      "UU KUP",
+      "Pembetulan",
+      "Pasal 16 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-002",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "PMK yang menjadi dasar hukum upaya hukum Pembetulan sebagaimana tercantum dalam bagan Upaya Hukum Perpajakan adalah:",
+    "opsi": {
+      "A": "PMK-11/2013",
+      "B": "PMK-8/2013",
+      "C": "PMK-9/2013",
+      "D": "PMK-202/2015"
+    },
+    "kunci": "A",
+    "pembahasan": "Kotak Pembetulan pada bagan mencantumkan dasar hukum Pasal 16 UU KUP dan PMK-11/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "PEMBETULAN Pasal 16 UU KUP PMK-11/2013"
+      }
+    ],
+    "tags": [
+      "Pembetulan",
+      "PMK-11/2013"
+    ]
+  },
+  {
+    "id": "PMR-07-003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan Upaya Hukum Perpajakan, upaya hukum Pembetulan dapat diajukan:",
+    "opsi": {
+      "A": "Maksimal 1 kali",
+      "B": "Berkali-kali",
+      "C": "Maksimal 2 kali",
+      "D": "Hanya 1 kali dalam setahun"
+    },
+    "kunci": "B",
+    "pembahasan": "Kotak Pembetulan pada bagan mencantumkan keterangan 'Proses di DJP, Dapat diajukan berkali-kali'.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "Proses di DJP Dapat diajukan berkali-kali"
+      }
+    ],
+    "tags": [
+      "Pembetulan",
+      "Upaya Hukum Perpajakan"
+    ]
+  },
+  {
+    "id": "PMR-07-004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Upaya hukum Pengurangan dan Pembatalan ketetapan pajak dalam bagan Upaya Hukum Perpajakan didasarkan pada:",
+    "opsi": {
+      "A": "Pasal 16",
+      "B": "Pasal 36 ayat (1)",
+      "C": "Pasal 25",
+      "D": "Pasal 27C"
+    },
+    "kunci": "B",
+    "pembahasan": "Kotak Pengurangan dan Pembatalan pada bagan mencantumkan dasar hukum Pasal 36 ayat (1) dan PMK-8/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "PENGURANGAN DAN PEMBATALAN Pasal 36 ayat (1) PMK-8/2013"
+      }
+    ],
+    "tags": [
+      "Pengurangan dan Pembatalan",
+      "Pasal 36 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Sesuai bagan Upaya Hukum Perpajakan, upaya Pengurangan dan Pembatalan ketetapan dapat diajukan maksimal berapa kali (selain Pasal 36 ayat (1) huruf d)?",
+    "opsi": {
+      "A": "1 kali",
+      "B": "2 kali",
+      "C": "3 kali",
+      "D": "Berkali-kali"
+    },
+    "kunci": "B",
+    "pembahasan": "Kotak Pengurangan dan Pembatalan mencantumkan 'Dapat diajukan maksimal 2 kali*' dengan catatan *selain Pasal 36 ayat (1) huruf d.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "Dapat diajukan maksimal 2 kali*"
+      }
+    ],
+    "tags": [
+      "Pengurangan dan Pembatalan",
+      "Pasal 36 ayat (1) UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "PMK yang menjadi dasar hukum upaya Pengurangan dan Pembatalan ketetapan pajak pada bagan Upaya Hukum Perpajakan adalah:",
+    "opsi": {
+      "A": "PMK-8/2013",
+      "B": "PMK-11/2013",
+      "C": "PMK-9/2013 jo PMK-202/2015",
+      "D": "PMK-202/2015"
+    },
+    "kunci": "A",
+    "pembahasan": "Kotak Pengurangan dan Pembatalan pada bagan mencantumkan dasar hukum Pasal 36 ayat (1) dan PMK-8/2013.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "PENGURANGAN DAN PEMBATALAN Pasal 36 ayat (1) PMK-8/2013"
+      }
+    ],
+    "tags": [
+      "Pengurangan dan Pembatalan",
+      "PMK-8/2013"
+    ]
+  },
+  {
+    "id": "PMR-07-007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Prosedur Persetujuan Bersama (MAP) sebagai salah satu upaya hukum administratif dalam bagan Upaya Hukum Perpajakan didasarkan pada:",
+    "opsi": {
+      "A": "Pasal 16 UU KUP",
+      "B": "Pasal 25 UU KUP",
+      "C": "Pasal 23 UU KUP",
+      "D": "Pasal 27C UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Kotak Prosedur Persetujuan Bersama pada bagan mencantumkan dasar hukum Pasal 27C UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "PROSEDUR PERSETUJUAN BERSAMA Pasal 27C UU KUP"
+      }
+    ],
+    "tags": [
+      "MAP",
+      "Pasal 27C UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan Upaya Hukum Perpajakan, Prosedur Persetujuan Bersama (MAP) dapat diajukan:",
+    "opsi": {
+      "A": "Berkali-kali",
+      "B": "Maksimal 1 kali",
+      "C": "Maksimal 2 kali",
+      "D": "Tidak dibatasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Kotak Prosedur Persetujuan Bersama pada bagan mencantumkan keterangan 'Proses di DJP, Dapat diajukan maksimal 1 kali'.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "Proses di DJP Dapat diajukan maksimal 1 kali"
+      }
+    ],
+    "tags": [
+      "MAP",
+      "Upaya Hukum Perpajakan"
+    ]
+  },
+  {
+    "id": "PMR-07-009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Upaya hukum Keberatan dalam bagan Upaya Hukum Perpajakan didasarkan pada Pasal 25 UU KUP dan diatur lebih lanjut dengan:",
+    "opsi": {
+      "A": "PMK-11/2013",
+      "B": "PMK-8/2013",
+      "C": "PMK-9/2013 jo PMK-202/2015",
+      "D": "PMK-202/2013"
+    },
+    "kunci": "C",
+    "pembahasan": "Kotak Keberatan pada bagan mencantumkan dasar hukum Pasal 25 UU KUP dan PMK-9/2013 jo PMK-202/2015.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "KEBERATAN Pasal 25 UU KUP PMK-9/2013 jo PMK-202/2015"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Pasal 25 UU KUP",
+      "PMK-9/2013"
+    ]
+  },
+  {
+    "id": "PMR-07-010",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Upaya hukum Banding yang diproses di Pengadilan Pajak dalam bagan Upaya Hukum Perpajakan didasarkan pada:",
+    "opsi": {
+      "A": "Pasal 23 UU KUP",
+      "B": "Pasal 25 UU KUP",
+      "C": "Pasal 27 UU KUP",
+      "D": "Pasal 27 ayat (5e) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Kotak Banding pada bagan mencantumkan dasar hukum Pasal 27 UU KUP dengan proses di Pengadilan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "BANDING Pasal 27 UU KUP Proses di Pengadilan Pajak"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Pasal 27 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Upaya hukum Gugatan yang diproses di Pengadilan Pajak dalam bagan Upaya Hukum Perpajakan didasarkan pada:",
+    "opsi": {
+      "A": "Pasal 27 UU KUP",
+      "B": "Pasal 25 UU KUP",
+      "C": "Pasal 36 ayat (1) UU KUP",
+      "D": "Pasal 23 UU KUP"
+    },
+    "kunci": "D",
+    "pembahasan": "Kotak Gugatan pada bagan mencantumkan dasar hukum Pasal 23 UU KUP dengan proses di Pengadilan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "GUGATAN Pasal 23 UU KUP Proses di Pengadilan Pajak"
+      }
+    ],
+    "tags": [
+      "Gugatan",
+      "Pasal 23 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Peninjauan Kembali sebagai upaya hukum terakhir dalam sengketa pajak didasarkan pada Pasal 27 ayat (5e) UU KUP dan diproses di:",
+    "opsi": {
+      "A": "Pengadilan Pajak",
+      "B": "Direktorat Jenderal Pajak",
+      "C": "Mahkamah Agung",
+      "D": "Mahkamah Konstitusi"
+    },
+    "kunci": "C",
+    "pembahasan": "Kotak Peninjauan Kembali pada bagan mencantumkan dasar hukum Pasal 27 ayat (5e) UU KUP dengan proses di Mahkamah Agung.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "PENINJAUAN KEMBALI Pasal 27 ayat (5e) UU KUP Proses di Mahkamah Agung"
+      }
+    ],
+    "tags": [
+      "Peninjauan Kembali",
+      "Pasal 27 ayat (5e) UU KUP",
+      "Mahkamah Agung"
+    ]
+  },
+  {
+    "id": "PMR-07-013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan Penyelesaian Sengketa Perpajakan, upaya hukum berikut diproses di Pengadilan Pajak/Mahkamah Agung (bukan di DJP), KECUALI:",
+    "opsi": {
+      "A": "Banding",
+      "B": "Gugatan",
+      "C": "Peninjauan Kembali",
+      "D": "Pembetulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Banding dan Gugatan diproses di Pengadilan Pajak, Peninjauan Kembali diproses di Mahkamah Agung, sedangkan Pembetulan merupakan upaya administratif yang diproses di DJP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 55,
+        "kutipan": "Proses di DJP Dapat diajukan berkali-kali"
+      }
+    ],
+    "tags": [
+      "Upaya Hukum Perpajakan",
+      "Pembetulan",
+      "Administratif"
+    ]
+  },
+  {
+    "id": "PMR-07-014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak yang mengajukan keberatan atas suatu ketetapan pajak harus menyampaikan permohonan dalam jangka waktu paling lama:",
+    "opsi": {
+      "A": "1 bulan",
+      "B": "6 bulan",
+      "C": "12 bulan",
+      "D": "3 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan proses Keberatan mencantumkan pengajuan permohonan keberatan oleh WP kepada Dirjen Pajak dalam jangka waktu 3 bulan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "dalam jangka waktu 3 bulan"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Pasal 25 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan proses Keberatan, jangka waktu keseluruhan proses sejak permohonan diajukan hingga Surat Keputusan Keberatan diterbitkan adalah:",
+    "opsi": {
+      "A": "3 bulan",
+      "B": "6 bulan",
+      "C": "9 bulan",
+      "D": "12 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan proses Keberatan mencantumkan bracket jangka waktu 12 bulan dari pengajuan permohonan sampai dengan SK Keberatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "12 bulan"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Pasal 25 UU KUP"
+    ]
+  },
+  {
+    "id": "PMR-07-016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak yang permohonan keberatannya ditolak atau dikabulkan sebagian dikenai sanksi administratif berupa denda sebesar:",
+    "opsi": {
+      "A": "30%",
+      "B": "50%",
+      "C": "60%",
+      "D": "100%"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan proses Keberatan mencantumkan Sanksi Administratif Denda 30% bagi keberatan yang ditolak/dikabulkan sebagian.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "Sanksi Administratif Denda 30%"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Sanksi Administratif"
+    ]
+  },
+  {
+    "id": "PMR-07-017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan proses Keberatan, berikut ini termasuk jenis ketetapan/keputusan yang menjadi objek pengajuan keberatan, KECUALI:",
+    "opsi": {
+      "A": "SKPKB",
+      "B": "Surat Tagihan Pajak (STP)",
+      "C": "SKPN",
+      "D": "SKPLB"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan mencantumkan objek keberatan berupa SKPKB, SKPN, SKPLB, SKPKBT, dan Pemotongan/Pemungutan oleh Pihak Ketiga (POT/PUT Pihak III). STP tidak termasuk dalam daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "SKPKB SKPN SKPLB SKPKBT POT/PUT PIHAK III"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "SKPKB",
+      "SKPLB"
+    ]
+  },
+  {
+    "id": "PMR-07-018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan proses Keberatan, pihak yang berwenang menerima permohonan keberatan dari Wajib Pajak adalah:",
+    "opsi": {
+      "A": "Pengadilan Pajak",
+      "B": "Dirjen Pajak",
+      "C": "Majelis Hakim",
+      "D": "Menteri Keuangan"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan proses Keberatan menunjukkan alur dari Wajib Pajak kepada Dirjen Pajak, dilanjutkan dengan SPUH hingga SK Keberatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "Dirjen Pajak"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Dirjen Pajak"
+    ]
+  },
+  {
+    "id": "PMR-07-019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam bagan alur proses Keberatan, pada tahap manakah Wajib Pajak diberi kesempatan untuk mencabut pengajuan keberatannya?",
+    "opsi": {
+      "A": "Sebelum permohonan diajukan",
+      "B": "Pada tahap SPUH",
+      "C": "Setelah SK Keberatan terbit",
+      "D": "Saat pengajuan banding"
+    },
+    "kunci": "B",
+    "pembahasan": "Bagan mencantumkan keterangan 'WP dapat mencabut pengajuan keberatan' pada tahap SPUH, sebelum SK Keberatan diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "WP dapat mencabut pengajuan keberatan"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "SPUH"
+    ]
+  },
+  {
+    "id": "PMR-07-020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam alur proses penyelesaian keberatan pada bagan, SPUH diterbitkan oleh Dirjen Pajak sebelum:",
+    "opsi": {
+      "A": "Permohonan keberatan diajukan",
+      "B": "Diajukannya banding",
+      "C": "Diterbitkannya SK Keberatan",
+      "D": "Diterbitkannya ketetapan pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Alur bagan menunjukkan urutan Dirjen Pajak menerbitkan SPUH terlebih dahulu, kemudian menerbitkan SK Keberatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "Dirjen Pajak → SPUH → SK KEBERATAN"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "SPUH",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jangka waktu (JT) pembayaran pajak tertangguh sejak penerbitan Surat Keputusan Keberatan pada bagan proses Keberatan adalah selama:",
+    "opsi": {
+      "A": "2 bulan",
+      "B": "3 bulan",
+      "C": "6 bulan",
+      "D": "1 bulan"
+    },
+    "kunci": "D",
+    "pembahasan": "Bagan mencantumkan keterangan pada kotak SK Keberatan: 'JT pembayaran tertangguh 1 bulan sejak penerbitan SK'.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "JT pembayaran tertangguh 1 bulan sejak penerbitan SK"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu persyaratan permohonan keberatan adalah 1 (satu) keberatan harus diajukan terhadap:",
+    "opsi": {
+      "A": "Beberapa jenis pajak sekaligus",
+      "B": "Seluruh Masa Pajak dalam 1 tahun",
+      "C": "1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak",
+      "D": "2 jenis pajak dalam 1 Tahun Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Persyaratan permohonan keberatan pada bagan menyebutkan bahwa 1 keberatan harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "1 keberatan harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Persyaratan Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Persyaratan permohonan keberatan terkait bentuk dan isi permohonan mensyaratkan permohonan ditulis dalam:",
+    "opsi": {
+      "A": "Bahasa Inggris dengan terjemahan resmi",
+      "B": "Bahasa daerah setempat",
+      "C": "Bahasa Indonesia tanpa mencantumkan jumlah pajak",
+      "D": "Bahasa Indonesia dan mengemukakan jumlah pajak yang terutang/dipotong/dipungut/rugi menurut WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Persyaratan permohonan keberatan pada bagan menyebutkan permohonan harus tertulis dalam bahasa Indonesia dan mengemukakan jumlah pajak yang terutang/dipotong atau dipungut/rugi menurut WP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "tertulis dalam bahasa Indonesia dan mengemukakan jumlah pajak yang terutang/dipotong atau dipungut/rugi menurut WP"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Persyaratan Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Terkait pelunasan pajak, persyaratan permohonan keberatan mensyaratkan Wajib Pajak melunasi pajak yang masih harus dibayar paling sedikit sejumlah:",
+    "opsi": {
+      "A": "Yang tercantum dalam SKP",
+      "B": "Yang telah disetujui WP dalam pembahasan akhir hasil pemeriksaan",
+      "C": "50% dari jumlah pajak terutang",
+      "D": "Yang disetujui oleh Pengadilan Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Persyaratan permohonan keberatan pada bagan menyebutkan WP harus melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui WP dalam pembahasan akhir hasil pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui WP dalam pembahasan akhir hasil pemeriksaan"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Persyaratan Keberatan",
+      "Pembahasan Akhir"
+    ]
+  },
+  {
+    "id": "PMR-07-025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila permohonan keberatan tidak memenuhi persyaratan yang ditentukan, maka konsekuensinya adalah:",
+    "opsi": {
+      "A": "Permohonan tidak dipertimbangkan",
+      "B": "Permohonan tetap diproses dengan sanksi tambahan",
+      "C": "Permohonan otomatis dikabulkan",
+      "D": "Permohonan dialihkan menjadi pengajuan banding"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan proses Keberatan menegaskan bahwa permohonan yang tidak memenuhi persyaratan tidak dipertimbangkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "tidak memenuhi persyaratan = tidak dipertimbangkan"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Persyaratan Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak mengajukan 1 (satu) surat keberatan yang mencakup SKPKB PPh Badan dan SKPKB PPN dalam Masa Pajak yang sama. Berdasarkan persyaratan permohonan keberatan, tindakan tersebut:",
+    "opsi": {
+      "A": "Diperbolehkan karena Masa Pajaknya sama",
+      "B": "Diperbolehkan jika disetujui Dirjen Pajak",
+      "C": "Hanya diperbolehkan untuk WP Badan besar",
+      "D": "Tidak memenuhi syarat karena harus diajukan terhadap 1 jenis pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Persyaratan permohonan keberatan mensyaratkan 1 keberatan harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak, sehingga mengajukan 2 jenis pajak sekaligus tidak memenuhi syarat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "1 keberatan harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Persyaratan Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini merupakan persyaratan permohonan keberatan, KECUALI:",
+    "opsi": {
+      "A": "Dilampiri jaminan bank sebesar 50% dari pajak terutang",
+      "B": "Diajukan terhadap 1 jenis pajak dan 1 Masa/Tahun Pajak",
+      "C": "Tertulis dalam bahasa Indonesia",
+      "D": "Melunasi pajak sejumlah yang telah disetujui WP dalam pembahasan akhir hasil pemeriksaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Persyaratan permohonan keberatan pada bagan hanya mencantumkan tiga syarat: 1 jenis pajak & 1 Masa/Tahun Pajak, tertulis bahasa Indonesia, dan pelunasan sejumlah yang disetujui WP. Jaminan bank tidak dicantumkan sebagai syarat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "Persyaratan permohonan: 1. 1 keberatan harus diajukan terhadap 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Persyaratan Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Urutan alur proses penyelesaian keberatan yang benar berdasarkan bagan adalah:",
+    "opsi": {
+      "A": "Wajib Pajak - Dirjen Pajak - SPUH - SK Keberatan",
+      "B": "Wajib Pajak - SPUH - Dirjen Pajak - SK Keberatan",
+      "C": "Dirjen Pajak - Wajib Pajak - SK Keberatan - SPUH",
+      "D": "SPUH - Wajib Pajak - Dirjen Pajak - SK Keberatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan menunjukkan alur permohonan dari Wajib Pajak diajukan ke Dirjen Pajak, diproses melalui SPUH, hingga diterbitkan SK Keberatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "Dirjen Pajak → SPUH → SK KEBERATAN"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "Alur Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-029",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berapa jenis ketetapan/keputusan yang dicantumkan sebagai objek pengajuan keberatan dalam bagan proses Keberatan?",
+    "opsi": {
+      "A": "5 jenis",
+      "B": "3 jenis",
+      "C": "4 jenis",
+      "D": "6 jenis"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan mencantumkan 5 objek keberatan, yaitu SKPKB, SKPN, SKPLB, SKPKBT, dan POT/PUT Pihak III.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 56,
+        "kutipan": "SKPKB SKPN SKPLB SKPKBT POT/PUT PIHAK III"
+      }
+    ],
+    "tags": [
+      "Keberatan",
+      "SKPKB"
+    ]
+  },
+  {
+    "id": "PMR-07-030",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Prosedur Persetujuan Bersama (MAP): Pihak yang Mengajukan, SK Persetujuan Bersama",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "DJP berwenang melakukan Prosedur Persetujuan Bersama (MAP) dengan tujuan:",
+    "opsi": {
+      "A": "Menetapkan tarif pajak baru",
+      "B": "Mencegah/menyelesaikan permasalahan dalam penerapan P3B",
+      "C": "Menerbitkan SKPKB secara jabatan",
+      "D": "Melakukan pemeriksaan bukti permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Slide Prosedur Persetujuan Bersama menyebutkan DJP berwenang melakukan MAP untuk mencegah/menyelesaikan permasalahan dalam penerapan P3B.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 57,
+        "kutipan": "DJP berwenang melakukan Prosedur Persetujuan Bersama (MAP) untuk mencegah/menyelesaikan permasalahan dalam penerapan P3B"
+      }
+    ],
+    "tags": [
+      "MAP",
+      "P3B"
+    ]
+  },
+  {
+    "id": "PMR-07-031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Prosedur Persetujuan Bersama (MAP): Pihak yang Mengajukan, SK Persetujuan Bersama",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Berikut ini adalah pihak yang dapat mengajukan Prosedur Persetujuan Bersama (MAP), KECUALI:",
+    "opsi": {
+      "A": "WP dalam negeri",
+      "B": "Majelis Hakim Pengadilan Pajak",
+      "C": "Dirjen Pajak",
+      "D": "Pejabat berwenang negara/yurisdiksi mitra P3B"
+    },
+    "kunci": "B",
+    "pembahasan": "Slide MAP mencantumkan 4 pihak yang dapat mengajukan MAP yaitu WP dalam negeri, Dirjen Pajak, Pejabat berwenang negara/yurisdiksi mitra P3B, dan WNI melalui Dirjen Pajak. Majelis Hakim Pengadilan Pajak tidak termasuk.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 57,
+        "kutipan": "PIHAK YANG MENGAJUKAN MAP 1. WP dalam negeri 2. Dirjen Pajak 3. Pejabat berwenang negara/yurisdiksi mitra P3B"
+      }
+    ],
+    "tags": [
+      "MAP",
+      "P3B"
+    ]
+  },
+  {
+    "id": "PMR-07-032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Prosedur Persetujuan Bersama (MAP): Pihak yang Mengajukan, SK Persetujuan Bersama",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Direktur Jenderal Pajak menindaklanjuti hasil pelaksanaan MAP dengan menerbitkan:",
+    "opsi": {
+      "A": "SK tentang Persetujuan Bersama",
+      "B": "Surat Ketetapan Pajak Kurang Bayar",
+      "C": "Surat Keputusan Keberatan",
+      "D": "Putusan Banding"
+    },
+    "kunci": "A",
+    "pembahasan": "Pokok pengaturan MAP menyebutkan Direktur Jenderal Pajak menindaklanjuti hasil pelaksanaan MAP dengan menerbitkan SK tentang Persetujuan Bersama.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 57,
+        "kutipan": "Direktur Jenderal Pajak menindaklanjuti hasil pelaksanaan MAP dengan menerbitkan SK tentang Persetujuan Bersama"
+      }
+    ],
+    "tags": [
+      "MAP",
+      "SK Persetujuan Bersama"
+    ]
+  },
+  {
+    "id": "PMR-07-033",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Prosedur Persetujuan Bersama (MAP): Pihak yang Mengajukan, SK Persetujuan Bersama",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 1,
+    "pertanyaan": "SK tentang Persetujuan Bersama hasil pelaksanaan MAP berfungsi sebagai:",
+    "opsi": {
+      "A": "Dasar pengembalian pajak atau dasar penagihan pajak",
+      "B": "Dasar pengenaan sanksi pidana perpajakan",
+      "C": "Dasar penundaan pembayaran pajak selamanya",
+      "D": "Dasar penghapusan NPWP"
+    },
+    "kunci": "A",
+    "pembahasan": "Pokok pengaturan MAP menyebutkan SK tentang Persetujuan Bersama termasuk sebagai dasar pengembalian pajak atau dasar penagihan pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 57,
+        "kutipan": "SK tentang Persetujuan Bersama tersebut termasuk sebagai dasar pengembalian pajak atau dasar penagihan pajak"
+      }
+    ],
+    "tags": [
+      "MAP",
+      "SK Persetujuan Bersama"
+    ]
+  },
+  {
+    "id": "PMR-07-034",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan Banding ke Badan Peradilan Pajak diajukan atas:",
+    "opsi": {
+      "A": "Surat Ketetapan Pajak Kurang Bayar",
+      "B": "Surat Keputusan Keberatan",
+      "C": "Surat Tagihan Pajak",
+      "D": "Surat Paksa"
+    },
+    "kunci": "B",
+    "pembahasan": "Slide Banding mencantumkan ketentuan bahwa Banding diajukan atas Surat Keputusan Keberatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Diajukan atas Surat Keputusan Keberatan"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-035",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan Banding harus diajukan paling lama:",
+    "opsi": {
+      "A": "1 bulan sejak SK Keberatan diterima",
+      "B": "3 bulan sejak ketetapan pajak diterbitkan",
+      "C": "6 bulan sejak SK Keberatan diterima",
+      "D": "3 bulan sejak Surat Keputusan Keberatan diterima"
+    },
+    "kunci": "D",
+    "pembahasan": "Slide Banding mencantumkan ketentuan diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-036",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan Banding yang diajukan dalam jangka waktu 3 bulan harus dilampiri dengan:",
+    "opsi": {
+      "A": "Salinan Surat Keputusan Keberatan",
+      "B": "Bukti pelunasan pajak",
+      "C": "Risalah pembahasan akhir pemeriksaan",
+      "D": "Surat kuasa khusus"
+    },
+    "kunci": "A",
+    "pembahasan": "Slide Banding mencantumkan ketentuan permohonan dilampiri dengan salinan Surat Keputusan Keberatan tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "dilampiri dengan salinan Surat Keputusan Keberatan tersebut"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-037",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam hal permohonan Banding Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar:",
+    "opsi": {
+      "A": "30%",
+      "B": "50%",
+      "C": "60%",
+      "D": "100%"
+    },
+    "kunci": "C",
+    "pembahasan": "Slide Banding mencantumkan Sanksi Administratif Denda 60% bagi Banding yang ditolak/dikabulkan sebagian.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Sanksi Administratif Denda 60%"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Sanksi Administratif"
+    ]
+  },
+  {
+    "id": "PMR-07-038",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jumlah pajak yang belum dibayar pada saat pengajuan permohonan Banding berstatus:",
+    "opsi": {
+      "A": "Pajak yang telah terutang penuh",
+      "B": "Dianggap lunas sementara",
+      "C": "Dihapuskan secara otomatis",
+      "D": "Belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan"
+    },
+    "kunci": "D",
+    "pembahasan": "Slide Banding menyebutkan jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Jumlah pajak yang belum dibayar pada saat pengajuan permohonan banding belum merupakan pajak yang terutang sampai dengan Putusan Banding diterbitkan"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Putusan Banding"
+    ]
+  },
+  {
+    "id": "PMR-07-039",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Jumlah pajak yang belum dibayar pada saat pengajuan keberatan, menurut ketentuan Banding, tertangguh sampai dengan:",
+    "opsi": {
+      "A": "3 bulan sejak tanggal penerbitan Putusan Banding",
+      "B": "1 bulan sejak tanggal penerbitan Putusan Banding",
+      "C": "Tanggal diterimanya SK Keberatan",
+      "D": "Tanggal diajukannya permohonan Banding"
+    },
+    "kunci": "B",
+    "pembahasan": "Slide Banding menyebutkan jumlah pajak yang belum dibayar pada saat pengajuan keberatan tertangguh sampai dengan 1 bulan sejak tanggal penerbitan Putusan Banding.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "tertangguh sampai dengan 1 bulan sejak tanggal penerbitan Putusan Banding"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Putusan Banding"
+    ]
+  },
+  {
+    "id": "PMR-07-040",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Putusan Banding yang diterbitkan oleh Badan Peradilan Pajak merupakan putusan yang:",
+    "opsi": {
+      "A": "Dapat diajukan keberatan kembali",
+      "B": "Bersifat sementara menunggu PK",
+      "C": "Berkekuatan hukum tetap (inkracht)",
+      "D": "Hanya mengikat untuk 1 tahun pajak berikutnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Slide Banding menegaskan Putusan Banding merupakan putusan yang berkekuatan hukum tetap (inkracht).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Putusan Banding merupakan putusan yang berkekuatan hukum tetap (inkracht)"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Putusan Banding",
+      "Inkracht"
+    ]
+  },
+  {
+    "id": "PMR-07-041",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Permohonan Banding dari Wajib Pajak diajukan kepada:",
+    "opsi": {
+      "A": "Direktorat Jenderal Pajak",
+      "B": "Mahkamah Agung",
+      "C": "Badan Peradilan Pajak",
+      "D": "Kantor Wilayah DJP"
+    },
+    "kunci": "C",
+    "pembahasan": "Bagan Banding menunjukkan alur Permohonan Banding dari Wajib Pajak kepada Badan Peradilan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "BADAN PERADILAN PAJAK"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Badan Peradilan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-07-042",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP mengajukan permohonan Banding dalam jangka waktu 3 bulan sejak SK Keberatan diterima, namun tidak melampirkan salinan SK Keberatan. Berdasarkan ketentuan Banding, kondisi tersebut:",
+    "opsi": {
+      "A": "Tidak memenuhi ketentuan karena harus dilampiri salinan SK Keberatan",
+      "B": "Tetap sah karena jangka waktu terpenuhi",
+      "C": "Otomatis dialihkan menjadi Gugatan",
+      "D": "Diperbolehkan jika WP melengkapi dalam 1 bulan berikutnya"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan Banding mensyaratkan permohonan diajukan paling lama 3 bulan sejak SK Keberatan diterima dan dilampiri dengan salinan Surat Keputusan Keberatan tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima dan dilampiri dengan salinan Surat Keputusan Keberatan tersebut"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-043",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk ketentuan pengajuan Banding sebagaimana tercantum pada slide Banding, KECUALI:",
+    "opsi": {
+      "A": "Diajukan atas Surat Keputusan Keberatan",
+      "B": "Dapat diajukan berkali-kali tanpa batas waktu",
+      "C": "Diajukan paling lama 3 bulan sejak SK Keberatan diterima",
+      "D": "Dikenai sanksi denda 60% jika ditolak"
+    },
+    "kunci": "B",
+    "pembahasan": "Slide Banding mencantumkan ketentuan diajukan atas SK Keberatan, jangka waktu 3 bulan, dan sanksi denda 60%. Tidak ada ketentuan bahwa Banding dapat diajukan berkali-kali tanpa batas waktu.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Diajukan paling lama 3 (tiga) bulan sejak Surat Keputusan Keberatan diterima"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "SK Keberatan"
+    ]
+  },
+  {
+    "id": "PMR-07-044",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dibandingkan dengan sanksi denda pada upaya hukum Keberatan sebesar 30%, sanksi denda pada upaya hukum Banding yang ditolak/dikabulkan sebagian adalah sebesar:",
+    "opsi": {
+      "A": "Sama, yaitu 30%",
+      "B": "Lebih rendah, yaitu 15%",
+      "C": "Lebih tinggi, yaitu 60%",
+      "D": "Dua kali lipat, yaitu 90%"
+    },
+    "kunci": "C",
+    "pembahasan": "Slide Banding mencantumkan Sanksi Administratif Denda 60%, lebih tinggi dibandingkan sanksi denda Keberatan sebesar 30%.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "Sanksi Administratif Denda 60%"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Keberatan",
+      "Sanksi Administratif"
+    ]
+  },
+  {
+    "id": "PMR-07-045",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan bagan proses Banding, pihak yang mengajukan permohonan Banding kepada Badan Peradilan Pajak adalah:",
+    "opsi": {
+      "A": "Wajib Pajak",
+      "B": "Dirjen Pajak",
+      "C": "Majelis Hakim",
+      "D": "Kantor Pelayanan Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Bagan Banding menunjukkan alur Permohonan Banding diajukan oleh Wajib Pajak kepada Badan Peradilan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 58,
+        "kutipan": "WAJIB PAJAK"
+      }
+    ],
+    "tags": [
+      "Banding",
+      "Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PMR-07-046",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan UU Pengadilan Pajak, yang dimaksud dengan alat bukti dalam sengketa pajak adalah:",
+    "opsi": {
+      "A": "Seluruh dokumen yang disampaikan Wajib Pajak kepada Majelis Hakim",
+      "B": "Keterangan tertulis dari Dirjen Pajak mengenai hasil pemeriksaan",
+      "C": "Putusan Pengadilan Pajak yang telah berkekuatan hukum tetap",
+      "D": "Segala sesuatu yang dapat digunakan untuk membuktikan kebenaran suatu hal yang diajukan dalam sengketa pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Slide Alat Bukti mendefinisikan alat bukti sebagai segala sesuatu yang dapat digunakan untuk membuktikan kebenaran suatu hal yang diajukan dalam sengketa pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Alat bukti adalah segala sesuatu yang dapat digunakan untuk membuktikan kebenaran suatu hal yang diajukan dalam sengketa pajak"
+      }
+    ],
+    "tags": [
+      "Alat Bukti",
+      "Sengketa Pajak"
+    ]
+  },
+  {
+    "id": "PMR-07-047",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Dalam membuat putusan, Majelis Hakim Pengadilan Pajak wajib mempertimbangkan sekurang-kurangnya:",
+    "opsi": {
+      "A": "1 alat bukti yang sah",
+      "B": "3 alat bukti yang sah",
+      "C": "2 alat bukti yang sah",
+      "D": "6 alat bukti yang sah"
+    },
+    "kunci": "C",
+    "pembahasan": "Slide Alat Bukti menyebutkan Majelis Hakim dalam membuat putusan wajib mempertimbangkan sekurang-kurangnya 2 (dua) alat bukti yang sah.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Majelis Hakim dalam membuat putusan wajib mempertimbangkan sekurang-kurangnya 2 (dua) alat bukti yang sah"
+      }
+    ],
+    "tags": [
+      "Alat Bukti",
+      "Majelis Hakim"
+    ]
+  },
+  {
+    "id": "PMR-07-048",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan bahwa Majelis Hakim wajib mempertimbangkan sekurang-kurangnya 2 alat bukti yang sah dalam membuat putusan diatur dalam:",
+    "opsi": {
+      "A": "Pasal 86 ayat (1) UU Nomor 14 Tahun 2002",
+      "B": "Pasal 25 UU KUP",
+      "C": "Pasal 27 UU KUP",
+      "D": "Pasal 88 ayat (1) UU Nomor 14 Tahun 2002"
+    },
+    "kunci": "D",
+    "pembahasan": "Dasar hukum pada slide Alat Bukti mencantumkan Pasal 88 ayat (1) UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak mengatur ketentuan sekurang-kurangnya 2 alat bukti yang sah.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Pasal 88 ayat (1) UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak"
+      }
+    ],
+    "tags": [
+      "Alat Bukti",
+      "UU Pengadilan Pajak",
+      "Pasal 88 UU No 14 Tahun 2002"
+    ]
+  },
+  {
+    "id": "PMR-07-049",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jenis-jenis alat bukti dalam sengketa pajak yang meliputi surat/tulisan, keterangan saksi, keterangan ahli, pengakuan para pihak, pengetahuan hakim, dan alat bukti elektronik diatur dalam:",
+    "opsi": {
+      "A": "Pasal 88 ayat (1) UU Nomor 14 Tahun 2002",
+      "B": "Pasal 16 UU KUP",
+      "C": "Pasal 86 ayat (1) UU Nomor 14 Tahun 2002",
+      "D": "Pasal 36 ayat (1) UU KUP"
+    },
+    "kunci": "C",
+    "pembahasan": "Dasar hukum pada slide Alat Bukti mencantumkan Pasal 86 ayat (1) UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak mengatur jenis-jenis alat bukti dalam sengketa pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Pasal 86 ayat (1) UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak"
+      }
+    ],
+    "tags": [
+      "Alat Bukti",
+      "UU Pengadilan Pajak",
+      "Pasal 86 UU No 14 Tahun 2002"
+    ]
+  },
+  {
+    "id": "PMR-07-050",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini termasuk jenis alat bukti dalam sengketa pajak berdasarkan UU Pengadilan Pajak, KECUALI:",
+    "opsi": {
+      "A": "Keterangan ahli",
+      "B": "Pengetahuan hakim",
+      "C": "Petunjuk",
+      "D": "Alat bukti elektronik"
+    },
+    "kunci": "C",
+    "pembahasan": "UU Pengadilan Pajak mengatur 6 jenis alat bukti yaitu surat/tulisan, keterangan saksi, keterangan ahli, pengakuan para pihak, pengetahuan hakim, dan alat bukti elektronik. Petunjuk tidak termasuk dalam jenis alat bukti sengketa pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Surat atau tulisan Keterangan saksi Keterangan ahli Pengakuan para pihak Pengetahuan hakim Alat bukti elektronik"
+      }
+    ],
+    "tags": [
+      "Alat Bukti",
+      "Jenis Alat Bukti"
+    ]
+  },
+  {
+    "id": "PMR-07-051",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Upaya Hukum Perpajakan",
+    "subtopik": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Keterangan ahli sebagai salah satu alat bukti dalam sengketa pajak adalah keterangan yang diberikan oleh seseorang yang:",
+    "opsi": {
+      "A": "Memiliki keahlian khusus di bidang tertentu yang relevan dengan sengketa pajak",
+      "B": "Melihat, mendengar, atau mengalami sendiri suatu peristiwa",
+      "C": "Menjabat sebagai pejabat DJP",
+      "D": "Ditunjuk oleh Pengadilan Pajak sebagai saksi ahli bersertifikat"
+    },
+    "kunci": "A",
+    "pembahasan": "Slide Alat Bukti mendefinisikan keterangan ahli sebagai keterangan yang diberikan oleh seseorang yang memiliki keahlian khusus di bidang tertentu yang relevan dengan sengketa pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 59,
+        "kutipan": "Keterangan ahli adalah keterangan yang diberikan oleh seseorang yang memiliki keahlian khusus di bidang tertentu yang relevan dengan sengketa pajak"
+      }
+    ],
+    "tags": [
+      "Alat Bukti",
+      "Keterangan Ahli"
+    ]
+  }
+]

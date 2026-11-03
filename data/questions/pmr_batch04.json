@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "PMR-04-001",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Gambaran Umum Pemeriksaan PMK-17/2013 s.t.d.d. PMK-18/2021 (4 topik: Gambaran Umum, Pelaksanaan, Jangka Waktu, Pemeriksaan Ulang&Penangguhan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Materi Pemeriksaan Pajak pada bagian ini disusun berdasarkan PMK-17/PMK.03/2013 sebagaimana telah diubah dengan peraturan apa?",
+    "opsi": {
+      "A": "PMK-18/PMK.03/2021",
+      "B": "PMK-15/PMK.03/2025",
+      "C": "PMK-147/PMK.03/2017",
+      "D": "PMK-242/PMK.03/2014"
+    },
+    "kunci": "A",
+    "pembahasan": "Judul materi menyebutkan dasar hukum \"PMK-17/PMK.03/2013 s.t.d.d. PMK-18/PMK.03/2021\" sebagai payung pembahasan Pemeriksaan Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 27,
+        "kutipan": "PMK-17/PMK.03/2013 s.t.d.d. PMK-18/PMK.03/2021"
+      }
+    ],
+    "tags": [
+      "PMK-17/2013",
+      "PMK-18/2021"
+    ]
+  },
+  {
+    "id": "PMR-04-002",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Gambaran Umum Pemeriksaan PMK-17/2013 s.t.d.d. PMK-18/2021 (4 topik: Gambaran Umum, Pelaksanaan, Jangka Waktu, Pemeriksaan Ulang&Penangguhan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 1,
+    "pertanyaan": "Berdasarkan sistematika pembahasan pada slide Pemeriksaan Pajak (PMK-17/2013 s.t.d.d. PMK-18/2021), ada berapa topik utama yang disajikan?",
+    "opsi": {
+      "A": "3 topik",
+      "B": "4 topik",
+      "C": "5 topik",
+      "D": "2 topik"
+    },
+    "kunci": "B",
+    "pembahasan": "Slide menampilkan empat kotak topik utama: Gambaran Umum Pemeriksaan, Pelaksanaan Pemeriksaan, Jangka Waktu Pemeriksaan, dan Pemeriksaan Ulang & Penangguhan Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 27,
+        "kutipan": "PEMERIKSAAN ULANG & PENANGGUHAN PEMERIKSAAN"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-04-003",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Gambaran Umum Pemeriksaan PMK-17/2013 s.t.d.d. PMK-18/2021 (4 topik: Gambaran Umum, Pelaksanaan, Jangka Waktu, Pemeriksaan Ulang&Penangguhan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 1,
+    "pertanyaan": "Manakah yang BUKAN merupakan salah satu dari empat topik utama pembahasan Pemeriksaan Pajak sesuai PMK-17/2013 s.t.d.d. PMK-18/2021?",
+    "opsi": {
+      "A": "Gambaran Umum Pemeriksaan",
+      "B": "Pelaksanaan Pemeriksaan",
+      "C": "Penyegelan & Bukti Permulaan",
+      "D": "Jangka Waktu Pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Empat topik utama yang disajikan adalah Gambaran Umum Pemeriksaan, Pelaksanaan Pemeriksaan, Jangka Waktu Pemeriksaan, serta Pemeriksaan Ulang & Penangguhan Pemeriksaan; Penyegelan merupakan sub-bahasan tersendiri di bagian lain, bukan salah satu dari empat topik utama ini.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 27,
+        "kutipan": "GAMBARAN UMUM PEMERIKSAAN"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Pajak"
+    ]
+  },
+  {
+    "id": "PMR-04-004",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban Wajib Pajak yang diperiksa sebagaimana diuraikan dalam materi ini diatur dalam Pasal 13 ayat (3) peraturan apa?",
+    "opsi": {
+      "A": "Undang-Undang KUP",
+      "B": "PMK-17/PMK.03/2013",
+      "C": "PMK-18/PMK.03/2021",
+      "D": "PP 50 Tahun 2022"
+    },
+    "kunci": "D",
+    "pembahasan": "Materi secara eksplisit menyebutkan \"Pasal 13 ayat (3) PP Nomor 50 Tahun 2022 menyebutkan bahwa Wajib Pajak yang diperiksa wajib...\".",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 28,
+        "kutipan": "Pasal 13 ayat (3) PP Nomor 50 Tahun 2022 menyebutkan bahwa Wajib Pajak yang diperiksa wajib:"
+      }
+    ],
+    "tags": [
+      "PP 50/2022"
+    ]
+  },
+  {
+    "id": "PMR-04-005",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu kewajiban Wajib Pajak yang diperiksa menurut Pasal 13 ayat (3) PP Nomor 50 Tahun 2022 adalah memperlihatkan dan/atau meminjamkan apa?",
+    "opsi": {
+      "A": "Laporan keuangan yang telah diaudit oleh kantor akuntan publik",
+      "B": "Buku, catatan, atau dokumen dasar pembukuan atau pencatatan",
+      "C": "Surat kuasa khusus dari manajemen perusahaan yang diperiksa",
+      "D": "Bukti setoran pajak masa dan tahun-tahun sebelumnya"
+    },
+    "kunci": "B",
+    "pembahasan": "WP wajib memperlihatkan dan/atau meminjamkan buku, catatan, atau dokumen yang menjadi dasar pembukuan/pencatatan dan dokumen lain terkait penghasilan, kegiatan usaha, pekerjaan bebas, atau objek yang terutang pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 28,
+        "kutipan": "memperlihatkan dan/atau meminjamkan buku, catatan, atau dokumen yang menjadi dasar pembukuan atau pencatatan"
+      }
+    ],
+    "tags": [
+      "PP 50/2022"
+    ]
+  },
+  {
+    "id": "PMR-04-006",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa kewajiban pokok yang harus dipenuhi Wajib Pajak yang diperiksa menurut Pasal 13 ayat (3) PP Nomor 50 Tahun 2022?",
+    "opsi": {
+      "A": "3 kewajiban",
+      "B": "2 kewajiban",
+      "C": "4 kewajiban",
+      "D": "5 kewajiban"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 13 ayat (3) PP 50/2022 merinci tiga kewajiban pokok: memperlihatkan/meminjamkan buku-catatan-dokumen; memberi kesempatan memasuki tempat/ruang; dan memberikan data, informasi, serta keterangan lain.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 28,
+        "kutipan": "memberikan data, informasi, dan keterangan lain yang diperlukan."
+      }
+    ],
+    "tags": [
+      "PP 50/2022"
+    ]
+  },
+  {
+    "id": "PMR-04-007",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban kedua Wajib Pajak yang diperiksa menurut Pasal 13 ayat (3) PP Nomor 50 Tahun 2022 adalah memberikan kesempatan untuk apa?",
+    "opsi": {
+      "A": "Menghadiri seluruh tahapan Pembahasan Akhir Hasil Pemeriksaan",
+      "B": "Menandatangani Surat Pemberitahuan Hasil Pemeriksaan yang diterima",
+      "C": "Melakukan pembetulan Surat Pemberitahuan sebelum pemeriksaan berakhir",
+      "D": "Memasuki tempat/ruang yang diperlukan dan membantu kelancaran pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kewajiban kedua adalah memberikan kesempatan untuk memasuki tempat atau ruang yang dipandang perlu dan memberi bantuan guna kelancaran pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 28,
+        "kutipan": "memberikan kesempatan untuk memasuki tempat atau ruang yang dipandang perlu dan memberi bantuan guna kelancaran pemeriksaan; atau"
+      }
+    ],
+    "tags": [
+      "PP 50/2022"
+    ]
+  },
+  {
+    "id": "PMR-04-008",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Kewajiban ketiga Wajib Pajak yang diperiksa menurut Pasal 13 ayat (3) PP Nomor 50 Tahun 2022 adalah memberikan apa?",
+    "opsi": {
+      "A": "Jaminan berupa harta tidak bergerak",
+      "B": "Surat kuasa kepada konsultan pajak",
+      "C": "Data, informasi, dan keterangan lain yang diperlukan",
+      "D": "Akses penuh ke sistem keuangan perusahaan tanpa batas waktu"
+    },
+    "kunci": "C",
+    "pembahasan": "Kewajiban ketiga adalah memberikan data, informasi, dan keterangan lain yang diperlukan oleh pemeriksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 28,
+        "kutipan": "memberikan data, informasi, dan keterangan lain yang diperlukan."
+      }
+    ],
+    "tags": [
+      "PP 50/2022"
+    ]
+  },
+  {
+    "id": "PMR-04-009",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut adalah contoh keterangan TERTULIS yang dapat diminta pemeriksa dari Wajib Pajak, KECUALI?",
+    "opsi": {
+      "A": "Surat pernyataan tidak diaudit oleh kantor akuntan publik",
+      "B": "Surat pernyataan tentang kepemilikan harta",
+      "C": "Wawancara tentang proses produksi Wajib Pajak",
+      "D": "Surat pernyataan tentang perkiraan biaya hidup"
+    },
+    "kunci": "C",
+    "pembahasan": "Wawancara tentang proses produksi Wajib Pajak termasuk contoh keterangan lisan, bukan keterangan tertulis.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 29,
+        "kutipan": "wawancara tentang proses produksi Wajib Pajak; atau wawancara dengan manajemen tentang transaksi-transaksi yang bersifat khusus."
+      }
+    ],
+    "tags": [
+      "Kewajiban Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PMR-04-010",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah berikut ini yang termasuk contoh keterangan tertulis yang dapat diminta pemeriksa dari Wajib Pajak?",
+    "opsi": {
+      "A": "Wawancara tentang proses pembukuan yang diselenggarakan Wajib Pajak",
+      "B": "Wawancara dengan manajemen tentang transaksi-transaksi yang bersifat khusus",
+      "C": "Wawancara tentang proses produksi yang dijalankan Wajib Pajak",
+      "D": "Keterangan bahwa fotokopi dokumen yang dipinjamkan sesuai dengan aslinya"
+    },
+    "kunci": "D",
+    "pembahasan": "Keterangan bahwa fotokopi dokumen yang dipinjamkan sesuai dengan aslinya termasuk contoh keterangan tertulis, sedangkan opsi lain merupakan contoh keterangan lisan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 29,
+        "kutipan": "keterangan bahwa fotokopi dokumen yang dipinjamkan sesuai dengan aslinya;"
+      }
+    ],
+    "tags": [
+      "Kewajiban Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PMR-04-011",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa contoh keterangan tertulis yang disebutkan dapat diminta pemeriksa dari Wajib Pajak dalam materi ini?",
+    "opsi": {
+      "A": "4 contoh",
+      "B": "2 contoh",
+      "C": "3 contoh",
+      "D": "5 contoh"
+    },
+    "kunci": "A",
+    "pembahasan": "Disebutkan empat contoh keterangan tertulis: surat pernyataan tidak diaudit KAP, keterangan kesesuaian fotokopi dokumen, surat pernyataan kepemilikan harta, dan surat pernyataan perkiraan biaya hidup.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 29,
+        "kutipan": "surat pernyataan tentang kepemilikan harta; atau surat pernyataan tentang perkiraan biaya hidup."
+      }
+    ],
+    "tags": [
+      "Kewajiban Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PMR-04-012",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa meminta Wajib Pajak menandatangani pernyataan bahwa fotokopi dokumen yang dipinjamkan telah sesuai dengan aslinya. Permintaan tersebut termasuk kategori keterangan apa?",
+    "opsi": {
+      "A": "Keterangan lisan",
+      "B": "Keterangan tertulis",
+      "C": "Data elektronik",
+      "D": "Dokumen dasar pembukuan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pernyataan kesesuaian fotokopi dokumen dengan aslinya termasuk contoh keterangan tertulis yang dapat diminta pemeriksa dari Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 29,
+        "kutipan": "keterangan bahwa fotokopi dokumen yang dipinjamkan sesuai dengan aslinya;"
+      }
+    ],
+    "tags": [
+      "Kewajiban Wajib Pajak"
+    ]
+  },
+  {
+    "id": "PMR-04-013",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk tiga kewajiban pokok Wajib Pajak yang diperiksa menurut Pasal 13 ayat (3) PP Nomor 50 Tahun 2022, KECUALI?",
+    "opsi": {
+      "A": "Memperlihatkan dan/atau meminjamkan buku, catatan, atau dokumen",
+      "B": "Menyampaikan Surat Pemberitahuan Hasil Pemeriksaan kepada pemeriksa",
+      "C": "Memberikan kesempatan memasuki tempat atau ruang yang dipandang perlu",
+      "D": "Memberikan data, informasi, dan keterangan lain yang diperlukan"
+    },
+    "kunci": "B",
+    "pembahasan": "Menyampaikan SPHP merupakan kewajiban Direktur Jenderal Pajak kepada Wajib Pajak (Pasal 31 ayat 3 UU KUP), bukan kewajiban Wajib Pajak kepada pemeriksa menurut Pasal 13 ayat (3) PP 50/2022.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 30,
+        "kutipan": "sesuai dengan Pasal 31 ayat (3) UU KUP, Direktur Jenderal Pajak wajib: menyampaikan SPHP kepada WP"
+      }
+    ],
+    "tags": [
+      "PP 50/2022",
+      "UU KUP Pasal 31"
+    ]
+  },
+  {
+    "id": "PMR-04-014",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan tentang peniadaan kewajiban merahasiakan data pembukuan atau pencatatan untuk keperluan pemeriksaan diatur dalam pasal berapa UU KUP?",
+    "opsi": {
+      "A": "Pasal 28 ayat (7)",
+      "B": "Pasal 30 ayat (1)",
+      "C": "Pasal 29 ayat (4)",
+      "D": "Pasal 31 ayat (3)"
+    },
+    "kunci": "C",
+    "pembahasan": "Ketentuan ini diatur dalam Pasal 29 ayat (4) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "Pasal 29 ayat (4) Undang-Undang KUP mengatur bahwa:"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-015",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Menurut Pasal 29 ayat (4) UU KUP, kewajiban merahasiakan pembukuan, pencatatan, atau dokumen serta keterangan yang diminta Wajib Pajak ditiadakan oleh apa?",
+    "opsi": {
+      "A": "Persetujuan tertulis dari pemilik usaha",
+      "B": "Putusan pengadilan pajak yang berkekuatan hukum tetap",
+      "C": "Instruksi Direktur Jenderal Pajak untuk pemeriksaan ulang",
+      "D": "Permintaan untuk keperluan pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kewajiban untuk merahasiakan pembukuan/pencatatan/dokumen ditiadakan oleh adanya permintaan untuk keperluan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "kewajiban untuk merahasiakan itu ditiadakan oleh permintaan untuk keperluan pemeriksaan."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-016",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Tujuan utama diaturnya peniadaan kewajiban merahasiakan data dalam Pasal 29 ayat (4) UU KUP adalah untuk mencegah hal apa?",
+    "opsi": {
+      "A": "Adanya dalih bahwa Wajib Pajak terikat kerahasiaan sehingga data tidak dapat diberikan",
+      "B": "Pemeriksa menyalahgunakan data rahasia Wajib Pajak untuk kepentingan pribadi",
+      "C": "Wajib Pajak mengajukan keberatan atas hasil pemeriksaan yang telah terbit",
+      "D": "Wajib Pajak melakukan pengungkapan ketidakbenaran pengisian SPT sebelum SPHP"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan ini diatur untuk mencegah adanya dalih bahwa Wajib Pajak yang sedang diperiksa terikat pada kerahasiaan sehingga data/dokumen/keterangan tidak dapat diberikan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "Hal ini diatur untuk mencegah adanya dalih bahwa Wajib Pajak yang sedang diperiksa terikat pada kerahasiaan"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-017",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Seorang notaris yang sedang diperiksa menolak memberikan dokumen akta kliennya kepada pemeriksa dengan alasan terikat sumpah jabatan untuk merahasiakannya. Sesuai Pasal 29 ayat (4) UU KUP, bagaimana status kewajiban merahasiakan tersebut?",
+    "opsi": {
+      "A": "Ditiadakan karena adanya permintaan untuk keperluan pemeriksaan",
+      "B": "Tetap berlaku penuh karena termasuk sumpah jabatan notaris",
+      "C": "Hanya ditiadakan apabila ada izin tertulis dari klien bersangkutan",
+      "D": "Hanya berlaku bagi Wajib Pajak badan, bukan Wajib Pajak orang pribadi"
+    },
+    "kunci": "A",
+    "pembahasan": "Pasal 29 ayat (4) UU KUP meniadakan kewajiban merahasiakan data, termasuk yang terikat sumpah jabatan, ketika diminta untuk keperluan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "maka kewajiban untuk merahasiakan itu ditiadakan oleh permintaan untuk keperluan pemeriksaan."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-018",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk hal-hal yang terikat kewajiban merahasiakan dan dapat ditiadakan untuk kepentingan pemeriksaan menurut Pasal 29 ayat (4) UU KUP, KECUALI?",
+    "opsi": {
+      "A": "Pembukuan",
+      "B": "Pencatatan",
+      "C": "Dokumen serta keterangan yang diminta",
+      "D": "Rahasia negara di bidang pertahanan"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 29 ayat (4) UU KUP hanya meniadakan kewajiban merahasiakan pembukuan, pencatatan, atau dokumen serta keterangan yang diminta, bukan rahasia negara di bidang lain.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "Dalam mengungkapkan pembukuan, pencatatan, atau dokumen serta keterangan yang diminta Wajib Pajak terikat oleh suatu kewajiban untuk merahasiakannya"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-019",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Ketentuan peniadaan kewajiban merahasiakan data pembukuan/pencatatan untuk kepentingan pemeriksaan diatur dalam undang-undang apa, berbeda dari ketentuan kewajiban WP yang diperiksa yang diatur dalam PP 50/2022?",
+    "opsi": {
+      "A": "Undang-Undang Pengadilan Pajak",
+      "B": "Undang-Undang KUP",
+      "C": "Undang-Undang PPN",
+      "D": "Undang-Undang Cipta Kerja"
+    },
+    "kunci": "B",
+    "pembahasan": "Ketentuan ini diatur dalam Pasal 29 ayat (4) Undang-Undang KUP (Ketentuan Umum dan Tata Cara Perpajakan).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "Pasal 29 ayat (4) Undang-Undang KUP mengatur bahwa:"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-020",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pasal 29 ayat (4) UU KUP tentang peniadaan kewajiban merahasiakan data pembukuan berlaku dalam konteks pelaksanaan apa?",
+    "opsi": {
+      "A": "Penagihan pajak",
+      "B": "Keberatan",
+      "C": "Pemeriksaan",
+      "D": "Penyidikan bukti permulaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pasal 29 ayat (4) UU KUP mengatur bahwa kewajiban merahasiakan ditiadakan oleh permintaan untuk keperluan pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 31,
+        "kutipan": "ditiadakan oleh permintaan untuk keperluan pemeriksaan."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 29"
+    ]
+  },
+  {
+    "id": "PMR-04-021",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Tindakan penyegelan oleh pemeriksa pajak diatur dalam pasal berapa UU KUP?",
+    "opsi": {
+      "A": "Pasal 29 ayat (4)",
+      "B": "Pasal 31 ayat (3)",
+      "C": "Pasal 30 ayat (1)",
+      "D": "Pasal 8 ayat (4)"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyegelan diatur dalam Pasal 30 ayat (1) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "PENYEGELAN Pasal 30 ayat (1) UU KUP"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-022",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penyegelan oleh pemeriksa dilakukan apabila Wajib Pajak tidak berada di tempat atau sengaja melakukan tindakan apa?",
+    "opsi": {
+      "A": "Tidak memberi kesempatan pemeriksa memasuki tempat/ruang yang diperlukan",
+      "B": "Tidak melunasi utang pajak sesuai jangka waktu yang ditentukan",
+      "C": "Tidak menandatangani Surat Pemberitahuan Hasil Pemeriksaan yang diterima",
+      "D": "Tidak hadir dalam Pembahasan Akhir Hasil Pemeriksaan yang dijadwalkan"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyegelan dilakukan jika WP tidak berada di tempat atau sengaja tidak memberikan kesempatan kepada pemeriksa untuk memasuki tempat/ruang yang dipandang perlu dan tidak memberi bantuan guna kelancaran pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Wajib Pajak tidak berada di tempat atau sengaja tidak memberikan kesempatan kepada pemeriksa untuk memasuki tempat atau ruang yang dipandang perlu"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-023",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa objek yang dapat menjadi sasaran penyegelan oleh pemeriksa pajak menurut Pasal 30 ayat (1) UU KUP?",
+    "opsi": {
+      "A": "2 objek",
+      "B": "3 objek",
+      "C": "4 objek",
+      "D": "5 objek"
+    },
+    "kunci": "B",
+    "pembahasan": "Objek penyegelan meliputi tiga kategori: tempat, ruang, serta benda bergerak dan/atau tidak bergerak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Tempat ... Ruang ... Benda bergerak dan/atau tidak bergerak"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-024",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk objek yang dapat disegel oleh pemeriksa pajak sesuai Pasal 30 ayat (1) UU KUP, KECUALI?",
+    "opsi": {
+      "A": "Tempat",
+      "B": "Ruang",
+      "C": "Benda bergerak dan/atau tidak bergerak",
+      "D": "Kendaraan dinas pemeriksa"
+    },
+    "kunci": "D",
+    "pembahasan": "Objek penyegelan yang disebutkan hanya tempat, ruang, serta benda bergerak dan/atau tidak bergerak milik/terkait Wajib Pajak; kendaraan dinas pemeriksa bukan objek penyegelan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Benda bergerak dan/atau tidak bergerak"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-025",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penyegelan merupakan upaya apa bagi pemeriksa dalam memperoleh atau mengamankan bukti pemeriksaan?",
+    "opsi": {
+      "A": "Upaya pertama yang dilakukan sebelum pemeriksaan resmi dimulai",
+      "B": "Upaya rutin yang dilakukan dalam setiap pemeriksaan lapangan",
+      "C": "Upaya administratif sebelum penerbitan Surat Perintah Pemeriksaan",
+      "D": "Upaya terakhir pemeriksa mengamankan buku, catatan, dokumen, dan benda lain"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyegelan merupakan upaya terakhir pemeriksa untuk memperoleh atau mengamankan buku, catatan, dokumen termasuk data elektronik, dan benda-benda lain yang dapat memberi petunjuk tentang kegiatan usaha atau pekerjaan bebas WP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Penyegelan merupakan upaya terakhir pemeriksa untuk memperoleh atau mengamankan buku, catatan, dokumen termasuk data yang dikelola secara elektronik"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-026",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Penyegelan oleh pemeriksa pajak ditujukan agar buku, catatan, dokumen, dan benda lain tidak mengalami hal-hal berikut, KECUALI?",
+    "opsi": {
+      "A": "Dipindahkan",
+      "B": "Digandakan",
+      "C": "Dimusnahkan",
+      "D": "Dipalsukan"
+    },
+    "kunci": "B",
+    "pembahasan": "Tujuan penyegelan adalah mencegah agar buku, catatan, dokumen, dan benda lain tidak dipindahkan, dihilangkan, dimusnahkan, diubah, dirusak, ditukar, atau dipalsukan; menggandakan dokumen bukan termasuk tindakan yang hendak dicegah dalam daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "agar tidak dipindahkan, dihilangkan, dimusnahkan, diubah, dirusak, ditukar, atau dipalsukan."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-027",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Penyegelan data elektronik tetap dapat dilakukan oleh pemeriksa sepanjang tidak menghentikan apa?",
+    "opsi": {
+      "A": "Kelancaran operasional perusahaan yang berkaitan dengan kepentingan masyarakat",
+      "B": "Proses audit internal yang dilakukan perusahaan secara berkala",
+      "C": "Pelaporan keuangan perusahaan kepada para pemegang saham",
+      "D": "Kegiatan produksi harian perusahaan tanpa pengawasan pihak lain"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan masyarakat.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan Masyarakat."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-028",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa mendatangi kantor Wajib Pajak namun pengurus perusahaan sengaja menghindar dan menolak memberi akses ke ruang server. Tindakan apa yang dapat dilakukan pemeriksa sesuai Pasal 30 ayat (1) UU KUP?",
+    "opsi": {
+      "A": "Membatalkan pemeriksaan karena tidak ada akses",
+      "B": "Menunda pemeriksaan hingga pengurus bersedia memberi akses",
+      "C": "Melakukan penyegelan terhadap ruang server tersebut",
+      "D": "Mengajukan permohonan paksa badan kepada pengadilan"
+    },
+    "kunci": "C",
+    "pembahasan": "Jika WP sengaja tidak memberikan kesempatan memasuki ruang yang dipandang perlu, pemeriksa dapat melakukan penyegelan sesuai Pasal 30 ayat (1) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "PENYEGELAN Pasal 30 ayat (1) UU KUP"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-029",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam suatu pemeriksaan di perusahaan penyedia layanan listrik, pemeriksa hendak menyegel data elektronik yang tersimpan di server produksi. Sikap yang harus diperhatikan pemeriksa sesuai ketentuan penyegelan data elektronik adalah?",
+    "opsi": {
+      "A": "Memastikan penyegelan tidak menghentikan operasional perusahaan terkait kepentingan masyarakat",
+      "B": "Menyegel seluruh server tanpa mempertimbangkan dampak operasional perusahaan",
+      "C": "Membatalkan seluruh rencana penyegelan karena berstatus perusahaan milik publik",
+      "D": "Menyegel data elektronik hanya pada hari libur nasional"
+    },
+    "kunci": "A",
+    "pembahasan": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan masyarakat, seperti layanan listrik.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran kegiatan operasional perusahaan, khususnya yang berkaitan dengan kepentingan Masyarakat."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-030",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Benda yang dapat disegel oleh pemeriksa adalah benda yang dapat memberi petunjuk tentang apa?",
+    "opsi": {
+      "A": "Kepatuhan pelaporan SPT Tahunan Wajib Pajak setiap tahun",
+      "B": "Status permodalan dan struktur kepemilikan perusahaan",
+      "C": "Struktur organisasi dan manajemen internal perusahaan",
+      "D": "Kegiatan usaha atau pekerjaan bebas Wajib Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Penyegelan mengamankan benda-benda lain yang dapat memberi petunjuk tentang kegiatan usaha atau pekerjaan bebas Wajib Pajak yang diperiksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 32,
+        "kutipan": "benda-benda lain yang dapat memberi petunjuk tentang kegiatan usaha atau pekerjaan bebas Wajib Pajak yang diperiksa"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 30"
+    ]
+  },
+  {
+    "id": "PMR-04-031",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "\"Data Baru\" dalam konteks pemeriksaan ulang didefinisikan sebagai apa?",
+    "opsi": {
+      "A": "Data yang diperoleh dari pertukaran informasi otomatis antarnegara mitra kerja sama perpajakan",
+      "B": "Data hasil konfirmasi lapangan yang dilakukan langsung oleh account representative",
+      "C": "Data terkait penghitungan pajak terutang yang belum diberitahukan WP saat penetapan semula",
+      "D": "Data hasil analisis risiko ketidakpatuhan Wajib Pajak yang dihasilkan sistem DJP"
+    },
+    "kunci": "C",
+    "pembahasan": "Data Baru adalah data atau keterangan mengenai segala sesuatu yang diperlukan untuk menghitung besarnya jumlah pajak yang terutang yang oleh Wajib Pajak belum diberitahukan pada waktu penetapan semula, baik dalam SPT maupun pembukuan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "Data atau keterangan mengenai segala sesuatu yang diperlukan untuk menghitung besarnya jumlah pajak yang terutang yang oleh Wajib Pajak belum diberitahukan pada waktu penetapan semula"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-032",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksaan ulang hanya dapat dilakukan berdasarkan apa dari Direktur Jenderal Pajak?",
+    "opsi": {
+      "A": "Permohonan tertulis dari Wajib Pajak",
+      "B": "Putusan Pengadilan Pajak",
+      "C": "Instruksi atau persetujuan Direktur Jenderal Pajak",
+      "D": "Rekomendasi tim quality assurance pemeriksaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksaan ulang dilakukan berdasarkan instruksi atau persetujuan Direktur Jenderal Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "PEMERIKSAAN ULANG instruksi atau persetujuan Direktur Jenderal Pajak"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-033",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "\"Data yang semula belum terungkap\" dalam pemeriksaan ulang mencakup kondisi tidak diungkapkannya data dalam SPT beserta lampirannya, dan juga mencakup kondisi apa?",
+    "opsi": {
+      "A": "Data yang ditemukan pemeriksa melalui pertukaran informasi dengan negara mitra kerja sama",
+      "B": "Pada waktu pemeriksaan, Wajib Pajak tidak mengungkapkan data/keterangan secara benar, lengkap, dan terinci",
+      "C": "Data yang diperoleh dari hasil konfirmasi pihak ketiga tanpa izin dari Wajib Pajak",
+      "D": "Data yang baru saja diterbitkan oleh otoritas pajak di negara lain"
+    },
+    "kunci": "B",
+    "pembahasan": "Data yang semula belum terungkap juga mencakup kondisi pada waktu pemeriksaan Wajib Pajak tidak mengungkapkan data dan/atau memberikan keterangan lain secara benar, lengkap, dan terinci.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "pada waktu pemeriksaan Wajib Pajak tidak mengungkapkan data dan/atau memberikan keterangan lain secara benar, lengkap, dan terinci."
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-034",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Produk pemeriksaan ulang berupa SKPKBT memiliki karakteristik apa terhadap jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya?",
+    "opsi": {
+      "A": "Adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya",
+      "B": "Tidak mengakibatkan tambahan jumlah pajak namun terdapat perubahan rugi fiskal",
+      "C": "Tidak mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan sebelumnya",
+      "D": "Pembatalan surat ketetapan pajak sebelumnya secara keseluruhan"
+    },
+    "kunci": "A",
+    "pembahasan": "SKPKBT merupakan produk pemeriksaan ulang yang mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "SKPKBT adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-035",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "LHP Sumir sebagai salah satu produk pemeriksaan ulang memiliki karakteristik apa terhadap jumlah pajak yang telah ditetapkan sebelumnya?",
+    "opsi": {
+      "A": "Mengakibatkan tambahan jumlah pajak yang telah ditetapkan sebelumnya",
+      "B": "Mengakibatkan perubahan jumlah rugi fiskal yang telah dilaporkan",
+      "C": "Tidak mengakibatkan tambahan atas jumlah pajak yang telah ditetapkan sebelumnya",
+      "D": "Menjadi dasar diterbitkannya Surat Tagihan Pajak yang baru"
+    },
+    "kunci": "C",
+    "pembahasan": "LHP Sumir sebagai produk pemeriksaan ulang tidak mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "LHP SUMIR tidak mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-036",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Keputusan Rugi Fiskal sebagai produk pemeriksaan ulang tetap diterbitkan meski tidak menambah jumlah pajak yang telah ditetapkan, apabila terjadi apa?",
+    "opsi": {
+      "A": "Mengakibatkan tambahan jumlah pajak terutang",
+      "B": "Menjadi dasar penagihan pajak secara paksa",
+      "C": "Terdapat perubahan jumlah rugi fiskal",
+      "D": "Menggantikan seluruh surat ketetapan pajak sebelumnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Keputusan Rugi Fiskal tidak mengakibatkan tambahan jumlah pajak, tetapi terdapat perubahan jumlah rugi fiskal dibanding ketetapan sebelumnya.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "tidak mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya tetapi terdapat perubahan jumlah rugi fiskal"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-037",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa jenis produk yang dapat dihasilkan dari suatu pemeriksaan ulang menurut materi ini?",
+    "opsi": {
+      "A": "2 jenis",
+      "B": "3 jenis",
+      "C": "4 jenis",
+      "D": "5 jenis"
+    },
+    "kunci": "B",
+    "pembahasan": "Produk pemeriksaan ulang yang disebutkan ada tiga jenis, yaitu SKPKBT, LHP Sumir, dan Keputusan Rugi Fiskal.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "KEP RUGI FISKAL tidak mengakibatkan adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya tetapi terdapat perubahan jumlah rugi fiskal"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-038",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam suatu pemeriksaan ulang ditemukan data baru yang menambah jumlah pajak terutang dibanding ketetapan sebelumnya. Produk hukum apa yang akan diterbitkan?",
+    "opsi": {
+      "A": "LHP Sumir",
+      "B": "Keputusan Rugi Fiskal",
+      "C": "Surat Ketetapan Pajak Nihil",
+      "D": "SKPKBT"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika pemeriksaan ulang mengakibatkan adanya tambahan jumlah pajak yang ditetapkan sebelumnya, produk yang diterbitkan adalah SKPKBT.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 33,
+        "kutipan": "SKPKBT adanya tambahan atas jumlah pajak yang telah ditetapkan dalam surat ketetapan pajak sebelumnya"
+      }
+    ],
+    "tags": [
+      "Pemeriksaan Ulang"
+    ]
+  },
+  {
+    "id": "PMR-04-039",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pengungkapan ketidakbenaran pengisian SPT selama proses pemeriksaan diatur dalam pasal berapa UU KUP?",
+    "opsi": {
+      "A": "Pasal 8 ayat (4) UU KUP",
+      "B": "Pasal 16 UU KUP",
+      "C": "Pasal 36 UU KUP",
+      "D": "Pasal 44B UU KUP"
+    },
+    "kunci": "A",
+    "pembahasan": "Ketentuan ini diatur dalam Pasal 8 ayat (4) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "Pasal 8 ayat (4) UU KUP"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-040",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Syarat utama agar Wajib Pajak dapat mengungkapkan ketidakbenaran pengisian SPT meski sedang diperiksa adalah?",
+    "opsi": {
+      "A": "Wajib Pajak belum menerima Surat Perintah Pemeriksaan",
+      "B": "Direktur Jenderal Pajak belum menyampaikan SPHP",
+      "C": "Pemeriksaan belum mencapai tahap Pembahasan Akhir Hasil Pemeriksaan",
+      "D": "Wajib Pajak belum menandatangani berita acara pemeriksaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Syaratnya adalah Direktur Jenderal Pajak belum menyampaikan Surat Pemberitahuan Hasil Pemeriksaan (SPHP) kepada Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "dengan syarat Direktur Jenderal Pajak belum menyampaikan SPHP"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-041",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Pengungkapan ketidakbenaran pengisian SPT oleh Wajib Pajak yang sedang diperiksa dilakukan melalui apa?",
+    "opsi": {
+      "A": "Surat keberatan",
+      "B": "Permohonan pengurangan sanksi administrasi",
+      "C": "Surat pemberitahuan perpanjangan SPT Tahunan",
+      "D": "Laporan tersendiri"
+    },
+    "kunci": "D",
+    "pembahasan": "Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan ketidakbenaran pengisian SPT dalam laporan tersendiri.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan dalam laporan tersendiri tentang ketidakbenaran pengisian SPT"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-042",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa jenis SPT yang disebutkan sebagai objek laporan tersendiri pengungkapan ketidakbenaran pengisian SPT?",
+    "opsi": {
+      "A": "1 jenis",
+      "B": "2 jenis",
+      "C": "4 jenis",
+      "D": "3 jenis"
+    },
+    "kunci": "D",
+    "pembahasan": "Laporan tersendiri dapat mencakup tiga jenis SPT: SPT Masa, SPT Tahunan, dan/atau SPT Bagian Tahun Pajak yang diperiksa.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "Laporan tersendiri: SPT Masa; SPT Tahunan; dan/atau SPT Bagian Tahun Pajak, yang diperiksa."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-043",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah Wajib Pajak mengungkapkan ketidakbenaran pengisian SPT melalui laporan tersendiri, bagaimana kelanjutan proses pemeriksaan yang sedang berjalan?",
+    "opsi": {
+      "A": "Dihentikan karena Wajib Pajak telah mengoreksi sendiri",
+      "B": "Ditangguhkan hingga ada putusan keberatan",
+      "C": "Tetap dilanjutkan sampai selesai",
+      "D": "Dialihkan menjadi pemeriksaan bukti permulaan"
+    },
+    "kunci": "C",
+    "pembahasan": "Proses pemeriksaan tetap dilanjutkan sampai selesai meskipun Wajib Pajak telah mengungkapkan ketidakbenaran pengisian SPT.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "Proses pemeriksaan tetap dilanjutkan sampai selesai."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-044",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Wajib Pajak yang sedang diperiksa menyadari ada kesalahan pencatatan omzet dalam SPT Tahunannya, sementara pemeriksa belum menyampaikan SPHP. Langkah yang dapat ditempuh Wajib Pajak sesuai Pasal 8 ayat (4) UU KUP adalah?",
+    "opsi": {
+      "A": "Mengajukan permohonan penundaan pemeriksaan",
+      "B": "Mengungkapkan ketidakbenaran tersebut dalam laporan tersendiri",
+      "C": "Menunggu SPHP terbit lalu mengajukan keberatan",
+      "D": "Melaporkan kesalahan tersebut kepada Komite Kode Etik DJP"
+    },
+    "kunci": "B",
+    "pembahasan": "Selama SPHP belum disampaikan, Wajib Pajak dapat dengan kesadaran sendiri mengungkapkan ketidakbenaran pengisian SPT dalam laporan tersendiri.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan dalam laporan tersendiri tentang ketidakbenaran pengisian SPT yang telah disampaikan sesuai dengan keadaan yang sebenarnya."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-045",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Berikut adalah jenis SPT yang dapat menjadi objek laporan tersendiri pengungkapan ketidakbenaran pengisian SPT, KECUALI?",
+    "opsi": {
+      "A": "SPT Masa",
+      "B": "SPT Pembetulan Kedua",
+      "C": "SPT Tahunan",
+      "D": "SPT Bagian Tahun Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Jenis SPT yang disebutkan sebagai objek laporan tersendiri adalah SPT Masa, SPT Tahunan, dan/atau SPT Bagian Tahun Pajak yang diperiksa; SPT Pembetulan Kedua tidak disebutkan dalam materi ini.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 34,
+        "kutipan": "Laporan tersendiri: SPT Masa; SPT Tahunan; dan/atau SPT Bagian Tahun Pajak, yang diperiksa."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 8"
+    ]
+  },
+  {
+    "id": "PMR-04-046",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan (Pasal 31 ayat 3 UU KUP) - Dokumen Terbatas yang Dipertimbangkan",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penghitungan Penghasilan Kena Pajak secara jabatan diatur dalam pasal berapa UU KUP?",
+    "opsi": {
+      "A": "Pasal 31 ayat (3) UU KUP",
+      "B": "Pasal 29 ayat (4) UU KUP",
+      "C": "Pasal 30 ayat (1) UU KUP",
+      "D": "Pasal 13 ayat (3) PP 50/2022"
+    },
+    "kunci": "A",
+    "pembahasan": "Penghitungan Penghasilan Kena Pajak secara jabatan diatur dalam Pasal 31 ayat (3) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 30,
+        "kutipan": "sesuai dengan Pasal 31 ayat (3) UU KUP, Direktur Jenderal Pajak wajib:"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 31"
+    ]
+  },
+  {
+    "id": "PMR-04-047",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan (Pasal 31 ayat 3 UU KUP) - Dokumen Terbatas yang Dipertimbangkan",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Penghasilan Kena Pajak dapat dihitung secara jabatan apabila Wajib Pajak badan atau orang pribadi yang menjalankan usaha/pekerjaan bebas yang diperiksa mengalami kondisi apa?",
+    "opsi": {
+      "A": "Wajib Pajak mengajukan keberatan sebelum SPHP resmi diterbitkan pemeriksa",
+      "B": "Wajib Pajak memiliki lebih dari satu jenis usaha yang berbeda jenis",
+      "C": "Wajib Pajak terlambat menyampaikan SPT Tahunan ke kantor pajak terdaftar",
+      "D": "Wajib Pajak tidak memenuhi kewajiban sehingga penghasilannya tidak dapat dihitung"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika WP badan/OP yang diperiksa tidak memenuhi kewajibannya sehingga tidak dapat dihitung besarnya penghasilan kena pajak, maka penghasilan kena pajak dapat dihitung secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 30,
+        "kutipan": "tidak memenuhi kewajibannya sehingga tidak dapat dihitung besarnya penghasilan kena pajak, penghasilan kena pajak dapat dihitung secara jabatan"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 31"
+    ]
+  },
+  {
+    "id": "PMR-04-048",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan (Pasal 31 ayat 3 UU KUP) - Dokumen Terbatas yang Dipertimbangkan",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Sesuai Pasal 31 ayat (3) UU KUP, selain menyampaikan SPHP, Direktur Jenderal Pajak wajib memberikan hak apa kepada Wajib Pajak sebelum menetapkan penghasilan kena pajak secara jabatan?",
+    "opsi": {
+      "A": "Memberikan hak Wajib Pajak untuk hadir dalam Pembahasan Akhir Hasil Pemeriksaan",
+      "B": "Memberikan hak mengajukan banding langsung ke Mahkamah Agung tanpa keberatan",
+      "C": "Memberikan hak menunda pembayaran pajak terutang hingga putusan terbit",
+      "D": "Memberikan hak mengganti tim pemeriksa pajak yang ditugaskan"
+    },
+    "kunci": "A",
+    "pembahasan": "Direktur Jenderal Pajak wajib menyampaikan SPHP kepada WP dan memberikan hak kepada Wajib Pajak untuk hadir dalam Pembahasan Akhir Hasil Pemeriksaan (PAHP).",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 30,
+        "kutipan": "memberikan hak kepada Wajib Pajak untuk hadir dalam PAHP"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 31"
+    ]
+  },
+  {
+    "id": "PMR-04-049",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan (Pasal 31 ayat 3 UU KUP) - Dokumen Terbatas yang Dipertimbangkan",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Ada berapa jenis dokumen yang dipertimbangkan dalam penghitungan Penghasilan Kena Pajak secara jabatan menurut materi ini?",
+    "opsi": {
+      "A": "2 jenis dokumen",
+      "B": "3 jenis dokumen",
+      "C": "4 jenis dokumen",
+      "D": "1 jenis dokumen"
+    },
+    "kunci": "A",
+    "pembahasan": "Dokumen yang dipertimbangkan terbatas pada dua jenis: dokumen terkait penghitungan peredaran usaha/penghasilan bruto, dan dokumen kredit pajak sebagai pengurang pajak penghasilan.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 30,
+        "kutipan": "Dokumen yang dipertimbangkan terbatas pada:"
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 31"
+    ]
+  },
+  {
+    "id": "PMR-04-050",
+    "kompetensi": "Pemeriksaan Pajak",
+    "topik": "Tata Cara Pemeriksaan & Alur Proses",
+    "subtopik": "Penghitungan Penghasilan Kena Pajak Secara Jabatan (Pasal 31 ayat 3 UU KUP) - Dokumen Terbatas yang Dipertimbangkan",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Seorang Wajib Pajak orang pribadi yang menjalankan praktik dokter tidak menyelenggarakan pencatatan dan tidak memberikan data/dokumen saat diperiksa sehingga pemeriksa tidak dapat menghitung besarnya penghasilan kena pajak secara wajar. Berdasarkan Pasal 31 ayat (3) UU KUP, tindakan yang dapat ditempuh pemeriksa adalah?",
+    "opsi": {
+      "A": "Menunda pemeriksaan hingga Wajib Pajak bersedia memberikan data",
+      "B": "Menghitung penghasilan kena pajak secara jabatan",
+      "C": "Menerbitkan Surat Ketetapan Pajak Nihil",
+      "D": "Mengalihkan pemeriksaan menjadi pemeriksaan bukti permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Karena WP tidak memenuhi kewajibannya sehingga tidak dapat dihitung besarnya penghasilan kena pajak, pemeriksa dapat menghitung penghasilan kena pajak secara jabatan sesuai Pasal 31 ayat (3) UU KUP.",
+    "sumber": [
+      {
+        "pdf": "C",
+        "halaman": 30,
+        "kutipan": "penghasilan kena pajak dapat dihitung secara jabatan sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+    ],
+    "tags": [
+      "UU KUP Pasal 31"
+    ]
+  }
+]

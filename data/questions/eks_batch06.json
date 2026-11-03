@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "EKS-06-001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan alur Imbauan Massal untuk WP Non Aktif Terdapat Data (NATD), pihak yang melakukan penyusunan Dafnom dan penerbitan Imbauan adalah?",
+    "opsi": {
+      "A": "KPDJP",
+      "B": "Kepala KPP",
+      "C": "Account Representative (AR)",
+      "D": "Kasi Pengawasan"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram alur Imbauan Massal NATD menempatkan 'Penyusunan Dafnom dan penerbitan Imbauan' sebagai tahap awal yang dilakukan Oleh KPDJP, sebelum disampaikan melalui akun WP/email atau KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Penyusunan Dafnom dan penerbitan Imbauan Oleh KPDJP*"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "NATD",
+      "Dafnom",
+      "KPDJP"
+    ]
+  },
+  {
+    "id": "EKS-06-002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Program Prioritas yang ditindaklanjuti melalui Imbauan Massal pada materi ini adalah tindak lanjut terhadap WP dengan status?",
+    "opsi": {
+      "A": "Wajib Pajak Non Efektif (NE)",
+      "B": "Wajib Pajak Non Aktif Terdapat Data (NATD)",
+      "C": "Wajib Pajak Normal",
+      "D": "Wajib Pajak Non Aktif"
+    },
+    "kunci": "B",
+    "pembahasan": "Teks menyebutkan Program Prioritas berupa tindak lanjut WP Non Aktif Terdapat Data (NATD) yang ditindaklanjuti melalui Imbauan Massal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "tindak lanjut WP Non Aktif Terdapat Data (NATD), yang ditindaklanjuti melalui Imbauan Massal, sehingga membutuhkan pengaturan yang jelas"
+      }
+    ],
+    "tags": [
+      "NATD",
+      "Imbauan Massal",
+      "Program Prioritas"
+    ]
+  },
+  {
+    "id": "EKS-06-003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Setelah KPDJP menyusun Dafnom dan menerbitkan Imbauan, diagram menunjukkan dua jalur penyampaian awal kepada WP NATD, yaitu?",
+    "opsi": {
+      "A": "Melalui Surat Teguran dan melalui SP2DK",
+      "B": "Melalui Dafnom dan melalui Case Closed",
+      "C": "Melalui akun WP/email WP dan melalui penyampaian kepada KPP",
+      "D": "Melalui pos/kunjungan dan melalui Tanggapan WP"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram menunjukkan dua cabang setelah penerbitan Imbauan: 'Penyampaian melalui Akun WP/Email WP' dan 'Penyampaian Kepada KPP' yang selanjutnya dilanjutkan melalui pos atau kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Penyampaian melalui Akun WP/Email WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Penyampaian Kepada KPP"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "Alur Penyampaian",
+      "NATD"
+    ]
+  },
+  {
+    "id": "EKS-06-004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam alur Imbauan Massal NATD, tahap yang terjadi setelah WP menerima penyampaian imbauan (baik melalui akun/email maupun pos/kunjungan) adalah?",
+    "opsi": {
+      "A": "Penerbitan SP2DK",
+      "B": "Penyusunan Dafnom",
+      "C": "Pemberian NPWP secara jabatan",
+      "D": "Tanggapan WP"
+    },
+    "kunci": "D",
+    "pembahasan": "Setelah penyampaian melalui kedua jalur, diagram menunjukkan kedua panah bertemu menuju kotak 'Tanggapan WP' sebelum bercabang ke hasil akhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Tanggapan WP"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "Tanggapan WP",
+      "NATD"
+    ]
+  },
+  {
+    "id": "EKS-06-005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jika seorang WP NATD menanggapi Imbauan Massal dengan memberikan data yang terklarifikasi dan telah memenuhi kewajibannya, maka status penanganan kasus tersebut menurut diagram adalah?",
+    "opsi": {
+      "A": "Case Closed",
+      "B": "Dilanjutkan ke Surat Teguran",
+      "C": "Diusulkan pemberian NPWP secara jabatan",
+      "D": "Dilanjutkan ke SP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Cabang hasil Tanggapan WP yang pertama berbunyi 'Data terklarifikasi atau WP memenuhi Kewajiban (Case Closed)', artinya penanganan dinyatakan selesai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Data terklarifikasi atau WP memenuhi Kewajiban (Case Closed)"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "Case Closed",
+      "NATD"
+    ]
+  },
+  {
+    "id": "EKS-06-006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Jika WP NATD tidak memberikan tanggapan atau datanya belum terklarifikasi atas Imbauan Massal yang diterima, tindak lanjut berikutnya menurut diagram adalah?",
+    "opsi": {
+      "A": "Case Closed secara otomatis",
+      "B": "Pengawasan melalui teguran dan/atau SP2DK",
+      "C": "Pemberian NPWP secara jabatan",
+      "D": "Pemeriksaan bukti permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Cabang kedua hasil Tanggapan WP adalah 'Pengawasan melalui teguran dan/atau SP2DK', yang berarti jika data belum terklarifikasi/kewajiban belum dipenuhi maka pengawasan berlanjut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Pengawasan melalui teguran dan/atau SP2DK"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "SP2DK",
+      "Surat Teguran",
+      "NATD"
+    ]
+  },
+  {
+    "id": "EKS-06-007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Terkait penggunaan e-seal pada Surat Imbauan Massal NATD, pernyataan yang sesuai dengan catatan pada materi ini adalah?",
+    "opsi": {
+      "A": "e-seal dibubuhkan oleh Kepala KPP meskipun surat diterbitkan oleh KPDJP",
+      "B": "e-seal dan nama penandatangan pada surat sama-sama atas nama KPDJP",
+      "C": "e-seal dibubuhkan oleh KPDJP, namun nama yang tercantum adalah Kepala KPP",
+      "D": "Surat Imbauan Massal tidak memerlukan e-seal maupun tanda tangan"
+    },
+    "kunci": "C",
+    "pembahasan": "Catatan kaki menyebutkan secara eksplisit bahwa e-seal dibubuhkan oleh KPDJP, namun pada Surat Imbauan yang tercantum adalah nama Kepala KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "*e-seal oleh KPDJP namun pada Surat Imbauan tercantum nama Kepala KPP"
+      }
+    ],
+    "tags": [
+      "e-seal",
+      "Imbauan Massal",
+      "KPDJP",
+      "Kepala KPP"
+    ]
+  },
+  {
+    "id": "EKS-06-008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Menurut materi, pelaksanaan Imbauan Massal bagi WP NATD harus disertai dengan?",
+    "opsi": {
+      "A": "Penyusunan Dafnom oleh KPDJP",
+      "B": "Penyampaian melalui Akun WP/Email WP",
+      "C": "Penerbitan Surat Teguran",
+      "D": "Strategi Komunikasi Internal dan Eksternal"
+    },
+    "kunci": "D",
+    "pembahasan": "Pada bagian bawah diagram tercantum keterangan bahwa seluruh alur Imbauan Massal disertai Strategi Komunikasi Internal dan Eksternal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Disertai Strategi Komunikasi Internal dan Eksternal"
+      }
+    ],
+    "tags": [
+      "Strategi Komunikasi",
+      "Imbauan Massal",
+      "NATD"
+    ]
+  },
+  {
+    "id": "EKS-06-009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut ini merupakan elemen yang terdapat dalam alur Imbauan Massal NATD pada materi ini, KECUALI?",
+    "opsi": {
+      "A": "Pemeriksaan bukti permulaan",
+      "B": "Penyusunan Dafnom oleh KPDJP",
+      "C": "Tanggapan WP",
+      "D": "Data terklarifikasi atau WP memenuhi Kewajiban (Case Closed)"
+    },
+    "kunci": "A",
+    "pembahasan": "Alur Imbauan Massal NATD hanya berujung pada Case Closed atau pengawasan melalui teguran dan/atau SP2DK; pemeriksaan bukti permulaan tidak disebutkan dalam alur ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Pengawasan melalui teguran dan/atau SP2DK"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "NATD",
+      "SP2DK"
+    ]
+  },
+  {
+    "id": "EKS-06-010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+    "subtopik": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Setelah tahap Tanggapan WP, alur Imbauan Massal NATD pada diagram bercabang menjadi berapa kemungkinan hasil akhir?",
+    "opsi": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "kunci": "B",
+    "pembahasan": "Dari kotak Tanggapan WP, diagram menunjukkan dua cabang: Case Closed (data terklarifikasi/kewajiban terpenuhi) dan pengawasan melalui teguran dan/atau SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Data terklarifikasi atau WP memenuhi Kewajiban (Case Closed)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 109,
+        "kutipan": "Pengawasan melalui teguran dan/atau SP2DK"
+      }
+    ],
+    "tags": [
+      "Imbauan Massal",
+      "NATD",
+      "Alur"
+    ]
+  },
+  {
+    "id": "EKS-06-011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Kriteria pelaporan SPT yang dapat secara otomatis mengubah status profil WP dari NE menjadi Normal diatur dalam?",
+    "opsi": {
+      "A": "PER-7/PJ/2025",
+      "B": "SE-11/PJ/2020",
+      "C": "SE-27/PJ/2020",
+      "D": "PMK 111/2025"
+    },
+    "kunci": "C",
+    "pembahasan": "Pada tabel Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem, kolom Aturan untuk baris Pelaporan SPT mencantumkan SE-27/PJ/2020.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "SE-27/PJ/2020"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "Pelaporan SPT"
+    ]
+  },
+  {
+    "id": "EKS-06-012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berapa kriteria yang harus dipenuhi WP agar pelaporan SPT secara otomatis mengubah status profil WP dari NE menjadi Normal menurut SE-27/PJ/2020?",
+    "opsi": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "5"
+    },
+    "kunci": "D",
+    "pembahasan": "Tabel mencantumkan lima kriteria bernomor 1 sampai 5, diakhiri dengan kriteria kelima 'tidak disampaikan dalam bentuk e-SPT'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "4. SPT Tahunan yang diterima menyatakan nihil atau kurang bayar; dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "5. tidak disampaikan dalam bentuk e-SPT"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "Kriteria SPT"
+    ]
+  },
+  {
+    "id": "EKS-06-013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Jenis formulir SPT Tahunan yang disyaratkan agar pelaporan SPT dapat otomatis mengubah status WP NE menjadi Normal menurut SE-27/PJ/2020 adalah?",
+    "opsi": {
+      "A": "1770 S atau 1770 SS",
+      "B": "1770 S",
+      "C": "1770 SS",
+      "D": "1770"
+    },
+    "kunci": "A",
+    "pembahasan": "Kriteria pertama mensyaratkan SPT disampaikan dengan menggunakan jenis formulir 1770 S atau 1770 SS, bukan salah satu saja.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "1. disampaikan dengan menggunakan jenis formulir 1770 S atau 1770 SS;"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "1770 S",
+      "1770 SS"
+    ]
+  },
+  {
+    "id": "EKS-06-014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk kriteria SPT yang dapat otomatis mengubah status WP NE menjadi Normal menurut SE-27/PJ/2020, KECUALI?",
+    "opsi": {
+      "A": "Bukan merupakan SPT Tahunan pembetulan",
+      "B": "SPT Tahunan menyatakan kurang bayar atau lebih bayar",
+      "C": "Tidak disampaikan dalam bentuk e-SPT",
+      "D": "Disampaikan tidak melebihi batas waktu penyampaian SPT"
+    },
+    "kunci": "B",
+    "pembahasan": "Kriteria keempat mensyaratkan SPT Tahunan menyatakan nihil atau kurang bayar, bukan 'kurang bayar atau lebih bayar'.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "4. SPT Tahunan yang diterima menyatakan nihil atau kurang bayar; dan"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "Kriteria SPT"
+    ]
+  },
+  {
+    "id": "EKS-06-015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "WP berstatus NE melaporkan SPT Tahunan 1770 SS tepat waktu, bukan pembetulan, menyatakan nihil, dan disampaikan melalui e-Filing di DJP Online. Apakah status NE WP tersebut otomatis berubah menjadi Normal?",
+    "opsi": {
+      "A": "Tidak, karena 1770 SS tidak termasuk formulir yang diatur",
+      "B": "Tidak, karena harus diajukan permohonan manual ke KPP",
+      "C": "Ya, karena seluruh kriteria SE-27/PJ/2020 terpenuhi",
+      "D": "Ya, namun harus menunggu hasil pemeriksaan terlebih dahulu"
+    },
+    "kunci": "C",
+    "pembahasan": "Penyampaian SPT melalui DJP Online/PJAP otomatis mengubah status WP NE menjadi Normal apabila seluruh lima kriteria pada SE-27/PJ/2020 terpenuhi, sebagaimana dalam kasus ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "(penyampaian SPT melalui DJP Online/PJAP otomatis mengubah status WP NE menjadi Normal)"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "DJP Online"
+    ]
+  },
+  {
+    "id": "EKS-06-016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "WP berstatus NE menyampaikan SPT Tahunan 1770 S dalam bentuk e-SPT (aplikasi offline) sebelum batas waktu, bukan pembetulan, dan menyatakan kurang bayar. Apakah status NE WP tersebut otomatis berubah menjadi Normal?",
+    "opsi": {
+      "A": "Ya, karena e-SPT setara dengan e-Filing DJP Online",
+      "B": "Ya, karena seluruh syarat lain telah terpenuhi",
+      "C": "Tidak, karena formulir 1770 S tidak termasuk yang diatur",
+      "D": "Tidak, karena disampaikan dalam bentuk e-SPT"
+    },
+    "kunci": "D",
+    "pembahasan": "Kriteria kelima mensyaratkan SPT tidak disampaikan dalam bentuk e-SPT, sehingga meskipun kriteria lain terpenuhi, status NE tidak otomatis berubah menjadi Normal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "5. tidak disampaikan dalam bentuk e-SPT"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "e-SPT"
+    ]
+  },
+  {
+    "id": "EKS-06-017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Selain Pelaporan SPT, berikut yang termasuk jenis data/informasi lain dalam tabel Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem adalah?",
+    "opsi": {
+      "A": "Pembayaran, kegiatan usaha WP, alamat WP, dan kewajiban perpajakan lainnya",
+      "B": "Pemeriksaan pajak, pemeriksaan bukti permulaan, dan penyidikan tindak pidana perpajakan",
+      "C": "Permohonan tertulis WP ke KPP disertai rekomendasi dari AR",
+      "D": "Persetujuan Kepala KPP atas laporan keuangan WP"
+    },
+    "kunci": "A",
+    "pembahasan": "Tabel mencantumkan lima jenis data/informasi yaitu Pelaporan SPT, Pembayaran, WP melakukan kegiatan usaha, Alamat WP diketahui, serta WP melakukan pelaksanaan hak dan pemenuhan kewajiban perpajakan lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "b. Pembayaran"
+      },
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "c. WP melakukan kegiatan usaha"
+      },
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "d. Alamat WP diketahui"
+      },
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "e. WP melakukan pelaksanaan hak dan pemenuhan kewajiban perpajakan lainnya"
+      }
+    ],
+    "tags": [
+      "NE",
+      "Normal",
+      "Jenis Data"
+    ]
+  },
+  {
+    "id": "EKS-06-018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Untuk jenis data/informasi selain Pelaporan SPT (Pembayaran, kegiatan usaha, alamat WP, dan pemenuhan hak/kewajiban lainnya), bagaimana keterangan proses bisnis existing-nya menurut tabel?",
+    "opsi": {
+      "A": "Sudah terotomasi penuh sama seperti Pelaporan SPT",
+      "B": "Data pendukung tersedia, namun belum ada probis yang mendukung percepatan (otomasi) pengaktifan kembali WP NE menjadi Normal",
+      "C": "Memerlukan persetujuan tertulis dari Kepala Kanwil",
+      "D": "Tidak pernah digunakan sebagai dasar pengaktifan kembali WP NE"
+    },
+    "kunci": "B",
+    "pembahasan": "Keterangan pada tabel menyebutkan bahwa untuk keempat jenis data tersebut, data pendukung sudah tersedia namun belum ada proses bisnis yang mendukung percepatan (otomasi) pengaktifan kembali WP NE menjadi Normal.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "Data pendukung terkait tersedia, namun belum ada probis yang mendukung percepatan (otomasi) pengaktifan kembali WP NE menjadi Normal"
+      }
+    ],
+    "tags": [
+      "NE",
+      "Normal",
+      "Proses Bisnis"
+    ]
+  },
+  {
+    "id": "EKS-06-019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Pernyataan berikut terkait Pelaporan SPT sebagai jenis data/informasi yang mendukung otomasi pengaktifan WP NE menjadi Normal adalah benar, KECUALI?",
+    "opsi": {
+      "A": "Pelaporan SPT otomatis mengubah data profil WP dari NE menjadi Normal",
+      "B": "Penyampaian SPT melalui DJP Online/PJAP otomatis mengubah status WP NE menjadi Normal",
+      "C": "SPT Tahunan pembetulan termasuk yang dapat memicu perubahan status otomatis",
+      "D": "Ketentuan ini diatur dalam SE-27/PJ/2020"
+    },
+    "kunci": "C",
+    "pembahasan": "Salah satu kriteria justru mensyaratkan SPT bukan merupakan SPT Tahunan pembetulan, sehingga SPT Tahunan pembetulan tidak dapat memicu perubahan status otomatis.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "3. bukan merupakan SPT Tahunan pembetulan;"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "SPT Pembetulan"
+    ]
+  },
+  {
+    "id": "EKS-06-020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+    "subtopik": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Urutan logika proses pengaktifan kembali WP NE menjadi Normal melalui jalur Pelaporan SPT menurut tabel ini adalah?",
+    "opsi": {
+      "A": "WP mengajukan permohonan ke KPP, Kepala KPP memverifikasi, status diubah secara manual",
+      "B": "AR melakukan KPDL, dilakukan validasi material, status diubah menjadi Normal",
+      "C": "Sistem menerbitkan SP2DK, WP merespons, status diubah menjadi Normal",
+      "D": "WP menyampaikan SPT yang memenuhi lima kriteria SE-27/PJ/2020, sistem otomatis mengubah status profil WP dari NE menjadi Normal"
+    },
+    "kunci": "D",
+    "pembahasan": "Tabel menyatakan bahwa Pelaporan SPT yang memenuhi kriteria tertentu secara otomatis mengubah data profil WP dari NE menjadi Normal, tanpa proses permohonan manual.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 110,
+        "kutipan": "Pelaporan SPT Otomatis mengubah data profil WP dari NE menjadi Normal"
+      }
+    ],
+    "tags": [
+      "SE-27/PJ/2020",
+      "NE",
+      "Normal",
+      "Proses Otomasi"
+    ]
+  },
+  {
+    "id": "EKS-06-021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Kegiatan Pengumpulan Data Lapangan (KPDL) sebagai sumber data Ekstensifikasi pada materi ini merujuk pada aturan?",
+    "opsi": {
+      "A": "SE-11/PJ/2020",
+      "B": "PMK 111/2025",
+      "C": "PER-7/PJ/2025",
+      "D": "SE-27/PJ/2020"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram Kegiatan Pengumpulan Data Lapangan (KPDL) secara eksplisit mencantumkan rujukan SE-11/PJ/2020.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "KEGIATAN PENGUMPULAN DATA LAPANGAN (KPDL)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "SE-11/PJ/2020"
+      }
+    ],
+    "tags": [
+      "SE-11/PJ/2020",
+      "KPDL"
+    ]
+  },
+  {
+    "id": "EKS-06-022",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Proses penyaluran data hasil KPDL atas WP yang belum ber-NPWP ke jalur Ekstensifikasi melalui SIDJP Nine Modul Ekstensifikasi pada materi ini merujuk pada aturan?",
+    "opsi": {
+      "A": "SE-11/PJ/2020",
+      "B": "PMK 111/2025",
+      "C": "PER-7/PJ/2025",
+      "D": "SE-27/PJ/2020"
+    },
+    "kunci": "B",
+    "pembahasan": "Pada bagian EKSTENSIFIKASI diagram alur KPD menuju SP2DK, tercantum rujukan PMK 111/2025 berdampingan dengan label SIDJP Nine Modul Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "PMK 111/2025"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "EKSTENSIFIKASI"
+      }
+    ],
+    "tags": [
+      "PMK 111/2025",
+      "Ekstensifikasi",
+      "DSE"
+    ]
+  },
+  {
+    "id": "EKS-06-023",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan alur Ekstensifikasi menuju SP2DK, ada berapa jenis respon Wajib Pajak yang mungkin terjadi atas Penyampaian SP2DK menurut materi ini?",
+    "opsi": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "kunci": "C",
+    "pembahasan": "Diagram mencantumkan empat jenis Respon Wajib Pajak: mendaftarkan diri, tidak memberikan tanggapan, menolak mendaftarkan diri/tidak dapat didaftarkan, serta tidak ditemui/WP Kempos.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "1. WP mendaftarkan diri 2. WP tidak memberikan tanggapan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "3. WP memberikan tanggapan berupa menolak mendaftarkan diri atau menyatakan tidak dapat didaftarkan karena kondisi tertentu"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "4. WP tidak ditemui/Wajib Pajak Kempos"
+      }
+    ],
+    "tags": [
+      "SP2DK",
+      "Respon Wajib Pajak",
+      "Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-06-024",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Menurut materi, ada berapa alasan yang menyebabkan Kegiatan P2DK tidak ditindaklanjuti dalam alur Ekstensifikasi menuju SP2DK?",
+    "opsi": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram mencantumkan enam alasan Kegiatan P2DK tidak ditindaklanjuti: WP tidak dapat ditemukan, telah meninggal dunia tanpa warisan yang belum terbagi, menjadi subjek pajak luar negeri, tidak memenuhi persyaratan subjektif/objektif, tidak memiliki indikasi kewajiban perpajakan, atau telah memenuhi kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "1. Tidak dapat ditemukan 2. telah meninggal dunia dan tidak meninggalkan warisan yang belum terbagi 3. menjadi subjek pajak luar negeri"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "4. tidak memenuhi persyaratan subjektif dan objektif sebagai Wajib Pajak 5. tidak memiliki indikasi kewajiban perpajakan; atau 6. telah memenuhi kewajiban perpajakan"
+      }
+    ],
+    "tags": [
+      "P2DK",
+      "Ekstensifikasi",
+      "Usulan"
+    ]
+  },
+  {
+    "id": "EKS-06-025",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam alur Ekstensifikasi, penugasan tindak lanjut atas data DSE disalurkan kepada berapa Kasi Pengawasan menurut diagram?",
+    "opsi": {
+      "A": "5",
+      "B": "6",
+      "C": "4",
+      "D": "3"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram mencantumkan penugasan kepada Kasi Pengawasan II, III, IV, V, dan VI, yaitu sebanyak lima seksi pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Kasi Pengawasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "II, III, IV, V, dan VI"
+      }
+    ],
+    "tags": [
+      "DSE",
+      "Kasi Pengawasan",
+      "Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-06-026",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Berdasarkan diagram alur Ekstensifikasi, Penyampaian SP2DK kepada WP dapat dilakukan melalui berapa cara?",
+    "opsi": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan dua cara Penyampaian SP2DK, yaitu melalui POS/KURIR atau secara LANGSUNG.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "POS/KURIR"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "LANGSUNG"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Penyampaian"
+      }
+    ],
+    "tags": [
+      "SP2DK",
+      "Penyampaian",
+      "Ekstensifikasi"
+    ]
+  },
+  {
+    "id": "EKS-06-027",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Validasi Formal yang dilakukan Kasi PKD dalam KPDL mencakup berapa unsur Kelengkapan dan Validitas Data menurut materi ini?",
+    "opsi": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "kunci": "C",
+    "pembahasan": "Validasi Formal mencakup lima unsur: NPWP melalui Sistem, NIK melalui appportal, kesesuaian nama & alamat dengan standardisasi basis data DJP, data belum terdapat dalam basis data DJP, dan Masa Pajak/Tahun Pajak belum melewati daluarsa.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "NPWP dilakukan Sistem"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "NIK melalui sarana yang telah tersedia (appportal)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Pengisian nama & alamat telah sesuai dengan standardisasi penulisan dalam basis data DJP."
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Data yang direkam belum terdapat dalam basis data DJP."
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Masa Pajak/Tahun Pajak data belum melewati daluarsa."
+      }
+    ],
+    "tags": [
+      "Validasi Formal",
+      "Kasi PKD",
+      "KPDL"
+    ]
+  },
+  {
+    "id": "EKS-06-028",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Urutan tahap pada jalur Ekstensifikasi setelah Direktorat DIP menyalurkan data WP yang belum ber-NPWP hingga diterbitkannya SP2DK adalah?",
+    "opsi": {
+      "A": "AR Tindak Lanjut, DSE, Kasi PKD Distribusi, Kasi Pengawasan Penugasan, Penerbitan SP2DK",
+      "B": "Kasi PKD Distribusi, Kasi Pengawasan Penugasan, DSE, AR Tindak Lanjut, Penerbitan SP2DK",
+      "C": "Penerbitan SP2DK, DSE, Kasi PKD Distribusi, Kasi Pengawasan Penugasan, AR Tindak Lanjut",
+      "D": "DSE, Kasi PKD Distribusi, Kasi Pengawasan Penugasan, AR Tindak Lanjut, Penerbitan SP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram menunjukkan urutan: data WP belum ber-NPWP masuk ke DSE, didistribusikan oleh Kasi PKD, ditugaskan ke Kasi Pengawasan II-VI, ditindaklanjuti AR, hingga diterbitkan SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "DSE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Kasi PKD Distribusi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Kasi Pengawasan II, III, IV, V, dan VI Penugasan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "AR Tindak Lanjut"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Penerbitan SP2DK"
+      }
+    ],
+    "tags": [
+      "DSE",
+      "Ekstensifikasi",
+      "SP2DK",
+      "AR"
+    ]
+  },
+  {
+    "id": "EKS-06-029",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Secara umum, urutan tiga tahap utama dalam Tahapan Proses Bisnis KPD menurut materi ini adalah?",
+    "opsi": {
+      "A": "Perencanaan KPD, Pelaksanaan KPD, Tindak Lanjut Pelaksanaan KPD",
+      "B": "Pelaksanaan KPD, Perencanaan KPD, Tindak Lanjut Pelaksanaan KPD",
+      "C": "Penjaminan Kualitas Data, Perencanaan KPD, Pelaksanaan KPD",
+      "D": "Tindak Lanjut Pelaksanaan KPD, Pelaksanaan KPD, Perencanaan KPD"
+    },
+    "kunci": "A",
+    "pembahasan": "Diagram Tahapan Proses Bisnis KPD menampilkan tiga bagian berurutan dari kiri ke kanan: Perencanaan KPD, Pelaksanaan KPD, dan Tindak Lanjut Pelaksanaan KPD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "PERENCANAAN KPD"
+      },
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "PELAKSANAAN KPD"
+      },
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "TINDAK LANJUT PELAKSANAAN KPD"
+      }
+    ],
+    "tags": [
+      "Tahapan KPD",
+      "Perencanaan KPD",
+      "Pelaksanaan KPD"
+    ]
+  },
+  {
+    "id": "EKS-06-030",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pada tahap Validasi Formal oleh Kasi PKD, ditemukan data hasil KPDL untuk Masa Pajak tertentu yang ternyata SUDAH terdapat dalam basis data DJP. Berdasarkan kriteria Validasi Formal, bagaimana status data tersebut?",
+    "opsi": {
+      "A": "Valid, karena NIK telah diverifikasi melalui appportal",
+      "B": "Tidak valid, karena syaratnya data yang direkam belum terdapat dalam basis data DJP",
+      "C": "Valid, karena NPWP telah diverifikasi oleh Sistem",
+      "D": "Valid, karena nama dan alamat telah sesuai standardisasi"
+    },
+    "kunci": "B",
+    "pembahasan": "Salah satu syarat Validasi Formal adalah data yang direkam belum terdapat dalam basis data DJP, sehingga data yang sudah ada sebelumnya di basis data DJP tidak memenuhi syarat ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Data yang direkam belum terdapat dalam basis data DJP."
+      }
+    ],
+    "tags": [
+      "Validasi Formal",
+      "Kasi PKD",
+      "KPDL"
+    ]
+  },
+  {
+    "id": "EKS-06-031",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Berikut termasuk unsur yang dinilai dalam Validasi Material oleh Atasan Langsung pada KPDL, KECUALI?",
+    "opsi": {
+      "A": "Kelengkapan",
+      "B": "Relevansi",
+      "C": "Efisiensi Anggaran",
+      "D": "Akurasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Validasi Material menilai tiga unsur yaitu Kelengkapan, Relevansi (klasifikasi ICALEP), dan Akurasi; efisiensi anggaran tidak termasuk unsur yang dinilai.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Relevansi, data telah terkait klasifikasi ICALEP (Income, Cost, Asset, Lialibility, Equity dan Profile); dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Akurasi, nilai data telah benar."
+      }
+    ],
+    "tags": [
+      "Validasi Material",
+      "Atasan Langsung",
+      "KPDL",
+      "ICALEP"
+    ]
+  },
+  {
+    "id": "EKS-06-032",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dalam tahapan Penjaminan Kualitas Data pada KPDL, Validasi Material dilakukan oleh?",
+    "opsi": {
+      "A": "Kasi PKD",
+      "B": "Kepala KPP",
+      "C": "AR",
+      "D": "Atasan Langsung"
+    },
+    "kunci": "D",
+    "pembahasan": "Diagram dan penjelasan rinci menyebutkan Validasi Material dilakukan oleh Atasan Langsung, sebelum dilanjutkan Validasi Formal oleh Kasi PKD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Validasi Material (Atasan Langsung):"
+      }
+    ],
+    "tags": [
+      "Validasi Material",
+      "Atasan Langsung",
+      "KPDL"
+    ]
+  },
+  {
+    "id": "EKS-06-033",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Validasi Formal dalam Tindak Lanjut Pelaksanaan KPD dilakukan oleh Kasi PKD, yang merupakan singkatan dari?",
+    "opsi": {
+      "A": "Kepala Seksi Penjaminan Kualitas Data",
+      "B": "Kepala Seksi Pengawasan",
+      "C": "Kepala Seksi Pengolahan Data",
+      "D": "Kepala Sub Bagian Distribusi"
+    },
+    "kunci": "A",
+    "pembahasan": "Pada bagian Validasi Formal di diagram Tahapan Proses Bisnis KPD, tercantum keterangan bahwa validasi tersebut dilakukan Oleh Kepala Seksi Penjaminan Kualitas Data, konsisten dengan label Kasi PKD pada diagram KPDL.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 142,
+        "kutipan": "Oleh Kepala Seksi Penjaminan Kualitas Data"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Validasi Formal (Kasi PKD):"
+      }
+    ],
+    "tags": [
+      "Kasi PKD",
+      "Validasi Formal",
+      "KPDL"
+    ]
+  },
+  {
+    "id": "EKS-06-034",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Data hasil KPDL yang setelah diolah Direktorat DIP menunjukkan WP belum memiliki NPWP akan disalurkan melalui jalur?",
+    "opsi": {
+      "A": "Intensifikasi",
+      "B": "Ekstensifikasi",
+      "C": "Pemeriksaan Bukti Permulaan",
+      "D": "Tidak ada tindak lanjut"
+    },
+    "kunci": "B",
+    "pembahasan": "Diagram menunjukkan 'Data atas WP belum ber-NPWP' mengalir ke bagian EKSTENSIFIKASI melalui DSE, sedangkan 'Data atas WP ber-NPWP' mengalir ke bagian INTENSIFIKASI.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Data atas WP belum ber-NPWP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "EKSTENSIFIKASI"
+      }
+    ],
+    "tags": [
+      "Ekstensifikasi",
+      "DSE",
+      "KPDL"
+    ]
+  },
+  {
+    "id": "EKS-06-035",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+    "subtopik": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Setelah Direktorat DIP melakukan pengolahan data hasil KPDL (termasuk Enriching dan Cleansing), tahap berikutnya sebelum data disalurkan ke jalur Ekstensifikasi/Intensifikasi menurut diagram adalah?",
+    "opsi": {
+      "A": "Validasi Formal oleh Kasi PKD",
+      "B": "Rekam pada Aplikasi Coretax",
+      "C": "Penurunan Data",
+      "D": "Tagging Lokasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Setelah tahap Enriching, Cleansing, dll pada Direktorat DIP, diagram menunjukkan tahap Penurunan Data sebelum data disalurkan ke jalur Ekstensifikasi atau Intensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Enriching, Cleansing, dll"
+      },
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Penurunan Data"
+      }
+    ],
+    "tags": [
+      "Direktorat DIP",
+      "Penurunan Data",
+      "KPDL"
+    ]
+  }
+]

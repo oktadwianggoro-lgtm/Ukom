@@ -1,0 +1,781 @@
+[
+  {
+    "id": "POT-06-001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam metode penghitungan biaya hidup untuk menggali potensi pajak Wajib Pajak Orang Pribadi, yang dimaksud dengan biaya hidup adalah...",
+    "opsi": {
+      "A": "Seluruh pengeluaran wajib pajak, kecuali pengeluaran untuk menambah kekayaan",
+      "B": "Seluruh pengeluaran wajib pajak termasuk pengeluaran untuk menambah kekayaan",
+      "C": "Selisih antara harta dan kewajiban yang dimiliki wajib pajak",
+      "D": "Seluruh penghasilan bruto yang diterima wajib pajak dalam setahun"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan biaya hidup adalah seluruh pengeluaran wajib pajak, tetapi pengeluaran yang digunakan untuk menambah kekayaan tidak termasuk di dalamnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Biaya hidup adalah seluruh pengeluaran wajib pajak, tetapi tidak termasuk pengeluaran yang digunakan untuk menambah kekayaan."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "metode biaya hidup",
+      "biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penghitungan peredaran bruto dengan metode penghitungan biaya hidup dilakukan berdasarkan...",
+    "opsi": {
+      "A": "Laporan keuangan teraudit wajib pajak pada tahun berjalan",
+      "B": "Data dan/atau informasi biaya hidup Wajib Pajak beserta tanggungannya",
+      "C": "Data transaksi perbankan dari seluruh pihak ketiga terkait",
+      "D": "Surat Pemberitahuan Tahunan wajib pajak tahun sebelumnya"
+    },
+    "kunci": "B",
+    "pembahasan": "Penghitungan peredaran bruto dengan metode ini dilakukan berdasarkan data dan/atau informasi mengenai biaya hidup wajib pajak beserta tanggungannya, termasuk pengeluaran penambah kekayaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Penghitungan peredaran bruto menggunakan metode penghitungan biaya hidup dilakukan berdasarkan data dan/atau informasi mengenai biaya hidup Wajib Pajak beserta tanggungannya"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "metode biaya hidup",
+      "peredaran bruto"
+    ]
+  },
+  {
+    "id": "POT-06-003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Apabila seorang Wajib Pajak Orang Pribadi diketahui tidak memiliki utang, maka berdasarkan metode penghitungan biaya hidup, penghasilannya paling sedikit sama dengan...",
+    "opsi": {
+      "A": "Setengah dari biaya hidup setahun",
+      "B": "Dua kali biaya hidup setahun",
+      "C": "Biaya hidup wajib pajak tersebut",
+      "D": "Kekayaan bersih akhir tahun wajib pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Jika wajib pajak tidak memiliki utang, penghasilan wajib pajak minimal sama dengan biaya hidupnya, karena tanpa utang seluruh penghasilan yang tidak menjadi harta berarti digunakan untuk biaya hidup.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Apabila wajib pajak tidak memiliki utang maka penghasilan wajib pajak minimal sama dengan biaya hidup."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "break even point",
+      "biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Penghasilan bruto yang nilainya sama dengan biaya hidup Wajib Pajak (pada kondisi wajib pajak tidak memiliki utang) disebut sebagai...",
+    "opsi": {
+      "A": "Marjin laba kotor wajib pajak",
+      "B": "Pertambahan kekayaan bersih wajib pajak",
+      "C": "Skala ekonomis wajib pajak",
+      "D": "Titik impas (break even point) wajib pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Penghasilan bruto yang sama dengan biaya hidup tersebut merupakan titik impas (break even point) bagi wajib pajak untuk mencukupi kebutuhan hidupnya tanpa penambahan harta kekayaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Penghasilan bruto tersebut merupakan titik impas (break even point) bagi wajib pajak untuk mencukupi kebutuhan hidupnya tanpa adanya penambahan harta kekayaannya."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "break even point"
+    ]
+  },
+  {
+    "id": "POT-06-005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk kelompok pengeluaran biaya hidup Wajib Pajak menurut metode penghitungan biaya hidup, KECUALI...",
+    "opsi": {
+      "A": "Setoran modal pendirian usaha baru",
+      "B": "Konsumsi rumah tangga",
+      "C": "Gaya hidup (lifestyle)",
+      "D": "Pemeliharaan harta"
+    },
+    "kunci": "A",
+    "pembahasan": "Pengeluaran biaya hidup dikelompokkan menjadi 12 kelompok (a-l) seperti konsumsi rumah tangga, gaya hidup, dan pemeliharaan harta. Setoran modal pendirian usaha baru tidak termasuk karena merupakan pengeluaran untuk menambah kekayaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "a. konsumsi rumah tangga; b. transportasi; c. pendidikan; d. kesehatan; e. rekreasi; f. gaya hidup (lifestyle); g. sumbangan; h. olahraga;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "i. pemeliharaan harta; j. pengeluaran berkaitan dengan perolehan penghasilan; k. pajak dan retribusi; l. pengeluaran lainnya."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "kelompok biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan metode penghitungan biaya hidup, pengeluaran biaya hidup Wajib Pajak dikelompokkan menjadi berapa kelompok pengeluaran?",
+    "opsi": {
+      "A": "10 kelompok",
+      "B": "12 kelompok",
+      "C": "14 kelompok",
+      "D": "16 kelompok"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengeluaran biaya hidup dikelompokkan menjadi 12 kelompok, yaitu huruf a sampai dengan l, mulai dari konsumsi rumah tangga hingga pengeluaran lainnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "a. konsumsi rumah tangga; b. transportasi; c. pendidikan; d. kesehatan; e. rekreasi; f. gaya hidup (lifestyle); g. sumbangan; h. olahraga;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "i. pemeliharaan harta; j. pengeluaran berkaitan dengan perolehan penghasilan; k. pajak dan retribusi; l. pengeluaran lainnya."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "kelompok biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam pengelompokan pengeluaran biaya hidup, kelompok yang dimaksud dengan 'gaya hidup (lifestyle)' berada pada urutan huruf...",
+    "opsi": {
+      "A": "d",
+      "B": "e",
+      "C": "f",
+      "D": "g"
+    },
+    "kunci": "C",
+    "pembahasan": "Daftar kelompok pengeluaran biaya hidup berurutan a. konsumsi rumah tangga, b. transportasi, c. pendidikan, d. kesehatan, e. rekreasi, f. gaya hidup (lifestyle), sehingga gaya hidup berada pada huruf f.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "a. konsumsi rumah tangga; b. transportasi; c. pendidikan; d. kesehatan; e. rekreasi; f. gaya hidup (lifestyle); g. sumbangan; h. olahraga;"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "kelompok biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "proses",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam rangka menerapkan metode penghitungan biaya hidup, fiskus melakukan wawancara untuk memperoleh informasi awal berupa...",
+    "opsi": {
+      "A": "Nomor pokok wajib pajak milik seluruh anggota keluarga",
+      "B": "Riwayat perpindahan domisili wajib pajak dalam lima tahun",
+      "C": "Daftar aset tetap perusahaan afiliasi milik wajib pajak",
+      "D": "Jumlah tanggungan wajib pajak dan anak yang bersekolah"
+    },
+    "kunci": "D",
+    "pembahasan": "Fiskus melakukan wawancara untuk mendapatkan informasi berapa jumlah tanggungan wajib pajak, berapa anak yang sekolah, dan tempat sekolahnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "Fiskus melakukan wawancara untuk mendapatkan informasi berapa jumlah tanggungan Wajib Pajak, berapa anak yang sekolah, tempat sekolah, kemudian melihat tagihan listrik, tagihan kartu kredit,"
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "wawancara fiskus"
+    ]
+  },
+  {
+    "id": "POT-06-009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selain data tanggungan dan pendidikan anak, dalam wawancara metode penghitungan biaya hidup fiskus juga memeriksa...",
+    "opsi": {
+      "A": "Tagihan listrik, kartu kredit, dan telepon milik wajib pajak",
+      "B": "Neraca saldo perusahaan milik wajib pajak tersebut",
+      "C": "Rekam jejak perkara pidana yang dialami wajib pajak",
+      "D": "Daftar pemegang saham perusahaan milik wajib pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah data tanggungan dan anak sekolah, fiskus melihat tagihan listrik, tagihan kartu kredit, dan tagihan telepon wajib pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "Fiskus melakukan wawancara untuk mendapatkan informasi berapa jumlah tanggungan Wajib Pajak, berapa anak yang sekolah, tempat sekolah, kemudian melihat tagihan listrik, tagihan kartu kredit,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "tagihan telepon dan tagihan lainnya, berapa jumlah kendaraan yang dimiliki dan berapa biaya perawatan atas kendaraan-kendaraan itu per bulan, serta variabel."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "wawancara fiskus"
+    ]
+  },
+  {
+    "id": "POT-06-010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Informasi mengenai jumlah kendaraan yang dimiliki Wajib Pajak beserta estimasi biaya perawatannya per bulan diperoleh fiskus melalui...",
+    "opsi": {
+      "A": "Permintaan keterangan tertulis kepada notaris",
+      "B": "Wawancara dalam rangka penerapan metode penghitungan biaya hidup",
+      "C": "Konfirmasi data dari lembaga keuangan luar negeri",
+      "D": "Pemeriksaan bukti potong pajak penghasilan karyawan"
+    },
+    "kunci": "B",
+    "pembahasan": "Dalam wawancara metode penghitungan biaya hidup, fiskus juga menggali berapa jumlah kendaraan yang dimiliki dan berapa biaya perawatan kendaraan tersebut per bulan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "tagihan telepon dan tagihan lainnya, berapa jumlah kendaraan yang dimiliki dan berapa biaya perawatan atas kendaraan-kendaraan itu per bulan, serta variabel."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "wawancara fiskus"
+    ]
+  },
+  {
+    "id": "POT-06-011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tujuan fiskus mengumpulkan seluruh data biaya hidup Wajib Pajak beserta tanggungan dan asetnya adalah untuk...",
+    "opsi": {
+      "A": "Menetapkan tarif pajak progresif yang berlaku",
+      "B": "Menentukan jangka waktu pemeriksaan pajak",
+      "C": "Menghitung skala perekonomian/ekonomis wajib pajak",
+      "D": "Menetapkan jumlah denda administrasi perpajakan"
+    },
+    "kunci": "C",
+    "pembahasan": "Dari data yang diperoleh, pemeriksa akan dapat menghitung skala perekonomian/ekonomis wajib pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "Dari data yang diperoleh pemeriksa akan dapat menghitung skala perekonomian/ekonomis Wajib Pajak."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "skala ekonomis"
+    ]
+  },
+  {
+    "id": "POT-06-012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam contoh penerapan metode penghitungan biaya hidup, apabila total biaya hidup Wajib Pajak beserta tanggungan dan asetnya selama sebulan sebesar Rp30 juta, maka penghasilan yang dibutuhkan wajib pajak dalam sebulan adalah...",
+    "opsi": {
+      "A": "Tepat Rp30 juta",
+      "B": "Kurang dari Rp30 juta",
+      "C": "Setengah dari Rp30 juta",
+      "D": "Lebih dari Rp30 juta"
+    },
+    "kunci": "D",
+    "pembahasan": "Contoh pada materi menyebutkan jika total biaya hidup wajib pajak beserta tanggungan dan asetnya selama sebulan Rp30 juta, maka dibutuhkan penghasilan sebulan lebih dari Rp30 juta.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 72,
+        "kutipan": "Artinya, jika total biaya untuk hidup Wajib Pajak beserta tanggungannya dan aset yang dimilikinya selama sebulan sebesar Rp30 Juta, maka dibutuhkan penghasilan sebulan lebih dari Rp30 Juta."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "skala ekonomis"
+    ]
+  },
+  {
+    "id": "POT-06-013",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pemeriksa pajak mendapati Wajib Pajak Orang Pribadi tidak memiliki utang sama sekali, namun total biaya hidup bulanannya mencapai Rp45 juta. Berdasarkan konsep titik impas (break even point) dalam metode penghitungan biaya hidup, kesimpulan yang tepat adalah...",
+    "opsi": {
+      "A": "Penghasilan bulanan wajib pajak paling sedikit sama dengan Rp45 juta",
+      "B": "Penghasilan bulanan wajib pajak pasti kurang dari Rp45 juta",
+      "C": "Wajib pajak tersebut mengalami kerugian usaha",
+      "D": "Kekayaan bersih wajib pajak pasti bertambah setiap bulan"
+    },
+    "kunci": "A",
+    "pembahasan": "Karena wajib pajak tidak memiliki utang, penghasilannya minimal sama dengan biaya hidup (titik impas/break even point), sehingga penghasilan bulanan paling sedikit Rp45 juta.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Apabila wajib pajak tidak memiliki utang maka penghasilan wajib pajak minimal sama dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Penghasilan bruto tersebut merupakan titik impas (break even point) bagi wajib pajak untuk mencukupi kebutuhan hidupnya tanpa adanya penambahan harta kekayaannya."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "break even point",
+      "biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-014",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa mencatat bahwa seorang Wajib Pajak mengeluarkan dana tambahan untuk membeli sebidang tanah sebagai investasi selama tahun pajak berjalan. Berdasarkan definisi biaya hidup dalam metode penghitungan biaya hidup, pengeluaran tersebut...",
+    "opsi": {
+      "A": "Termasuk kelompok pemeliharaan harta dalam biaya hidup",
+      "B": "Tidak termasuk biaya hidup karena digunakan untuk menambah kekayaan",
+      "C": "Termasuk kelompok pengeluaran lainnya dalam biaya hidup",
+      "D": "Termasuk kelompok gaya hidup (lifestyle) dalam biaya hidup"
+    },
+    "kunci": "B",
+    "pembahasan": "Biaya hidup tidak termasuk pengeluaran yang digunakan untuk menambah kekayaan. Pembelian tanah sebagai investasi menambah kekayaan, sehingga tidak dikategorikan sebagai biaya hidup.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Biaya hidup adalah seluruh pengeluaran wajib pajak, tetapi tidak termasuk pengeluaran yang digunakan untuk menambah kekayaan."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-015",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pengeluaran Wajib Pajak yang TIDAK dapat dikategorikan sebagai biaya hidup dalam metode penghitungan biaya hidup adalah pengeluaran yang...",
+    "opsi": {
+      "A": "Digunakan untuk konsumsi rumah tangga sehari-hari",
+      "B": "Digunakan untuk membayar biaya pendidikan anak",
+      "C": "Digunakan untuk menambah kekayaan wajib pajak",
+      "D": "Digunakan untuk membayar pajak dan retribusi"
+    },
+    "kunci": "C",
+    "pembahasan": "Biaya hidup adalah seluruh pengeluaran wajib pajak, tetapi tidak termasuk pengeluaran yang digunakan untuk menambah kekayaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 71,
+        "kutipan": "Biaya hidup adalah seluruh pengeluaran wajib pajak, tetapi tidak termasuk pengeluaran yang digunakan untuk menambah kekayaan."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "biaya hidup"
+    ]
+  },
+  {
+    "id": "POT-06-016",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam metode penambahan kekayaan bersih, yang dimaksud dengan kekayaan bersih adalah...",
+    "opsi": {
+      "A": "Jumlah seluruh harta wajib pajak tanpa memperhitungkan utang",
+      "B": "Jumlah seluruh biaya hidup wajib pajak dalam setahun",
+      "C": "Selisih antara penghasilan bruto dan penghasilan neto wajib pajak",
+      "D": "Selisih antara harta dan kewajiban/utang yang dimiliki wajib pajak orang pribadi"
+    },
+    "kunci": "D",
+    "pembahasan": "Kekayaan bersih merupakan selisih antara harta dan kewajiban/utang yang dimiliki oleh wajib pajak orang pribadi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Kekayaan Bersih merupakan selisih antara harta dan kewajiban/utang yang dimiliki oleh wajib pajak orang pribadi."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-017",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan metode penambahan kekayaan bersih, penghasilan Wajib Pajak Orang Pribadi dihitung dengan cara...",
+    "opsi": {
+      "A": "Menjumlahkan pertambahan kekayaan bersih dengan biaya hidup",
+      "B": "Mengurangkan biaya hidup dari kekayaan bersih akhir tahun",
+      "C": "Membagi kekayaan bersih akhir tahun dengan biaya hidup setahun",
+      "D": "Mengalikan pertambahan kekayaan bersih dengan biaya hidup"
+    },
+    "kunci": "A",
+    "pembahasan": "Penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-018",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak Orang Pribadi memiliki kekayaan bersih awal tahun sebesar Rp500 juta dan kekayaan bersih akhir tahun sebesar Rp750 juta. Apabila biaya hidup wajib pajak tersebut selama setahun sebesar Rp300 juta, maka berdasarkan metode penambahan kekayaan bersih, penghasilan wajib pajak tersebut adalah...",
+    "opsi": {
+      "A": "Rp250 juta",
+      "B": "Rp550 juta",
+      "C": "Rp800 juta",
+      "D": "Rp1.250 juta"
+    },
+    "kunci": "B",
+    "pembahasan": "Pertambahan kekayaan bersih = Rp750 juta - Rp500 juta = Rp250 juta. Penghasilan = pertambahan kekayaan bersih + biaya hidup = Rp250 juta + Rp300 juta = Rp550 juta.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-019",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa menemukan penghasilan Wajib Pajak Orang Pribadi setahun sebesar Rp900 juta. Kekayaan bersih wajib pajak diketahui bertambah dari Rp1,2 miliar menjadi Rp1,5 miliar dalam tahun yang sama. Berdasarkan metode penambahan kekayaan bersih, besarnya biaya hidup wajib pajak tersebut selama setahun adalah...",
+    "opsi": {
+      "A": "Rp300 juta",
+      "B": "Rp450 juta",
+      "C": "Rp600 juta",
+      "D": "Rp1,2 miliar"
+    },
+    "kunci": "C",
+    "pembahasan": "Pertambahan kekayaan bersih = Rp1,5 miliar - Rp1,2 miliar = Rp300 juta. Karena penghasilan = pertambahan kekayaan bersih + biaya hidup, maka biaya hidup = Rp900 juta - Rp300 juta = Rp600 juta.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-020",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pertambahan kekayaan bersih Wajib Pajak Orang Pribadi dalam metode penambahan kekayaan bersih dihitung dengan cara...",
+    "opsi": {
+      "A": "Menjumlahkan seluruh harta pada akhir tahun pajak",
+      "B": "Membandingkan kekayaan bersih wajib pajak dengan wajib pajak lain yang sejenis",
+      "C": "Menjumlahkan kekayaan bersih dengan biaya hidup setahun",
+      "D": "Menghitung selisih kekayaan bersih wajib pajak pada awal dan akhir tahun"
+    },
+    "kunci": "D",
+    "pembahasan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih wajib pajak awal dan akhir tahun.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-021",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut metode penambahan kekayaan bersih, penghasilan yang diperoleh Wajib Pajak pada umumnya digunakan untuk...",
+    "opsi": {
+      "A": "Konsumsi (biaya hidup) dan/atau menambah kekayaan",
+      "B": "Membayar seluruh kewajiban pajak terutang semata",
+      "C": "Investasi pada instrumen pasar modal saja",
+      "D": "Membayar utang kepada pihak ketiga semata"
+    },
+    "kunci": "A",
+    "pembahasan": "Umumnya, penghasilan yang diperoleh wajib pajak dapat digunakan untuk konsumsi (biaya hidup) dan/atau untuk menambah kekayaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Umumnya, penghasilan yang diperoleh wajib pajak dapat digunakan untuk konsumsi (biaya hidup) dan/atau untuk menambah kekayaan."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-022",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pemeriksa menemukan kekayaan bersih seorang Wajib Pajak Orang Pribadi meningkat signifikan dalam satu tahun pajak, sementara biaya hidup yang dilaporkan relatif kecil. Berdasarkan metode penambahan kekayaan bersih, total penghasilan wajib pajak tersebut tetap harus dihitung dengan...",
+    "opsi": {
+      "A": "Mengabaikan pertambahan kekayaan bersih karena biaya hidup yang dilaporkan kecil",
+      "B": "Menjumlahkan pertambahan kekayaan bersih yang signifikan tersebut dengan biaya hidup yang dilaporkan",
+      "C": "Menghitung rata-rata kekayaan bersih awal dan akhir tahun sebagai penghasilan",
+      "D": "Menggunakan nilai kekayaan bersih akhir tahun sebagai penghasilan tanpa penyesuaian"
+    },
+    "kunci": "B",
+    "pembahasan": "Sesuai metode penambahan kekayaan bersih, penghasilan tetap dihitung dengan menjumlahkan pertambahan kekayaan bersih (selisih awal dan akhir tahun) dengan biaya hidup, berapa pun besarnya masing-masing komponen.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-023",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang pemeriksa memiliki data kekayaan Wajib Pajak Orang Pribadi pada awal dan akhir tahun pajak, serta data biaya hidup wajib pajak selama setahun. Berdasarkan metode penambahan kekayaan bersih, langkah pemeriksa untuk memperoleh angka penghasilan wajib pajak adalah...",
+    "opsi": {
+      "A": "Menjumlahkan kekayaan bersih awal dan akhir tahun, lalu dikurangi biaya hidup",
+      "B": "Mengalikan kekayaan bersih akhir tahun dengan persentase biaya hidup setahun",
+      "C": "Menjumlahkan selisih kekayaan bersih awal dan akhir tahun dengan biaya hidup",
+      "D": "Membagi biaya hidup setahun dengan pertambahan kekayaan bersih wajib pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Pemeriksa menghitung pertambahan kekayaan bersih (selisih kekayaan bersih awal dan akhir tahun), kemudian menjumlahkannya dengan biaya hidup untuk memperoleh penghasilan wajib pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-024",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang Wajib Pajak Orang Pribadi memiliki penghasilan setahun sebesar Rp700 juta dan biaya hidup setahun sebesar Rp400 juta. Apabila kekayaan bersih wajib pajak pada awal tahun sebesar Rp2 miliar, maka berdasarkan metode penambahan kekayaan bersih, kekayaan bersih wajib pajak pada akhir tahun adalah...",
+    "opsi": {
+      "A": "Rp2,1 miliar",
+      "B": "Rp2,2 miliar",
+      "C": "Rp2,4 miliar",
+      "D": "Rp2,3 miliar"
+    },
+    "kunci": "D",
+    "pembahasan": "Pertambahan kekayaan bersih = penghasilan - biaya hidup = Rp700 juta - Rp400 juta = Rp300 juta. Kekayaan bersih akhir tahun = kekayaan bersih awal + pertambahan = Rp2 miliar + Rp300 juta = Rp2,3 miliar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  },
+  {
+    "id": "POT-06-025",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+    "subtopik": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Kekayaan bersih seorang Wajib Pajak Orang Pribadi pada awal tahun sebesar Rp800 juta dan pada akhir tahun turun menjadi Rp650 juta. Apabila biaya hidup wajib pajak tersebut selama setahun sebesar Rp250 juta, maka berdasarkan metode penambahan kekayaan bersih, penghasilan wajib pajak tersebut adalah...",
+    "opsi": {
+      "A": "Rp100 juta",
+      "B": "Rp150 juta",
+      "C": "Rp250 juta",
+      "D": "Rp400 juta"
+    },
+    "kunci": "A",
+    "pembahasan": "Pertambahan kekayaan bersih = Rp650 juta - Rp800 juta = -Rp150 juta. Penghasilan = pertambahan kekayaan bersih + biaya hidup = -Rp150 juta + Rp250 juta = Rp100 juta.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Dengan demikian, penghasilan wajib pajak orang pribadi dapat dihitung dengan cara menjumlahkan pertambahan kekayaan bersih dengan biaya hidup."
+      },
+      {
+        "pdf": "A",
+        "halaman": 73,
+        "kutipan": "Pertambahan kekayaan bersih dilakukan dengan menghitung selisih kekayaan bersih Wajib Pajak awal dan akhir tahun."
+      }
+    ],
+    "tags": [
+      "Galpot OP",
+      "penambahan kekayaan bersih"
+    ]
+  }
+]

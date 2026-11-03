@@ -1,0 +1,2253 @@
+{
+  "kompetensi_list": [
+    {
+      "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+      "topik": [
+        {
+          "nama": "Dasar Hukum Pengawasan: Kewenangan, Ruang Lingkup, Bentuk Kegiatan (PMK-111/2025)",
+          "subtopik": [
+            {
+              "nama": "Ruang Lingkup Kegiatan Intensifikasi (SE-05/PJ/2022) - PPM vs PKM, PnKF vs PnKM",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    5,
+                    5
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Kewenangan dan Tujuan Pengawasan Pasal 2 PMK-111/2025",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    6,
+                    6
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 8
+            },
+            {
+              "nama": "Ruang Lingkup Pengawasan Pasal 3 PMK-111/2025",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    7,
+                    7
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 7
+            },
+            {
+              "nama": "Bentuk Kegiatan Pengawasan Pasal 4 PMK-111/2025 (a-j) & Kegiatan Pendukung",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    8,
+                    8
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            }
+          ]
+        },
+        {
+          "nama": "Probis Pengawasan WP Terdaftar",
+          "subtopik": [
+            {
+              "nama": "Probis Pengawasan WP Terdaftar: Permintaan Penjelasan, Teguran, Imbauan (ruang lingkup materi)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    9,
+                    10
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Data-data pemicu pengawasan & jenis kewajiban yang diawasi (PKP, bayar, lapor, angsuran, layanan/fasilitas, formal)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    9,
+                    9
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            }
+          ]
+        },
+        {
+          "nama": "Permintaan Penjelasan atas Data dan/atau Keterangan (SP2DK) - WP Terdaftar",
+          "subtopik": [
+            {
+              "nama": "Penyusunan & Penyampaian SP2DK, BA Penyampaian Secara Langsung",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    11,
+                    12
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Jangka Waktu Penyampaian Tanggapan SP2DK (14 hari, perpanjangan +7 hari, cara hitung sejak peristiwa terdahulu)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    13,
+                    13
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 25
+            },
+            {
+              "nama": "Penyampaian Tanggapan WP & Pembahasan atas SP2DK",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    14,
+                    15
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "BA Pelaksanaan & Penandatanganan (termasuk secara daring)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    16,
+                    18
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Hasil Kegiatan P2DK: Case Closed (SP3-P2DK) vs Usulan Lain (huruf b-q)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    19,
+                    19
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            }
+          ]
+        },
+        {
+          "nama": "Penyampaian Imbauan",
+          "subtopik": [
+            {
+              "nama": "Dasar Penerbitan Surat Imbauan (6 aspek kewajiban) & Cara Penyampaian",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    20,
+                    22
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Tanggapan WP atas Surat Imbauan (14 hari, cara hitung sejak peristiwa terdahulu)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    23,
+                    26
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Pembahasan atas Tanggapan Surat Imbauan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    27,
+                    27
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 10
+            },
+            {
+              "nama": "Hasil Kegiatan Penyampaian Imbauan (usulan a-l)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    28,
+                    28
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            }
+          ]
+        },
+        {
+          "nama": "Pemberian Teguran",
+          "subtopik": [
+            {
+              "nama": "Dasar Penerbitan Surat Teguran (SPT tidak disampaikan sesuai batas waktu)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    29,
+                    30
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "BA Penyampaian Surat Teguran Langsung & Tindak Lanjut (Pembahasan/Kunjungan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    31,
+                    31
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Pembahasan atas Pemberian Teguran",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    32,
+                    32
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax",
+          "subtopik": [
+            {
+              "nama": "Dasar ND Transisi (ND-1718/2024, ND-236/2025, ND-927/2025) & Ketentuan Umum",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    33,
+                    34
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 12
+            },
+            {
+              "nama": "Penyusunan DPP: Approweb vs Coretax (PKM s.d. TP 2024 vs PPM&PKM TP 2025 dst)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    35,
+                    35
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 18
+            },
+            {
+              "nama": "Perubahan Tindak Lanjut Data RBP dalam ND-927/2025 (WP Tunggal vs Nontunggal, S.D. 2024 vs Sejak 2025)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    36,
+                    36
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Penelitian Kepatuhan Formal & Perubahan Penerbitan STP Denda Penagihan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    37,
+                    38
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Pengaturan Pola Kerja WP Cabang & Skema Penugasan Tim Pengawasan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    39,
+                    40
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 5
+            }
+          ]
+        },
+        {
+          "nama": "Persandingan Alur Pengawasan vs Pemeriksaan",
+          "subtopik": [
+            {
+              "nama": "Proses Bisnis Pengawasan cfm PMK-111/2025 (WP Terdaftar & Belum Terdaftar - ringkasan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    75,
+                    75
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Persandingan Alur: SP2DK-BAP2DK-LHP2DK vs SP2-SPHP-LHP (Step 1 Pengawasan, Step 2 Pemeriksaan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    76,
+                    76
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 25
+            }
+          ]
+        },
+        {
+          "nama": "Pengawasan PBB P5L (Perkebunan, Kehutanan, Pertambangan, Lainnya)",
+          "subtopik": [
+            {
+              "nama": "Siklus Penatausahaan PBB P5L: Auto Creation SPOP, Pelaporan 30 Hari/Penundaan 7 Hari",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    119,
+                    119
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Alur Penelitian Material-Klarifikasi-Pembetulan SPOP & Surat Teguran (7 hari masing-masing)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    119,
+                    119
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Penilaian Kantor (5 Hari) vs Penilaian Lapangan (15 Hari) menuju Penetapan NJOP & SPPT",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    118,
+                    119
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kompetensi": "Analisis Potensi Pajak",
+      "topik": [
+        {
+          "nama": "Tata Cara Penilaian untuk Tujuan Perpajakan (PMK-79/2023)",
+          "subtopik": [
+            {
+              "nama": "Latar Belakang & Asas Pembentukan Hukum PMK-79/2023",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    42,
+                    42
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 8
+            },
+            {
+              "nama": "Workflow Penilaian: Tata Cara 5 Tahap & Penggunaan Hasil Penilaian",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    43,
+                    43
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 12
+            },
+            {
+              "nama": "Lingkup Penilaian Pasal 2-4: Penilaian Kantor vs Penilaian Lapangan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    44,
+                    44
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Penilaian NJOP PBB Pasal 3 & Dasar Hukum Terkait (PMK-186/2019 jo PMK-234/2022, SE-17/2020, SE-11/2022)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    45,
+                    46
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Penilaian Harta Berwujud, Harta Tidak Berwujud, dan Bisnis Pasal 4-5 (Pemicu dalam UU PPh/PPN/PPSP)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    47,
+                    49
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Tindak Lanjut Hasil Penilaian (Pengawasan, Pemeriksaan, MAP, APA, Keberatan, Penagihan, dst) Pasal 5(2)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    50,
+                    50
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Surat Perintah Penilaian & Tim Penilai Pasal 6 (jangka waktu paling lama 3 bulan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    51,
+                    51
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Tata Cara Penilaian Pasal 7 (Penyiapan Bahan s.d. Penyusunan Laporan Penilaian)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    52,
+                    52
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Bantuan Penilaian dan/atau Bantuan Penilai Pasal 32",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    53,
+                    53
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 5
+            }
+          ]
+        },
+        {
+          "nama": "Pemanfaatan Data dan Analisis Mandiri (SE-05/PJ/2022)",
+          "subtopik": [
+            {
+              "nama": "Sumber Data DJP: Data Eksternal/Pihak Ketiga (ILAP Ps.35A ayat 1&2, Luar Negeri) vs Data Internal; Pembangunan & Pemanfaatan Data",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    56,
+                    56
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Data Registrasi, Pelaporan, Pembayaran di Sistem Informasi DJP",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    57,
+                    57
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 12
+            },
+            {
+              "nama": "Data Pihak Ketiga, Ekstensifikasi, Pengawasan, Penagihan, Sengketa Pajak, Non Keberatan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    58,
+                    58
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 13
+            },
+            {
+              "nama": "Data Pemeriksaan, Bukper & Penyidikan, Ketetapan (STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT/STP/SKP PBB)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    59,
+                    60
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Analisis Laporan Keuangan Mandiri: Penyusutan, Jembreng PPN, Ekualisasi, Analisis Transfer Pricing & Proses Bisnis",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    62,
+                    62
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Fokus WP Strategis dalam Analisis Mandiri",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    62,
+                    62
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Penggalian Potensi Wajib Pajak Orang Pribadi (Galpot OP)",
+          "subtopik": [
+            {
+              "nama": "Kompleksitas vs Kesederhanaan Galpot OP: Karyawan/Non-Karyawan/Profesi/Pengusaha, Norma vs Pembukuan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    63,
+                    64
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Teknik/Metode Penggalian Potensi: Harta Kekayaan, Lokasi Usaha, Jumlah Pegawai, Mekanisme Penjualan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    65,
+                    66
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Teknik Pencarian Data (wawancara, elisitasi, pengamatan) & 8 Pendekatan Menghitung Omzet",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    67,
+                    67
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Pendekatan Satuan dan/atau Volume: Formula Peredaran Usaha = Volume x Harga Jual & Proyeksi",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    68,
+                    69
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Pendekatan Penghitungan Rasio",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    70,
+                    70
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Metode Penghitungan Biaya Hidup (12 kelompok pengeluaran, Break Even Point)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    71,
+                    72
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Metode Penambahan Kekayaan Bersih (Penghasilan = Pertambahan Kekayaan Bersih + Biaya Hidup)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    73,
+                    73
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kompetensi": "Ekstensifikasi Perpajakan",
+      "topik": [
+        {
+          "nama": "Kerangka Ekstensifikasi 2026 & Aktivasi WP Belum Terdaftar",
+          "subtopik": [
+            {
+              "nama": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 (Aktivasi WP, WP Baru, DPE, KPD, WP NA, NA TD)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    78,
+                    78
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 12
+            },
+            {
+              "nama": "Daftar Prioritas Ekstensifikasi (DPE) - Pengertian & Gambaran Umum Probis",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    79,
+                    80
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Jangka Waktu Probis Pengawasan WP Belum Terdaftar: DPE Kolaboratif/Nonkolaboratif, Perencanaan-Pelaksanaan-Tindak Lanjut (ND-498/PJ.06/2025)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    81,
+                    81
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 13
+            }
+          ]
+        },
+        {
+          "nama": "Penugasan Ekstensifikasi & Penyusunan SP2DK",
+          "subtopik": [
+            {
+              "nama": "Tata Cara Pengawasan WP Belum Terdaftar: Syarat Objektif-Subjektif, Kunjungan, Penghitungan Indikasi",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    83,
+                    83
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Penugasan Ekstensifikasi: Komposisi Tim (Kasi Pengawasan, AR Pengampu/Kepala KP2KP, AR Anggota), SPP",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    84,
+                    84
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Penyusunan SP2DK: Gain Understanding, Permintaan Data, Isi SP2DK, Jangka Waktu 14 Hari Kalender, Segmentasi Risiko",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    85,
+                    85
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            }
+          ]
+        },
+        {
+          "nama": "Penyampaian SP2DK & Tanggapan WP Belum Terdaftar",
+          "subtopik": [
+            {
+              "nama": "Penyampaian SP2DK (Step 1): Akun WP, Pos/Jasa Kurir, Langsung dengan BA",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    86,
+                    87
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            },
+            {
+              "nama": "Jangka Waktu Tanggapan SP2DK (14 hari + perpanjangan 7 hari) & Cara Hitung sejak Peristiwa Terdahulu",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    88,
+                    89
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Cara Penyampaian Penjelasan WP & Bukti Pendukung bila Tidak Setuju Data SP2DK",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    90,
+                    92
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Monitoring Respon, Penyusunan SPHPP & Pembahasan",
+          "subtopik": [
+            {
+              "nama": "Monitoring Tanggapan WP & Penyusunan Laporan Hasil Klarifikasi SP2DK",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    93,
+                    93
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Penelitian Potensi Pajak - Examination Working Sheet (EWS), Masa Pajak Maksimal 5 Tahun",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    93,
+                    93
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Penerbitan SPHPP (Step 2): Alur Tanggapan Sesuai/Tidak Sesuai/Tidak Menyampaikan Tanggapan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    94,
+                    96
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Pembahasan dengan WP: Luring/Daring, WP Tidak Hadir Dianggap Dilaksanakan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    97,
+                    97
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            }
+          ]
+        },
+        {
+          "nama": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+          "subtopik": [
+            {
+              "nama": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    98,
+                    98
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    99,
+                    99
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    100,
+                    101
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+          "subtopik": [
+            {
+              "nama": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    102,
+                    102
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            },
+            {
+              "nama": "Pemantauan dan Evaluasi Ekstensifikasi (SIAP, Laporan Evaluasi Periodik)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    103,
+                    104
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 15
+            }
+          ]
+        },
+        {
+          "nama": "Penyelesaian WP Non Aktif Terdapat Data (NA TD)",
+          "subtopik": [
+            {
+              "nama": "Dasar Hukum WP NA (UU KUP, PER-07/PJ/2025)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    106,
+                    106
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 5
+            },
+            {
+              "nama": "Kriteria WP Non Aktif (OP berhenti usaha, penghasilan di bawah PTKP, SPLN, wanita kawin NPWP gabung, dst)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    107,
+                    107
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Penetapan WP Non Aktif Secara Jabatan (6 syarat: tidak lapor SPT 5 tahun, tidak dipotong 5 tahun, dst)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    108,
+                    108
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Imbauan Massal untuk NA TD (Dafnom KPDJP, e-seal, strategi komunikasi)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    109,
+                    109
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Proses Pengaktifan Kembali WP Non Aktif Otomatis by Sistem",
+          "subtopik": [
+            {
+              "nama": "Kriteria Pelaporan SPT yang Mengubah Status NE Menjadi Normal Otomatis (SE-27/PJ/2020)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    110,
+                    110
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "KPD sebagai Sumber Data Ekstensifikasi (SE-11/PJ/2020)",
+          "subtopik": [
+            {
+              "nama": "Alur KPD menuju SP2DK Ekstensifikasi: DSE, Validasi Material/Formal, Penugasan AR, Respon WP",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    142,
+                    143
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kompetensi": "Pemeriksaan Pajak",
+      "topik": [
+        {
+          "nama": "Kewenangan dan Definisi Pemeriksaan (PMK-15/2025)",
+          "subtopik": [
+            {
+              "nama": "Kewenangan Pemeriksa Pajak (PMK-15/2025, PERMENPAN 66/2021) & Delegasi Administrasi",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    4,
+                    5
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    112,
+                    112
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 7
+            },
+            {
+              "nama": "Definisi Pemeriksaan: Menghimpun+Mengolah Data/Keterangan/Bukti secara Objektif-Profesional Berdasar Standar Pemeriksaan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    7,
+                    8
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Kewenangan, Tujuan (Menguji Kepatuhan vs Tujuan Lain), dan Tipe Pemeriksaan Pasal 2 (Lengkap/Terfokus/Spesifik)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    9,
+                    9
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    113,
+                    113
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 13
+            }
+          ]
+        },
+        {
+          "nama": "Kriteria dan Jangka Waktu Pemeriksaan",
+          "subtopik": [
+            {
+              "nama": "Kriteria Pemeriksaan Menguji Kepatuhan Pasal 4 ayat 1 (LB 17B, SPT Rugi, Perubahan Tahun Buku, WP Terpilih Risiko, dst) & Kriteria PBB",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    10,
+                    10
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    114,
+                    114
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 9
+            },
+            {
+              "nama": "Kriteria Pemeriksaan Tujuan Lain Pasal 4 (NPWP/PKP Jabatan, Keberatan, Penagihan, MAP/APA, dst)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    11,
+                    11
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    115,
+                    115
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            },
+            {
+              "nama": "Jangka Waktu Pemeriksaan Menguji Kepatuhan Pasal 6: Lengkap 5bln/Terfokus 3bln/Spesifik 1bln/Dakon 10HK (Pengujian) & PAHP-Pelaporan 30HK/10HK",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    12,
+                    12
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    116,
+                    116
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 21
+            },
+            {
+              "nama": "Jangka Waktu Pemeriksaan Tujuan Lain (4 Bulan) & Perhatian Khusus (17B, Penghapusan NPWP, Pencabutan PKP) & WP K3S Migas",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    117,
+                    117
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 9
+            },
+            {
+              "nama": "Kriteria Pemeriksaan Rutin vs Khusus (Data Konkret/Audit Based on Data vs Risk-Based Audit)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    14,
+                    14
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    132,
+                    132
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 9
+            },
+            {
+              "nama": "Data Konkret (PER-18/PJ/2025): Faktur Pajak, Bukti Potput PPh, Bukti Transaksi/Data Perpajakan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    13,
+                    13
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    123,
+                    126
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 9
+            },
+            {
+              "nama": "Ketentuan Pemeriksaan WP Strategis Berdasarkan Data Konkret & Analisis Risiko (per/antar Tahun Pajak Berjalan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    127,
+                    130
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            },
+            {
+              "nama": "Persetujuan/Penugasan Pemeriksaan oleh Kepala KPP & Tanggung Jawab Tim Pemeriksa (Fungsional vs Petugas Pemeriksa)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    131,
+                    133
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            }
+          ]
+        },
+        {
+          "nama": "Standar Pemeriksaan & Kebijakan Pemeriksaan Efektif (SE-15/PJ/2018)",
+          "subtopik": [
+            {
+              "nama": "Kriteria Pemeriksaan Efektif SE-15/PJ/2018 (Pencairan Optimal, Upaya Hukum Minimal, Restitusi Terkendali, Kepatuhan Berkelanjutan)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    15,
+                    15
+                  ]
+                },
+                {
+                  "pdf": "A",
+                  "pages": [
+                    134,
+                    134
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 9
+            },
+            {
+              "nama": "Standar Umum, Standar Pelaksanaan, dan Standar Pelaporan Hasil Pemeriksaan (PER-23/PJ/2013)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    17,
+                    17
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            }
+          ]
+        },
+        {
+          "nama": "Persiapan, Metode, dan Teknik Pemeriksaan",
+          "subtopik": [
+            {
+              "nama": "Persiapan Pemeriksaan: KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, Program Pemeriksaan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    18,
+                    18
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 7
+            },
+            {
+              "nama": "Definisi Metode, Teknik, dan Prosedur Pemeriksaan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    19,
+                    19
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "Metode Langsung vs Metode Tidak Langsung & Kapan Metode Tidak Langsung Digunakan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    20,
+                    20
+                  ]
+                },
+                {
+                  "pdf": "C",
+                  "pages": [
+                    25,
+                    25
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 8
+            },
+            {
+              "nama": "6 Pendekatan Metode Tidak Langsung (Transaksi Tunai&Bank, Sumber-Penggunaan Dana, Rasio, Satuan/Volume, Biaya Hidup, Pertambahan Kekayaan Bersih)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    21,
+                    21
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 7
+            },
+            {
+              "nama": "Teknik Pemeriksaan Metode Langsung (16+ teknik: pengujian keabsahan, evaluasi, ekualisasi, konfirmasi, TABK, dst)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    22,
+                    22
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 3
+            }
+          ]
+        },
+        {
+          "nama": "Tata Cara Pemeriksaan & Alur Proses",
+          "subtopik": [
+            {
+              "nama": "Gambaran Umum Pemeriksaan PMK-17/2013 s.t.d.d. PMK-18/2021 (4 topik: Gambaran Umum, Pelaksanaan, Jangka Waktu, Pemeriksaan Ulang&Penangguhan)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    27,
+                    27
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 3
+            },
+            {
+              "nama": "Kewajiban WP yang Diperiksa Pasal 13(3) PP 50/2022: Pinjamkan Buku/Dokumen, Beri Akses, Beri Data; Keterangan Tertulis/Lisan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    28,
+                    29
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Peniadaan Kewajiban Merahasiakan Data Pembukuan (Pasal 29 ayat 4 UU KUP)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    31,
+                    31
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 7
+            },
+            {
+              "nama": "Penyegelan (Pasal 30 ayat 1 UU KUP): Objek (Tempat/Ruang/Benda Bergerak&Tidak), Upaya Terakhir, Data Elektronik",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    32,
+                    32
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Pemeriksaan Ulang: Definisi Data Baru, Instruksi/Persetujuan Dirjen, Produk (SKPKBT/LHP Sumir/Kep Rugi Fiskal)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    33,
+                    33
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 8
+            },
+            {
+              "nama": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) - Sebelum SPHP Disampaikan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    34,
+                    34
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 7
+            },
+            {
+              "nama": "Penghitungan Penghasilan Kena Pajak Secara Jabatan (Pasal 31 ayat 3 UU KUP) - Dokumen Terbatas yang Dipertimbangkan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    30,
+                    30
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "ALUR PROSES PEMERIKSAAN Lengkap: SP2-Entry Meeting-Pengujian-SPHP-Tanggapan-PAHP-Risalah-LHP-Ketetapan",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    35,
+                    35
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 20
+            }
+          ]
+        },
+        {
+          "nama": "Pembukuan dan Pencatatan (Pasal 28 UU KUP)",
+          "subtopik": [
+            {
+              "nama": "Definisi Pembukuan (Ps 1 angka 29) dan Pencatatan; Isi Minimal Pembukuan (Ps 28 ayat 7) dan Pencatatan (Ps 28 ayat 9)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    37,
+                    37
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 6
+            },
+            {
+              "nama": "Kewajiban Pembukuan/Pencatatan & Penyimpanan Dokumen 10 Tahun di Indonesia; Pengecualian (NPPN, dst, PMK-54/2021)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    38,
+                    38
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 8
+            },
+            {
+              "nama": "Ketentuan Pembukuan vs Ketentuan Pencatatan (Iktikad Baik, Bahasa, Stelsel Akrual/Kas, Standar Akuntansi)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    39,
+                    39
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            }
+          ]
+        },
+        {
+          "nama": "Penetapan dan Ketetapan Pajak (PMK Nomor 80 Tahun 2023)",
+          "subtopik": [
+            {
+              "nama": "Jenis Ketetapan Pajak (SKPKB/SKPKBT/SKPLB/SKPN/STP) & Dasar Penerbitan Masing-masing",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    42,
+                    42
+                  ]
+                },
+                {
+                  "pdf": "C",
+                  "pages": [
+                    44,
+                    44
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 8
+            },
+            {
+              "nama": "Prinsip Self-Assessment Pasal 12 UU KUP",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    43,
+                    43
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "SKPKB Pasal 13(1): Jangka Waktu 5 Tahun, 6 Sebab Penerbitan (a-f), Sanksi Bunga 15%/20% Uplift Max 24 Bulan & Kenaikan 75%",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    45,
+                    45
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "SKPKBT Pasal 15(1): Jangka Waktu 5 Tahun Berdasar Pemeriksaan Ulang, Data Baru, Sanksi Kenaikan 100% vs Pengakuan WP (Tanpa Sanksi)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    46,
+                    46
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 13
+            },
+            {
+              "nama": "SKPN Pasal 17A UU KUP",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    47,
+                    47
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "SKPLB: Diterbitkan Berdasar Penelitian (Ps 17(2)) atau Pemeriksaan (Ps 17(1)/17B) & Pemeriksaan Ulang",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    48,
+                    48
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            },
+            {
+              "nama": "Surat Tagihan Pajak (STP) Pasal 14 UU KUP: 7 Sebab Penerbitan, Sanksi Bunga 5%, Denda 30%/60%, Denda 1% DPP",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    49,
+                    49
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Ringkasan Sanksi Administratif: Denda (Ps 7, 25(9), 27(5d/5f)), Bunga (Ps 8, 9, 13, 19), Kenaikan (Ps 13(3), 15(2), 17C/17D)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    50,
+                    52
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 13
+            }
+          ]
+        },
+        {
+          "nama": "Upaya Hukum Perpajakan",
+          "subtopik": [
+            {
+              "nama": "Gambaran Umum Upaya Hukum: Administratif (Pembetulan, Pengurangan&Pembatalan, MAP, Keberatan) vs Pengadilan (Banding, Gugatan, PK)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    55,
+                    55
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 13
+            },
+            {
+              "nama": "Keberatan Pasal 25 UU KUP: Jangka Waktu 3 Bulan Ajukan, 12 Bulan Diputuskan, Syarat Permohonan, Sanksi Denda 30%",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    57,
+                    57
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 16
+            },
+            {
+              "nama": "Prosedur Persetujuan Bersama (MAP): Pihak yang Mengajukan, SK Persetujuan Bersama",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    58,
+                    58
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 3
+            },
+            {
+              "nama": "Banding Pasal 27 UU KUP: Jangka Waktu 3 Bulan sejak SK Keberatan Diterima, Sanksi Denda 60%, Putusan Inkracht",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    59,
+                    59
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 13
+            },
+            {
+              "nama": "Alat Bukti dalam Sengketa Pajak: 6 Jenis Alat Bukti & Minimal 2 Alat Bukti Sah (Ps 86 & 88 UU Pengadilan Pajak)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    59,
+                    59
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            },
+            {
+              "nama": "Gugatan Pasal 23 UU KUP: Objek Gugatan (4 jenis), Jangka Waktu 14 Hari (Penagihan) / 30 Hari (Lainnya)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    60,
+                    60
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 9
+            }
+          ]
+        },
+        {
+          "nama": "Pemeriksaan PBB (Rutin & Khusus)",
+          "subtopik": [
+            {
+              "nama": "Pemeriksaan Rutin (Daftar Nominatif) vs Pemeriksaan Khusus (Jopro CRM PBB Batubara)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    118,
+                    118
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            },
+            {
+              "nama": "Kriteria Pemilihan Pemeriksaan PBB (10 kriteria: skala prioritas, cek NOP/SKT, konfirmasi perizinan, dst)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    120,
+                    120
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 6
+            },
+            {
+              "nama": "Bantuan Ahli Penetapan NJOP PBB: Bantuan Penilaian vs Bantuan Penilai",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    121,
+                    121
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 3
+            }
+          ]
+        },
+        {
+          "nama": "Ketentuan Khusus Pemeriksaan (Wakil, Kuasa WP) & Refresher KUP/PPN Terkait",
+          "subtopik": [
+            {
+              "nama": "Wakil Wajib Pajak (Pasal 32 ayat 2 UU KUP): Badan oleh Pengurus, Pailit oleh Kurator, Warisan, Anak Belum Dewasa; Tanggung Jawab Renteng",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    64,
+                    64
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 2
+            },
+            {
+              "nama": "Kuasa Wajib Pajak (Pasal 32 ayat 3 UU KUP): Keluarga vs Bukan Keluarga (Konsultan Pajak/Pihak Lain Kompeten), Surat Kuasa Khusus",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    65,
+                    65
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 2
+            },
+            {
+              "nama": "Refresher Ketentuan Umum KUP: Syarat Subjektif-Objektif WP, Pengukuhan PKP & Timeline, Faktur Pajak, Objek PPN (Ps 4(1)/16C/16D)",
+              "sources": [
+                {
+                  "pdf": "C",
+                  "pages": [
+                    67,
+                    120
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kompetensi": "Profiling Wajib Pajak",
+      "topik": [
+        {
+          "nama": "Kegiatan Pengumpulan Data Lapangan (KPDL) - Tujuan & Jenis (SE-11/PJ/2020)",
+          "subtopik": [
+            {
+              "nama": "Tujuan Kegiatan Pengumpulan Data Lapangan (Data Baru, Pemetaan WP, Pemutakhiran Data)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    136,
+                    136
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, Eksternal",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    137,
+                    137
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "KPDL Berbasis Kewilayahan: Peta Kerja AR & KPDL Ad Hoc/Tim (pertimbangan penugasan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    138,
+                    138
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "KPDL Berbasis Penugasan Lapangan Lainnya (Pemeriksa, Penyidik, Penilai, AR WP Strategis, Jurusita, dst)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    139,
+                    139
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            }
+          ]
+        },
+        {
+          "nama": "Tahapan Proses Bisnis KPD & Tindak Lanjut",
+          "subtopik": [
+            {
+              "nama": "KPDL Non Tusi & KPDL Eksternal (dasar SE-19/PJ/2014, pertimbangan kerja sama pihak eksternal)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    140,
+                    141
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 5
+            },
+            {
+              "nama": "Tahapan Probis KPD: Validasi Material (Atasan Langsung) vs Validasi Formal (Kasi PKD), Penerbitan SP2DK, Respon WP",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    142,
+                    143
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 15
+            },
+            {
+              "nama": "Continuous Supervision - Fasilitas Action Selection: Tindak Lanjut Jabatan (Update Data, PKP, NIK/NPWP, dst) & Contoh Kasus",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    144,
+                    144
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            }
+          ]
+        },
+        {
+          "nama": "Pelaksanaan KPDL - Hal yang Diperhatikan",
+          "subtopik": [
+            {
+              "nama": "6 Hal yang Diperhatikan dalam Pelaksanaan KPDL (koordinasi, bekal data, min. 2 pegawai, jam kerja, nilai Kemenkeu)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    145,
+                    145
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Profil Wajib Pajak - Maksud, Tujuan, Komponen",
+          "subtopik": [
+            {
+              "nama": "Maksud dan Tujuan Penyusunan Profil WP (basis data, benchmark, tax gap, ukur kepatuhan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    147,
+                    147
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Komponen Minimal Profil WP (Identitas, Kegiatan Usaha, Keluarga, Profil CRM, Riwayat Pengawasan/Pemeriksaan/Keberatan-Banding, Profil Risiko Ketertagihan)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    148,
+                    148
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Langkah-Langkah Profiling: Identitas, Pohon Kepemilikan, Struktur Organisasi, Proses Bisnis",
+          "subtopik": [
+            {
+              "nama": "Langkah-Langkah Profiling Approach One & Two (pengumpulan data s.d. ekualisasi)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    150,
+                    150
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "Pengumpulan Data (riwayat lapor/bayar, lapkeu, data AHU, data eksternal)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    151,
+                    151
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "Identitas Wajib Pajak: Alamat, Pemegang Saham, KLU, Pohon Kepemilikan, CRM",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    152,
+                    152
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 5
+            },
+            {
+              "nama": "Pohon Kepemilikan - Deteksi Transaksi Hubungan Istimewa (contoh kasus persentase saham)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    153,
+                    153
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            },
+            {
+              "nama": "Struktur Organisasi - Identifikasi Pengambil Keputusan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    154,
+                    154
+                  ]
+                }
+              ],
+              "priority": 1,
+              "est_questions": 5
+            },
+            {
+              "nama": "Proses Bisnis WP: Arus Dokumen/Uang vs Arus Barang (Gudang-Supplier-WP-Customer-Toko/Cabang)",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    155,
+                    155
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            }
+          ]
+        },
+        {
+          "nama": "Langkah-Langkah Profiling: Kepatuhan Formal & Ekualisasi",
+          "subtopik": [
+            {
+              "nama": "Kepatuhan Formal WP: Riwayat Pelaporan Masa/Tahunan (Nihil/LB/KB), Riwayat Pemeriksaan",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    156,
+                    156
+                  ]
+                }
+              ],
+              "priority": 2,
+              "est_questions": 10
+            },
+            {
+              "nama": "Ekualisasi: Omzet PPN vs PPh Badan/OP, Biaya Gaji vs PPh 21, Biaya Sewa vs PPh 23/Final",
+              "sources": [
+                {
+                  "pdf": "A",
+                  "pages": [
+                    157,
+                    158
+                  ]
+                }
+              ],
+              "priority": 3,
+              "est_questions": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

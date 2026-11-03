@@ -1,0 +1,2129 @@
+[
+  {
+    "id": "EKS-04-001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut materi Hasil Kegiatan P2DK, NPWP diberikan secara jabatan kepada Wajib Pajak dengan kondisi apa?",
+    "opsi": {
+      "A": "Telah memenuhi syarat subjektif dan objektif namun belum mendaftarkan diri",
+      "B": "Telah terdaftar namun belum mengaktivasi Akun Wajib Pajak",
+      "C": "Telah memiliki NITKU namun belum melaporkan tempat kegiatan usaha",
+      "D": "Telah menjadi subjek pajak luar negeri namun memiliki penghasilan di Indonesia"
+    },
+    "kunci": "A",
+    "pembahasan": "Materi menyebutkan pemberian NPWP secara jabatan berlaku bagi Wajib Pajak yang telah memenuhi syarat subjektif dan objektif namun belum mendaftarkan diri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "NPWP terhadap Wajib Pajak yang telah memenuhi syarat subjektif dan objektif namun belum mendaftarkan diri"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "NPWP Jabatan"
+    ]
+  },
+  {
+    "id": "EKS-04-002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "NITKU diberikan secara jabatan kepada Wajib Pajak dalam kondisi apa sesuai materi Hasil Kegiatan P2DK?",
+    "opsi": {
+      "A": "Telah memenuhi syarat subjektif dan objektif namun belum mendaftarkan diri",
+      "B": "Telah memperoleh NPWP dan memiliki tempat kegiatan usaha namun belum melaporkannya",
+      "C": "Telah dikukuhkan sebagai Pengusaha Kena Pajak namun belum memiliki NPWP",
+      "D": "Telah memiliki objek Pajak Bumi dan Bangunan namun belum mendaftarkannya"
+    },
+    "kunci": "B",
+    "pembahasan": "Dikutip: NITKU terhadap Wajib Pajak yang telah memperoleh NPWP dan memiliki tempat kegiatan usaha namun belum melaporkan tempat kegiatan usahanya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "NITKU terhadap Wajib Pajak yang telah memperoleh NPWP dan memiliki tempat kegiatan usaha namun belum melaporkan tempat kegiatan usahanya"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "NITKU Jabatan"
+    ]
+  },
+  {
+    "id": "EKS-04-003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berapa jumlah kondisi Wajib Pajak yang menyebabkan kegiatan permintaan penjelasan atas data dan/atau keterangan diusulkan tidak ditindaklanjuti menurut materi Hasil Kegiatan P2DK?",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "kunci": "C",
+    "pembahasan": "Terdapat enam kondisi: tidak dapat ditemukan, meninggal dunia tanpa warisan belum terbagi, menjadi SPLN, tidak memenuhi syarat subjektif-objektif, tidak memiliki indikasi kewajiban perpajakan, dan telah memenuhi kewajiban perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "tidak dapat ditemukan;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "telah memenuhi kewajiban perpajakan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Tidak Ditindaklanjuti"
+    ]
+  },
+  {
+    "id": "EKS-04-004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu kondisi yang menyebabkan usulan P2DK tidak ditindaklanjuti adalah Wajib Pajak meninggal dunia, dengan syarat tambahan apa sesuai materi?",
+    "opsi": {
+      "A": "Telah memiliki ahli waris yang mendaftarkan NPWP baru",
+      "B": "Telah ditetapkan sebagai subjek pajak luar negeri",
+      "C": "Telah memperoleh surat keterangan kematian dari kelurahan",
+      "D": "Tidak meninggalkan warisan yang belum terbagi"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan materi: telah meninggal dunia dan tidak meninggalkan warisan yang belum terbagi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "telah meninggal dunia dan tidak meninggalkan warisan yang belum terbagi;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Tidak Ditindaklanjuti"
+    ]
+  },
+  {
+    "id": "EKS-04-005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Status subjek pajak apa yang termasuk salah satu kondisi tidak ditindaklanjutinya usulan P2DK menurut materi?",
+    "opsi": {
+      "A": "Subjek pajak luar negeri",
+      "B": "Subjek pajak dalam negeri",
+      "C": "Subjek pajak badan",
+      "D": "Subjek pajak bendahara"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan materi: menjadi subjek pajak luar negeri, menjadi salah satu dari enam kondisi tidak ditindaklanjuti.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "menjadi subjek pajak luar negeri;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Subjek Pajak Luar Negeri"
+    ]
+  },
+  {
+    "id": "EKS-04-006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tim Ekstensifikasi menemukan bahwa Wajib Pajak sasaran P2DK telah melaporkan SPT dan membayar seluruh kewajiban pajaknya sebelum SP2DK terbit. Berdasarkan enam kondisi pada materi, bagaimana usulan atas kegiatan P2DK tersebut?",
+    "opsi": {
+      "A": "Diusulkan pemeriksaan karena terdapat potensi pajak kurang bayar",
+      "B": "Diusulkan tidak ditindaklanjuti karena telah memenuhi kewajiban perpajakan",
+      "C": "Diusulkan pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "D": "Diusulkan pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Kondisi keenam yaitu telah memenuhi kewajiban perpajakan menyebabkan kegiatan diusulkan tidak ditindaklanjuti.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "telah memenuhi kewajiban perpajakan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Tidak Ditindaklanjuti"
+    ]
+  },
+  {
+    "id": "EKS-04-007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil P2DK menunjukkan Wajib Pajak orang pribadi memiliki omzet penyerahan Barang Kena Pajak yang telah melewati batas pengusaha kecil, namun belum dikukuhkan. Usulan apa yang sesuai dengan materi Hasil Kegiatan P2DK?",
+    "opsi": {
+      "A": "Pembatasan atau pemblokiran layanan publik tertentu",
+      "B": "Pengembangan dan analisis informasi, data, laporan, dan pengaduan",
+      "C": "Pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "D": "Pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: pengukuhan Pengusaha Kena Pajak secara jabatan merupakan salah satu usulan hasil kegiatan P2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pengukuhan Pengusaha Kena Pajak secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "PKP Jabatan"
+    ]
+  },
+  {
+    "id": "EKS-04-008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "P2DK menemukan Wajib Pajak memiliki tanah dan bangunan yang belum terdaftar sebagai objek Pajak Bumi dan Bangunan. Usulan apa yang sesuai?",
+    "opsi": {
+      "A": "Pemeriksaan atas kewajiban perpajakan",
+      "B": "Pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "C": "Pembatasan atau pemblokiran layanan publik tertentu",
+      "D": "Pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "PBB Jabatan"
+    ]
+  },
+  {
+    "id": "EKS-04-009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam pelaksanaan P2DK ditemukan indikasi kuat bahwa Wajib Pajak melakukan tindak pidana di bidang perpajakan. Usulan apa yang sesuai dengan materi Hasil Kegiatan P2DK?",
+    "opsi": {
+      "A": "Pengembangan dan analisis informasi, data, laporan, dan pengaduan",
+      "B": "Pemeriksaan atas kewajiban perpajakan",
+      "C": "Pembatasan atau pemblokiran layanan publik tertentu",
+      "D": "Pengukuhan Pengusaha Kena Pajak secara jabatan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan: pengembangan dan analisis informasi, data, laporan, dan pengaduan, dalam hal Wajib Pajak memiliki indikasi tindak pidana di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pengembangan dan analisis informasi, data, laporan, dan pengaduan, dalam hal Wajib Pajak memiliki indikasi tindak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Indikasi Tindak Pidana"
+    ]
+  },
+  {
+    "id": "EKS-04-010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Selain pengukuhan PKP dan pendaftaran objek PBB secara jabatan, usulan apa yang juga dapat dihasilkan dari kegiatan P2DK terkait layanan kepada masyarakat?",
+    "opsi": {
+      "A": "Penerbitan Surat Tagihan Pajak",
+      "B": "Pembatasan atau pemblokiran layanan publik tertentu",
+      "C": "Penghapusan NPWP secara jabatan",
+      "D": "Pencabutan pengukuhan Pengusaha Kena Pajak"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: pembatasan atau pemblokiran layanan publik tertentu.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pembatasan atau pemblokiran layanan publik tertentu;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Pembatasan Layanan Publik"
+    ]
+  },
+  {
+    "id": "EKS-04-011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Manakah yang termasuk salah satu usulan hasil kegiatan P2DK, selain pengukuhan PKP, pendaftaran objek PBB, dan pembatasan layanan publik secara jabatan?",
+    "opsi": {
+      "A": "Penerbitan Surat Ketetapan Pajak Kurang Bayar",
+      "B": "Pengajuan keberatan atas hasil pembahasan",
+      "C": "Pemeriksaan atas kewajiban perpajakan Wajib Pajak",
+      "D": "Pengajuan banding atas putusan keberatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Materi mencantumkan pemeriksaan sebagai salah satu usulan hasil kegiatan P2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pemeriksaan; dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Usul Pemeriksaan"
+    ]
+  },
+  {
+    "id": "EKS-04-012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut adalah kondisi yang menyebabkan kegiatan permintaan penjelasan P2DK diusulkan tidak ditindaklanjuti sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "Wajib Pajak tidak dapat ditemukan",
+      "B": "Wajib Pajak menjadi subjek pajak luar negeri",
+      "C": "Wajib Pajak telah memenuhi kewajiban perpajakan",
+      "D": "Wajib Pajak mengajukan keberatan atas hasil pembahasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Keenam kondisi yang diatur adalah tidak dapat ditemukan, meninggal dunia tanpa warisan belum terbagi, SPLN, tidak memenuhi syarat subjektif-objektif, tidak ada indikasi kewajiban, dan telah memenuhi kewajiban; pengajuan keberatan tidak termasuk daftar tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "tidak dapat ditemukan;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "menjadi subjek pajak luar negeri;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "telah memenuhi kewajiban perpajakan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Tidak Ditindaklanjuti"
+    ]
+  },
+  {
+    "id": "EKS-04-013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk usulan hasil kegiatan P2DK menurut materi, KECUALI...",
+    "opsi": {
+      "A": "Penerbitan Surat Ketetapan Pajak Kurang Bayar",
+      "B": "Pengukuhan Pengusaha Kena Pajak secara jabatan",
+      "C": "Pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan",
+      "D": "Pengembangan dan analisis informasi, data, laporan, dan pengaduan"
+    },
+    "kunci": "A",
+    "pembahasan": "Usulan hasil P2DK yang diatur mencakup kegiatan tidak ditindaklanjuti, pengukuhan PKP, pendaftaran PBB, pembatasan layanan publik, pemeriksaan, serta pengembangan dan analisis informasi; penerbitan SKPKB tidak dicantumkan sebagai usulan pada skema ini.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pengukuhan Pengusaha Kena Pajak secara jabatan;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "pendaftaran objek pajak Pajak Bumi dan Bangunan secara jabatan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "P2DK",
+      "Usulan Hasil P2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Hasil Kegiatan P2DK: NPWP/NITKU Jabatan vs Usulan Tidak Ditindaklanjuti (6 kondisi) & Usulan Lain",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Skema mengenai pemberian NPWP/NITKU secara jabatan dan usulan hasil kegiatan P2DK pada materi merupakan bagian dari prosedur yang berjudul...",
+    "opsi": {
+      "A": "Tata Cara Pengawasan Wajib Pajak Terdaftar",
+      "B": "Tata Cara Pengawasan Wajib Pajak Belum Terdaftar",
+      "C": "Probis Pengawasan Wajib Pajak Terdaftar",
+      "D": "Ruang Lingkup Pengawasan"
+    },
+    "kunci": "B",
+    "pembahasan": "Judul footer pada halaman adalah Tata Cara Pengawasan Wajib Pajak Belum Terdaftar, sementara opsi lain merupakan judul bagian lain dalam materi Pengawasan PMK 111/2025.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "Tata Cara Pengawasan Wajib Pajak Belum Terdaftar"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pengawasan WP Belum Terdaftar"
+    ]
+  },
+  {
+    "id": "EKS-04-015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pembahasan Akhir dalam prosedur Pengawasan Wajib Pajak Belum Terdaftar dilakukan atas Wajib Pajak dengan kondisi apa?",
+    "opsi": {
+      "A": "Telah membayar seluruh kewajiban pajaknya",
+      "B": "Telah dikukuhkan sebagai Pengusaha Kena Pajak",
+      "C": "Masih memiliki potensi Pajak",
+      "D": "Telah mengaktivasi Akun Wajib Pajak"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: Pembahasan Akhir dilakukan atas Wajib Pajak yang masih memiliki potensi Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Pembahasan Akhir dilakukan atas Wajib Pajak yang"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "masih memiliki potensi Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-04-016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Ada berapa cara pelaksanaan Pembahasan Akhir sesuai materi?",
+    "opsi": {
+      "A": "1",
+      "B": "3",
+      "C": "4",
+      "D": "2"
+    },
+    "kunci": "D",
+    "pembahasan": "Dua cara yaitu melalui video conference atau Wajib Pajak datang langsung ke KPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Pembahasan Akhir dapat dilakukan melalui:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Video conference; atau"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Wajib Pajak datang langsung ke KPP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-04-017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam Pembahasan Akhir, klarifikasi yang disampaikan Wajib Pajak atas data dan/atau informasi harus disertai dengan apa?",
+    "opsi": {
+      "A": "Bukti pendukung",
+      "B": "Surat kuasa khusus",
+      "C": "Laporan keuangan audited",
+      "D": "Surat keterangan domisili"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan: Wajib Pajak dapat memberikan klarifikasi atas data dan/atau informasi disertai dengan bukti pendukung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Wajib Pajak dapat memberikan klarifikasi atas data"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "bukti"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "pendukung;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-04-018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Alat/instrumen apa yang digunakan Tim Ekstensifikasi untuk melakukan penelitian potensi berdasarkan hasil Pembahasan Akhir?",
+    "opsi": {
+      "A": "Profil Wajib Pajak pada Approweb",
+      "B": "Working Paper; Examination Working Sheet (EWS)",
+      "C": "Kertas Kerja Pemeriksaan (KKP)",
+      "D": "Sistem Informasi Perpajakan (SIP)"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: Tim Ekstensifikasi melakukan penelitian potensi berdasarkan hasil pembahasan Akhir dengan menggunakan Working Paper; Examination Working Sheet (EWS).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "menggunakan Working Paper; Examination Working"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Sheet (EWS);"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "EWS"
+    ]
+  },
+  {
+    "id": "EKS-04-019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Urutan tahapan Pembahasan Akhir yang benar sesuai materi adalah...",
+    "opsi": {
+      "A": "Wajib Pajak memberikan klarifikasi disertai bukti pendukung -> Tim Ekstensifikasi melakukan penelitian potensi dengan EWS -> Pembahasan Akhir dilakukan melalui video conference/WP datang ke KPP",
+      "B": "Tim Ekstensifikasi melakukan penelitian potensi dengan EWS -> Pembahasan Akhir dilakukan melalui video conference/WP datang ke KPP -> Wajib Pajak memberikan klarifikasi disertai bukti pendukung",
+      "C": "Pembahasan Akhir dilakukan melalui video conference/WP datang ke KPP -> Wajib Pajak memberikan klarifikasi disertai bukti pendukung -> Tim Ekstensifikasi melakukan penelitian potensi dengan EWS",
+      "D": "Wajib Pajak memberikan klarifikasi disertai bukti pendukung -> Pembahasan Akhir dilakukan melalui video conference/WP datang ke KPP -> Tim Ekstensifikasi melakukan penelitian potensi dengan EWS"
+    },
+    "kunci": "C",
+    "pembahasan": "Sesuai materi: Pembahasan Akhir dilakukan (video conference/WP datang ke KPP), lalu WP memberi klarifikasi disertai bukti pendukung, lalu Tim Ekstensifikasi meneliti potensi menggunakan Working Paper/EWS.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Pembahasan Akhir dapat dilakukan melalui:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "bukti"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "menggunakan Working Paper; Examination Working"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "Urutan Tahapan"
+    ]
+  },
+  {
+    "id": "EKS-04-020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "kasus",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Jika Wajib Pajak tidak hadir dalam Pembahasan Akhir, bagaimana status Wajib Pajak tersebut menurut materi?",
+    "opsi": {
+      "A": "Dianggap mengajukan keberatan atas hasil pengujian",
+      "B": "Dianggap mengundurkan diri sebagai Wajib Pajak",
+      "C": "Dianggap mengajukan permohonan penundaan pembahasan",
+      "D": "Dianggap menyetujui hasil pengujian/pengawasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: Dalam hal Wajib Pajak tidak hadir, Wajib Pajak dianggap menyetujui hasil pengujian/pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Dalam hal Wajib Pajak tidak hadir:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "pengujian/pengawasan;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "WP Tidak Hadir"
+    ]
+  },
+  {
+    "id": "EKS-04-021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Jika Wajib Pajak tidak hadir dalam Pembahasan Akhir, bagaimana nilai potensi indikasi kewajiban perpajakan ditentukan?",
+    "opsi": {
+      "A": "Dihitung sesuai dengan hasil pengujian/pengawasan",
+      "B": "Dihitung berdasarkan nilai yang diajukan Wajib Pajak sebelumnya",
+      "C": "Ditetapkan sebesar nol hingga ada klarifikasi lebih lanjut",
+      "D": "Dihitung berdasarkan rata-rata industri sejenis"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan: Potensi indikasi kewajiban perpajakan pajak yang seharusnya dibayar/dipotong/disetorkan akan dihitung sesuai dengan hasil pengujian/pengawasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Potensi indikasi kewajiban perpajakan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "dihitung"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "pengujian/pengawasan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Pembahasan Akhir",
+      "WP Tidak Hadir"
+    ]
+  },
+  {
+    "id": "EKS-04-022",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "BAP2DK yang disusun Tim Ekstensifikasi berisikan berapa komponen informasi sesuai materi?",
+    "opsi": {
+      "A": "3",
+      "B": "5",
+      "C": "4",
+      "D": "6"
+    },
+    "kunci": "B",
+    "pembahasan": "Lima komponen yaitu Informasi Penyampaian SP2DK, Data Profil Wajib Pajak, Tanggapan SP2DK dari Wajib Pajak, Simpulan Akhir, dan Hasil Penghitungan Potensi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Tim Ekstensifikasi menyusun BAP2DK, yang berisikan:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "5. Hasil Penghitungan Potensi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-023",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Selain Informasi Penyampaian SP2DK dan Data Profil Wajib Pajak, komponen apa lagi yang termasuk isi BAP2DK?",
+    "opsi": {
+      "A": "Rencana Tindak Lanjut Pemeriksaan, Nota Penghitungan, dan Surat Teguran",
+      "B": "Risalah Pembahasan Akhir, Surat Perintah Pemeriksaan, dan LHP2DK",
+      "C": "Tanggapan SP2DK dari Wajib Pajak, Simpulan Akhir, dan Hasil Penghitungan Potensi",
+      "D": "Data Pembanding Industri, Analisis Risiko, dan Surat Peringatan"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: 3. Tanggapan SP2DK dari Wajib Pajak; 4. Simpulan Akhir; dan 5. Hasil Penghitungan Potensi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "3. Tanggapan SP2DK dari Wajib Pajak;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "4. Simpulan Akhir; dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "5. Hasil Penghitungan Potensi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-024",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Tanggapan Wajib Pajak atas SP2DK yang dicantumkan dalam BAP2DK dapat berupa berapa kategori menurut materi?",
+    "opsi": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "7"
+    },
+    "kunci": "D",
+    "pembahasan": "Tujuh kategori: tidak dapat ditemukan/meninggal dunia/SPLN, tidak memberikan tanggapan, telah terdaftar/NIK aktif, telah dikukuhkan PKP, telah mendaftarkan objek PBB, telah lapor SPT/bayar, dan menyampaikan klarifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Tanggapan Wajib Pajak atas SP2DK dapat berupa:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "7. menyampaikan klarifikasi atas data dan/atau keterangan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-025",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak telah melaporkan SPT dan melakukan pembayaran pajak terkait temuan P2DK. Tanggapan ini termasuk kategori apa dalam BAP2DK?",
+    "opsi": {
+      "A": "Telah melakukan pelaporan SPT dan/atau pembayaran/penyetoran/pemotongan/pemungutan Pajak",
+      "B": "Telah terdaftar atau memiliki NIK yang telah diaktifkan sebagai identitas Wajib Pajak",
+      "C": "Telah dikukuhkan sebagai Pengusaha Kena Pajak sesuai permohonan yang diajukan Wajib Pajak",
+      "D": "Menyampaikan klarifikasi atas data dan/atau keterangan disertai bukti pendukung terkait"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan: telah melakukan pelaporan SPT dan/atau pembayaran/penyetoran/pemotongan/pemungutan Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "6. telah melakukan pelaporan SPT dan/atau pembayaran/penyetoran/"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "pemotongan/pemungutan Pajak; dan/atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-026",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak menyampaikan dokumen pendukung atas data yang diminta tanpa langsung menyetujui nilai potensi. Tanggapan ini termasuk kategori apa dalam BAP2DK?",
+    "opsi": {
+      "A": "Tidak memberikan tanggapan",
+      "B": "Menyampaikan klarifikasi atas data dan/atau keterangan",
+      "C": "Telah mendaftarkan objek pajak PBB",
+      "D": "Telah terdaftar atau NIK telah aktif"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: menyampaikan klarifikasi atas data dan/atau keterangan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "7. menyampaikan klarifikasi atas data dan/atau keterangan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-027",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Simpulan Akhir BAP2DK dapat berupa berapa kemungkinan sesuai materi?",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "6"
+    },
+    "kunci": "C",
+    "pembahasan": "Tujuh kemungkinan: WP tidak dapat ditemukan/meninggal/SPLN, tidak ada potensi pajak, WP tidak hadir pembahasan akhir, WP tidak mendaftar/aktivasi NIK, WP setuju, WP tidak setuju, dan WP tidak memenuhi syarat subjektif/objektif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "Simpulan Akhir BAP2DK dapat berupa:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "6. Wajib Pajak tidak setuju dengan nilai potensi."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK",
+      "Simpulan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-04-028",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak menyatakan setuju dengan nilai potensi hasil Pembahasan Akhir. Simpulan Akhir BAP2DK yang sesuai adalah...",
+    "opsi": {
+      "A": "Wajib Pajak tidak menghadiri pembahasan akhir",
+      "B": "Wajib Pajak tidak setuju dengan nilai potensi",
+      "C": "Tidak terdapat potensi pajak",
+      "D": "Wajib Pajak setuju dengan nilai potensi hasil pembahasan akhir"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: Wajib Pajak setuju dengan nilai potensi hasil pembahasan akhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "5. Wajib Pajak setuju dengan nilai potensi hasil pembahasan akhir;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK",
+      "Simpulan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-04-029",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Pembahasan Akhir & Penyusunan BAP2DK (isi BAP2DK, tanggapan WP, simpulan akhir)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk Simpulan Akhir BAP2DK sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "Wajib Pajak mengajukan permohonan pengurangan sanksi administrasi",
+      "B": "Tidak terdapat potensi pajak",
+      "C": "Wajib Pajak tidak menghadiri pembahasan akhir",
+      "D": "Wajib Pajak tidak setuju dengan nilai potensi"
+    },
+    "kunci": "A",
+    "pembahasan": "Tujuh Simpulan Akhir BAP2DK yang diatur tidak mencakup permohonan pengurangan sanksi administrasi; opsi lain merupakan Simpulan Akhir yang eksplisit tercantum dalam materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "2. Tidak terdapat potensi pajak;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "3. Wajib Pajak tidak menghadiri pembahasan akhir;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 99,
+        "kutipan": "6. Wajib Pajak tidak setuju dengan nilai potensi."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penyusunan BAP2DK",
+      "Simpulan Akhir"
+    ]
+  },
+  {
+    "id": "EKS-04-030",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan skema Penandatanganan BAP2DK, salah satu dokumen/tahapan yang menjadi dasar (tercantum pada kotak 'Berdasarkan') penyusunan BAP2DK adalah...",
+    "opsi": {
+      "A": "SPOP",
+      "B": "SPHPP",
+      "C": "STP",
+      "D": "SKP"
+    },
+    "kunci": "B",
+    "pembahasan": "Skema menunjukkan kotak 'Berdasarkan' berisi SPHPP, Pembahasan, dan Pembahasan berikutnya sebagai dasar penyusunan BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "SPHPP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "Berdasarkan:"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK",
+      "SPHPP"
+    ]
+  },
+  {
+    "id": "EKS-04-031",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam kondisi normal, BAP2DK ditandatangani oleh siapa sesuai materi?",
+    "opsi": {
+      "A": "Kepala Seksi Ekstensifikasi dan Wajib Pajak",
+      "B": "AR/Pegawai DJP yang ditugaskan dan Kepala KPP",
+      "C": "Wajib Pajak dan AR/Pegawai DJP yang ditugaskan",
+      "D": "Wajib Pajak dan kuasa hukumnya"
+    },
+    "kunci": "C",
+    "pembahasan": "Skema menunjukkan panah 'ditandatangani oleh' dari BAP2DK menuju Wajib Pajak dan AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "ditandatangani oleh"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "Wajib Pajak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "AR/Pegawai DJP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-032",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak menghadiri Pembahasan Akhir namun menolak menandatangani BAP2DK. Berdasarkan materi, siapa yang menandatangani BAP2DK dalam kondisi ini?",
+    "opsi": {
+      "A": "Hanya Wajib Pajak",
+      "B": "Wajib Pajak dan Kepala KPP",
+      "C": "Wajib Pajak diwakili kuasa hukum",
+      "D": "Hanya AR/Pegawai DJP yang ditugaskan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK, sehingga BAP2DK hanya ditandatangani oleh AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK."
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "hanya ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-033",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk kondisi yang menyebabkan BAP2DK hanya ditandatangani oleh AR/Pegawai DJP yang ditugaskan, KECUALI...",
+    "opsi": {
+      "A": "Wajib Pajak menghadiri pembahasan dan bersedia menandatangani BAP2DK",
+      "B": "Tidak terdapat pembahasan sama sekali dengan Wajib Pajak",
+      "C": "Wajib Pajak tidak menghadiri pembahasan yang diundangkan",
+      "D": "Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Kondisi yang diatur adalah tidak terdapat pembahasan, Wajib Pajak tidak menghadiri pembahasan, atau Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani; jika WP bersedia menandatangani maka BAP2DK ditandatangani bersama WP dan AR.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "a. tidak terdapat pembahasan;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "b. Wajib Pajak tidak menghadiri"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "pembahasan; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-034",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "BAP2DK disampaikan kepada Wajib Pajak melalui tiga cara. Manakah yang termasuk salah satu caranya?",
+    "opsi": {
+      "A": "Melalui pengumuman pada papan informasi KPP",
+      "B": "Melalui Akun Wajib Pajak yang telah diaktivasi oleh Wajib Pajak",
+      "C": "Melalui surat elektronik pribadi tanpa verifikasi",
+      "D": "Melalui media sosial resmi milik KPP setempat"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: melalui Akun Wajib Pajak, dalam hal Wajib Pajak telah melakukan aktivasi Akun Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "melalui Akun Wajib Pajak, dalam hal Wajib Pajak telah"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "melakukan aktivasi Akun Wajib Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-035",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak belum mengaktivasi Akun Wajib Pajak dan tidak menghadiri pembahasan. BAP2DK yang telah selesai disusun disampaikan melalui cara apa?",
+    "opsi": {
+      "A": "Akun Wajib Pajak setelah diaktivasi secara sepihak oleh DJP",
+      "B": "Secara langsung pada saat pembahasan berikutnya",
+      "C": "Pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat ke alamat Wajib Pajak",
+      "D": "Melalui pengumuman resmi pada media massa nasional"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti pengiriman surat ke alamat tempat tinggal atau tempat kedudukan Wajib Pajak.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "melalui pos, jasa ekspedisi, atau jasa kurir dengan bukti"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "pengiriman surat ke alamat tempat tinggal atau tempat"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-036",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Urutan tahapan penandatanganan BAP2DK secara daring yang benar sesuai materi adalah...",
+    "opsi": {
+      "A": "BAP2DK di-TTE -> Pembahasan dilakukan secara daring -> Wajib Pajak menandatangani konsep BAP2DK -> AR/Pegawai DJP mengirim konsep BAP2DK",
+      "B": "Wajib Pajak menandatangani konsep BAP2DK -> Pembahasan dilakukan secara daring -> AR/Pegawai DJP mengirim konsep BAP2DK -> BAP2DK di-TTE",
+      "C": "AR/Pegawai DJP mengirim konsep BAP2DK -> Wajib Pajak menandatangani konsep BAP2DK -> Pembahasan dilakukan secara daring -> BAP2DK di-TTE",
+      "D": "Pembahasan dilakukan secara daring -> BAP2DK di-TTE, jika tidak bisa TTE AR/Pegawai DJP mengirim konsep BAP2DK -> Wajib Pajak menandatangani konsep BAP2DK -> Wajib Pajak mengirim kembali konsep BAP2DK yang telah ditandatangani"
+    },
+    "kunci": "D",
+    "pembahasan": "Sesuai skema: pembahasan daring, BAP2DK di-TTE (jika tidak bisa TTE maka AR mengirim konsep BAP2DK), WP menandatangani konsep, lalu WP mengirim kembali konsep yang telah ditandatangani.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "Tidak bisa TTE"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "Mengirim konsep BAP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "Wajib Pajak"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK Daring",
+      "Urutan Tahapan"
+    ]
+  },
+  {
+    "id": "EKS-04-037",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak wajib mengirimkan kembali konsep BAP2DK yang telah ditandatangani paling lama berapa hari kerja sejak konsep dikirim, dalam proses penandatanganan secara daring?",
+    "opsi": {
+      "A": "5 hari kerja",
+      "B": "3 hari kerja",
+      "C": "7 hari kerja",
+      "D": "14 hari kerja"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan: WP mengirim kembali konsep BAP2DK yang telah di-ttd, max 5 hari kerja sejak konsep dikirim.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "WP mengirim kembali konsep"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "BAP2DK yang telah di-ttd, max 5"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "hari kerja sejak konsep dikirim"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK Daring"
+    ]
+  },
+  {
+    "id": "EKS-04-038",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak telah menandatangani konsep BAP2DK dalam pembahasan daring namun tidak mengirimkan kembali konsep tersebut hingga melewati batas waktu yang ditentukan. Bagaimana status Wajib Pajak tersebut menurut materi?",
+    "opsi": {
+      "A": "Dianggap tidak menghadiri pembahasan sama sekali",
+      "B": "Dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK",
+      "C": "Dianggap menyetujui BAP2DK secara otomatis",
+      "D": "Dianggap mengajukan keberatan atas BAP2DK"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: WP tidak menyampaikan kembali konsep BAP2DK yang telah di-ttd oleh WP, maka Wajib Pajak dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "WP tidak menyampaikan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "kembali konsep BAP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "Wajib Pajak dianggap menghadiri"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK Daring"
+    ]
+  },
+  {
+    "id": "EKS-04-039",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam proses pembahasan secara daring, bentuk penandatanganan BAP2DK yang digunakan sebelum disampaikan kepada Wajib Pajak adalah...",
+    "opsi": {
+      "A": "Ditandatangani basah dan discan oleh AR",
+      "B": "Ditandatangani oleh Kepala KPP saja",
+      "C": "Ditandatangani secara elektronik (di-TTE)",
+      "D": "Ditandatangani melalui meterai elektronik oleh Wajib Pajak lebih dulu"
+    },
+    "kunci": "C",
+    "pembahasan": "Skema menampilkan label 'BAP2DK' dan 'di-TTE' pada alur pembahasan daring.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "BAP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "di-TTE"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK Daring",
+      "TTE"
+    ]
+  },
+  {
+    "id": "EKS-04-040",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+    "subtopik": "Penandatanganan BAP2DK (langsung & daring - WP kirim kembali max 5 hari kerja)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "BAP2DK dapat disampaikan secara langsung kepada Wajib Pajak dalam kondisi apa?",
+    "opsi": {
+      "A": "Wajib Pajak telah mengaktivasi Akun Wajib Pajak",
+      "B": "Wajib Pajak berdomisili di wilayah kerja KPP",
+      "C": "Wajib Pajak memiliki kuasa hukum resmi",
+      "D": "Wajib Pajak menghadiri pembahasan"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: secara langsung dalam hal Wajib Pajak menghadiri pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "secara langsung dalam hal Wajib Pajak menghadiri pembahasan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "Penandatanganan BAP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-041",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Apa kepanjangan dari LHP2DK sesuai materi Penyusunan LHP2DK?",
+    "opsi": {
+      "A": "Laporan Hasil Permintaan Penjelasan atas Data dan/atau Keterangan",
+      "B": "Laporan Hasil Pemeriksaan Pajak Dua Kali",
+      "C": "Laporan Hasil Pengawasan dan Pengujian Data Keuangan",
+      "D": "Laporan Hasil Permohonan Pembetulan Data dan Keterangan"
+    },
+    "kunci": "A",
+    "pembahasan": "Kutipan: Laporan Hasil Permintaan Penjelasan atas Data dan/atau Keterangan (LHP2DK).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Laporan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Hasil"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Permintaan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Penjelasan atas Data"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "dan/atau Keterangan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "(LHP2DK)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-042",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "LHP2DK memuat berapa komponen informasi sesuai materi?",
+    "opsi": {
+      "A": "4",
+      "B": "6",
+      "C": "5",
+      "D": "7"
+    },
+    "kunci": "B",
+    "pembahasan": "Enam komponen: informasi profil Wajib Pajak, penyampaian SP2DK, hasil klarifikasi Wajib Pajak, indikasi kewajiban perpajakan pajak yang masih harus dibayar, tanggapan Wajib Pajak, dan rekomendasi atau tindak lanjut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "LHP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "memuat:"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "rekomendasi atau tindak lanjut"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-043",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Selain informasi profil Wajib Pajak dan penyampaian SP2DK, manakah yang termasuk muatan LHP2DK?",
+    "opsi": {
+      "A": "Data Profil Wajib Pajak pada BAP2DK",
+      "B": "Nota Penghitungan Sanksi Administrasi",
+      "C": "Hasil klarifikasi Wajib Pajak",
+      "D": "Risalah Pembahasan Akhir"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: hasil klarifikasi Wajib Pajak, merupakan salah satu muatan LHP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "hasil klarifikasi Wajib Pajak,"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-044",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk muatan LHP2DK sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "informasi profil Wajib Pajak",
+      "B": "tanggapan Wajib Pajak",
+      "C": "rekomendasi atau tindak lanjut",
+      "D": "Hasil Penghitungan Potensi sebagaimana pada BAP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "LHP2DK memuat indikasi kewajiban perpajakan pajak yang masih harus dibayar, bukan item Hasil Penghitungan Potensi yang merupakan komponen BAP2DK pada tahap sebelumnya.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "informasi profil Wajib Pajak;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "tanggapan Wajib Pajak, dan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "rekomendasi atau tindak lanjut"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK"
+    ]
+  },
+  {
+    "id": "EKS-04-045",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "angka",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Tanggapan Wajib Pajak yang dicantumkan dalam LHP2DK dapat berupa berapa kategori?",
+    "opsi": {
+      "A": "8",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "kunci": "A",
+    "pembahasan": "Delapan kategori tanggapan WP, mulai dari WP tidak dapat ditemukan/meninggal/SPLN hingga WP tidak memenuhi persyaratan subjektif dan objektif.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Tanggapan WP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "8. Wajib Pajak tidak memenuhi persyaratan subjektif"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-046",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak memiliki indikasi kewajiban PPN namun belum dikukuhkan sebagai Pengusaha Kena Pajak meski telah diminta penjelasan. Tanggapan WP ini termasuk kategori apa dalam LHP2DK?",
+    "opsi": {
+      "A": "Wajib Pajak tidak menghadiri pembahasan akhir",
+      "B": "Wajib Pajak tidak dikukuhkan sebagai PKP",
+      "C": "Wajib Pajak tidak mendaftar objek pajak PBB",
+      "D": "Wajib Pajak setuju dengan potensi berdasarkan hasil pembahasan akhir"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: Wajib Pajak tidak dikukuhkan sebagai PKP, merupakan salah satu kategori tanggapan WP dalam LHP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "6. Wajib Pajak tidak dikukuhkan sebagai PKP;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-047",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak menyatakan setuju terhadap nilai potensi pajak hasil Pembahasan Akhir. Tanggapan ini dicatat dalam LHP2DK sebagai kategori apa?",
+    "opsi": {
+      "A": "Wajib Pajak tidak setuju dengan nilai potensi berdasarkan hasil pembahasan akhir",
+      "B": "Tidak terdapat indikasi kewajiban perpajakan",
+      "C": "Wajib Pajak setuju dengan potensi berdasarkan hasil pembahasan akhir",
+      "D": "Wajib Pajak tidak menghadiri pembahasan akhir"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: Wajib Pajak setuju dengan potensi berdasarkan hasil pembahasan akhir.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "4. Wajib Pajak setuju dengan potensi berdasarkan"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "hasil pembahasan akhir;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-048",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk kategori tanggapan Wajib Pajak dalam LHP2DK sesuai materi, KECUALI...",
+    "opsi": {
+      "A": "Tidak terdapat indikasi kewajiban perpajakan",
+      "B": "Wajib Pajak tidak menghadiri pembahasan akhir",
+      "C": "Wajib Pajak tidak memenuhi persyaratan subjektif dan objektif",
+      "D": "Wajib Pajak mengajukan keberatan atas Surat Ketetapan Pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Delapan kategori tanggapan WP dalam LHP2DK tidak mencakup pengajuan keberatan atas SKP; opsi lain tercantum eksplisit dalam materi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "2. Tidak terdapat indikasi kewajiban perpajakan;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "3. Wajib Pajak tidak menghadiri pembahasan akhir;"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "8. Wajib Pajak tidak memenuhi persyaratan subjektif"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Tanggapan WP"
+    ]
+  },
+  {
+    "id": "EKS-04-049",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Rekomendasi atau tindak lanjut pada LHP2DK terdiri dari berapa pilihan?",
+    "opsi": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "kunci": "A",
+    "pembahasan": "Tiga pilihan: Tidak Ditindaklanjuti (case closed), Usul IDLP, dan Usul Pemeriksaan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Rekomendasi atau tindak lanjut"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "3. Usul"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Pemeriksaan,"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Rekomendasi"
+    ]
+  },
+  {
+    "id": "EKS-04-050",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Rekomendasi 'Tidak Ditindaklanjuti' pada LHP2DK juga dikenal dengan istilah apa?",
+    "opsi": {
+      "A": "Final assessment",
+      "B": "Case closed",
+      "C": "Close monitoring",
+      "D": "Pending review"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: Tidak Ditindaklanjuti (case closed).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Ditindaklanjuti (case"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "closed),"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Rekomendasi"
+    ]
+  },
+  {
+    "id": "EKS-04-051",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "LHP2DK menyimpulkan bahwa Wajib Pajak memiliki indikasi tindak pidana di bidang perpajakan. Rekomendasi apa yang sesuai?",
+    "opsi": {
+      "A": "Usul Pemeriksaan",
+      "B": "Tidak Ditindaklanjuti",
+      "C": "Usul IDLP",
+      "D": "Input KPD Form"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: Usul IDLP, dalam hal Wajib Pajak memiliki indikasi tindak pidana di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "2. Usul IDLP, dalam hal Wajib Pajak memiliki indikasi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "tindak pidana di bidang perpajakan; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Usul IDLP"
+    ]
+  },
+  {
+    "id": "EKS-04-052",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Hasil LHP2DK menunjukkan masih terdapat potensi pajak yang belum dipenuhi Wajib Pajak. Rekomendasi apa yang sesuai?",
+    "opsi": {
+      "A": "Usul IDLP atas indikasi tindak pidana",
+      "B": "Tidak Ditindaklanjuti (case closed)",
+      "C": "Pengukuhan PKP secara Jabatan oleh KPP",
+      "D": "Usul Pemeriksaan atas potensi pajak"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: Usul Pemeriksaan, dalam hal masih terdapat potensi pajak yang belum dipenuhi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "3. Usul"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Pemeriksaan,"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "potensi pajak yang belum dipenuhi."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Usul Pemeriksaan"
+    ]
+  },
+  {
+    "id": "EKS-04-053",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut termasuk kondisi yang menyebabkan rekomendasi LHP2DK berupa 'Tidak Ditindaklanjuti (case closed)', KECUALI...",
+    "opsi": {
+      "A": "Wajib Pajak memiliki indikasi tindak pidana di bidang perpajakan",
+      "B": "Wajib Pajak tidak dapat ditemukan",
+      "C": "Wajib Pajak tidak memenuhi persyaratan subjektif dan objektif sebagai Wajib Pajak",
+      "D": "Wajib Pajak telah memenuhi kewajiban perpajakan pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Kondisi Tidak Ditindaklanjuti mencakup WP tidak dapat ditemukan/meninggal dunia/tidak memenuhi syarat subjektif-objektif/tidak ada potensi indikasi kewajiban/telah memenuhi kewajiban perpajakan; indikasi tindak pidana justru menjadi dasar rekomendasi Usul IDLP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "dalam hal"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Wajib"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "subjektif dan objektif sebagai Wajib Pajak/tidak"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "memenuhi"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "kewajiban"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "perpajakan pajak; atau"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Rekomendasi"
+    ]
+  },
+  {
+    "id": "EKS-04-054",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Action Selection 'Pengukuhan PKP secara Jabatan' dilaksanakan setelah LHP2DK dalam hal apa?",
+    "opsi": {
+      "A": "Terdapat objek PBB yang belum terdaftar",
+      "B": "Terdapat potensi PPN",
+      "C": "Rekomendasi LHP2DK adalah usul pemeriksaan",
+      "D": "Wajib Pajak tidak menghadiri pembahasan akhir"
+    },
+    "kunci": "B",
+    "pembahasan": "Kutipan: Pengukuhan PKP secara Jabatan, dalam hal terdapat potensi PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Pengukuhan PKP secara Jabatan, dalam hal terdapat potensi PPN"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Action Selection"
+    ]
+  },
+  {
+    "id": "EKS-04-055",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Action Selection 'Pendaftaran PBB secara jabatan' dilaksanakan setelah LHP2DK dalam hal apa?",
+    "opsi": {
+      "A": "Terdapat potensi PPN",
+      "B": "Rekomendasi LHP2DK adalah usul IDLP",
+      "C": "Terdapat objek PBB yang belum terdaftar",
+      "D": "Wajib Pajak tidak dikukuhkan sebagai PKP"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: Pendaftaran PBB secara jabatan, dalam hal terdapat objek PBB yang belum terdaftar.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Pendaftaran PBB secara jabatan, daam hal terdapat objek PBB yang belum"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "terdaftar"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Action Selection"
+    ]
+  },
+  {
+    "id": "EKS-04-056",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Action Selection 'Input KPD Form' dilaksanakan dalam hal apa?",
+    "opsi": {
+      "A": "Rekomendasi LHP2DK adalah usul pemeriksaan",
+      "B": "Terdapat potensi PPN yang belum dikukuhkan",
+      "C": "Wajib Pajak mengajukan klarifikasi tambahan",
+      "D": "Terdapat data dan informasi yang ditemukan pada saat pelaksanaan Ekstensifikasi"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: Input KPD Form, dalam hal terdapat data dan informasi yang ditemukan pada saat pelaksanaan Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Input KPD Form, dalam hal terdapat data dan nformasi yang ditemukan pada"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "saat pelaksanaan Ekstensifikasi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Action Selection"
+    ]
+  },
+  {
+    "id": "EKS-04-057",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Action Selection (tindak lanjut setelah LHP2DK) pada skema terdiri dari berapa pilihan?",
+    "opsi": {
+      "A": "5",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "kunci": "A",
+    "pembahasan": "Lima pilihan: Usul IDLP, Usul Pemeriksaan, Pengukuhan PKP secara Jabatan, Pendaftaran PBB secara jabatan, dan Input KPD Form.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Action Selection (setelah LHP2DK)"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Usul IDLP, dalam hal rekomendasi LHP2DK adalah usul IDLP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Action Selection"
+    ]
+  },
+  {
+    "id": "EKS-04-058",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Urutan tahapan yang benar dalam rangkaian kegiatan P2DK sesuai struktur materi adalah...",
+    "opsi": {
+      "A": "Penyusunan LHP2DK & Action Selection -> Hasil Kegiatan P2DK & Penyusunan BAP2DK -> Penandatanganan BAP2DK",
+      "B": "Hasil Kegiatan P2DK & Penyusunan BAP2DK -> Penandatanganan BAP2DK -> Penyusunan LHP2DK & Action Selection",
+      "C": "Penandatanganan BAP2DK -> Penyusunan LHP2DK & Action Selection -> Hasil Kegiatan P2DK & Penyusunan BAP2DK",
+      "D": "Penandatanganan BAP2DK -> Hasil Kegiatan P2DK & Penyusunan BAP2DK -> Penyusunan LHP2DK & Action Selection"
+    },
+    "kunci": "B",
+    "pembahasan": "Struktur materi berurutan dari Hasil Kegiatan P2DK dan Penyusunan BAP2DK, dilanjutkan Penandatanganan BAP2DK, lalu diakhiri Penyusunan LHP2DK beserta Action Selection.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 98,
+        "kutipan": "Hasil Kegiatan P2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "Penandatanganan BAP2DK"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Penyusunan LHP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Urutan Tahapan"
+    ]
+  },
+  {
+    "id": "EKS-04-059",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Setelah LHP2DK diterbitkan dengan rekomendasi Usul IDLP, Action Selection berikutnya yang dilakukan adalah...",
+    "opsi": {
+      "A": "Usul Pemeriksaan atas potensi yang tersisa",
+      "B": "Pengukuhan PKP secara Jabatan oleh KPP",
+      "C": "Usul IDLP sesuai rekomendasi dalam LHP2DK",
+      "D": "Input KPD Form pada sistem Ekstensifikasi"
+    },
+    "kunci": "C",
+    "pembahasan": "Kutipan: Usul IDLP, dalam hal rekomendasi LHP2DK adalah usul IDLP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Usul IDLP, dalam hal rekomendasi LHP2DK adalah usul IDLP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Action Selection"
+    ]
+  },
+  {
+    "id": "EKS-04-060",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Penyusunan LHP2DK & Pemantauan Evaluasi Ekstensifikasi",
+    "subtopik": "Penyusunan LHP2DK: Muatan, Tanggapan WP, Rekomendasi (Tidak Ditindaklanjuti/Usul IDLP/Usul Pemeriksaan)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pada saat pelaksanaan Ekstensifikasi, Tim menemukan data tambahan yang berada di luar cakupan SP2DK awal. Action Selection apa yang sesuai untuk menindaklanjuti temuan tersebut?",
+    "opsi": {
+      "A": "Usul Pemeriksaan",
+      "B": "Pengukuhan PKP secara Jabatan",
+      "C": "Pendaftaran PBB secara jabatan",
+      "D": "Input KPD Form"
+    },
+    "kunci": "D",
+    "pembahasan": "Kutipan: Input KPD Form, dalam hal terdapat data dan informasi yang ditemukan pada saat pelaksanaan Ekstensifikasi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "Input KPD Form, dalam hal terdapat data dan nformasi yang ditemukan pada"
+      },
+      {
+        "pdf": "A",
+        "halaman": 102,
+        "kutipan": "saat pelaksanaan Ekstensifikasi"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "LHP2DK",
+      "Action Selection"
+    ]
+  }
+]

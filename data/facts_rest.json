@@ -1,0 +1,3314 @@
+[
+  {
+    "id": "F-A-005-01",
+    "fakta": "Pengawasan Pembayaran Masa (PPM) adalah pengawasan atas kewajiban yang jatuh tempo di Tahun Pajak berjalan.",
+    "pdf": "A",
+    "page": 5,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-005-02",
+    "fakta": "Pengawasan Kepatuhan Material (PKM) adalah pengawasan atas kewajiban yang jatuh tempo sebelum Tahun Pajak berjalan.",
+    "pdf": "A",
+    "page": 5,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-005-03",
+    "fakta": "Penelitian Kepatuhan Formal (PnKF) dan Penelitian Kepatuhan Material (PnKM) dilakukan baik pada PPM maupun PKM.",
+    "pdf": "A",
+    "page": 5,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-005-04",
+    "fakta": "Hasil kegiatan pengawasan dapat berujung pada P2DK, Usul Rik (usulan pemeriksaan), atau Bukper jika ditemukan indikasi ketidakpatuhan dengan estimasi potensi yang belum dipenuhi.",
+    "pdf": "A",
+    "page": 5,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-006-01",
+    "fakta": "Dasar hukum Kewenangan dan Tujuan Pengawasan diatur dalam Pasal 2 PMK-111/2025.",
+    "pdf": "A",
+    "page": 6,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-007-01",
+    "fakta": "Ruang Lingkup Pengawasan diatur dalam Pasal 3 PMK-111/2025.",
+    "pdf": "A",
+    "page": 7,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-008-01",
+    "fakta": "Pasal 4 PMK-111/2025 mengatur 10 bentuk kegiatan Pengawasan, salah satunya melaksanakan kegiatan pendukung Pengawasan.",
+    "pdf": "A",
+    "page": 8,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-008-02",
+    "fakta": "Kegiatan pendukung Pengawasan (Pasal 4 huruf j PMK-111/2025) meliputi: pengusulan penilaian untuk tujuan perpajakan, pembahasan dengan pihak internal DJP bersama WP, permintaan data/keterangan ke pihak ketiga, dan kegiatan lain sesuai penugasan.",
+    "pdf": "A",
+    "page": 8,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-008-03",
+    "fakta": "Permintaan dokumen penentuan harga transfer dalam Pengawasan dilaksanakan sesuai PMK tentang penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU) dalam transaksi hubungan istimewa.",
+    "pdf": "A",
+    "page": 8,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-009-01",
+    "fakta": "Dalam Probis Pengawasan WP Terdaftar menurut PMK-111/2025, Surat Teguran diterbitkan khusus jika SPT tidak disampaikan sesuai batas waktu.",
+    "pdf": "A",
+    "page": 9,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-009-02",
+    "fakta": "Aspek kewajiban yang diawasi dalam Pengawasan WP Terdaftar mencakup: pembayaran/penyetoran pajak, pelaporan pajak, angsuran pajak tahun berjalan, dan layanan/fasilitas perpajakan yang diterima WP.",
+    "pdf": "A",
+    "page": 9,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-013-01",
+    "fakta": "Jangka waktu penyampaian tanggapan atas SP2DK untuk WP Terdaftar adalah maksimal 14 hari, dapat diperpanjang 7 hari (total maksimal 21 hari).",
+    "pdf": "A",
+    "page": 13,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-013-02",
+    "fakta": "Pemberitahuan perpanjangan jangka waktu tanggapan SP2DK harus diterima KPP sebelum jangka waktu 14 hari berakhir.",
+    "pdf": "A",
+    "page": 13,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-013-03",
+    "fakta": "Jangka waktu tanggapan SP2DK dihitung sejak peristiwa yang lebih dahulu terjadi di antara: tanggal penerbitan (via Akun WP), tanggal pengiriman (pos elektronik), tanggal bukti pengiriman (faksimile/pos-ekspedisi-kurir), atau tanggal penyampaian langsung.",
+    "pdf": "A",
+    "page": 13,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-013-04",
+    "fakta": "Jika WP tidak memenuhi kewajiban atau penjelasannya belum sesuai setelah SP2DK, DJP menerbitkan Undangan Pembahasan/Kunjungan.",
+    "pdf": "A",
+    "page": 13,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-019-01",
+    "fakta": "Hasil Kegiatan P2DK untuk WP Terdaftar dapat berupa case closed dengan diterbitkannya SP3-P2DK (huruf a), atau Usulan Lain (huruf b sampai q).",
+    "pdf": "A",
+    "page": 19,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-019-02",
+    "fakta": "Usulan lain hasil P2DK (huruf b-q) antara lain: perubahan data secara jabatan, penghapusan NPWP jabatan, pengukuhan/pencabutan PKP jabatan, pendaftaran objek PBB jabatan, pembatasan/pemblokiran layanan publik, Pemeriksaan, dan pemeriksaan bukti permulaan.",
+    "pdf": "A",
+    "page": 19,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-020-01",
+    "fakta": "Surat Imbauan diterbitkan terhadap pemenuhan kewajiban: pengukuhan PKP, pembayaran/penyetoran, pelaporan pajak, angsuran pajak tahun berjalan, layanan/fasilitas perpajakan, dan kewajiban formal lainnya.",
+    "pdf": "A",
+    "page": 20,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-023-01",
+    "fakta": "Jangka waktu tanggapan WP atas Surat Imbauan adalah 14 hari, tanpa mekanisme perpanjangan eksplisit seperti pada SP2DK.",
+    "pdf": "A",
+    "page": 23,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-028-01",
+    "fakta": "Usulan hasil kegiatan Penyampaian Imbauan (huruf a-l) antara lain: penutupan kegiatan imbauan, penetapan nilai angsuran pajak tahun berjalan, perubahan data/status jabatan, penghapusan NPWP jabatan, dan pembatasan/pemblokiran layanan publik tertentu.",
+    "pdf": "A",
+    "page": 28,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-029-01",
+    "fakta": "Surat Teguran diterbitkan dalam hal: (a) SPT tidak disampaikan sesuai batas waktu; dan (b) pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "pdf": "A",
+    "page": 29,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-031-01",
+    "fakta": "Jika WP tidak ditemukan/tidak bersedia menerima Surat Teguran secara langsung, BA Penyampaian hanya ditandatangani oleh AR/Pegawai DJP dan WP dianggap menerima Surat Teguran tanpa memberikan tanggapan.",
+    "pdf": "A",
+    "page": 31,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-033-01",
+    "fakta": "Kegiatan Pengawasan pada Masa Transisi Penerapan Coretax diatur melalui ND-1718/PJ.06/2024, ND-236/PJ.06/2025, dan ND-927/PJ.06/2025.",
+    "pdf": "A",
+    "page": 33,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-035-01",
+    "fakta": "Penyusunan DPP Kolaboratif untuk Pengawasan Kepatuhan WP s.d. Tahun Pajak 2024 (PKM) menggunakan sistem Approweb.",
+    "pdf": "A",
+    "page": 35,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-035-02",
+    "fakta": "Penyusunan DPP untuk Pengawasan Kepatuhan WP Tahun Pajak 2025 dst (PPM dan PKM) menggunakan sistem Coretax.",
+    "pdf": "A",
+    "page": 35,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-036-01",
+    "fakta": "Dalam ND-927/PJ.06/2025, untuk Tahun Pajak s.d. 2024, data RBP dari WP Nontunggal ditolak di Coretax dengan alasan 'Ditindaklanjuti di Legacy' kemudian diusulkan DPP di Legacy.",
+    "pdf": "A",
+    "page": 36,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-036-02",
+    "fakta": "Dalam ND-927/PJ.06/2025, untuk Tahun Pajak sejak 2025, data RBP baik WP Tunggal maupun Nontunggal yang merupakan Penelitian Kepatuhan Material disetujui di Coretax dan langsung menjadi DPP Coretax.",
+    "pdf": "A",
+    "page": 36,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-037-01",
+    "fakta": "Penelitian Kepatuhan Formal dilakukan melalui SIDJP, kecuali untuk kriteria STP tertentu (Bea Meterai, PBB, imbalan bunga, dan denda Pasal 25(9)/27(5d)/27(5f) via Coretax) yang berlaku untuk seluruh Tahun Pajak.",
+    "pdf": "A",
+    "page": 37,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-039-01",
+    "fakta": "Pengawasan atas WP Cabang hingga TP 2024 dilakukan oleh petugas KPP Pusat sesuai administrasi WP Pusat, sedangkan tindak lanjut di KPP Lokasi dilakukan petugas dengan tusi yang sama.",
+    "pdf": "A",
+    "page": 39,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-040-01",
+    "fakta": "Format Penugasan Tim Pengawasan terdiri dari Kepala Seksi (Supervisor), 1 Ketua (AR), dan Anggota (AR).",
+    "pdf": "A",
+    "page": 40,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-076-01",
+    "fakta": "Persandingan alur menunjukkan SP2DK pada Pengawasan (PMK-111/2025) setara dengan S.Pemb Pemeriksaan pada Pemeriksaan (PMK-15/2025).",
+    "pdf": "A",
+    "page": 76,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-076-02",
+    "fakta": "Persandingan alur menunjukkan BAP2DK pada Pengawasan setara dengan SPHP pada Pemeriksaan, dan LHP2DK pada Pengawasan setara dengan LHP pada Pemeriksaan.",
+    "pdf": "A",
+    "page": 76,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-076-03",
+    "fakta": "Proses bisnis Pengawasan menuju Pemeriksaan digambarkan sebagai Step 1 (Pengawasan) dan Step 2 (Pemeriksaan).",
+    "pdf": "A",
+    "page": 76,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-118-01",
+    "fakta": "Pemeriksaan PBB terdiri dari Pemeriksaan Rutin (berdasarkan Daftar Nominatif) dan Pemeriksaan Khusus (berdasarkan Jopro CRM PBB Batubara).",
+    "pdf": "A",
+    "page": 118,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-01",
+    "fakta": "Auto Creation SPOP Periode I (Kebun, Migas, Pabum) dilakukan pada tanggal 1 Februari.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-02",
+    "fakta": "Auto Creation SPOP Periode II (Hutan, Minerba, Lainnya) dilakukan pada tanggal 31 Maret.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-03",
+    "fakta": "Jangka waktu pelaporan SPOP oleh Wajib Pajak dalam Siklus Penatausahaan PBB P5L adalah 30 hari.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-04",
+    "fakta": "Wajib Pajak dapat mengajukan penundaan pelaporan SPOP dengan jangka waktu 7 hari.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-05",
+    "fakta": "Jika Coretax menjawab 'Tidak' atas pelaporan SPOP, diterbitkan Surat Teguran dengan jangka waktu tanggapan 7 hari.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-06",
+    "fakta": "Jika hasil Penelitian Material atas SPOP 'Belum Sesuai', dilakukan Klarifikasi dengan jangka waktu 7 hari sebelum masuk ke Pembetulan SPOP.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-07",
+    "fakta": "Penilaian Kantor dalam Siklus Penatausahaan PBB P5L memiliki jangka waktu 5 hari.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-08",
+    "fakta": "Penilaian Lapangan dalam Siklus Penatausahaan PBB P5L memiliki jangka waktu 15 hari.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 3,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-09",
+    "fakta": "Jika Surat Teguran PBB tidak ditanggapi, proses berlanjut ke Anris Pemeriksaan, kemudian Pemeriksaan PBB, dan berujung pada penerbitan SKP PBB.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-119-10",
+    "fakta": "Penilaian Kantor dan Penilaian Lapangan dalam siklus PBB P5L bermuara pada Penetapan NJOP yang kemudian menghasilkan SPPT.",
+    "pdf": "A",
+    "page": 119,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-041-01",
+    "fakta": "PMK-79/2023 mengatur Tata Cara Penilaian untuk Tujuan Perpajakan.",
+    "pdf": "A",
+    "page": 41,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-044-01",
+    "fakta": "Penilaian Kantor adalah penilaian yang tidak memerlukan peninjauan lapangan atas objek Penilaian.",
+    "pdf": "A",
+    "page": 44,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-044-02",
+    "fakta": "Penilaian Lapangan adalah penilaian yang memerlukan peninjauan lapangan atas objek Penilaian.",
+    "pdf": "A",
+    "page": 44,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-044-03",
+    "fakta": "Lingkup Penilaian untuk Perpajakan (Pasal 2 PMK-79/2023) meliputi penentuan Nilai Objek Pajak PBB dalam rangka penetapan NJOP, dan penentuan nilai harta berwujud, harta tidak berwujud, dan bisnis.",
+    "pdf": "A",
+    "page": 44,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-045-01",
+    "fakta": "Dasar hukum penetapan NJOP PBB mengacu pada PMK-186/PMK.03/2019 jo. PMK-234/PMK.03/2022, SE-17/PJ/2020, dan SE-11/PJ/2022.",
+    "pdf": "A",
+    "page": 45,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-046-01",
+    "fakta": "Penetapan NJOP digunakan sebagai dasar penghitungan PBB terutang dalam: penerbitan SPPT, SKP PBB saat pemeriksaan, keputusan keberatan PBB, keputusan pengurangan ketetapan PBB, penghitungan kerugian pada pemeriksaan bukti permulaan, dan penghitungan pemulihan kerugian pada penyidikan.",
+    "pdf": "A",
+    "page": 46,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-048-01",
+    "fakta": "Penilaian untuk menentukan harga perolehan/harga penjualan akibat hubungan istimewa diatur dalam Pasal 10 ayat (1) UU PPh.",
+    "pdf": "A",
+    "page": 48,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-048-02",
+    "fakta": "Penilaian untuk menentukan kembali besarnya penghasilan, pengurangan, dan utang sebagai modal (transfer pricing) diatur dalam Pasal 18 ayat (3) UU PPh.",
+    "pdf": "A",
+    "page": 48,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-049-01",
+    "fakta": "Dasar Pengenaan Pajak PPN atas Kegiatan Membangun Sendiri (KMS) diatur dalam Pasal 16C UU PPN, dan penyerahan aktiva yang tujuan semula tidak diperjualbelikan diatur dalam Pasal 16D UU PPN.",
+    "pdf": "A",
+    "page": 49,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-050-01",
+    "fakta": "Hasil Penilaian digunakan sebagai dasar penghitungan pajak terutang dalam: Pengawasan, Pemeriksaan, Prosedur Persetujuan Bersama (MAP), Kesepakatan Harga Transfer (APA), penyelesaian keberatan, penagihan, pemeriksaan bukti permulaan, dan penyidikan.",
+    "pdf": "A",
+    "page": 50,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-051-01",
+    "fakta": "Penilaian dilakukan dalam jangka waktu paling lama 3 bulan terhitung sejak ditetapkannya Surat Perintah Penilaian sampai dengan Laporan Penilaian ditandatangani.",
+    "pdf": "A",
+    "page": 51,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-051-02",
+    "fakta": "Tim Penilai melakukan Penilaian berdasarkan Surat Perintah Penilaian dan Surat Perintah Penilaian perubahan yang ditetapkan oleh Direktur Jenderal Pajak atau pejabat yang didelegasikan.",
+    "pdf": "A",
+    "page": 51,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-052-01",
+    "fakta": "Tata Cara Penilaian (Pasal 7 PMK-79/2023) terdiri atas 5 tahap: penyiapan bahan, pengumpulan data, analisis data, penerapan pendekatan penilaian, dan penyusunan laporan penilaian.",
+    "pdf": "A",
+    "page": 52,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-053-01",
+    "fakta": "Permintaan bantuan Penilaian dan/atau bantuan Penilai harus dilengkapi dengan latar belakang, tujuan Penilaian, serta data dan informasi terkait objek Penilaian.",
+    "pdf": "A",
+    "page": 53,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-056-01",
+    "fakta": "Sumber data di DJP terbagi atas Data Eksternal/Pihak Ketiga dan Data Internal.",
+    "pdf": "A",
+    "page": 56,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-056-02",
+    "fakta": "Data ILAP ber-PMK diatur dalam Pasal 35A ayat (1) UU KUP, sedangkan Data ILAP non-PMK diatur dalam Pasal 35A ayat (2) UU KUP.",
+    "pdf": "A",
+    "page": 56,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-056-03",
+    "fakta": "Data Eksternal Luar Negeri diperoleh melalui Competent Authority.",
+    "pdf": "A",
+    "page": 56,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-056-04",
+    "fakta": "Pengelolaan data DJP terdiri dari dua tahap: Pembangunan Data (pencarian data eksternal, produksi data, pengolahan data SPT) dan Pemanfaatan Data (antara DJP dan Pihak Luar DJP).",
+    "pdf": "A",
+    "page": 56,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-062-01",
+    "fakta": "Analisis mandiri menurut SE-05/PJ/2022 antara lain melalui analisis SPT, analisis laporan keuangan, analisis Transfer Pricing, dan analisis proses bisnis.",
+    "pdf": "A",
+    "page": 62,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-062-02",
+    "fakta": "Jembreng PPN adalah teknik penyandingan SPT PPN dalam satu halaman, yang sering menemukan kompensasi tidak nyambung dan PPN disetorkan di masa yang sama tanpa setoran.",
+    "pdf": "A",
+    "page": 62,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-062-03",
+    "fakta": "Ekualisasi merupakan penggunaan logika dasar dalam analisis kepatuhan material.",
+    "pdf": "A",
+    "page": 62,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-063-01",
+    "fakta": "WP OP Karyawan umumnya menggunakan skema penghasilan dari pemberi kerja, sedangkan WP OP Non-Karyawan (Profesi/Pengusaha) menggunakan Norma Penghitungan Penghasilan Neto atau Pembukuan/Pencatatan.",
+    "pdf": "A",
+    "page": 63,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-064-01",
+    "fakta": "Tantangan (Cons) Galpot OP meliputi: perilaku sangat beragam, data internal dan eksternal terbatas, karakteristik defensif dan tertutup, serta dominasi transaksi tunai.",
+    "pdf": "A",
+    "page": 64,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-067-01",
+    "fakta": "Terdapat 8 pendekatan menghitung omzet: transaksi tunai dan nontunai, sumber dan penggunaan dana, satuan dan/atau volume, penghitungan biaya hidup, pertambahan kekayaan bersih, berdasarkan SPT/hasil pemeriksaan tahun sebelumnya, proyeksi nilai ekonomi, dan penghitungan rasio.",
+    "pdf": "A",
+    "page": 67,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-067-02",
+    "fakta": "Teknik Pencarian Data dalam Galpot OP meliputi wawancara, elisitasi, pengamatan, berita dan media sosial, serta data internal.",
+    "pdf": "A",
+    "page": 67,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-068-01",
+    "fakta": "Pendekatan satuan dan/atau volume adalah cara menentukan/menghitung kembali penghasilan bruto WP dengan menerapkan harga atau laba terhadap jumlah satuan/volume usaha yang direalisasi.",
+    "pdf": "A",
+    "page": 68,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-069-01",
+    "fakta": "Formula Pendekatan Satuan/Volume: Peredaran Usaha = Volume Usaha x Harga Jual.",
+    "pdf": "A",
+    "page": 69,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-069-02",
+    "fakta": "Jika volume usaha hanya dapat diidentifikasi untuk periode tertentu, Proyeksi Volume Usaha dihitung dengan: (Volume pada periode yang diidentifikasi / Periode yang teridentifikasi) x Setahun.",
+    "pdf": "A",
+    "page": 69,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-070-01",
+    "fakta": "Pendekatan Rasio digunakan bila terdapat data pembanding dari DJP, WP, atau pihak lain, dan kegiatan usaha WP dapat dibandingkan dengan rasio pembanding.",
+    "pdf": "A",
+    "page": 70,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-071-01",
+    "fakta": "Metode Penghitungan Biaya Hidup menghitung peredaran bruto berdasarkan data biaya hidup WP dan tanggungannya, tidak termasuk pengeluaran untuk menambah kekayaan.",
+    "pdf": "A",
+    "page": 71,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-071-02",
+    "fakta": "Jika WP tidak memiliki utang, penghasilan minimal WP sama dengan biaya hidup (titik impas/break even point).",
+    "pdf": "A",
+    "page": 71,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-072-01",
+    "fakta": "Biaya hidup dikelompokkan menjadi 12 kategori: konsumsi rumah tangga, transportasi, pendidikan, kesehatan, rekreasi, gaya hidup, sumbangan, olahraga, pemeliharaan harta, pengeluaran terkait perolehan penghasilan, pajak dan retribusi, serta pengeluaran lainnya.",
+    "pdf": "A",
+    "page": 72,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-073-01",
+    "fakta": "Metode Penambahan Kekayaan Bersih menghitung penghasilan WP OP dengan menjumlahkan pertambahan kekayaan bersih dengan biaya hidup.",
+    "pdf": "A",
+    "page": 73,
+    "priority": 3,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-073-02",
+    "fakta": "Kekayaan Bersih adalah selisih antara harta dan kewajiban/utang yang dimiliki WP Orang Pribadi.",
+    "pdf": "A",
+    "page": 73,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-078-01",
+    "fakta": "Ruang Lingkup Kegiatan Ekstensifikasi 2026 mencakup Aktivasi WP yang terdiri dari: WP Baru, DPE, KPD, WP NA, dan NA TD.",
+    "pdf": "A",
+    "page": 78,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-079-01",
+    "fakta": "DPE (Daftar Prioritas Ekstensifikasi) adalah daftar prioritas penanganan dalam kegiatan Ekstensifikasi.",
+    "pdf": "A",
+    "page": 79,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-081-01",
+    "fakta": "DPE terbagi menjadi DPE Kolaboratif dan DPE Nonkolaboratif, keduanya diproses dalam sistem Coretax.",
+    "pdf": "A",
+    "page": 81,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-081-02",
+    "fakta": "Dasar hukum Jangka Waktu Probis Pengawasan WP Belum Terdaftar adalah ND-498/PJ.06/2025.",
+    "pdf": "A",
+    "page": 81,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-083-01",
+    "fakta": "Tata Cara Pengawasan WP Belum Terdaftar mensyaratkan WP memenuhi syarat objektif dan subjektif sebelum ditindaklanjuti.",
+    "pdf": "A",
+    "page": 83,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-084-01",
+    "fakta": "Tim Ekstensifikasi terdiri dari Kepala Seksi Pengawasan sebagai Supervisor, 1 AR pengampu/Kepala KP2KP sebagai Ketua Tim, dan 1 AR lain sebagai Anggota Tim.",
+    "pdf": "A",
+    "page": 84,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-084-02",
+    "fakta": "Kepala Seksi Pengawasan melakukan assign case kepada Petugas Ekstensifikasi yang terdiri dari 2 orang, dapat berupa Kepala KP2KP, Account Representative, atau Pelaksana Seksi Pengawasan.",
+    "pdf": "A",
+    "page": 84,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-084-03",
+    "fakta": "Penugasan case pada Ekstensifikasi dilakukan berdasarkan rekomendasi HRIS sesuai kompleksitas kasus.",
+    "pdf": "A",
+    "page": 84,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-084-04",
+    "fakta": "Kepala KPP menerbitkan Surat Perintah Pengawasan (SPP) atas DPE yang akan ditindaklanjuti.",
+    "pdf": "A",
+    "page": 84,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-01",
+    "fakta": "Jangka waktu tanggapan/klarifikasi atas SP2DK pada Pengawasan WP Belum Terdaftar adalah paling lama 14 hari kalender.",
+    "pdf": "A",
+    "page": 85,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-02",
+    "fakta": "SP2DK atas WP risiko tinggi disampaikan oleh Fungsional Penyuluh sesuai proses bisnis Edukasi, sedangkan WP risiko sedang/rendah disampaikan oleh Tim Ekstensifikasi.",
+    "pdf": "A",
+    "page": 85,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-03",
+    "fakta": "SP2DK untuk WP Belum Terdaftar disampaikan melalui Portal WP, Pos/Kurir, atau Visit ke Lokasi WP.",
+    "pdf": "A",
+    "page": 85,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-04",
+    "fakta": "Jika WP tidak ditemukan saat visit, Tim Ekstensifikasi dapat meminta bantuan kegiatan Intelijen atau pengamatan.",
+    "pdf": "A",
+    "page": 85,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-05",
+    "fakta": "SP2DK untuk WP Belum Terdaftar berisi: penjelasan pelaksanaan kewajiban perpajakan, permintaan penjelasan data ICALE (Income, Cost, Asset, Liability, Equity).",
+    "pdf": "A",
+    "page": 85,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-088-01",
+    "fakta": "Jangka waktu tanggapan SP2DK pada WP Belum Terdaftar adalah maksimal 14 hari dengan perpanjangan 7 hari (total maksimal 21 hari).",
+    "pdf": "A",
+    "page": 88,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-089-01",
+    "fakta": "Jangka waktu tanggapan SP2DK WP Belum Terdaftar dihitung sejak peristiwa yang lebih dahulu antara: tanggal penerbitan (akun WP aktif), tanggal aktivasi akun WP (bila belum aktif), tanggal bukti pengiriman pos/ekspedisi/kurir, atau tanggal penyampaian langsung.",
+    "pdf": "A",
+    "page": 89,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-090-01",
+    "fakta": "Penyampaian penjelasan oleh WP dapat dilakukan melalui Akun WP, pos elektronik, pos/jasa ekspedisi/kurir, secara langsung saat Kunjungan, atau melalui video conference.",
+    "pdf": "A",
+    "page": 90,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-091-01",
+    "fakta": "Jika WP tidak menyetujui sebagian/seluruh data dalam SP2DK, penjelasan WP harus disertai bukti dan/atau dokumen pendukung.",
+    "pdf": "A",
+    "page": 91,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-092-01",
+    "fakta": "WP dapat menyampaikan tanggapan atas SP2DK lebih dari 1 kali dengan memperhatikan jangka waktu penyampaian.",
+    "pdf": "A",
+    "page": 92,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-093-01",
+    "fakta": "Penelitian Potensi Pajak dalam Ekstensifikasi menggunakan Examination Working Sheet (EWS) Working Paper untuk seluruh jenis pajak dengan masa pajak maksimal 5 tahun sebelum tahun berjalan pelaksanaan ekstensifikasi.",
+    "pdf": "A",
+    "page": 93,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-093-02",
+    "fakta": "Working Paper EWS memuat: akun pajak sesuai format SPT, penghitungan menurut WP, penghitungan menurut petugas, dan selisih penghitungan (Nilai Potensi Pajak).",
+    "pdf": "A",
+    "page": 93,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-094-01",
+    "fakta": "Penerbitan SPHPP dilakukan baik ketika tanggapan WP sesuai, tidak sesuai, maupun ketika WP tidak menyampaikan tanggapan.",
+    "pdf": "A",
+    "page": 94,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-096-01",
+    "fakta": "Jika terdapat indikasi kewajiban perpajakan dengan jumlah pajak, DJP menerbitkan Surat Undangan Pembahasan beserta SPHPP.",
+    "pdf": "A",
+    "page": 96,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-097-01",
+    "fakta": "Pembahasan dengan WP pada Ekstensifikasi dapat dilakukan secara luring atau daring melalui video conference.",
+    "pdf": "A",
+    "page": 97,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-097-02",
+    "fakta": "Jika WP tidak hadir dalam pembahasan, pembahasan dianggap telah dilaksanakan dan kewajiban perpajakan dihitung sepihak oleh DJP.",
+    "pdf": "A",
+    "page": 97,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-098-01",
+    "fakta": "Hasil Kegiatan P2DK dapat berupa pemberian NPWP secara jabatan (bagi WP yang memenuhi syarat subjektif-objektif namun belum mendaftar) atau NITKU secara jabatan (bagi WP ber-NPWP yang belum lapor tempat kegiatan usaha).",
+    "pdf": "A",
+    "page": 98,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-098-02",
+    "fakta": "Kegiatan P2DK tidak ditindaklanjuti jika WP: tidak dapat ditemukan, telah meninggal tanpa warisan belum terbagi, menjadi subjek pajak luar negeri, tidak memenuhi syarat subjektif-objektif, tidak ada indikasi kewajiban, atau telah memenuhi kewajiban perpajakan.",
+    "pdf": "A",
+    "page": 98,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-099-01",
+    "fakta": "Pembahasan Akhir dalam Ekstensifikasi dilakukan atas WP yang masih memiliki potensi pajak, dapat melalui video conference atau WP datang langsung ke KPP.",
+    "pdf": "A",
+    "page": 99,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-099-02",
+    "fakta": "Jika WP tidak hadir Pembahasan Akhir, WP dianggap menyetujui hasil pengujian/pengawasan dan pembahasan akhir dianggap telah dilakukan.",
+    "pdf": "A",
+    "page": 99,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-099-03",
+    "fakta": "BAP2DK berisi: informasi penyampaian SP2DK, data profil WP, tanggapan SP2DK dari WP, simpulan akhir, dan hasil penghitungan potensi.",
+    "pdf": "A",
+    "page": 99,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-101-01",
+    "fakta": "Pada penandatanganan BAP2DK secara daring, WP harus mengirim kembali konsep BAP2DK yang telah ditandatangani maksimal 5 hari kerja sejak konsep dikirim.",
+    "pdf": "A",
+    "page": 101,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-102-01",
+    "fakta": "LHP2DK memuat: informasi profil WP, penyampaian SP2DK, hasil klarifikasi WP, indikasi kewajiban perpajakan, tanggapan WP, dan rekomendasi/tindak lanjut.",
+    "pdf": "A",
+    "page": 102,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-102-02",
+    "fakta": "Rekomendasi LHP2DK terdiri dari 3 opsi: Tidak Ditindaklanjuti (case closed), Usul IDLP (jika ada indikasi tindak pidana perpajakan), atau Usul Pemeriksaan (jika masih ada potensi pajak).",
+    "pdf": "A",
+    "page": 102,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-104-01",
+    "fakta": "Monitoring dan Evaluasi Ekstensifikasi dilakukan di level KPP, Kanwil DJP, dan Kantor Pusat DJP melalui sistem aplikasi SIAP.",
+    "pdf": "A",
+    "page": 104,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-106-01",
+    "fakta": "Dasar hukum penyelesaian WP Non Aktif adalah UU No. 6 Tahun 1983 s.t.t.d. UU No. 7 Tahun 2021 (UU HPP) dan PER-07/PJ/2025.",
+    "pdf": "A",
+    "page": 106,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-107-01",
+    "fakta": "Salah satu kriteria WP Non Aktif adalah WP OP yang tidak melakukan kegiatan usaha namun belum/tidak memperoleh penghasilan atau penghasilannya di bawah PTKP.",
+    "pdf": "A",
+    "page": 107,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-107-02",
+    "fakta": "Salah satu kriteria WP Non Aktif adalah WP OP wanita kawin yang memilih melaksanakan hak dan kewajiban perpajakan digabung dengan suaminya, namun masih memiliki NIK.",
+    "pdf": "A",
+    "page": 107,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-108-01",
+    "fakta": "Penetapan WP Non Aktif secara jabatan mensyaratkan WP tidak melaporkan SPT Masa/Tahunan secara berturut-turut dalam 5 tahun terakhir.",
+    "pdf": "A",
+    "page": 108,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-108-02",
+    "fakta": "Penetapan WP Non Aktif secara jabatan mensyaratkan WP tidak dipotong/dipungut pajak pihak ketiga secara berturut-turut dalam 5 tahun terakhir.",
+    "pdf": "A",
+    "page": 108,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-108-03",
+    "fakta": "Penetapan WP Non Aktif secara jabatan mensyaratkan WP tidak melakukan pembayaran pajak secara berturut-turut dalam 5 tahun terakhir.",
+    "pdf": "A",
+    "page": 108,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-108-04",
+    "fakta": "Penetapan WP Non Aktif secara jabatan mensyaratkan WP tidak memiliki tunggakan pajak, tidak sedang diperiksa/disidik, dan tidak sedang mendapatkan fasilitas/insentif perpajakan.",
+    "pdf": "A",
+    "page": 108,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-109-01",
+    "fakta": "Imbauan Massal untuk WP NATD (Non Aktif Terdapat Data) disusun dalam bentuk Dafnom dan diterbitkan oleh KPDJP dengan e-seal, namun nama yang tercantum pada Surat Imbauan adalah Kepala KPP.",
+    "pdf": "A",
+    "page": 109,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-109-02",
+    "fakta": "Program Prioritas tindak lanjut WP Non Aktif Terdapat Data (NATD) ditindaklanjuti melalui Imbauan Massal.",
+    "pdf": "A",
+    "page": 109,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-110-01",
+    "fakta": "Berdasarkan SE-27/PJ/2020, pelaporan SPT dengan formulir 1770 S atau 1770 SS, tidak melebihi batas waktu, bukan pembetulan, menyatakan nihil/kurang bayar, dan tidak disampaikan dalam bentuk e-SPT, secara otomatis mengubah status WP dari NE menjadi Normal.",
+    "pdf": "A",
+    "page": 110,
+    "priority": 3,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-110-02",
+    "fakta": "Penyampaian SPT melalui DJP Online/PJAP secara otomatis mengubah status WP Non Efektif (NE) menjadi Normal.",
+    "pdf": "A",
+    "page": 110,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-142-01",
+    "fakta": "Validasi Material atas data KPD dilakukan oleh Atasan Langsung, sedangkan Validasi Formal dilakukan oleh Kasi PKD.",
+    "pdf": "A",
+    "page": 142,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-143-01",
+    "fakta": "Data hasil KPD untuk WP belum ber-NPWP masuk ke DSE (Data Sumber Ekstensifikasi) melalui Modul Ekstensifikasi, sedangkan untuk WP ber-NPWP masuk ke Data Penguji.",
+    "pdf": "A",
+    "page": 143,
+    "priority": 2,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-143-02",
+    "fakta": "Setelah data KPD divalidasi dan didistribusikan oleh Kasi PKD ke Kasi Pengawasan II-VI, SP2DK diterbitkan pada hari berikutnya setelah penugasan ke AR.",
+    "pdf": "A",
+    "page": 143,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-143-03",
+    "fakta": "Respon WP atas SP2DK hasil KPD dapat berupa: mendaftarkan diri, tidak memberi tanggapan, menolak mendaftar, atau WP tidak ditemui/kempos.",
+    "pdf": "A",
+    "page": 143,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-C-008-01",
+    "fakta": "Pemeriksaan didefinisikan sebagai kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti secara objektif dan profesional berdasarkan suatu standar pemeriksaan untuk menguji kepatuhan atau tujuan lain, dengan menggunakan metode dan teknik pemeriksaan, berujung pada penerbitan SKP atau produk tujuan lain.",
+    "pdf": "C",
+    "page": 8,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-009-01",
+    "fakta": "Direktur Jenderal Pajak berwenang melakukan Pemeriksaan dengan dua tujuan: menguji kepatuhan pemenuhan kewajiban perpajakan dan tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undangan perpajakan.",
+    "pdf": "C",
+    "page": 9,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-009-02",
+    "fakta": "Terdapat tiga tipe Pemeriksaan untuk menguji kepatuhan: Pemeriksaan Lengkap (mencakup seluruh pos SPT/SPOP secara mendalam), Pemeriksaan Terfokus (satu/beberapa pos secara mendalam), dan Pemeriksaan Spesifik (satu/beberapa pos secara sederhana).",
+    "pdf": "C",
+    "page": 9,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-009-03",
+    "fakta": "Direktur Jenderal Pajak melimpahkan kewenangan administrasi Pemeriksaan dalam bentuk delegasi kepada pejabat di lingkungan DJP.",
+    "pdf": "C",
+    "page": 9,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-010-01",
+    "fakta": "Salah satu kriteria Pemeriksaan untuk menguji kepatuhan adalah SPT yang menyatakan lebih bayar selain pengembalian LB Pasal 17B KUP.",
+    "pdf": "C",
+    "page": 10,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-010-02",
+    "fakta": "Salah satu kriteria Pemeriksaan untuk menguji kepatuhan adalah WP terpilih berdasarkan risiko kepatuhan.",
+    "pdf": "C",
+    "page": 10,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-010-03",
+    "fakta": "Salah satu kriteria Pemeriksaan untuk menguji kepatuhan adalah terdapat data konkret yang menyebabkan pajak terutang atau kurang dibayar.",
+    "pdf": "C",
+    "page": 10,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-011-01",
+    "fakta": "Salah satu kriteria Pemeriksaan untuk tujuan lain adalah pemberian NPWP secara jabatan dan pengukuhan PKP secara jabatan.",
+    "pdf": "C",
+    "page": 11,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-011-02",
+    "fakta": "Pemeriksaan untuk tujuan lain dapat dilakukan dalam rangka penyelesaian keberatan, MAP, dan APA.",
+    "pdf": "C",
+    "page": 11,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-012-01",
+    "fakta": "Jangka waktu pengujian Pemeriksaan Lengkap paling lama 5 bulan, terhitung sejak Surat Pemberitahuan Pemeriksaan disampaikan sampai SPHP disampaikan.",
+    "pdf": "C",
+    "page": 12,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-012-02",
+    "fakta": "Jangka waktu pengujian Pemeriksaan Terfokus paling lama 3 bulan.",
+    "pdf": "C",
+    "page": 12,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-012-03",
+    "fakta": "Jangka waktu pengujian Pemeriksaan Spesifik paling lama 1 bulan.",
+    "pdf": "C",
+    "page": 12,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-012-04",
+    "fakta": "Jangka waktu pengujian Pemeriksaan Dakon (Data Konkret) paling lama 10 Hari Kerja.",
+    "pdf": "C",
+    "page": 12,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-012-05",
+    "fakta": "Jangka waktu PAHP dan Pelaporan untuk Pemeriksaan Lengkap, Terfokus, dan Spesifik paling lama 30 Hari Kerja, terhitung sejak SPHP disampaikan sampai tanggal LHP.",
+    "pdf": "C",
+    "page": 12,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-012-06",
+    "fakta": "Jangka waktu PAHP dan Pelaporan untuk Pemeriksaan Dakon paling lama 10 Hari Kerja.",
+    "pdf": "C",
+    "page": 12,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-013-01",
+    "fakta": "Data Konkret menurut PER-18/PJ/2025 berupa: Faktur Pajak yang disetujui sistem DJP tapi belum dilaporkan SPT Masa PPN, Bukti Potput PPh yang belum dilaporkan pada SPT Masa PPh, dan Bukti Transaksi/Data Perpajakan.",
+    "pdf": "C",
+    "page": 13,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-013-02",
+    "fakta": "PER-18/PJ/2025 tentang Tindak Lanjut atas Data Konkret ditetapkan tanggal 24 September 2025.",
+    "pdf": "C",
+    "page": 13,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-014-01",
+    "fakta": "Pemeriksaan Khusus berdasarkan keterangan lain berupa data konkret disebut audit based on data, sedangkan Pemeriksaan Khusus berdasarkan analisis risiko disebut risk-based audit.",
+    "pdf": "C",
+    "page": 14,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-014-02",
+    "fakta": "Pemeriksaan Rutin adalah pemeriksaan yang dilakukan sehubungan dengan pemenuhan hak dan/atau pelaksanaan kewajiban perpajakan WP.",
+    "pdf": "C",
+    "page": 14,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-015-01",
+    "fakta": "Empat kriteria Pemeriksaan Efektif menurut SE-15/PJ/2018 adalah: pemeriksaan selesai dan pencairan optimal, upaya hukum minimal, restitusi terkendali, dan menciptakan kepatuhan berkelanjutan.",
+    "pdf": "C",
+    "page": 15,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-015-02",
+    "fakta": "Pengendalian restitusi menurut SE-15/PJ/2018 dilakukan melalui optimalisasi pengembalian pendahuluan bagi WP yang memenuhi kriteria Pasal 17C dan 17D UU KUP serta Pasal 9 ayat (4c) UU PPN.",
+    "pdf": "C",
+    "page": 15,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-015-03",
+    "fakta": "Kepatuhan berkelanjutan sebagai kriteria pemeriksaan efektif dapat terlihat dari dinamisasi SPT WP untuk tahun-tahun setelah dilakukan pemeriksaan.",
+    "pdf": "C",
+    "page": 15,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-017-01",
+    "fakta": "Standar Pemeriksaan (PER-23/PJ/2013) terdiri dari Standar Umum Pemeriksaan, Standar Pelaksanaan Pemeriksaan, dan Standar Pelaporan Hasil Pemeriksaan.",
+    "pdf": "C",
+    "page": 17,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-017-02",
+    "fakta": "Standar Umum Pemeriksaan mensyaratkan Pemeriksa Pajak mendapat pendidikan/pelatihan teknis cukup serta memiliki integritas dan independensi.",
+    "pdf": "C",
+    "page": 17,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-017-03",
+    "fakta": "Standar Pelaksanaan Pemeriksaan mensyaratkan hasil temuan didasarkan pada bukti yang kuat dan berlandaskan peraturan perundang-undangan perpajakan, serta didokumentasikan dalam Kertas Kerja Pemeriksaan (KKP).",
+    "pdf": "C",
+    "page": 17,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-018-01",
+    "fakta": "Persiapan Pemeriksaan meliputi pembuatan KKP Identifikasi Masalah, Usulan Rencana Pemeriksaan, dan penyusunan Program serta Prosedur Pemeriksaan.",
+    "pdf": "C",
+    "page": 18,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-019-01",
+    "fakta": "Metode Pemeriksaan terdiri atas Metode Langsung dan Metode Tidak Langsung.",
+    "pdf": "C",
+    "page": 19,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-019-02",
+    "fakta": "Teknik Pemeriksaan adalah cara-cara pengumpulan bukti, pengujian, dan/atau pembuktian yang dikembangkan Pemeriksa Pajak, sedangkan Prosedur Pemeriksaan adalah serangkaian langkah tertulis berupa perintah dalam suatu Teknik Pemeriksaan.",
+    "pdf": "C",
+    "page": 19,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-020-01",
+    "fakta": "Metode Langsung menguji kebenaran pos yang diperiksa secara langsung terhadap buku, catatan, dan dokumen terkait.",
+    "pdf": "C",
+    "page": 20,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-020-02",
+    "fakta": "Metode Tidak Langsung menguji kebenaran pos yang diperiksa secara tidak langsung melalui suatu pendekatan penghitungan tertentu.",
+    "pdf": "C",
+    "page": 20,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-021-01",
+    "fakta": "Metode Tidak Langsung memiliki 6 pendekatan: Transaksi Tunai dan Bank, Sumber dan Penggunaan Dana, Penghitungan Rasio, Satuan dan/atau Volume, Penghitungan Biaya Hidup, dan Pertambahan Kekayaan Bersih.",
+    "pdf": "C",
+    "page": 21,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-022-01",
+    "fakta": "Teknik Audit Berbantuan Komputer (TABK) adalah salah satu dari 16+ teknik pemeriksaan pada Metode Langsung.",
+    "pdf": "C",
+    "page": 22,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-025-01",
+    "fakta": "Metode Tidak Langsung digunakan dalam hal Metode Langsung tidak dapat diterapkan, dan Pemeriksa Pajak harus memiliki bukti bahwa Metode Langsung tidak dapat digunakan.",
+    "pdf": "C",
+    "page": 25,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-025-02",
+    "fakta": "Pemeriksa Pajak dapat menggunakan satu atau lebih pendekatan Metode Tidak Langsung dalam melakukan pemeriksaan.",
+    "pdf": "C",
+    "page": 25,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-028-01",
+    "fakta": "Pasal 13 ayat (3) PP Nomor 50 Tahun 2022 mengatur bahwa WP yang diperiksa wajib memperlihatkan dan/atau meminjamkan buku, catatan, atau dokumen yang menjadi dasar pembukuan/pencatatan.",
+    "pdf": "C",
+    "page": 28,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-028-02",
+    "fakta": "WP yang diperiksa wajib memberikan kesempatan untuk memasuki tempat atau ruang yang dipandang perlu dan memberi bantuan guna kelancaran pemeriksaan.",
+    "pdf": "C",
+    "page": 28,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-029-01",
+    "fakta": "Keterangan tertulis dari WP dalam pemeriksaan dapat berupa surat pernyataan tidak diaudit KAP, pernyataan kesesuaian fotokopi dokumen, pernyataan kepemilikan harta, atau pernyataan perkiraan biaya hidup.",
+    "pdf": "C",
+    "page": 29,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-030-01",
+    "fakta": "Penghitungan Penghasilan Kena Pajak secara jabatan (Pasal 31 ayat 3 UU KUP) mewajibkan Dirjen Pajak menyampaikan SPHP dan memberi hak kepada WP untuk hadir dalam PAHP.",
+    "pdf": "C",
+    "page": 30,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-030-02",
+    "fakta": "Dokumen yang dipertimbangkan pada penghitungan PKP secara jabatan terbatas pada dokumen terkait peredaran usaha/penghasilan bruto dan dokumen kredit pajak.",
+    "pdf": "C",
+    "page": 30,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-031-01",
+    "fakta": "Pasal 29 ayat (4) UU KUP meniadakan kewajiban merahasiakan data pembukuan/pencatatan/dokumen yang diminta untuk keperluan pemeriksaan, untuk mencegah dalih WP bahwa data tersebut terikat kerahasiaan.",
+    "pdf": "C",
+    "page": 31,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-032-01",
+    "fakta": "Penyegelan diatur dalam Pasal 30 ayat (1) UU KUP dan dipicu bila WP tidak berada di tempat atau sengaja tidak memberi kesempatan pemeriksa memasuki tempat/ruang yang diperlukan.",
+    "pdf": "C",
+    "page": 32,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-032-02",
+    "fakta": "Objek yang dapat disegel dalam Penyegelan meliputi Tempat, Ruang, dan Benda bergerak dan/atau tidak bergerak.",
+    "pdf": "C",
+    "page": 32,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-032-03",
+    "fakta": "Penyegelan merupakan upaya terakhir pemeriksa untuk mengamankan buku, catatan, dokumen termasuk data elektronik, agar tidak dipindahkan, dihilangkan, dimusnahkan, diubah, dirusak, ditukar, atau dipalsukan.",
+    "pdf": "C",
+    "page": 32,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-032-04",
+    "fakta": "Penyegelan data elektronik dilakukan sepanjang tidak menghentikan kelancaran operasional perusahaan, khususnya yang berkaitan dengan kepentingan masyarakat.",
+    "pdf": "C",
+    "page": 32,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-033-01",
+    "fakta": "Data Baru dalam konteks Pemeriksaan Ulang adalah data/keterangan mengenai penghitungan pajak terutang yang oleh WP belum diberitahukan pada waktu penetapan semula.",
+    "pdf": "C",
+    "page": 33,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-033-02",
+    "fakta": "Pemeriksaan Ulang dilakukan atas instruksi atau persetujuan Direktur Jenderal Pajak dan dapat menghasilkan SKPKBT (ada tambahan pajak), LHP Sumir (tidak ada tambahan pajak), atau Keputusan Rugi Fiskal (perubahan jumlah rugi fiskal).",
+    "pdf": "C",
+    "page": 33,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-033-03",
+    "fakta": "Jika data baru yang mengakibatkan penambahan pajak terutang dimiliki Dirjen Pajak, dikenakan sanksi kenaikan 100%; jika berasal dari pengakuan WP atas kehendak sendiri, sanksi tidak dikenakan.",
+    "pdf": "C",
+    "page": 33,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-034-01",
+    "fakta": "Pengungkapan Ketidakbenaran Pengisian SPT (Pasal 8 ayat 4 UU KUP) hanya dapat dilakukan WP dengan syarat Dirjen Pajak belum menyampaikan SPHP meski sudah melakukan pemeriksaan.",
+    "pdf": "C",
+    "page": 34,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-034-02",
+    "fakta": "Proses pemeriksaan tetap dilanjutkan sampai selesai meski WP mengajukan Pengungkapan Ketidakbenaran Pengisian SPT.",
+    "pdf": "C",
+    "page": 34,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-01",
+    "fakta": "Alur Proses Pemeriksaan dimulai dari Surat Perintah Pemeriksaan (SP2) yang disampaikan kepada WP, wakil, kuasa, pegawai, atau keluarga.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-02",
+    "fakta": "Pada Pemeriksaan Spesifik, tidak dilakukan entry meeting (pertemuan) karena hak dan kewajiban disampaikan bersama dengan Surat Pemberitahuan Pemeriksaan.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-03",
+    "fakta": "Pembahasan Temuan Sementara dikecualikan untuk Pemeriksaan Spesifik, yaitu tidak dilakukan.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-04",
+    "fakta": "Jangka waktu pengujian pemeriksaan dapat diperpanjang 4 bulan untuk WP Grup atau WP Transfer Pricing (TP).",
+    "pdf": "C",
+    "page": 35,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-05",
+    "fakta": "Dalam hal SKP dan SKP PBB dibatalkan sesuai Pasal 36 ayat (1) huruf d UU KUP, pemeriksaan dilanjutkan dengan melaksanakan prosedur penyampaian SPHP/PAHP.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-06",
+    "fakta": "Dalam hal SKP batal atas pemeriksaan restitusi Pasal 17B UU KUP, jangka waktu 12 bulan tertangguh.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-07",
+    "fakta": "Jika WP tidak dapat menyampaikan SPT/pembetulan SPT dalam proses pemeriksaan, berlaku jalur Pengungkapan Ketidakbenaran Pasal 8 ayat (4), di mana SSP pengungkapan menjadi kredit SKP.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-037-01",
+    "fakta": "Pembukuan menurut Pasal 1 angka 29 UU KUP adalah proses pencatatan teratur untuk mengumpulkan data harta, kewajiban, modal, penghasilan dan biaya, yang ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi.",
+    "pdf": "C",
+    "page": 37,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-037-02",
+    "fakta": "Pembukuan sekurang-kurangnya terdiri atas catatan harta, kewajiban, modal, penghasilan, biaya, serta penjualan dan pembelian (Pasal 28 ayat 7 UU KUP).",
+    "pdf": "C",
+    "page": 37,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-037-03",
+    "fakta": "Pencatatan terdiri atas data yang dikumpulkan secara teratur tentang peredaran/penerimaan bruto dan/atau penghasilan bruto sebagai dasar penghitungan pajak terutang (Pasal 28 ayat 9 UU KUP).",
+    "pdf": "C",
+    "page": 37,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-038-01",
+    "fakta": "Buku, catatan, dan dokumen dasar pembukuan wajib disimpan selama 10 tahun di Indonesia.",
+    "pdf": "C",
+    "page": 38,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-038-02",
+    "fakta": "WP OP yang memilih menggunakan Norma Penghitungan Penghasilan Neto (NPPN) dikecualikan dari kewajiban pembukuan dan cukup melakukan pencatatan.",
+    "pdf": "C",
+    "page": 38,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-038-03",
+    "fakta": "WP OP dengan kriteria tertentu berdasarkan peredaran bruto dapat memilih pencatatan sebagaimana diatur dalam PMK-54/PMK.03/2021.",
+    "pdf": "C",
+    "page": 38,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-039-01",
+    "fakta": "Pembukuan harus diselenggarakan dengan taat asas dan menggunakan Stelsel Akrual atau Stelsel Kas.",
+    "pdf": "C",
+    "page": 39,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-039-02",
+    "fakta": "Pembukuan harus berdasarkan Standar Akuntansi Keuangan, kecuali peraturan perpajakan menentukan lain.",
+    "pdf": "C",
+    "page": 39,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-042-01",
+    "fakta": "Jenis Ketetapan Pajak yang diatur dalam PMK Nomor 80 Tahun 2023 meliputi SKPKB, SKPKBT, SKPLB, SKPN, dan STP.",
+    "pdf": "C",
+    "page": 42,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-043-01",
+    "fakta": "Prinsip Self-Assessment (Pasal 12 UU KUP) memberi WP kewenangan penuh untuk menghitung, memperhitungkan, melaporkan, dan membayar sendiri pajak terutang.",
+    "pdf": "C",
+    "page": 43,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-044-01",
+    "fakta": "SKPKB diterbitkan berdasarkan hasil Pemeriksaan, SKPKBT diterbitkan berdasarkan hasil Pemeriksaan Ulang, dan SKPLB diterbitkan berdasarkan hasil Pemeriksaan atau hasil Penelitian.",
+    "pdf": "C",
+    "page": 44,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-01",
+    "fakta": "SKPKB diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak berdasarkan hasil Pemeriksaan (Pasal 13 ayat 1 UU KUP).",
+    "pdf": "C",
+    "page": 45,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-02",
+    "fakta": "Sanksi atas SKPKB karena pajak terutang tidak/kurang dibayar adalah bunga per bulan sebesar suku bunga acuan ditambah uplift factor 15%, dibagi 12, maksimal 24 bulan.",
+    "pdf": "C",
+    "page": 45,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-03",
+    "fakta": "Sanksi atas SKPKB karena PPh dalam tahun berjalan tidak/kurang dibayar adalah bunga per bulan sebesar suku bunga acuan ditambah uplift factor 20%, dibagi 12, maksimal 24 bulan.",
+    "pdf": "C",
+    "page": 45,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-04",
+    "fakta": "Sanksi atas SKPKB karena PPh dipotong/dipungut tetapi tidak disetor adalah kenaikan 75%.",
+    "pdf": "C",
+    "page": 45,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-05",
+    "fakta": "Sanksi atas SKPKB karena PPN dan PPnBM kurang dibayar adalah kenaikan 75%.",
+    "pdf": "C",
+    "page": 45,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-046-01",
+    "fakta": "SKPKBT diterbitkan dalam jangka waktu 5 tahun setelah saat terutangnya pajak/berakhirnya Masa/Bagian Tahun/Tahun Pajak, berdasarkan hasil Pemeriksaan Ulang (Pasal 15 ayat 1 UU KUP).",
+    "pdf": "C",
+    "page": 46,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-046-02",
+    "fakta": "Jika data baru dalam Pemeriksaan Ulang yang menambah jumlah pajak terutang dimiliki Dirjen Pajak, SKPKBT dikenai sanksi kenaikan 100%.",
+    "pdf": "C",
+    "page": 46,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-046-03",
+    "fakta": "Jika data baru dalam Pemeriksaan Ulang berasal dari pengakuan WP atas kehendak sendiri, SKPKBT tidak dikenai sanksi.",
+    "pdf": "C",
+    "page": 46,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-047-01",
+    "fakta": "SKPN diterbitkan berdasarkan Pasal 17A UU KUP ketika jumlah kredit pajak/pajak dibayar sama dengan jumlah pajak terutang, atau pajak tidak terutang dan tidak ada kredit/pembayaran.",
+    "pdf": "C",
+    "page": 47,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-048-01",
+    "fakta": "SKPLB berdasarkan Penelitian diterbitkan atas kelebihan pembayaran pajak yang seharusnya tidak terutang (Pasal 17 ayat 2 UU KUP).",
+    "pdf": "C",
+    "page": 48,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-048-02",
+    "fakta": "SKPLB berdasarkan Pemeriksaan diterbitkan terhadap SPT dengan jumlah kredit/pajak dibayar lebih besar dari pajak terutang (Pasal 17 ayat 1) atau atas permohonan pengembalian kelebihan pembayaran (Pasal 17B UU KUP).",
+    "pdf": "C",
+    "page": 48,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-049-01",
+    "fakta": "Sanksi bunga atas STP karena PPh tahun berjalan tidak/kurang dibayar adalah suku bunga acuan ditambah uplift factor 5%, maksimal 24 bulan.",
+    "pdf": "C",
+    "page": 49,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-049-02",
+    "fakta": "STP dengan sebab WP dikenai sanksi administratif denda/bunga termasuk denda 30% (keberatan) dan 60% (banding/PK).",
+    "pdf": "C",
+    "page": 49,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-049-03",
+    "fakta": "PKP yang tidak membuat Faktur Pajak atau terlambat membuatnya dikenai sanksi denda 1% dari DPP, selain wajib menyetor pajak yang terutang.",
+    "pdf": "C",
+    "page": 49,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-050-01",
+    "fakta": "Denda keterlambatan pelaporan SPT Masa PPN (Pasal 7 ayat 1 UU KUP) adalah Rp500.000.",
+    "pdf": "C",
+    "page": 50,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-050-02",
+    "fakta": "Denda keterlambatan pelaporan SPT Masa lainnya adalah Rp100.000.",
+    "pdf": "C",
+    "page": 50,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-050-03",
+    "fakta": "Denda keterlambatan pelaporan SPT Tahunan PPh WP Orang Pribadi adalah Rp100.000.",
+    "pdf": "C",
+    "page": 50,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-050-04",
+    "fakta": "Denda keterlambatan pelaporan SPT Tahunan PPh WP Badan adalah Rp1.000.000.",
+    "pdf": "C",
+    "page": 50,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-050-05",
+    "fakta": "Denda atas keberatan WP yang ditolak atau dikabulkan sebagian adalah 30% (Pasal 25 ayat 9 UU KUP).",
+    "pdf": "C",
+    "page": 50,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-050-06",
+    "fakta": "Denda atas permohonan banding yang ditolak/dikabulkan sebagian atau Putusan PK yang menambah jumlah pajak adalah 60% (Pasal 27 ayat 5d dan 5f UU KUP).",
+    "pdf": "C",
+    "page": 50,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-051-01",
+    "fakta": "Sanksi bunga atas keterlambatan pembayaran SKPKB/SKPKBT/SK Pembetulan/SK Keberatan/Putusan Banding/PK adalah suku bunga acuan ditambah 0%, dibagi 12 (Pasal 19 ayat 1 UU KUP).",
+    "pdf": "C",
+    "page": 51,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-051-02",
+    "fakta": "Sanksi bunga atas kurang bayar pembetulan SPT Tahunan/Masa adalah suku bunga acuan ditambah 5%, dibagi 12 (Pasal 8 ayat 2 dan 2a UU KUP).",
+    "pdf": "C",
+    "page": 51,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-051-03",
+    "fakta": "Sanksi bunga atas pajak kurang dibayar akibat pengungkapan ketidakbenaran SPT adalah suku bunga acuan ditambah 10%, dibagi 12 (Pasal 8 ayat 5 UU KUP).",
+    "pdf": "C",
+    "page": 51,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-051-04",
+    "fakta": "Sanksi bunga berdasarkan hasil Pemeriksaan untuk pajak terutang tidak/kurang dibayar adalah suku bunga acuan ditambah 15%, dibagi 12 (Pasal 13 ayat 2 UU KUP).",
+    "pdf": "C",
+    "page": 51,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-051-05",
+    "fakta": "Sanksi bunga atas pengembalian Pajak Masukan dari PKP yang tidak berproduksi adalah suku bunga acuan ditambah 15%, dibagi 12 (Pasal 13 ayat 2b UU KUP).",
+    "pdf": "C",
+    "page": 51,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-051-06",
+    "fakta": "Sanksi bunga berdasarkan hasil pemeriksaan untuk PPh yang tidak/kurang dibayar/dipotong/dipungut dalam 1 Tahun Pajak adalah suku bunga acuan ditambah 20%, dibagi 12 (Pasal 13 ayat 3b UU KUP).",
+    "pdf": "C",
+    "page": 51,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-052-01",
+    "fakta": "Sanksi kenaikan atas hasil pemeriksaan PPN/PPnBM yang tidak/kurang dibayar adalah 75% (Pasal 13 ayat 3 huruf c UU KUP).",
+    "pdf": "C",
+    "page": 52,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-052-02",
+    "fakta": "Sanksi kenaikan atas hasil pemeriksaan PPh yang dipotong/dipungut tapi tidak/kurang disetor adalah 75% (Pasal 13 ayat 3 huruf d UU KUP).",
+    "pdf": "C",
+    "page": 52,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-052-03",
+    "fakta": "Sanksi kenaikan atas jumlah kekurangan pajak terutang dalam SKPKBT adalah 100% (Pasal 15 ayat 2 UU KUP).",
+    "pdf": "C",
+    "page": 52,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-052-04",
+    "fakta": "Sanksi kenaikan 100% dikenakan jika WP tidak seharusnya diberikan pengembalian pendahuluan (Pasal 17C ayat 5 dan Pasal 17D ayat 5 UU KUP).",
+    "pdf": "C",
+    "page": 52,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-055-01",
+    "fakta": "Upaya Hukum Perpajakan terbagi menjadi jalur Administratif (Pembetulan, Pengurangan dan Pembatalan, Prosedur Persetujuan Bersama, Keberatan) dan jalur Pengadilan (Banding, Gugatan, Peninjauan Kembali).",
+    "pdf": "C",
+    "page": 55,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-055-02",
+    "fakta": "Pembetulan diatur dalam Pasal 16 UU KUP dan PMK-11/2013, dapat diajukan berkali-kali.",
+    "pdf": "C",
+    "page": 55,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-055-03",
+    "fakta": "Pengurangan dan Pembatalan diatur dalam Pasal 36 ayat (1) UU KUP dan PMK-8/2013, dapat diajukan maksimal 2 kali (selain Pasal 36 ayat 1 huruf d).",
+    "pdf": "C",
+    "page": 55,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-055-04",
+    "fakta": "Prosedur Persetujuan Bersama diatur dalam Pasal 27C UU KUP, dapat diajukan maksimal 1 kali.",
+    "pdf": "C",
+    "page": 55,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-055-05",
+    "fakta": "Peninjauan Kembali (PK) diatur dalam Pasal 27 ayat (5e) UU KUP dan diproses di Mahkamah Agung.",
+    "pdf": "C",
+    "page": 55,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-01",
+    "fakta": "Keberatan dapat diajukan dalam jangka waktu 3 bulan sejak diterbitkannya SKPKB/SKPN/SKPLB/SKPKBT/pemotongan-pemungutan pihak ketiga.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-02",
+    "fakta": "Dirjen Pajak wajib memutuskan permohonan keberatan dalam jangka waktu 12 bulan.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-03",
+    "fakta": "Jatuh tempo pembayaran pajak atas keberatan tertangguh 1 bulan sejak penerbitan Surat Keputusan Keberatan.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-04",
+    "fakta": "Syarat permohonan keberatan mensyaratkan 1 keberatan harus diajukan untuk 1 jenis pajak dan 1 Masa Pajak atau Tahun Pajak.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-05",
+    "fakta": "Syarat permohonan keberatan mewajibkan WP melunasi pajak yang masih harus dibayar paling sedikit sejumlah yang telah disetujui WP dalam pembahasan akhir hasil pemeriksaan.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-06",
+    "fakta": "Permohonan keberatan yang tidak memenuhi persyaratan tidak dipertimbangkan oleh Dirjen Pajak.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-057-07",
+    "fakta": "Sanksi administratif atas keberatan yang ditolak atau dikabulkan sebagian adalah denda 30%.",
+    "pdf": "C",
+    "page": 57,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-058-01",
+    "fakta": "Prosedur Persetujuan Bersama (MAP) dapat diajukan oleh: WP dalam negeri, Dirjen Pajak, Pejabat berwenang negara/yurisdiksi mitra P3B, atau WNI melalui Dirjen Pajak.",
+    "pdf": "C",
+    "page": 58,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-058-02",
+    "fakta": "Permintaan pelaksanaan MAP dapat diajukan bersamaan dengan permohonan keberatan, banding, atau pengurangan/pembatalan SKP yang tidak benar.",
+    "pdf": "C",
+    "page": 58,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-01",
+    "fakta": "Banding diajukan atas Surat Keputusan Keberatan dalam jangka waktu paling lama 3 bulan sejak SK Keberatan diterima.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-02",
+    "fakta": "Jumlah pajak yang belum dibayar saat pengajuan banding belum merupakan pajak terutang sampai Putusan Banding diterbitkan.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-03",
+    "fakta": "Jumlah pajak yang belum dibayar saat pengajuan keberatan tertangguh sampai 1 bulan sejak tanggal Putusan Banding.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-04",
+    "fakta": "Putusan Banding merupakan putusan yang berkekuatan hukum tetap (inkracht).",
+    "pdf": "C",
+    "page": 59,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-05",
+    "fakta": "Sanksi administratif atas permohonan banding yang ditolak atau dikabulkan sebagian adalah denda 60%.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-06",
+    "fakta": "Terdapat 6 jenis alat bukti dalam sengketa pajak: surat/tulisan, keterangan saksi, keterangan ahli, pengakuan para pihak, pengetahuan hakim, dan alat bukti elektronik.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-07",
+    "fakta": "Majelis Hakim Pengadilan Pajak wajib mempertimbangkan sekurang-kurangnya 2 alat bukti yang sah dalam membuat putusan (Pasal 86 dan 88 UU Pengadilan Pajak).",
+    "pdf": "C",
+    "page": 59,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-060-01",
+    "fakta": "Objek Gugatan meliputi pelaksanaan Surat Paksa/Surat Perintah Melaksanakan Penyitaan/Pengumuman Lelang, keputusan pencegahan penagihan, keputusan pelaksanaan keputusan perpajakan, dan surat ketetapan/SK Keberatan yang tidak sesuai prosedur.",
+    "pdf": "C",
+    "page": 60,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-060-02",
+    "fakta": "Gugatan diajukan kepada Pengadilan Pajak dan tidak menunda atau menghalangi pelaksanaan penagihan pajak atau kewajiban perpajakan.",
+    "pdf": "C",
+    "page": 60,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-060-03",
+    "fakta": "Jangka waktu pengajuan Gugatan terhadap pelaksanaan penagihan pajak adalah 14 hari sejak tanggal pelaksanaan penagihan.",
+    "pdf": "C",
+    "page": 60,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-060-04",
+    "fakta": "Jangka waktu pengajuan Gugatan terhadap objek selain pelaksanaan penagihan pajak adalah 30 hari sejak tanggal diterima keputusan yang digugat.",
+    "pdf": "C",
+    "page": 60,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-060-05",
+    "fakta": "Terhadap 1 pelaksanaan penagihan atau 1 keputusan diajukan 1 Surat Gugatan.",
+    "pdf": "C",
+    "page": 60,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-064-01",
+    "fakta": "Wakil Wajib Pajak Badan adalah pengurus, termasuk orang yang nyata-nyata punya wewenang ikut menentukan kebijaksanaan dan/atau mengambil keputusan menjalankan perusahaan (Pasal 32 ayat 2 UU KUP).",
+    "pdf": "C",
+    "page": 64,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-064-02",
+    "fakta": "Wakil Wajib Pajak Badan yang pailit adalah Kurator, sedangkan Badan dalam likuidasi diwakili oleh Likuidator.",
+    "pdf": "C",
+    "page": 64,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-064-03",
+    "fakta": "Wakil Wajib Pajak untuk warisan yang belum terbagi adalah salah seorang ahli waris, pelaksana wasiat, atau yang mengurus harta peninggalan.",
+    "pdf": "C",
+    "page": 64,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-064-04",
+    "fakta": "Wakil bertanggung jawab secara pribadi dan/atau secara renteng atas pembayaran pajak terutang, kecuali dapat membuktikan dan meyakinkan Dirjen Pajak bahwa mereka benar-benar tidak mungkin dibebani tanggung jawab tersebut.",
+    "pdf": "C",
+    "page": 64,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-065-01",
+    "fakta": "Kuasa Wajib Pajak diatur dalam Pasal 32 ayat (3) UU KUP, di mana orang pribadi/badan dapat menunjuk kuasa dengan surat kuasa khusus.",
+    "pdf": "C",
+    "page": 65,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-065-02",
+    "fakta": "Kuasa Wajib Pajak dapat berasal dari keluarga (suami, istri, atau keluarga sedarah/semenda sampai derajat kedua) atau bukan keluarga (konsultan pajak atau pihak lain yang memiliki kompetensi tertentu dalam aspek perpajakan).",
+    "pdf": "C",
+    "page": 65,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-065-03",
+    "fakta": "Kuasa tidak dapat menjalankan hak dan kewajiban perpajakan WP apabila menghalang-halangi pelaksanaan ketentuan UU perpajakan atau dipidana karena tindak pidana perpajakan/tindak pidana lainnya.",
+    "pdf": "C",
+    "page": 65,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-088-01",
+    "fakta": "Menurut PMK-164/2023, WP wajib lapor PKP maksimal akhir tahun buku setelah omzet melebihi Rp4,8 Miliar; keterlambatan berakibat pengukuhan secara jabatan atau dianggap terlambat.",
+    "pdf": "C",
+    "page": 88,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-099-01",
+    "fakta": "Faktur Pajak menurut Pasal 1 angka 23 UU PPN adalah bukti pungutan pajak yang dibuat PKP atas penyerahan BKP atau penyerahan JKP.",
+    "pdf": "C",
+    "page": 99,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-104-01",
+    "fakta": "Kegiatan Membangun Sendiri (KMS) dikenai PPN dengan DPP sebesar 20% dikalikan 11% dikalikan biaya pembangunan (tidak termasuk tanah), dengan syarat luas bangunan minimal 200m2.",
+    "pdf": "C",
+    "page": 104,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-109-01",
+    "fakta": "PPN atas penyerahan aktiva yang tujuan semula tidak diperjualbelikan (Pasal 16D UU PPN) tidak berlaku atas aktiva yang Pajak Masukannya tidak dapat dikreditkan menurut Pasal 9 ayat (8) huruf b dan c.",
+    "pdf": "C",
+    "page": 109,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-119-01",
+    "fakta": "Pajak Masukan atas perolehan BKP/JKP, impor BKP, atau pemanfaatan BKP Tidak Berwujud/JKP dari luar Daerah Pabean yang ditagih dengan penerbitan ketetapan pajak dapat dikreditkan PKP sebesar jumlah pokok PPN dalam ketetapan, dengan syarat ketetapan telah dilunasi dan tidak dilakukan upaya hukum.",
+    "pdf": "C",
+    "page": 119,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-116-01",
+    "fakta": "Pemeriksaan untuk Tujuan Lain memiliki jangka waktu paling lama 4 bulan, terhitung sejak Surat Pemberitahuan Pemeriksaan disampaikan sampai Tanggal LHP.",
+    "pdf": "A",
+    "page": 116,
+    "priority": 3,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-117-01",
+    "fakta": "Jangka waktu Pemeriksaan untuk Tujuan Lain tidak berlaku atas jangka waktu pengembalian kelebihan pembayaran pajak (Pasal 17B UU KUP), penghapusan NPWP (Pasal 2 ayat 7 UU KUP), dan pencabutan pengukuhan PKP (Pasal 2 ayat 9 UU KUP).",
+    "pdf": "A",
+    "page": 117,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-117-02",
+    "fakta": "Jangka waktu Pemeriksaan atas PPh minyak dan gas bumi bagi WP Kontraktor Kontrak Kerja Sama Migas (Production Sharing Contract Cost Recovery) mengikuti ketentuan PMK pedoman pelaksanaan Pemeriksaan bersama.",
+    "pdf": "A",
+    "page": 117,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-120-01",
+    "fakta": "Kriteria pemilihan Pemeriksaan PBB mempertimbangkan skala prioritas untuk ketetapan/potensi signifikan, cek data NOP dan SKT, serta konfirmasi perizinan.",
+    "pdf": "A",
+    "page": 120,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-120-02",
+    "fakta": "Pemeriksaan PBB Rutin diprioritaskan pada WP/OP yang menyampaikan SPOP tahun sebelumnya dan memiliki data pendukung (SPT/Laporan Keuangan/RKAB).",
+    "pdf": "A",
+    "page": 120,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-121-01",
+    "fakta": "Dalam Pemeriksaan PBB, jika terdapat Penilai Pajak/Petugas Penilai Pajak di Unit Pelaksana Pemeriksaan, digunakan Bantuan Penilaian; jika tidak ada, digunakan Bantuan Penilai.",
+    "pdf": "A",
+    "page": 121,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-123-01",
+    "fakta": "PER-18/PJ/2025 tentang Tindak Lanjut atas Data Konkret ditetapkan tanggal 24 September 2025 berdasarkan Pasal 2 ayat (1).",
+    "pdf": "A",
+    "page": 123,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-125-01",
+    "fakta": "LHP2DK dalam kegiatan Pengawasan berpeluang menjadi salah satu sumber Data Konkret dalam Pemeriksaan jika sudah diterbitkan surat permintaan penjelasan dan dibuat BA persetujuan WP namun kewajiban belum/tidak dipenuhi sampai batas waktu yang disetujui.",
+    "pdf": "A",
+    "page": 125,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-127-01",
+    "fakta": "Untuk WP Strategis, usul Pemeriksaan berdasarkan Data Konkret pada tahun pajak berjalan dapat diajukan setelah dilakukan penelitian satu/beberapa jenis pajak dan kegiatan P2DK selesai.",
+    "pdf": "A",
+    "page": 127,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-128-01",
+    "fakta": "Untuk WP Strategis, usul Pemeriksaan Khusus berdasarkan analisis risiko satu/beberapa jenis pajak tidak dapat diusulkan pada tahun pajak berjalan.",
+    "pdf": "A",
+    "page": 128,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-130-01",
+    "fakta": "Penggalian potensi pada tahun berjalan di setiap KPP hanya dapat dilakukan terhadap WP yang telah terdapat dalam DSP3, kecuali KPP memperoleh data konkret lain yang dapat ditindaklanjuti tersendiri.",
+    "pdf": "A",
+    "page": 130,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-131-01",
+    "fakta": "Kepala KPP bertanggung jawab atas penerbitan persetujuan/penugasan Pemeriksaan Rutin berdasarkan Daftar Nominatif, Pemeriksaan Khusus berdasarkan data konkret, dan Pemeriksaan Tujuan Lain administratif.",
+    "pdf": "A",
+    "page": 131,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-133-01",
+    "fakta": "Tim Pemeriksa Pajak yang terdiri dari Pejabat Fungsional Pemeriksa Pajak bertanggung jawab atas pemeriksaan restitusi PPN tahun berjalan, ruang lingkup seluruh jenis pajak, dan pemeriksaan ulang.",
+    "pdf": "A",
+    "page": 133,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-133-02",
+    "fakta": "Tim Pemeriksa Pajak yang terdiri dari Petugas Pemeriksa Pajak bertanggung jawab atas pemeriksaan satu/beberapa jenis pajak termasuk data konkret dan pemeriksaan PBB.",
+    "pdf": "A",
+    "page": 133,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-136-01",
+    "fakta": "Tujuan Kegiatan Pengumpulan Data Lapangan (KPDL) adalah memperoleh data baru, memetakan WP, dan menindaklanjuti/memutakhirkan data yang telah dimiliki DJP.",
+    "pdf": "A",
+    "page": 136,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-137-01",
+    "fakta": "SE-11/PJ/2020 mengatur 5 jenis KPD: Berbasis Kewilayahan, Analisis, Non Tusi, Tusi Lainnya, dan Eksternal.",
+    "pdf": "A",
+    "page": 137,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-137-02",
+    "fakta": "KPD Berbasis Kewilayahan dilakukan oleh Petugas Pengawasan berdasarkan Zona Pengawasan atau Tim KPD berdasarkan Peta Kerja, dengan cara menyisir bidang/persil/unit/lokasi WP.",
+    "pdf": "A",
+    "page": 137,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-137-03",
+    "fakta": "KPD Analisis dilakukan oleh Petugas Pengawasan melalui analisis laporan keuangan dan/atau analisis penerima fasilitas perpajakan sesuai Daftar Prioritas KPD.",
+    "pdf": "A",
+    "page": 137,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-137-04",
+    "fakta": "KPD Eksternal dapat dilaksanakan oleh pihak eksternal berdasarkan perjanjian kerja sama dengan DJP.",
+    "pdf": "A",
+    "page": 137,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-138-01",
+    "fakta": "Peta Kerja dalam KPDL Berbasis Kewilayahan dibuat oleh AR Kewilayahan.",
+    "pdf": "A",
+    "page": 138,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-139-01",
+    "fakta": "KPDL Berbasis Penugasan Lapangan Lainnya dilakukan oleh pegawai DJP selain pengawasan berbasis kewilayahan, contohnya Pemeriksa Pajak saat pemeriksaan lapangan atau AR WP Strategis saat visit.",
+    "pdf": "A",
+    "page": 139,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-140-01",
+    "fakta": "KPDL Non Tusi dapat dilaksanakan oleh seluruh pegawai DJP ketika menemukan data/informasi WP yang secara nyata terlihat di lapangan, walaupun di luar tusinya.",
+    "pdf": "A",
+    "page": 140,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-141-01",
+    "fakta": "Dasar hukum KPDL Eksternal adalah SE-19/PJ/2014 tentang Panduan Penyusunan Kesepakatan Bersama DJP dengan Pihak Lain di Dalam Negeri.",
+    "pdf": "A",
+    "page": 141,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-142-02",
+    "fakta": "Validasi Material dilakukan oleh Atasan Langsung, mencakup kelengkapan field, relevansi terhadap klasifikasi ICALEP, dan akurasi nilai data.",
+    "pdf": "A",
+    "page": 142,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-142-03",
+    "fakta": "Validasi Formal dilakukan oleh Kasi PKD, mencakup kelengkapan dan validitas data NIK/NPWP serta memastikan data belum ada di basis data DJP dan belum daluarsa.",
+    "pdf": "A",
+    "page": 142,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-142-04",
+    "fakta": "ICALEP adalah singkatan dari Income, Cost, Asset, Liability, Equity, dan Profile - klasifikasi relevansi data KPD.",
+    "pdf": "A",
+    "page": 142,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-01",
+    "fakta": "Continuous Supervision menegaskan bahwa KPD tidak hanya mengumpulkan data namun juga dapat melakukan tindak lanjut atas update data profil WP secara jabatan.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-02",
+    "fakta": "Jika ditemukan WP seharusnya PKP saat KPD, tindak lanjutnya adalah Pengukuhan PKP secara Jabatan.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-03",
+    "fakta": "Jika ditemukan WP memiliki objek PBB P5L saat KPD, tindak lanjutnya adalah Pendaftaran PBB secara Jabatan.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-04",
+    "fakta": "Dalam contoh kasus materi, AR melakukan pengukuhan PKP secara jabatan terhadap Toko Semar Jaya karena omzet setahun telah melebihi Rp4,8 Miliar berdasarkan hasil wawancara dan observasi KPD.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-145-01",
+    "fakta": "Pelaksanaan KPDL harus dilakukan minimal oleh 2 orang pegawai, menggunakan pakaian kerja, dan dilengkapi tanda pengenal serta Surat Tugas.",
+    "pdf": "A",
+    "page": 145,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-145-02",
+    "fakta": "KPDL dilaksanakan pada hari dan jam kerja, namun dapat dilakukan di luar hari/jam kerja berdasarkan penugasan pimpinan unit kerja.",
+    "pdf": "A",
+    "page": 145,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-145-03",
+    "fakta": "Pelaksanaan KPDL harus berkoordinasi dengan pemerintah daerah setempat, Babinsa, atau Bhabinkamtibmas.",
+    "pdf": "A",
+    "page": 145,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-147-01",
+    "fakta": "Profil Wajib Pajak adalah rangkaian data dan informasi fiskal WP yang memuat identitas, kegiatan usaha, dan riwayat perpajakan WP secara berkesinambungan, diklasifikasikan atas data permanen, data akumulatif, dan data lainnya.",
+    "pdf": "A",
+    "page": 147,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-147-02",
+    "fakta": "Tujuan penyusunan profil WP antara lain untuk penghitungan potensi dan tax gap dengan menerapkan benchmark serta sebagai alat untuk mengukur kepatuhan WP.",
+    "pdf": "A",
+    "page": 147,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-148-01",
+    "fakta": "Profil WP memuat paling sedikit: Identitas WP, Kegiatan Usaha WP, Daftar Keluarga/Keterkaitan WP, Profil Risiko (CRM), Riwayat Pengawasan, Riwayat Pemeriksaan, Riwayat Keberatan dan Banding, serta Profil Risiko Ketertagihan.",
+    "pdf": "A",
+    "page": 148,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-150-01",
+    "fakta": "Langkah-langkah Profiling Approach One meliputi pengumpulan data, identitas WP, proses bisnis WP, dan kepatuhan formal WP.",
+    "pdf": "A",
+    "page": 150,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-151-01",
+    "fakta": "Data yang dikumpulkan dalam Profiling antara lain data pelaporan, data pembayaran, laporan keuangan Y-1/Y/Y+1, data AHU, dan data SPT.",
+    "pdf": "A",
+    "page": 151,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-152-01",
+    "fakta": "Pengecekan Identitas WP dalam Profiling meliputi perbandingan alamat Masterfile vs alamat usaha saat ini, pemegang saham versi AHU vs SPT, dan KLU Masterfile vs jenis usaha di lapangan.",
+    "pdf": "A",
+    "page": 152,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-153-01",
+    "fakta": "Pohon kepemilikan yang dibuat lengkap memudahkan deteksi transaksi hubungan istimewa.",
+    "pdf": "A",
+    "page": 153,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-154-01",
+    "fakta": "Struktur organisasi penting dalam Profiling untuk mengetahui siapa pengambil keputusan di perusahaan dan dengan siapa AR harus berkomunikasi.",
+    "pdf": "A",
+    "page": 154,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-155-01",
+    "fakta": "Proses Bisnis WP dalam Profiling memetakan arus dokumen dan uang serta arus barang, melalui alur Gudang-Supplier-WP-Customer-Toko/Cabang.",
+    "pdf": "A",
+    "page": 155,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-156-01",
+    "fakta": "Kepatuhan Formal WP ditinjau dari riwayat pelaporan masa, riwayat pelaporan tahunan (status nihil/LB/KB), dan riwayat pemeriksaan.",
+    "pdf": "A",
+    "page": 156,
+    "priority": 2,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-157-01",
+    "fakta": "Ekualisasi dalam Profiling membandingkan Omzet PPN dengan PPh Badan/OP, Biaya Gaji dengan penghasilan di SPT PPh 21, dan Biaya Sewa dengan Pemotongan PPh 23/PPh Final.",
+    "pdf": "A",
+    "page": 157,
+    "priority": 3,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-158-01",
+    "fakta": "Langkah-langkah Profiling Approach Two meliputi jembreng SPT PPN, ekualisasi, analisis laporan keuangan menyeluruh, dan pemanfaatan data eksternal.",
+    "pdf": "A",
+    "page": 158,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-009-03",
+    "fakta": "Data pemicu Pengawasan WP Terdaftar dapat berasal dari Daftar Nominatif, hasil Validasi dan/atau Analisis atas data dan/atau keterangan.",
+    "pdf": "A",
+    "page": 9,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-012-01",
+    "fakta": "Penyampaian SP2DK secara langsung kepada WP Terdaftar dibuatkan Berita Acara Penyampaian SP2DK.",
+    "pdf": "A",
+    "page": 12,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-014-01",
+    "fakta": "Setelah WP menyampaikan tanggapan SP2DK, dilakukan proses Pembahasan oleh AR/Pegawai DJP.",
+    "pdf": "A",
+    "page": 14,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-017-01",
+    "fakta": "Penandatanganan BA Pelaksanaan P2DK dapat dilakukan baik secara langsung maupun secara daring.",
+    "pdf": "A",
+    "page": 17,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-018-01",
+    "fakta": "Penandatanganan BA Pelaksanaan P2DK secara daring dilakukan melalui pembahasan yang diselenggarakan secara daring.",
+    "pdf": "A",
+    "page": 18,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-022-01",
+    "fakta": "Penyampaian Surat Imbauan secara langsung kepada WP Terdaftar dibuatkan Berita Acara Penyampaian Surat Imbauan.",
+    "pdf": "A",
+    "page": 22,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-024-01",
+    "fakta": "WP dapat menyampaikan tanggapan atas Surat Imbauan melalui berbagai kanal, termasuk pos elektronik yang terdaftar dalam sistem administrasi DJP.",
+    "pdf": "A",
+    "page": 24,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-025-01",
+    "fakta": "Jika WP tidak menyetujui sebagian/seluruh data dalam Surat Imbauan, penjelasan harus disertai bukti/dokumen pendukung, sama seperti ketentuan pada SP2DK.",
+    "pdf": "A",
+    "page": 25,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-027-01",
+    "fakta": "Pembahasan atas Tanggapan Surat Imbauan dilakukan apabila diperlukan klarifikasi lebih lanjut dari WP.",
+    "pdf": "A",
+    "page": 27,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-030-01",
+    "fakta": "Surat Teguran kepada WP Terdaftar disampaikan melalui Akun WP, pos elektronik, faksimile, pos/jasa ekspedisi/kurir, atau secara langsung.",
+    "pdf": "A",
+    "page": 30,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-032-01",
+    "fakta": "Surat Teguran yang disampaikan dapat ditindaklanjuti melalui Pembahasan atau Kunjungan kepada WP.",
+    "pdf": "A",
+    "page": 32,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-033-02",
+    "fakta": "Petunjuk Pelaksanaan Kegiatan Pengawasan pada masa transisi Coretax membedakan antara kegiatan yang dimulai sebelum penerapan Coretax dan yang dimulai pada sistem Coretax.",
+    "pdf": "A",
+    "page": 33,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-036-03",
+    "fakta": "Untuk data RBP yang tidak men-generate potensi perpajakan pada Tahun Pajak s.d. 2024, tindak lanjutnya adalah Tolak di Coretax dengan alasan penolakan 'Potensi Perpajakan'.",
+    "pdf": "A",
+    "page": 36,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-037-02",
+    "fakta": "STP untuk Bea Meterai dan PBB termasuk dalam kriteria pengecualian yang tetap diproses melalui SIDJP untuk seluruh Tahun Pajak.",
+    "pdf": "A",
+    "page": 37,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-038-01",
+    "fakta": "ND-927/PJ.06/2025 juga mengatur perubahan penerbitan STP Denda Penagihan terkait dampak implementasi Coretax sejak 1 Januari 2025.",
+    "pdf": "A",
+    "page": 38,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-075-01",
+    "fakta": "Pengawasan Wilayah dalam Proses Bisnis Pengawasan cfm PMK-111/2025 dilakukan melalui kegiatan pengamatan ekonomi, wawancara, geotagging, dan pengambilan gambar.",
+    "pdf": "A",
+    "page": 75,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-076-04",
+    "fakta": "Dalam alur Pemeriksaan, setelah SPHP dan Tanggapan WP dilakukan Panggilan, Pembahasan Temuan Sementara, BA Temuan Sementara, Undangan PAHP, Risalah PAHP, BA PAHP, dan Ikhtisar sebelum KKP dan LHP.",
+    "pdf": "A",
+    "page": 76,
+    "priority": 2,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-076-05",
+    "fakta": "Dalam alur Pengawasan WP Belum Terdaftar, SP2DKE dan SPHPP merupakan padanan dokumen bagi SP2DK dan SPHP pada Pengawasan WP Terdaftar.",
+    "pdf": "A",
+    "page": 76,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-118-02",
+    "fakta": "Pemeriksaan Khusus PBB disebut juga Jopro CRM PBB Batubara, menunjukkan fokus pada Wajib Pajak sektor batubara.",
+    "pdf": "A",
+    "page": 118,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-042-01",
+    "fakta": "PMK-79/2023 disusun untuk memenuhi asas pembentukan hukum: asas kepastian hukum, asas keadilan, dan asas kemanfaatan.",
+    "pdf": "A",
+    "page": 42,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-042-02",
+    "fakta": "Asas kepastian hukum dalam PMK-79/2023 memberikan dasar hukum formal dan kejelasan standar, prosedur, serta jangka waktu Penilaian.",
+    "pdf": "A",
+    "page": 42,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-043-01",
+    "fakta": "Output dari kegiatan Penilaian adalah Laporan Penilaian yang memuat nilai Harta Berwujud, Harta Tidak Berwujud, atau Bisnis.",
+    "pdf": "A",
+    "page": 43,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-047-01",
+    "fakta": "Nilai imbalan dalam bentuk natura dan/atau kenikmatan memerlukan Penilaian sesuai Pasal 4 ayat (1) huruf a UU PPh.",
+    "pdf": "A",
+    "page": 47,
+    "priority": 2,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-047-02",
+    "fakta": "Penghasilan dari transaksi pengalihan harta tanah/bangunan, jasa konstruksi, real estat, dan persewaan tanah/bangunan diatur dalam Pasal 4 ayat (2) huruf d UU PPh dan memerlukan Penilaian.",
+    "pdf": "A",
+    "page": 47,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-048-03",
+    "fakta": "Harga perolehan/nilai sisa buku harta berwujud yang mempengaruhi biaya penyusutan diatur dalam Pasal 11 UU PPh, dan untuk harta tidak berwujud (amortisasi) diatur dalam Pasal 11A UU PPh.",
+    "pdf": "A",
+    "page": 48,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-049-02",
+    "fakta": "Harga limit untuk penjualan barang sitaan secara lelang diatur dalam Pasal 2 ayat (3) UU PPSP dan memerlukan Penilaian.",
+    "pdf": "A",
+    "page": 49,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-057-01",
+    "fakta": "Data registrasi di Sistem Informasi DJP meliputi identitas WP, penghapusan NPWP, WP NE, pengukuhan PKP, dan pencabutan PKP.",
+    "pdf": "A",
+    "page": 57,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-058-01",
+    "fakta": "Data pihak ketiga di Sistem Informasi DJP meliputi ILAP, Alat Keterangan, EOI, dan Hasil Survey Lapangan.",
+    "pdf": "A",
+    "page": 58,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-059-01",
+    "fakta": "Data pemeriksaan di Sistem Informasi DJP meliputi Penerbitan Instruksi, Penyusunan Audit Plan dan Audit Program, SP2, SPPL dan SPPK, SPHP, Pembahasan Hasil Pemeriksaan, KKP, dan LHP.",
+    "pdf": "A",
+    "page": 59,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-060-01",
+    "fakta": "Data ketetapan di Sistem Informasi DJP meliputi STP, SKPN, SKPKB, SKPLB, SKPKBT, SPPT PBB, STP PBB, dan SKP PBB.",
+    "pdf": "A",
+    "page": 60,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-062-04",
+    "fakta": "Analisis penyusutan dalam Analisis Laporan Keuangan sering menemukan penyusutan yang tidak sesuai dengan golongan hartanya.",
+    "pdf": "A",
+    "page": 62,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-064-02",
+    "fakta": "Kelebihan (Pros) Galpot OP meliputi analisis yang cukup sederhana, cakupan kreativitas luas, data lapangan relatif mudah diperoleh, dan komunikasi langsung ke penanggung pajak.",
+    "pdf": "A",
+    "page": 64,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-065-01",
+    "fakta": "Teknik penggalian potensi melalui visit lokasi usaha bertujuan menggali informasi jumlah toko dan lokasinya.",
+    "pdf": "A",
+    "page": 65,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-066-01",
+    "fakta": "Teknik penggalian potensi melalui riset media sosial bertujuan mengenali produk dan usaha WP serta menggali informasi terkait usaha WP.",
+    "pdf": "A",
+    "page": 66,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-070-02",
+    "fakta": "Pendekatan rasio digunakan untuk menguji dan menghitung kembali peredaran usaha, harga pokok penjualan, laba bruto, laba bersih, atau penghasilan bruto secara keseluruhan.",
+    "pdf": "A",
+    "page": 70,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-072-02",
+    "fakta": "Dalam metode biaya hidup, fiskus melakukan wawancara untuk mendapatkan informasi jumlah tanggungan, biaya sekolah anak, tagihan listrik/kartu kredit/telepon, serta jumlah dan biaya perawatan kendaraan.",
+    "pdf": "A",
+    "page": 72,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-081-03",
+    "fakta": "DPE Kolaboratif dan DPE Nonkolaboratif keduanya mengikuti ketentuan umum PMK dan ketentuan detail RSE, dengan penjaminan mutu CSQA dan PSQA.",
+    "pdf": "A",
+    "page": 81,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-083-02",
+    "fakta": "Kegiatan pendukung Pengawasan WP Belum Terdaftar meliputi pengusulan penilaian, pembahasan dengan pihak internal, dan permintaan data kepada pihak ketiga.",
+    "pdf": "A",
+    "page": 83,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-06",
+    "fakta": "Dalam tahap Gain Understanding, Tim Ekstensifikasi mengakses Profil WP pada General Information di CTAS dan membuat sub-case Working Paper.",
+    "pdf": "A",
+    "page": 85,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-085-07",
+    "fakta": "Dalam tahap Permintaan Data dan Informasi, Tim Ekstensifikasi dapat meminta bantuan Penilaian dan Data Pihak Ketiga (ILAP dan IBK) melalui CTAS.",
+    "pdf": "A",
+    "page": 85,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-093-03",
+    "fakta": "Monitoring tanggapan WP dalam Ekstensifikasi dilakukan melalui Portal WP, visit lokasi, email, surat pos, atau langsung ke KPP.",
+    "pdf": "A",
+    "page": 93,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-095-01",
+    "fakta": "Penerbitan SPHPP memuat data dan informasi yang dimiliki DJP serta data/keterangan yang disampaikan WP selain yang disebutkan dalam SP2DK.",
+    "pdf": "A",
+    "page": 95,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-098-03",
+    "fakta": "Usulan hasil kegiatan P2DK pada WP Belum Terdaftar turut mencakup pengembangan dan analisis informasi/data/laporan/pengaduan jika WP memiliki indikasi tindak pidana perpajakan.",
+    "pdf": "A",
+    "page": 98,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-100-01",
+    "fakta": "BAP2DK disampaikan kepada WP melalui Akun WP (bila sudah aktivasi), pos/jasa ekspedisi/kurir dengan bukti kirim, atau secara langsung bila WP hadir pembahasan.",
+    "pdf": "A",
+    "page": 100,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-100-02",
+    "fakta": "BA Penandatanganan BAP2DK hanya ditandatangani AR/Pegawai DJP apabila tidak terdapat pembahasan, WP tidak hadir, atau WP hadir namun tidak bersedia menandatangani.",
+    "pdf": "A",
+    "page": 100,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-102-03",
+    "fakta": "Tindak lanjut administratif LHP2DK turut mencakup Input KPD Form apabila ditemukan data/informasi baru selama pelaksanaan Ekstensifikasi.",
+    "pdf": "A",
+    "page": 102,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-107-03",
+    "fakta": "Kriteria WP Non Aktif turut mencakup WP Badan yang tidak memenuhi syarat subjektif-objektif namun masih dalam proses/belum dilakukan penghapusan NPWP.",
+    "pdf": "A",
+    "page": 107,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-107-04",
+    "fakta": "Kriteria WP Non Aktif turut mencakup Instansi Pemerintah yang tidak memenuhi syarat sebagai pemotong/pemungut pajak namun belum dilakukan penghapusan NPWP.",
+    "pdf": "A",
+    "page": 107,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-143-04",
+    "fakta": "Pada tahapan probis KPD menuju SP2DK, Kasi PKD mendistribusikan kasus ke Kasi Pengawasan II, III, IV, V, dan VI untuk selanjutnya ditugaskan kepada AR.",
+    "pdf": "A",
+    "page": 143,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-C-005-01",
+    "fakta": "Kewenangan Pemeriksa Pajak diatur melalui PMK 15/2025 dan PERMENPAN 66/2021 tentang jabatan fungsional Pemeriksa Pajak.",
+    "pdf": "C",
+    "page": 5,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-018-02",
+    "fakta": "Usulan Rencana Pemeriksaan disusun setelah pembuatan KKP Identifikasi Masalah yang berisi pos SPT atau turunan yang akan diperiksa.",
+    "pdf": "C",
+    "page": 18,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-022-02",
+    "fakta": "Teknik pemeriksaan Metode Langsung meliputi pengujian keabsahan, evaluasi, analisis angka, penelusuran angka dan bukti, serta pengujian keterkaitan.",
+    "pdf": "C",
+    "page": 22,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-023-01",
+    "fakta": "Pemanfaatan data/informasi dalam Metode Langsung mencakup data SPT, data wajib pajak, data penerimaan, dan data pihak ketiga.",
+    "pdf": "C",
+    "page": 23,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-024-01",
+    "fakta": "Pemanfaatan data/informasi dalam Metode Langsung turut mencakup Profil CRM WP, data pemicu, SP2DK dan LHP2DK, serta Ability to Pay (ATP).",
+    "pdf": "C",
+    "page": 24,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-035-08",
+    "fakta": "Dalam hal diperlukan penilaian untuk tujuan Perpajakan dilakukan setelah SKP atau SKP PBB dibatalkan sesuai Pasal 36 ayat 1 huruf d dan pemeriksaan dilanjutkan.",
+    "pdf": "C",
+    "page": 35,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-06",
+    "fakta": "SKPKB diterbitkan antara lain dalam hal WP diterbitkan NPWP atau dikukuhkan PKP secara jabatan (Pasal 13 ayat 1 huruf e UU KUP).",
+    "pdf": "C",
+    "page": 45,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-07",
+    "fakta": "SKPKB diterbitkan antara lain dalam hal PKP tidak melakukan penyerahan BKP/JKP/ekspor namun telah diberikan pengembalian Pajak Masukan atau mengkreditkan Pajak Masukan sesuai Pasal 9 ayat 6e UU PPN (Pasal 13 ayat 1 huruf f UU KUP).",
+    "pdf": "C",
+    "page": 45,
+    "priority": 2,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-045-08",
+    "fakta": "SKPKB diterbitkan antara lain dalam hal kewajiban Pasal 28 (pembukuan) dan Pasal 29 (pemeriksaan) UU KUP tidak dipenuhi (Pasal 13 ayat 1 huruf d UU KUP).",
+    "pdf": "C",
+    "page": 45,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-049-04",
+    "fakta": "STP diterbitkan antara lain dalam hal terdapat imbalan bunga yang seharusnya tidak diberikan kepada WP.",
+    "pdf": "C",
+    "page": 49,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-049-05",
+    "fakta": "STP diterbitkan antara lain dalam hal terdapat jumlah pajak yang tidak/kurang dibayar dalam jangka waktu persetujuan mengangsur atau menunda pembayaran.",
+    "pdf": "C",
+    "page": 49,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-055-06",
+    "fakta": "Jalur penyelesaian sengketa perpajakan terbagi dua: jalur Administratif yang diproses di DJP, dan jalur Pengadilan yang diproses di Pengadilan Pajak atau Mahkamah Agung.",
+    "pdf": "C",
+    "page": 55,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-08",
+    "fakta": "Keterangan ahli sebagai alat bukti sengketa pajak adalah keterangan yang diberikan seseorang yang memiliki keahlian khusus di bidang tertentu relevan dengan sengketa pajak.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-059-09",
+    "fakta": "Alat bukti elektronik dalam sengketa pajak adalah informasi elektronik dan/atau dokumen elektronik yang sesuai dengan ketentuan peraturan perundang-undangan.",
+    "pdf": "C",
+    "page": 59,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-114-01",
+    "fakta": "Salah satu kriteria Pemeriksaan untuk menguji kepatuhan adalah Wajib Pajak melakukan penggabungan, peleburan, pemekaran, likuidasi, pembubaran, atau meninggalkan Indonesia untuk selama-lamanya.",
+    "pdf": "A",
+    "page": 114,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-115-01",
+    "fakta": "Salah satu kriteria Pemeriksaan untuk tujuan lain adalah penentuan satu atau lebih tempat terutang Pajak Pertambahan Nilai.",
+    "pdf": "A",
+    "page": 115,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-122-01",
+    "fakta": "Pasal 4 ayat (1) PMK 15 Tahun 2025 mengatur Kriteria Pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan.",
+    "pdf": "A",
+    "page": 122,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-129-01",
+    "fakta": "Untuk WP Strategis, usul Pemeriksaan Khusus berdasarkan analisis risiko seluruh jenis pajak (all taxes) tidak dapat diusulkan pada tahun pajak berjalan, namun dapat diusulkan untuk tahun pajak sebelum tahun berjalan setelah penelitian komprehensif dan P2DK selesai.",
+    "pdf": "A",
+    "page": 129,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-138-02",
+    "fakta": "KPDL Berbasis Kewilayahan Ad Hoc/Tim dapat melibatkan seluruh pegawai KPP berdasarkan Keputusan Kepala Kantor, dengan pertimbangan kawasan potensial, keterbatasan sumber daya, dan luas wilayah kerja KPP.",
+    "pdf": "A",
+    "page": 138,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-139-02",
+    "fakta": "Contoh pelaksana KPDL Berbasis Penugasan Lapangan Lainnya mencakup Penyidik saat penyelidikan/penyidikan, Penilai saat penilaian lapangan, dan Jurusita saat fungsi penagihan.",
+    "pdf": "A",
+    "page": 139,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-141-02",
+    "fakta": "Pertimbangan pelaksanaan KPDL oleh pihak eksternal meliputi efektivitas-efisiensi, kompetensi pihak eksternal, kerahasiaan data, dan jangka waktu pelaksanaan.",
+    "pdf": "A",
+    "page": 141,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-143-05",
+    "fakta": "Data hasil KPD yang telah divalidasi direkam pada Aplikasi Coretax sebelum didistribusikan oleh Kasi PKD.",
+    "pdf": "A",
+    "page": 143,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-143-06",
+    "fakta": "Jika WP hasil KPD tidak ditemui atau Wajib Pajak Kempos, hal tersebut menjadi salah satu dari empat kemungkinan respon WP atas SP2DK hasil KPD.",
+    "pdf": "A",
+    "page": 143,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-05",
+    "fakta": "Jika ditemukan WP seharusnya Terdaftar atau NIK aktif saat KPD, tindak lanjutnya adalah Aktivasi NIK/Pendaftaran NPWP secara Jabatan.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-06",
+    "fakta": "Jika ditemukan data namun subjek tidak ditemukan saat KPD, tindak lanjutnya adalah Permintaan Bantuan Pengamatan/Intelijen.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-146-01",
+    "fakta": "Materi Profiling Wajib Pajak merujuk pada SE-11/PJ/2020 tentang Kegiatan Pengumpulan Data Lapangan dan Penjaminan Kualitas Data dalam Rangka Perluasan Basis Data.",
+    "pdf": "A",
+    "page": 146,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-149-01",
+    "fakta": "Contoh minimum Profiling WP dalam materi menggunakan ilustrasi WP PT Trade yang bergerak di bidang perdagangan umum.",
+    "pdf": "A",
+    "page": 149,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-153-02",
+    "fakta": "Dalam contoh pohon kepemilikan materi, PT Kalsel Indah memiliki 99% saham PT Banjarmasin Trading senilai Rp990.000.000, sedangkan Paijo Paijan memiliki 1% senilai Rp10.000.000.",
+    "pdf": "A",
+    "page": 153,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-156-02",
+    "fakta": "Tabulasi riwayat kepatuhan formal WP dapat memetakan sejauh mana tingkat kooperatif WP.",
+    "pdf": "A",
+    "page": 156,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-006-02",
+    "fakta": "PMK-111/2025 mengatur Kewenangan dan Tujuan Pengawasan yang menjadi payung hukum utama kompetensi Analisis Kepatuhan Wajib Pajak.",
+    "pdf": "A",
+    "page": 6,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-010-01",
+    "fakta": "Tata Cara Pengawasan WP Terdaftar diatur secara rinci dalam PMK-111/2025, mencakup proses Permintaan Penjelasan, Imbauan, dan Teguran.",
+    "pdf": "A",
+    "page": 10,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-011-01",
+    "fakta": "Kegiatan Permintaan Penjelasan atas Data dan/atau Keterangan merupakan tahap awal dalam Probis Pengawasan WP Terdaftar.",
+    "pdf": "A",
+    "page": 11,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-016-01",
+    "fakta": "BA Pelaksanaan dalam proses SP2DK disusun setelah dilakukannya Pembahasan antara AR/Pegawai DJP dengan WP.",
+    "pdf": "A",
+    "page": 16,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-021-01",
+    "fakta": "Penyampaian Imbauan dilaksanakan oleh Account Representative/Pegawai DJP berdasarkan Surat Perintah Pengawasan.",
+    "pdf": "A",
+    "page": 21,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-026-01",
+    "fakta": "Tanggapan WP atas Surat Imbauan dapat disampaikan secara berkelanjutan selama masih dalam jangka waktu yang ditentukan.",
+    "pdf": "A",
+    "page": 26,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-040-02",
+    "fakta": "Penelitian Kepatuhan Formal dan Penelitian Kepatuhan Material dilakukan sesuai dengan assignment Wajib Pajak kepada pegawai yang memiliki tugas dan fungsi Pengawasan.",
+    "pdf": "A",
+    "page": 40,
+    "priority": 1,
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak"
+  },
+  {
+    "id": "F-A-043-02",
+    "fakta": "Workflow Penilaian untuk Tujuan Perpajakan menghasilkan output berupa Laporan Penilaian yang digunakan dalam berbagai kegiatan seperti Pengawasan, Pemeriksaan, Buper, dan Penyidikan.",
+    "pdf": "A",
+    "page": 43,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-044-04",
+    "fakta": "PMK-186/PMK.03/2019 jo. PMK-234/PMK.03/2022 mengatur Klasifikasi Objek Pajak dan Tata Cara Penetapan NJOP PBB.",
+    "pdf": "A",
+    "page": 44,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-047-03",
+    "fakta": "Harga pasar dalam hal tukar-menukar harta atau perolehan/pengalihan harta dalam rangka likuidasi, penggabungan, peleburan, pemekaran, pemecahan, atau pengambilalihan usaha diatur dalam Pasal 10 ayat (2) dan (3) UU PPh.",
+    "pdf": "A",
+    "page": 47,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-049-03",
+    "fakta": "Harga pasar sebagai DPP PPN atas penyerahan BKP berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan oleh PKP diatur dalam Pasal 16D UU PPN.",
+    "pdf": "A",
+    "page": 49,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-054-01",
+    "fakta": "Materi Analisis Potensi Pajak membahas Pemanfaatan Data dan Analisis Mandiri sesuai SE-05/PJ/2022.",
+    "pdf": "A",
+    "page": 54,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-057-02",
+    "fakta": "Data pembayaran di Sistem Informasi DJP meliputi pemindahbukuan, MPN, Perintah Membayar Kelebihan Pajak, Pengembalian Kelebihan Pembayaran, dan SPMIB.",
+    "pdf": "A",
+    "page": 57,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-058-02",
+    "fakta": "Data penagihan di Sistem Informasi DJP meliputi Piutang Pajak, Penghapusan Piutang, Tindakan Penagihan Pajak, dan Angsuran/Penundaan Pembayaran.",
+    "pdf": "A",
+    "page": 58,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-063-02",
+    "fakta": "Sumber data untuk Galpot WP Orang Pribadi meliputi Data Internal, Data Eksternal, Analisis Mandiri, dan Pencarian Data Baru melalui KPD.",
+    "pdf": "A",
+    "page": 63,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-066-02",
+    "fakta": "Teknik penggalian potensi turut mencermati jenis usaha di lokasi seperti dagang emas perhiasan/batangan, simpan pinjam, dan gesek tunai.",
+    "pdf": "A",
+    "page": 66,
+    "priority": 1,
+    "kompetensi": "Analisis Potensi Pajak"
+  },
+  {
+    "id": "F-A-080-01",
+    "fakta": "Gambaran Umum Proses Bisnis Pengawasan WP Belum Ber-NPWP atau Belum Aktivasi NIK sebagai NPWP menjadi dasar pelaksanaan kegiatan Ekstensifikasi.",
+    "pdf": "A",
+    "page": 80,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-096-02",
+    "fakta": "Jika tidak ditemukan indikasi kewajiban perpajakan yang masih harus dipenuhi, cukup diterbitkan SPHPP tanpa Surat Undangan Pembahasan.",
+    "pdf": "A",
+    "page": 96,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-A-103-01",
+    "fakta": "Materi Pemantauan dan Evaluasi Ekstensifikasi menegaskan pentingnya monitoring pada tahap perencanaan, pelaksanaan, dan tindak lanjut ekstensifikasi.",
+    "pdf": "A",
+    "page": 103,
+    "priority": 1,
+    "kompetensi": "Ekstensifikasi Perpajakan"
+  },
+  {
+    "id": "F-C-021-02",
+    "fakta": "Pendekatan Transaksi Tunai dan Bank merupakan salah satu dari 6 pendekatan dalam Metode Tidak Langsung Pemeriksaan.",
+    "pdf": "C",
+    "page": 21,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-027-01",
+    "fakta": "Materi Tata Cara Pemeriksaan pada SE-15/PJ/2018 merujuk pada kerangka PMK-17/PMK.03/2013 s.t.d.d. PMK-18/PMK.03/2021 yang terdiri dari 4 topik utama.",
+    "pdf": "C",
+    "page": 27,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-042-02",
+    "fakta": "PMK Nomor 80 Tahun 2023 menjadi dasar hukum utama materi Penetapan dan Ketetapan Pajak.",
+    "pdf": "C",
+    "page": 42,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-053-01",
+    "fakta": "Materi Upaya Hukum pada kompetensi Pemeriksaan Pajak mencakup seluruh jalur penyelesaian sengketa perpajakan baik administratif maupun melalui pengadilan.",
+    "pdf": "C",
+    "page": 53,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-C-063-01",
+    "fakta": "Ketentuan Khusus dalam materi Pemeriksaan Pajak turut membahas Penunjukan Pihak Lain sebagai Pemotong/Pemungut, selain Wakil dan Kuasa Wajib Pajak.",
+    "pdf": "C",
+    "page": 63,
+    "priority": 1,
+    "kompetensi": "Pemeriksaan Pajak"
+  },
+  {
+    "id": "F-A-135-01",
+    "fakta": "Materi Profiling Wajib Pajak pada kompetensi ini merujuk pada PMK-111/2025 tentang Pengawasan Kepatuhan Wajib Pajak dan SE-11/PJ/2020 tentang KPD.",
+    "pdf": "A",
+    "page": 135,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-144-07",
+    "fakta": "Tema Pemutakhiran dalam Continuous Supervision mempercepat proses update data secara jabatan agar data yang diinput sesuai dengan kondisi sebenarnya di lapangan.",
+    "pdf": "A",
+    "page": 144,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-148-02",
+    "fakta": "Riwayat Keberatan dan Banding menjadi salah satu komponen minimal yang wajib dimuat dalam Profil Wajib Pajak.",
+    "pdf": "A",
+    "page": 148,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-150-02",
+    "fakta": "Langkah-langkah Kegiatan Profiling disusun dalam dua pendekatan berurutan yaitu Approach One dan Approach Two.",
+    "pdf": "A",
+    "page": 150,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  },
+  {
+    "id": "F-A-155-02",
+    "fakta": "Dalam Proses Bisnis WP, arus barang dipetakan terpisah dari arus dokumen dan uang untuk memahami alur transaksi secara menyeluruh.",
+    "pdf": "A",
+    "page": 155,
+    "priority": 1,
+    "kompetensi": "Profiling Wajib Pajak"
+  }
+]

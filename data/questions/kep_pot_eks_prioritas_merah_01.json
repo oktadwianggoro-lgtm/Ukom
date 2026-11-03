@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "KEP-0001",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Ruang Lingkup Pengawasan",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi SE-05/PJ/2022",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan SE-05/PJ/2022, kapan jatuh tempo kewajiban perpajakan yang menjadi objek Pengawasan Pembayaran Masa (PPM)?",
+    "opsi": {
+      "A": "Di Tahun Pajak berjalan",
+      "B": "Sebelum Tahun Pajak berjalan",
+      "C": "Setelah Tahun Pajak berjalan berakhir",
+      "D": "Pada saat SPT Tahunan disampaikan"
+    },
+    "kunci": "A",
+    "pembahasan": "PPM mengawasi kewajiban yang jatuh tempo di Tahun Pajak berjalan, sedangkan PKM mengawasi kewajiban yang jatuh tempo sebelum Tahun Pajak berjalan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Pengawasan Pembayaran Masa (PPM) Pengawasan Kepatuhan Material (PKM) Jatuh tempo di Tahun Pajak berjalan Jatuh tempo sebelum Tahun Pajak berjalan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-0002",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Ruang Lingkup Pengawasan",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi SE-05/PJ/2022",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam proses KKPt/LHPt menurut SE-05/PJ/2022, apa tindak lanjut yang diterbitkan apabila ditemukan indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi?",
+    "opsi": {
+      "A": "SPHPP, BAP2DK, atau Surat Teguran",
+      "B": "P2DK, Usul Rik, atau Buper",
+      "C": "Surat Imbauan, STP, atau Perubahan Layanan",
+      "D": "SP2DK, LHP2DK, atau Usulan NPWP secara jabatan"
+    },
+    "kunci": "B",
+    "pembahasan": "Jika KKPt/LHPt menemukan indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi, tindak lanjutnya berupa P2DK, Usul Rik, atau Buper; jika tidak ditemukan maka Tidak di TL.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Tidak ditemukan indikasi ketidakpatuhan Ditemukan indikasi ketidakpatuhan dan estimasi potensi yang belum dipenuhi P2DK, Usul Rik, Buper Tidak di TL"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-0003",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Ruang Lingkup Pengawasan",
+    "subtopik": "Ruang Lingkup Kegiatan Intensifikasi SE-05/PJ/2022",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk dalam Daftar Nominatif tindak lanjut Penelitian Kepatuhan Formal (PnKF) menurut SE-05/PJ/2022, KECUALI...",
+    "opsi": {
+      "A": "Surat Imbauan",
+      "B": "Surat Teguran",
+      "C": "Bukti Permulaan (Buper)",
+      "D": "STP"
+    },
+    "kunci": "C",
+    "pembahasan": "Daftar Nominatif tindak lanjut PnKF terdiri dari Surat Imbauan, Pemeriksaan Tujuan Lain, Surat Teguran, STP, dan Perubahan Layanan. Buper merupakan tindak lanjut pada jalur KKPt/LHPt ketika ditemukan indikasi ketidakpatuhan, bukan bagian Daftar Nominatif PnKF.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 5,
+        "kutipan": "Daftar Nominatif 1. Surat Imbauan 2. Pemeriksaan Tujuan Lain 3. Surat Teguran 4. STP 5. Perubahan Layanan"
+      }
+    ],
+    "tags": [
+      "SE-05/PJ/2022"
+    ]
+  },
+  {
+    "id": "KEP-0004",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Ruang Lingkup Pengawasan",
+    "subtopik": "Ruang Lingkup Pengawasan PMK 111/2025 Pasal 3",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut Pasal 3 PMK 111/2025, ruang lingkup pengawasan dibagi menjadi tiga, yaitu...",
+    "opsi": {
+      "A": "WP Terdaftar, WP Non Efektif, dan Pengawasan Wilayah",
+      "B": "WP Badan, WP Orang Pribadi, dan Pengawasan Wilayah",
+      "C": "WP Pusat, WP Cabang, dan Pengawasan Wilayah",
+      "D": "WP Terdaftar, WP Belum Terdaftar, dan Pengawasan Wilayah"
+    },
+    "kunci": "D",
+    "pembahasan": "Pasal 3 PMK 111/2025 membagi ruang lingkup pengawasan menjadi tiga kolom: WP Terdaftar, WP Belum Terdaftar, dan Pengawasan Wilayah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "WP Terdaftar WP Belum Terdaftar Pengawasan Wilayah"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-0005",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Ruang Lingkup Pengawasan",
+    "subtopik": "Ruang Lingkup Pengawasan PMK 111/2025 Pasal 3",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini TIDAK termasuk ruang lingkup pengawasan WP Terdaftar sebagaimana diatur Pasal 3 PMK 111/2025...",
+    "opsi": {
+      "A": "Pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP",
+      "B": "Pelaporan SPT",
+      "C": "Pembukuan atau pencatatan",
+      "D": "Pemotongan dan/atau pemungutan pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Pendaftaran untuk memperoleh NPWP/aktivasi NIK sebagai NPWP hanya tercantum pada kolom WP Belum Terdaftar, karena WP Terdaftar secara definisi sudah memiliki NPWP/NITKU.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "Pendaftaran untuk memperoleh NPWP / melakukan aktivasi NIK sebagai NPWP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-0006",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Ruang Lingkup Pengawasan",
+    "subtopik": "Ruang Lingkup Pengawasan PMK 111/2025 Pasal 3",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Pengawasan terkait kewajiban pelaporan Surat Pemberitahuan Objek Pajak (SPOP) Pajak Bumi dan Bangunan (PBB), berdasarkan pengecualian dalam Pasal 3 PMK 111/2025, dilaksanakan sesuai dengan...",
+    "opsi": {
+      "A": "PMK Pajak Minimum Global berdasarkan Kesepakatan",
+      "B": "PMK mengenai ketentuan perpajakan dalam rangka pelaksanaan sistem inti administrasi perpajakan",
+      "C": "SE-05/PJ/2022",
+      "D": "SE-11/PJ/2020"
+    },
+    "kunci": "B",
+    "pembahasan": "Pengecualian dalam Pasal 3 PMK 111/2025 menyatakan pengawasan WP terkait kewajiban pelaporan SPOP PBB dilaksanakan sesuai PMK mengenai ketentuan perpajakan dalam rangka pelaksanaan sistem inti administrasi perpajakan, sedangkan Pajak Minimum Global mengikuti PMK tersendiri.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 7,
+        "kutipan": "kewajiban pelaporan surat pemberitahuan objek pajak Pajak Bumi dan Bangunan dilaksanakan sesuai PMK mengenai ketentuan perpajakan dalam rangka pelaksanaan sistem inti administrasi perpajakan."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-0007",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Proses Bisnis Pengawasan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam Proses Bisnis Pengawasan menurut PMK-111/2025, instrumen pengawasan apa yang digunakan untuk jalur WP Belum Terdaftar?",
+    "opsi": {
+      "A": "Surat Imbauan",
+      "B": "Surat Teguran",
+      "C": "SP2DK - SPHPP",
+      "D": "Kegiatan Pengumpulan Data"
+    },
+    "kunci": "C",
+    "pembahasan": "Proses Bisnis Pengawasan PMK-111/2025 dibagi 3 jalur: WP Terdaftar (SP2DK, Surat Imbauan, Surat Teguran), WP Belum Terdaftar (SP2DK-SPHPP), dan Pengawasan Wilayah (Kegiatan Pengumpulan Data).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Pengawasan WP Terdaftar WP Belum Terdaftar Pengawasan Wilayah SP2DK Surat Imbauan Surat Teguran SP2DK - SPHPP Kegiatan Pengumpulan Data"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-0008",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Proses Bisnis Pengawasan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan Pengumpulan Data pada jalur Pengawasan Wilayah dalam Proses Bisnis Pengawasan PMK-111/2025 meliputi kegiatan berikut, KECUALI...",
+    "opsi": {
+      "A": "Pengamatan kegiatan ekonomi",
+      "B": "Wawancara",
+      "C": "Geotagging dan pengambilan gambar",
+      "D": "Penerbitan Surat Teguran"
+    },
+    "kunci": "D",
+    "pembahasan": "Kegiatan Pengumpulan Data pada jalur Pengawasan Wilayah meliputi pengamatan kegiatan ekonomi, wawancara, geotagging, dan pengambilan gambar. Surat Teguran merupakan instrumen pada jalur WP Terdaftar, bukan Pengawasan Wilayah.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "Pengamatan kegiatan ekonomi, Wawancara, geotagging, pengambilan gambar"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-0009",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Proses Bisnis Pengawasan",
+    "subtopik": "Proses Bisnis Pengawasan cfm PMK-111/2025",
+    "tipe": "fakta",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Surat Teguran dalam Proses Bisnis Pengawasan WP Terdaftar (PMK-111/2025) diterbitkan dalam hal...",
+    "opsi": {
+      "A": "SPT tidak disampaikan sesuai batas waktu atau terkait pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan",
+      "B": "WP tidak menyampaikan tanggapan atas SP2DK",
+      "C": "WP belum melakukan aktivasi NIK sebagai NPWP",
+      "D": "WP tidak bersedia menandatangani BAP2DK"
+    },
+    "kunci": "A",
+    "pembahasan": "Surat Teguran diterbitkan dalam hal SPT tidak disampaikan sesuai batas waktu atau pelanggaran ketentuan peraturan perundang-undangan di bidang perpajakan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 75,
+        "kutipan": "SPT tidak disampaikan sesuai batas waktu pelaksanaan ketentuan peraturan perundang-undangan di bidang perpajakan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "KEP-0010",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Siklus Penatausahaan PBB",
+    "subtopik": "Siklus Penatausahaan PBB P5L",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu Pelaporan SPOP dalam Siklus Penatausahaan PBB P5L adalah...",
+    "opsi": {
+      "A": "7 hari",
+      "B": "30 hari",
+      "C": "15 hari",
+      "D": "5 hari"
+    },
+    "kunci": "B",
+    "pembahasan": "Batas waktu Pelaporan SPOP adalah 30 hari, dengan opsi Penundaan Pelaporan SPOP 7 hari.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Pelaporan SPOP (30 Hari)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "PBB-P5L"
+    ]
+  },
+  {
+    "id": "KEP-0011",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Siklus Penatausahaan PBB",
+    "subtopik": "Siklus Penatausahaan PBB P5L",
+    "tipe": "angka",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam proses Penilaian pada Siklus Penatausahaan PBB P5L, berapa jangka waktu Penilaian Lapangan dibandingkan Penilaian Kantor?",
+    "opsi": {
+      "A": "Penilaian Lapangan 5 hari, Penilaian Kantor 15 hari",
+      "B": "Keduanya 7 hari",
+      "C": "Penilaian Lapangan 15 hari, Penilaian Kantor 5 hari",
+      "D": "Penilaian Lapangan 30 hari, Penilaian Kantor 7 hari"
+    },
+    "kunci": "C",
+    "pembahasan": "Penilaian Kantor memakan waktu 5 hari, sedangkan Penilaian Lapangan memakan waktu 15 hari, sebelum Penetapan NJOP dan penerbitan SPPT.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Penilaian Kantor Penilaian Lapangan 5 Hari 15 Hari"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "PBB-P5L"
+    ]
+  },
+  {
+    "id": "KEP-0012",
+    "kompetensi": "Analisis Kepatuhan Wajib Pajak",
+    "topik": "Siklus Penatausahaan PBB",
+    "subtopik": "Siklus Penatausahaan PBB P5L",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila Wajib Pajak PBB P5L tidak menanggapi Surat Teguran dalam Siklus Penatausahaan PBB P5L, tindak lanjut berikutnya adalah...",
+    "opsi": {
+      "A": "Klarifikasi",
+      "B": "Penilaian Lapangan",
+      "C": "Penetapan NJOP",
+      "D": "Anris Pemeriksaan"
+    },
+    "kunci": "D",
+    "pembahasan": "Jika Surat Teguran (7 hari) tidak ditanggapi di Coretax, proses berlanjut ke Anris Pemeriksaan, yang kemudian berlanjut ke Pemeriksaan PBB dan penerbitan SKP PBB (jalur Probis Pemeriksaan berwarna merah).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 119,
+        "kutipan": "Surat Teguran Tidak Ditanggapi Anris Pemeriksaan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "PBB-P5L"
+    ]
+  },
+  {
+    "id": "POT-0001",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penilaian untuk Tujuan Perpajakan",
+    "subtopik": "Penilaian untuk Menentukan Nilai Harta Berwujud/Tidak Berwujud",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 2,
+    "pertanyaan": "Dasar hukum PPN yang menjadi rujukan nilai dalam Penilaian untuk Menentukan Nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis meliputi pasal-pasal berikut, KECUALI...",
+    "opsi": {
+      "A": "Pasal 18(3a) UU PPh tentang harga transaksi",
+      "B": "Pasal 1A (1) huruf e dan Pasal 2 (1) tentang harga pasar wajar",
+      "C": "Pasal 16C tentang jumlah biaya yang dikeluarkan/dibayarkan",
+      "D": "Pasal 16D tentang harga pasar"
+    },
+    "kunci": "A",
+    "pembahasan": "Dasar hukum PPN mencakup Pasal 1A(1)e & 2(1), Pasal 16C, dan Pasal 16D. Pasal 18(3a) merupakan dasar hukum PPh terkait harga transaksi, bukan dasar hukum PPN.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "PPN Harga pasar wajar Pasal 1A (1) huruf e dan Pasal 2 (1) Jumlah biaya yang dikeluarkan/dibayarkan Pasal 16C Harga pasar Pasal 16D"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023"
+    ]
+  },
+  {
+    "id": "POT-0002",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penilaian untuk Tujuan Perpajakan",
+    "subtopik": "Penilaian untuk Menentukan Nilai Harta Berwujud/Tidak Berwujud",
+    "tipe": "dasar_hukum",
+    "kesulitan": "sulit",
+    "prioritas": 2,
+    "pertanyaan": "Pasal berapa dalam UU PPSP yang menjadi dasar hukum 'perkiraan nilai barang' dalam konteks Penilaian untuk tujuan perpajakan?",
+    "opsi": {
+      "A": "Pasal 2 (3)",
+      "B": "Pasal 14 (2)",
+      "C": "Pasal 25 (2)",
+      "D": "Pasal 19"
+    },
+    "kunci": "B",
+    "pembahasan": "Dasar hukum PPSP terkait nilai mencakup Pasal 2(3) harga limit lelang, Pasal 14(2) perkiraan nilai barang, dan Pasal 25(2) harga jual.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "PPSP Harga limit lelang Pasal 2 (3) Perkiraan nilai barang Pasal 14 (2) Harga jual Pasal 25 (2)"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023"
+    ]
+  },
+  {
+    "id": "POT-0003",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penilaian untuk Tujuan Perpajakan",
+    "subtopik": "Penilaian untuk Menentukan Nilai Harta Berwujud/Tidak Berwujud",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 2,
+    "pertanyaan": "Penilaian untuk Menentukan Nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis dapat dilakukan melalui dua metode berikut...",
+    "opsi": {
+      "A": "Penilaian internal dan Penilaian eksternal",
+      "B": "Penilaian material dan Penilaian formal",
+      "C": "Penilaian kantor dan Penilaian lapangan",
+      "D": "Penilaian awal dan Penilaian akhir"
+    },
+    "kunci": "C",
+    "pembahasan": "Penilaian untuk menentukan nilai Harta Berwujud, Harta Tidak Berwujud, dan Bisnis dapat dilakukan di kantor (Penilaian kantor) atau di lapangan (Penilaian lapangan).",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 47,
+        "kutipan": "Penilaian kantor Penilaian lapangan"
+      }
+    ],
+    "tags": [
+      "PMK-79/2023"
+    ]
+  },
+  {
+    "id": "POT-0004",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam klasifikasi Galpot WP Orang Pribadi, WP Non Karyawan terbagi menjadi dua kelompok, yaitu...",
+    "opsi": {
+      "A": "Karyawan dan Pensiunan",
+      "B": "Formal dan Material",
+      "C": "Pusat dan Cabang",
+      "D": "Profesi dan Pengusaha"
+    },
+    "kunci": "D",
+    "pembahasan": "WP OP diklasifikasikan menjadi Karyawan dan Non Karyawan; Non Karyawan terbagi lagi menjadi Profesi dan Pengusaha.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Non Karyawan Profesi Pengusaha"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "POT-0005",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Seorang WP Orang Pribadi berprofesi sebagai pengacara yang membuka praktik hukum sendiri tanpa menyelenggarakan pembukuan, dan menghitung penghasilan netonya menggunakan Norma Penghitungan Penghasilan Neto. Berdasarkan skema Galpot OP, WP tersebut termasuk kelompok...",
+    "opsi": {
+      "A": "Non Karyawan - Profesi",
+      "B": "Karyawan",
+      "C": "Non Karyawan - Pengusaha",
+      "D": "Pengawasan Wilayah"
+    },
+    "kunci": "A",
+    "pembahasan": "Non Karyawan (Profesi) menggunakan Norma Perhitungan Penghasilan Netto, sedangkan Non Karyawan (Pengusaha) menggunakan Pembukuan/Pencatatan. WP pengacara yang menggunakan Norma Penghitungan termasuk kelompok Profesi.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "Profesi Norma Perhitungan Penghasilan Netto"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "POT-0006",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penggalian Potensi Wajib Pajak Orang Pribadi",
+    "subtopik": "Kompleksitas vs Kesederhanaan Galpot OP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Output akhir proses Galpot terhadap WP Orang Pribadi berupa LHPt/LHA/KKA bersumber dari data-data berikut, KECUALI...",
+    "opsi": {
+      "A": "Data Internal",
+      "B": "Laporan Keuangan Auditan Independen",
+      "C": "Data Eksternal",
+      "D": "Analisis Mandiri"
+    },
+    "kunci": "B",
+    "pembahasan": "Output akhir pengawasan WP Orang Pribadi berupa LHPt/LHA/KKA bersumber dari Data Internal, Data Eksternal, Analisis Mandiri, dan Pencarian Data Baru (KPD). Laporan Keuangan Auditan Independen tidak disebutkan sebagai salah satu sumber data tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 63,
+        "kutipan": "LHPt/LHA/KKA WP Orang Pribadi Data Internal Data Eksternal Analisis Mandiri Pencarian Data Baru (KPD)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "POT-0007",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU)",
+    "subtopik": "Tahapan Penerapan PKKU - Transaksi Jasa (Pasal 13)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Syarat 'benefit test' dalam Tahapan Penerapan PKKU untuk Transaksi Jasa (Pasal 13) mensyaratkan bahwa jasa yang dibebankan harus...",
+    "opsi": {
+      "A": "Merupakan aktivitas untuk kepentingan pemegang saham",
+      "B": "Merupakan duplikasi kegiatan yang telah dilaksanakan sendiri oleh Wajib Pajak",
+      "C": "Memberikan manfaat ekonomis kepada penerima jasa",
+      "D": "Memberikan manfaat insidental semata"
+    },
+    "kunci": "C",
+    "pembahasan": "Salah satu syarat pembuktian jasa dalam PKKU adalah benefit test, yaitu jasa tersebut memberikan manfaat ekonomis kepada penerima jasa.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 769,
+        "kutipan": "memberikan manfaat ekonomis kepada penerima jasa (benefit test);"
+      }
+    ],
+    "tags": [
+      "PMK-172/2023"
+    ]
+  },
+  {
+    "id": "POT-0008",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU)",
+    "subtopik": "Tahapan Penerapan PKKU - Transaksi Jasa (Pasal 13)",
+    "tipe": "kasus",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Sebuah entitas induk membebankan biaya kepada WP (entitas anak) atas kegiatan penyelenggaraan Rapat Umum Pemegang Saham (RUPS) dan pencatatan saham entitas induk di bursa efek. Berdasarkan Tahapan Penerapan PKKU Transaksi Jasa, biaya tersebut tergolong sebagai...",
+    "opsi": {
+      "A": "Benefit test",
+      "B": "Passive association",
+      "C": "Jasa siaga (on call services)",
+      "D": "Shareholder activity"
+    },
+    "kunci": "D",
+    "pembahasan": "Biaya terkait RUPS dan pencatatan saham entitas induk termasuk contoh shareholder activity, yaitu aktivitas untuk kepentingan pemegang saham sehingga tidak dapat dibebankan sebagai jasa dalam PKKU.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 769,
+        "kutipan": "biaya sehubungan rapat pemegang saham entitas induk, penerbitan saham entitas induk, pencatatan saham entitas induk di bursa efek,"
+      }
+    ],
+    "tags": [
+      "PMK-172/2023"
+    ]
+  },
+  {
+    "id": "POT-0009",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU)",
+    "subtopik": "Tahapan Penerapan PKKU - Transaksi Jasa (Pasal 13)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk syarat pembuktian bahwa jasa dapat dibebankan dalam PKKU untuk Transaksi Jasa (Pasal 13), KECUALI...",
+    "opsi": {
+      "A": "Merupakan aktivitas yang memberikan manfaat kepada pihak lain semata-mata karena menjadi bagian dari grup usaha (passive association)",
+      "B": "Secara nyata telah diberikan oleh pemberi jasa dan diperoleh penerima jasa",
+      "C": "Dibutuhkan oleh penerima jasa",
+      "D": "Bukan merupakan duplikasi atas kegiatan yang telah dilaksanakan sendiri oleh Wajib Pajak"
+    },
+    "kunci": "A",
+    "pembahasan": "Salah satu syarat jasa dalam PKKU adalah bukan merupakan passive association, yaitu bukan aktivitas yang memberikan manfaat kepada suatu pihak semata-mata karena menjadi bagian dari grup usaha.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 769,
+        "kutipan": "bukan merupakan aktivitas yang memberikan manfaat kepada suatu pihak semata-mata karena pihak tersebut menjadi bagian dari grup usaha (passive association);"
+      }
+    ],
+    "tags": [
+      "PMK-172/2023"
+    ]
+  },
+  {
+    "id": "POT-0010",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU)",
+    "subtopik": "Tahapan Penerapan PKKU - Transaksi Keuangan Terkait Pinjaman (Pasal 13)",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Menurut Tahapan Penerapan PKKU untuk Transaksi Keuangan Terkait Pinjaman (Pasal 13), ada berapa karakteristik pinjaman sebenarnya (poin a sampai h) yang harus dibuktikan?",
+    "opsi": {
+      "A": "5",
+      "B": "8",
+      "C": "6",
+      "D": "7"
+    },
+    "kunci": "B",
+    "pembahasan": "Karakteristik pinjaman sebenarnya dirinci dalam poin a sampai h (8 poin), mulai dari pengakuan kreditur hingga hak tagih bagi pemberi pinjaman.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 771,
+        "kutipan": "a. kreditur mengakui pinjaman secara ekonomis dan secara legal; ... h. adanya hak tagih bagi pemberi pinjaman sebagaimana kreditur independen;"
+      }
+    ],
+    "tags": [
+      "PMK-172/2023"
+    ]
+  },
+  {
+    "id": "POT-0011",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU)",
+    "subtopik": "Tahapan Penerapan PKKU - Transaksi Keuangan Terkait Pinjaman (Pasal 13)",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu karakteristik yang membuktikan suatu transaksi benar-benar merupakan pinjaman (bukan modal terselubung) dalam PKKU Pasal 13 adalah...",
+    "opsi": {
+      "A": "Pinjaman diberikan tanpa jangka waktu jatuh tempo",
+      "B": "Tidak ada konsekuensi hukum apabila gagal bayar",
+      "C": "Adanya kewajiban untuk membayar kembali pokok pinjaman",
+      "D": "Pemberi pinjaman tidak memiliki hak tagih"
+    },
+    "kunci": "C",
+    "pembahasan": "Karakteristik pinjaman sebenarnya poin c menyebutkan adanya kewajiban untuk membayar kembali pokok pinjaman.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 771,
+        "kutipan": "c. adanya kewajiban untuk membayar kembali pokok pinjaman;"
+      }
+    ],
+    "tags": [
+      "PMK-172/2023"
+    ]
+  },
+  {
+    "id": "POT-0012",
+    "kompetensi": "Analisis Potensi Pajak",
+    "topik": "Penerapan Prinsip Kewajaran dan Kelaziman Usaha (PKKU)",
+    "subtopik": "Tahapan Penerapan PKKU - Transaksi Keuangan Terkait Pinjaman (Pasal 13)",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berikut ini termasuk unsur pembuktian pinjaman pada Tahapan Penerapan PKKU Transaksi Keuangan Terkait Pinjaman (Pasal 13), KECUALI...",
+    "opsi": {
+      "A": "Sesuai dengan substansi dan keadaan sebenarnya",
+      "B": "Dibutuhkan oleh peminjam",
+      "C": "Digunakan untuk mendapatkan, memelihara, dan menagih penghasilan",
+      "D": "Dicatat sebagai penyertaan modal pada laporan keuangan peminjam"
+    },
+    "kunci": "D",
+    "pembahasan": "Pembuktian pinjaman harus sesuai substansi dan keadaan sebenarnya, dibutuhkan peminjam, serta digunakan untuk mendapatkan, memelihara, dan menagih penghasilan. Pencatatan sebagai penyertaan modal justru bertentangan dengan sifat pinjaman.",
+    "sumber": [
+      {
+        "pdf": "B",
+        "halaman": 771,
+        "kutipan": "sesuai dengan substansi dan keadaan sebenarnya; dibutuhkan oleh peminjam; digunakan untuk mendapatkan, memelihara, dan menagih penghasilan sesuai ketentuan peraturan perundang-undangan di bidang pajak"
+      }
+    ],
+    "tags": [
+      "PMK-172/2023"
+    ]
+  },
+  {
+    "id": "EKS-0001",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "BA Penyampaian SP2DK Secara Langsung",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Berita Acara Penyampaian SP2DK secara langsung pada dasarnya ditandatangani oleh...",
+    "opsi": {
+      "A": "Wajib Pajak/wakil/kuasa/pegawai/anggota keluarga dewasa dari WP, dan AR/Pegawai DJP yang ditugaskan",
+      "B": "Kepala KPP dan Wajib Pajak",
+      "C": "AR/Pegawai DJP dan saksi dari RT/RW setempat",
+      "D": "Wajib Pajak dan notaris"
+    },
+    "kunci": "A",
+    "pembahasan": "Berita Acara Penyampaian SP2DK ditandatangani oleh WP/wakil/kuasa/pegawai/anggota keluarga dewasa dari WP dan AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP AR/Pegawai DJP yang ditugaskan ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0002",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "BA Penyampaian SP2DK Secara Langsung",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Petugas AR mendatangi alamat WP untuk menyampaikan SP2DK secara langsung, namun WP maupun pihak yang mewakilinya tidak dapat ditemukan di alamat tersebut. Akibat hukum atas kondisi ini adalah...",
+    "opsi": {
+      "A": "SP2DK dianggap batal demi hukum",
+      "B": "WP dianggap menerima SP2DK dan tidak memberikan tanggapan, serta BA hanya ditandatangani oleh AR/Pegawai DJP",
+      "C": "AR wajib menerbitkan SPHPP tanpa penelitian lebih lanjut",
+      "D": "Proses pengawasan WP Belum Terdaftar dihentikan secara otomatis"
+    },
+    "kunci": "B",
+    "pembahasan": "Jika WP tidak ditemukan atau tidak bersedia menerima SP2DK, BA hanya ditandatangani oleh AR/Pegawai DJP, dan WP dianggap menerima SP2DK serta tidak memberikan tanggapan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Tidak ditemukan atau tidak bersedia menerima SP2DK hanya ditandatangani oleh WP dianggap menerima SP2DK dan tidak memberikan tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0003",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "BA Penyampaian SP2DK Secara Langsung",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pihak-pihak berikut dapat menandatangani Berita Acara Penyampaian SP2DK mewakili Wajib Pajak, KECUALI...",
+    "opsi": {
+      "A": "Wakil WP",
+      "B": "Kuasa WP",
+      "C": "Tetangga WP yang mengetahui keberadaan WP",
+      "D": "Anggota keluarga yang telah dewasa dari WP"
+    },
+    "kunci": "C",
+    "pembahasan": "BA Penyampaian SP2DK ditandatangani oleh WP, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP. Tetangga WP tidak termasuk pihak yang dapat mewakili WP menandatangani BA.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0004",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Tanggapan WP atas SP2DK (lanjutan)",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Wajib Pajak dapat memberikan tanggapan atas SP2DK dengan cara...",
+    "opsi": {
+      "A": "Mengajukan keberatan ke Direktur Jenderal Pajak",
+      "B": "Mengirimkan surat permohonan penundaan pemeriksaan",
+      "C": "Mengajukan permohonan pembatalan SP2DK ke Kantor Wilayah",
+      "D": "Memenuhi kewajiban perpajakan dan/atau menyampaikan penjelasan atas kewajiban perpajakan sebagaimana tercantum dalam SP2DK"
+    },
+    "kunci": "D",
+    "pembahasan": "WP memberikan tanggapan atas SP2DK dengan cara memenuhi kewajiban perpajakan dan/atau menyampaikan penjelasan atas kewajiban perpajakan sebagaimana tercantum dalam SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 91,
+        "kutipan": "Wajib Pajak memberikan tanggapan dengan: a. memenuhi kewajiban perpajakan; dan/atau b. menyampaikan penjelasan atas kewajiban perpajakan, sebagaimana tercantum dalam SP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0005",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Tanggapan WP atas SP2DK (lanjutan)",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "WP menerima SP2DK yang menyebutkan adanya indikasi penghasilan dari usaha yang belum dilaporkan. WP tidak sepakat dengan sebagian data tersebut dan ingin menyampaikan penjelasan. Agar tanggapannya dapat diterima, WP wajib...",
+    "opsi": {
+      "A": "Menyertai penjelasan dengan bukti dan/atau dokumen pendukung",
+      "B": "Cukup menyampaikan penjelasan secara lisan kepada AR",
+      "C": "Membayar terlebih dahulu seluruh pajak yang tercantum dalam SP2DK",
+      "D": "Meminta penundaan penyampaian tanggapan paling lama 1 tahun"
+    },
+    "kunci": "A",
+    "pembahasan": "Dalam hal WP tidak menyetujui sebagian atau seluruh data dan/atau keterangan dalam SP2DK, penjelasan WP harus disertai dengan bukti dan/atau dokumen pendukung.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 91,
+        "kutipan": "Dalam hal Wajib Pajak tidak menyetujui sebagian atau seluruh data dan/atau keterangan dalam SP2DK, penjelasan disertai dengan bukti dan/atau dokumen pendukung."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0006",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Tanggapan WP atas SP2DK (lanjutan)",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Setelah AR/Pegawai DJP membuat BA Penyampaian SP2DK kepada WP, tahap berikutnya dalam Tata Cara Pengawasan WP Belum Terdaftar adalah...",
+    "opsi": {
+      "A": "Penandatanganan BAP2DK secara langsung",
+      "B": "Tanggapan WP atas SP2DK",
+      "C": "Kunjungan tanpa pemberitahuan",
+      "D": "Pengusulan Pemeriksaan Bukti Permulaan"
+    },
+    "kunci": "B",
+    "pembahasan": "Urutan Tata Cara Pengawasan WP Belum Terdaftar: BA Penyampaian SP2DK -> Tanggapan WP atas SP2DK -> Penerbitan SPHPP -> Pembahasan -> BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 87,
+        "kutipan": "Tata Cara Pengawasan Wajib Pajak Belum Terdaftar BA Penyampaian SP2DK Secara Langsung"
+      },
+      {
+        "pdf": "A",
+        "halaman": 91,
+        "kutipan": "Tata Cara Pengawasan Wajib Pajak Belum Terdaftar Tanggapan WP atas SP2DK (lanjutan)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0007",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penerbitan SPHPP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "SPHPP (Surat Pemberitahuan Hasil Pengujian/Pengawasan) diterbitkan apabila...",
+    "opsi": {
+      "A": "WP tidak menyampaikan tanggapan sama sekali",
+      "B": "WP mengajukan keberatan atas SP2DK",
+      "C": "Tanggapan WP sesuai setelah dilakukan Penelitian atas tanggapan",
+      "D": "WP meminta penundaan pembahasan"
+    },
+    "kunci": "C",
+    "pembahasan": "SPHPP diterbitkan setelah dilakukan Penelitian atas tanggapan WP; jika tanggapan WP sesuai, maka langsung diterbitkan SPHPP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Wajib Pajak memberikan tanggapan Diterbitkan surat pemberitahuan hasil pengujian/Pengawasan (SPHPP) Tanggapan WP sesuai dilakukan Penelitian atas tanggapan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0008",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penerbitan SPHPP",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Tindak lanjut 'Kunjungan' dalam tahap Penerbitan SPHPP TIDAK dapat dilakukan dalam kondisi berikut...",
+    "opsi": {
+      "A": "WP tidak menyampaikan tanggapan atas SP2DK",
+      "B": "Tanggapan WP tidak sesuai setelah diteliti",
+      "C": "WP memberikan tanggapan namun belum diteliti kesesuaiannya",
+      "D": "Tanggapan WP sesuai setelah dilakukan Penelitian"
+    },
+    "kunci": "D",
+    "pembahasan": "Kunjungan dapat dilakukan jika WP tidak menyampaikan tanggapan atau tanggapan WP tidak sesuai. Jika tanggapan WP sesuai setelah diteliti, maka langsung diterbitkan SPHPP tanpa Kunjungan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tidak menyampaikan tanggapan Tanggapan WP tidak sesuai Kunjungan Dapat dilakukan Dapat dilakukan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0009",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penerbitan SPHPP",
+    "tipe": "proses",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Dalam alur Tata Cara Pengawasan WP Belum Terdaftar, tahap yang dilalui setelah Penerbitan SPHPP adalah...",
+    "opsi": {
+      "A": "Pembahasan dengan WP",
+      "B": "BA Penyampaian SP2DK Secara Langsung",
+      "C": "Tanggapan WP atas SP2DK",
+      "D": "Penandatanganan BAP2DK Secara Daring"
+    },
+    "kunci": "A",
+    "pembahasan": "Setelah SPHPP diterbitkan, dilaksanakan Pembahasan dengan WP berdasarkan SPHPP dan Surat Undangan Pembahasan, sebelum berlanjut ke Penandatanganan BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 94,
+        "kutipan": "Tata Cara Pengawasan Wajib Pajak Belum Terdaftar Penerbitan SPHPP"
+      },
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Tata Cara Pengawasan Wajib Pajak Belum Terdaftar Pembahasan dengan WP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0010",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Pembahasan dengan WP",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Pembahasan dengan WP dalam Tata Cara Pengawasan WP Belum Terdaftar dilaksanakan berdasarkan...",
+    "opsi": {
+      "A": "BAP2DK dan Surat Teguran",
+      "B": "SPHPP dan Surat Undangan Pembahasan",
+      "C": "SP2DK dan Berita Acara Penyampaian",
+      "D": "LHP2DK dan Surat Imbauan"
+    },
+    "kunci": "B",
+    "pembahasan": "Pembahasan dengan WP dilakukan berdasarkan SPHPP dan Surat Undangan Pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "SPHPP Surat Undangan Pembahasan + PEMBAHASAN"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0011",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Pembahasan dengan WP",
+    "tipe": "kasus",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "WP telah diundang secara resmi untuk menghadiri pembahasan SPHPP namun tidak hadir tanpa keterangan apa pun hingga batas waktu berakhir. Konsekuensi atas ketidakhadiran WP tersebut adalah...",
+    "opsi": {
+      "A": "Pembahasan dibatalkan dan SPHPP dianggap gugur",
+      "B": "AR wajib menjadwalkan ulang pembahasan minimal 3 kali",
+      "C": "Pembahasan dianggap telah dilaksanakan dan kewajiban perpajakan yang masih harus dipenuhi WP dihitung oleh DJP",
+      "D": "WP otomatis dikenakan sanksi pidana perpajakan"
+    },
+    "kunci": "C",
+    "pembahasan": "Jika WP tidak hadir dalam pembahasan, pembahasan dianggap telah dilaksanakan dan kewajiban perpajakan yang masih harus dipenuhi oleh WP dihitung oleh DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "WP tidak hadir pembahasan dianggap telah dilaksanakan dan kewajiban perpajakan yang masih harus dipenuhi oleh WP dihitungoleh DJP"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0012",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Pembahasan dengan WP",
+    "tipe": "fakta",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Pembahasan dengan WP terkait SPHPP dapat dilaksanakan melalui cara-cara berikut...",
+    "opsi": {
+      "A": "Hanya secara luring di kantor DJP",
+      "B": "Hanya melalui korespondensi surat-menyurat",
+      "C": "Hanya melalui Akun Wajib Pajak",
+      "D": "Secara luring atau daring dengan video conference"
+    },
+    "kunci": "D",
+    "pembahasan": "Pembahasan dilakukan secara luring atau daring dengan video conference, sesuai undangan pembahasan, dan dapat melibatkan pegawai DJP lainnya yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 97,
+        "kutipan": "Dilakukan secara luring atau daring dengan video conference, sesuai undangan pembahasan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0013",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penandatanganan BAP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "BAP2DK pada dasarnya ditandatangani oleh...",
+    "opsi": {
+      "A": "Wajib Pajak dan AR/Pegawai DJP yang ditugaskan",
+      "B": "Kepala KPP dan Wajib Pajak",
+      "C": "Notaris dan Wajib Pajak",
+      "D": "AR dan saksi independen dari luar DJP"
+    },
+    "kunci": "A",
+    "pembahasan": "BAP2DK ditandatangani oleh Wajib Pajak dan AR/Pegawai DJP yang ditugaskan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "Wajib Pajak AR/Pegawai DJP yang ditugaskan ditandatangani oleh"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0014",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penandatanganan BAP2DK",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "BAP2DK hanya ditandatangani oleh AR/Pegawai DJP dalam hal-hal berikut, KECUALI...",
+    "opsi": {
+      "A": "Tidak terdapat pembahasan",
+      "B": "WP menghadiri pembahasan dan menandatangani BAP2DK tepat waktu",
+      "C": "WP tidak menghadiri pembahasan",
+      "D": "WP menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+    },
+    "kunci": "B",
+    "pembahasan": "BAP2DK hanya ditandatangani oleh AR/Pegawai DJP dalam hal: (a) tidak terdapat pembahasan, (b) WP tidak menghadiri pembahasan, atau (c) WP menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK. Jika WP menandatangani tepat waktu, BAP2DK ditandatangani bersama WP dan AR/Pegawai DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "Dalam hal: a. tidak terdapat pembahasan; b. Wajib Pajak tidak menghadiri pembahasan; atau c. Wajib Pajak menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0015",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penandatanganan BAP2DK",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Salah satu cara penyampaian BAP2DK kepada Wajib Pajak yang diatur dalam Tata Cara Pengawasan WP Belum Terdaftar adalah...",
+    "opsi": {
+      "A": "Melalui pengumuman di papan informasi KPP",
+      "B": "Melalui media sosial resmi DJP",
+      "C": "Melalui Akun Wajib Pajak, dalam hal WP telah melakukan aktivasi Akun Wajib Pajak",
+      "D": "Melalui perwakilan RT/RW setempat"
+    },
+    "kunci": "C",
+    "pembahasan": "BAP2DK disampaikan kepada WP melalui: Akun Wajib Pajak (jika telah aktivasi), pos/jasa ekspedisi/kurir dengan bukti pengiriman, atau secara langsung saat WP menghadiri pembahasan.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 100,
+        "kutipan": "melalui Akun Wajib Pajak, dalam hal Wajib Pajak telah melakukan aktivasi Akun Wajib Pajak;"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0016",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penandatanganan BAP2DK Secara Daring",
+    "tipe": "angka",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Batas waktu bagi WP untuk mengirimkan kembali konsep BAP2DK yang telah ditandatangani secara elektronik (TTE) dalam proses Penandatanganan BAP2DK secara daring adalah...",
+    "opsi": {
+      "A": "3 hari kerja",
+      "B": "7 hari kerja",
+      "C": "15 hari kerja",
+      "D": "5 hari kerja"
+    },
+    "kunci": "D",
+    "pembahasan": "WP mengirim kembali konsep BAP2DK yang telah di-TTE paling lama 5 hari kerja sejak konsep BAP2DK dikirim oleh AR/Pegawai DJP.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "Mengirim konsep BAP2DK WP mengirim kembali konsep BAP2DK yang telah di-ttd, max 5 hari kerja sejak konsep dikirim"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0017",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penandatanganan BAP2DK Secara Daring",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Dalam proses Penandatanganan BAP2DK secara daring, jika Wajib Pajak tidak bisa melakukan Tanda Tangan Elektronik (TTE), maka alur proses kembali ke...",
+    "opsi": {
+      "A": "AR/Pegawai DJP yang ditugaskan",
+      "B": "Wajib Pajak dianggap tidak bersedia menandatangani BAP2DK",
+      "C": "Penerbitan SPHPP baru",
+      "D": "Pengusulan Pemeriksaan Bukti Permulaan"
+    },
+    "kunci": "A",
+    "pembahasan": "Apabila WP tidak bisa melakukan TTE, alur proses kembali ke AR/Pegawai DJP yang ditugaskan untuk menindaklanjuti penyampaian konsep BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "Tidak bisa TTE AR/Pegawai DJP yang ditugaskan"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0018",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Tata Cara Pengawasan WP Belum Terdaftar",
+    "subtopik": "Penandatanganan BAP2DK Secara Daring",
+    "tipe": "negasi",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Apabila WP TIDAK menyampaikan kembali konsep BAP2DK yang telah ditandatangani (TTE) dalam batas waktu yang ditentukan, maka WP dianggap...",
+    "opsi": {
+      "A": "Tidak pernah menerima SP2DK",
+      "B": "Menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK",
+      "C": "Telah melunasi seluruh kewajiban perpajakan",
+      "D": "Mengajukan keberatan atas SPHPP"
+    },
+    "kunci": "B",
+    "pembahasan": "Jika WP tidak menyampaikan kembali konsep BAP2DK yang telah di-TTE dalam batas waktu (max 5 hari kerja), WP dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 101,
+        "kutipan": "WP tidak menyampaikan kembali konsep BAP2DK yang telah di-ttd oleh WP ... Wajib Pajak dianggap menghadiri pembahasan namun tidak bersedia menandatangani BAP2DK"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025"
+    ]
+  },
+  {
+    "id": "EKS-0019",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kegiatan Pengumpulan Data Lapangan dan Ekstensifikasi SIDJP Nine",
+    "subtopik": "Direktorat PMK 111/2025 EKSTENSIFIKASI SIDJP Nine",
+    "tipe": "negasi",
+    "kesulitan": "sedang",
+    "prioritas": 3,
+    "pertanyaan": "Kegiatan Pengumpulan Data Lapangan (KPDL) menurut SE-11/PJ/2020 terdiri dari empat jenis berikut, KECUALI...",
+    "opsi": {
+      "A": "KPDL Berbasis Kewilayahan",
+      "B": "KPDL Berbasis Penugasan Lapangan Lainnya",
+      "C": "KPDL Berbasis Pemeriksaan Bukti Permulaan",
+      "D": "KPDL Dalam Rangka Non Tusi"
+    },
+    "kunci": "C",
+    "pembahasan": "KPDL terdiri dari KPDL Berbasis Kewilayahan, KPDL Berbasis Penugasan Lapangan Lainnya, Dalam Rangka Non Tusi, dan Pihak Eksternal (pihak ketiga). KPDL Berbasis Pemeriksaan Bukti Permulaan tidak termasuk dalam klasifikasi tersebut.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "KPDL Berbasis Kewilayahan KPDL Berbasis Penugasan Lapangan Lainnya Dalam Rangka Non Tusi Pihak Eksternal (pihak ketiga)"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SE-11/PJ/2020"
+    ]
+  },
+  {
+    "id": "EKS-0020",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kegiatan Pengumpulan Data Lapangan dan Ekstensifikasi SIDJP Nine",
+    "subtopik": "Direktorat PMK 111/2025 EKSTENSIFIKASI SIDJP Nine",
+    "tipe": "fakta",
+    "kesulitan": "mudah",
+    "prioritas": 3,
+    "pertanyaan": "Dalam Penjaminan Kualitas Data pada KPDL, validasi yang dilakukan oleh Atasan Langsung disebut sebagai...",
+    "opsi": {
+      "A": "Validasi Formal",
+      "B": "Validasi Administratif",
+      "C": "Validasi Teknis",
+      "D": "Validasi Material"
+    },
+    "kunci": "D",
+    "pembahasan": "Penjaminan Kualitas Data terdiri dari Validasi Material yang dilakukan oleh Atasan Langsung, dan Validasi Formal yang dilakukan oleh Kasi PKD.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Validasi Material (Atasan Langsung): Kelengkapan, rincian data telah memenuhi persyaratan minimum."
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SE-11/PJ/2020"
+    ]
+  },
+  {
+    "id": "EKS-0021",
+    "kompetensi": "Ekstensifikasi Perpajakan",
+    "topik": "Kegiatan Pengumpulan Data Lapangan dan Ekstensifikasi SIDJP Nine",
+    "subtopik": "Direktorat PMK 111/2025 EKSTENSIFIKASI SIDJP Nine",
+    "tipe": "proses",
+    "kesulitan": "sulit",
+    "prioritas": 3,
+    "pertanyaan": "Berdasarkan alur Ekstensifikasi SIDJP Nine pada skema Kegiatan Pengumpulan Data Lapangan, setelah Kasi PKD melakukan distribusi data, tahap penugasan berikutnya dilakukan secara berurutan oleh...",
+    "opsi": {
+      "A": "Kasi Pengawasan II, III, IV, V, dan VI, kemudian AR",
+      "B": "Langsung oleh AR tanpa melalui Kasi Pengawasan",
+      "C": "Direktorat DIP, kemudian Kasi PKD",
+      "D": "DSE, kemudian Kasi PKD"
+    },
+    "kunci": "A",
+    "pembahasan": "Alur penugasan pada modul Ekstensifikasi SIDJP Nine: Kasi PKD melakukan Distribusi, dilanjutkan Kasi Pengawasan II, III, IV, V, dan VI melakukan Penugasan, kemudian AR melakukan Tindak Lanjut berupa Penerbitan SP2DK.",
+    "sumber": [
+      {
+        "pdf": "A",
+        "halaman": 143,
+        "kutipan": "Kasi PKD Distribusi Kasi Pengawasan II, III, IV, V, dan VI Penugasan Penerbitan SP2DK Hari Berikutnya AR Tindak Lanjut"
+      }
+    ],
+    "tags": [
+      "PMK-111/2025",
+      "SE-11/PJ/2020"
+    ]
+  }
+]
